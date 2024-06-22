@@ -1,0 +1,65 @@
+7. Phương thức Xét tuyển kết hợp
+
+7.1. Điều kiện xét tuyển
+
+Thí thí sinh phải đáp ứng một trong các điều kiện sau:
+
+
+
+Thí sinh có Chứng chỉ quốc tế SAT, trong thời hạn 02 năm (tính đến ngày xét tuyển) từ 1130/1600 trở lên hoặc ACT từ 25/36 trở lên; và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên;
+
+Thí sinh có Chứng chỉ tiếng Anh quốc tế trong thời hạn (tính đến ngày xét tuyển) đạt IELTS 5.5 trở lên hoặc TOEFL iBT 65 trở lên hoặc TOEFL ITP 513 trở lên; và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên;
+
+Thí sinh đạt giải Khuyến khích trong kỳ thi chọn học sinh giỏi quốc gia hoặc đã tham gia kỳ thi chọn học sinh giỏi quốc gia hoặc đạt giải Nhất, Nhì, Ba trong kỳ thi chọn học sinh giỏi cấp Tỉnh, Thành phố trực thuộc Trung ương (TW) các môn Toán, Lý, Hóa, Tin học và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên.
+
+Là học sinh chuyên các môn Toán, Lý, Hóa, Tin học của trường THPT chuyên trên phạm vi toàn quốc (các trường THPT chuyên thuộc Tỉnh, Thành phố trực thuộc TW và các trường THPT chuyên thuộc Cơ sở giáo dục đại học) hoặc hệ chuyên thuôc các trường THPT trọng điểm quốc gia; Và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 8,0 trở lên và có hạnh kiểm Khá trở lên.
+
+7.2. Ưu tiên trong xét tuyển
+
+a. Quy đổi điểm chứng chỉ tiếng Anh quốc tế
+
+Các chứng chỉ tiếng Anh quốc tế được quy đổi thành điểm môn tiếng Anh khi xét tuyển như sau:
+
+
+
+IELTS
+
+7.5 - 9.0 tương đương điểm quy đổi 10 điểm
+
+7.0 tương đương điểm quy đổi 9.5 điểm
+
+6.5 tương đương điểm quy đổi 9.0 điểm
+
+6.0 tương đương điểm quy đổi 8.5 điểm
+
+5.5 tương đương điểm quy đổi 8.0 điểm
+
+TOEFL iBT
+
+Từ 102 điểm trở lên tương đương điểm quy đổi 10 điểm
+
+90 - 101 tương đương điểm quy đổi 9.5 điểm
+
+79 - 89 tương đương điểm quy đổi 9.0 điểm
+
+72 – 78 tương đương điểm quy đổi 8.5 điểm
+
+61 - 71 tương đương điểm quy đổi 8.0 điểm
+
+TOEFL ITP
+
+Từ 627 điểm trở lên tương đương điểm quy đổi 10 điểm
+
+590 - 626 tương đương điểm quy đổi 9.5 điểm
+
+561 - 589 tương đương điểm quy đổi 9.0 điểm
+
+543 - 560 tương đương điểm quy đổi 8.5 điểm
+
+500 - 542 tương đương điểm quy đổi 8.0 điểm
+
+
+
+b. Cộng điểm ưu tiên vào tổng điểm xét tuyển
+
+Các thí sinh đạt Giải từ cấp Tỉnh/Thành phố trực thuộc TW trở lên sẽ được cộng điểm ưu tiên xét tuyển vào tổng điểm xét tuyển theo giải thí sinh đạt được như sau:

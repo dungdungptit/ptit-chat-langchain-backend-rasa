@@ -1,0 +1,129 @@
+II.2 Các học phần tự chọn  
+
+(Định hướng ứng dụng: chọn 03 trong 06 học phần; Định hướng nghiên cứu: chọn 01 trong 06 học phần)  
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 6 
+
+Định hướng nghiên cứu: 2 
+
+6
+
+Mã học phần: TEL4302
+
+Tên học phần (Tiếng Việt và tiếng Anh): Mô hình hóa và mô phỏng Modeling and Simulation
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+7
+
+Mã học phần: TEL4303
+
+Tên học phần (Tiếng Việt và tiếng Anh): Lý thuyết hàng đợi và ứng dụng Queuing Theory and Applications
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+8
+
+Mã học phần: TEL4304
+
+Tên học phần (Tiếng Việt và tiếng Anh): Truyền thông đa phương tiện nâng cao Advanced Multimedia Communications
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+9
+
+Mã học phần: TEL4305
+
+Tên học phần (Tiếng Việt và tiếng Anh): Lý thuyết thống kê trong viễn thông Stochastic Theory for Telecommunication
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+10
+
+Mã học phần: TEL4306
+
+Tên học phần (Tiếng Việt và tiếng Anh): Lý thuyết và kỹ thuật anten Antennas Theory and Engineering
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+11
+
+Mã học phần: INT4328
+
+Tên học phần (Tiếng Việt và tiếng Anh): Kỹ thuật lập trình ứng dụng trong viễn thông Programming Technique for Telecommunications
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90

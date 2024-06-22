@@ -1,0 +1,1 @@
+rasa run --enable-api -m models/nlu-20240521-111925-optimal-points.tar.gz -p 5080

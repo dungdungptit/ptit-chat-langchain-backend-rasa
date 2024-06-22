@@ -1,0 +1,115 @@
+4. Phân loại và xếp lớp học tiếng Anh
+
+Sau khi nhập học, Học viện sẽ tổ chức kỳ kiểm tra phân loại đầu vào tiếng Anh để tiến hành xếp lớp theo trình độ tiếng Anh cho sinh viên nhằm đảm bảo sinh viên sau khi hoàn thành chương trình đào tạo tiếng Anh sẽ đạt được chuẩn đầu ra tiếng Anh là TOEIC 450 điểm quốc tế.
+
+5. Thông tin trực hỗ trợ để giải đáp thắc mắc trong quá trình đăng ký dự thi và đăng ký xét tuyển đại học hệ chính quy
+
+a) Địa chỉ các trang thông tin điện tử của Học viện:
+
+Cơ sở đào tạo phía Bắc (BVH): https://ptit.edu.vn và https://tuyensinh.ptit.edu.vn
+
+Cơ sở đào tạo phía Nam (BVS): https://ptithcm.edu.vn
+
+b) Thông tin trực hỗ trợ để giải đáp thắc mắc:
+
+    Cơ sở đào tạo phía Bắc (BVH): (024) 33528122, (024) 33512252
+
+    Cơ sở đào tạo phía Nam (BVS): (028) 38297220
+
+c) Trang tư vấn trực tuyến: Inbox trên trang Fanpage tuyển sinh hoặc trên cổng thông tin tuyển sinh
+
+d/ Fanpage: https://facebook.com/ptittuyensinh; https://facebook.com/ptithcm.edu.vn
+
+e) Zalo: Học viện Công nghệ Bưu chính Viễn thông (ID 1260203497642986925)
+
+6. Ký túc xá
+
+    Cơ sở phía Bắc có 200 chỗ cho sinh viên khóa mới, Cơ sở phía Nam có đầy đủ số chỗ cho sinh viên khóa mới.
+
+1.13. Thông tin tuyển sinh các ngành đào tạo đặc thù
+
+Thông tin tuyển sinh các ngành đào tạo đặc thù có nhu cầu cao về nhân lực lĩnh vực Công nghệ thông tin trình độ đại học đáp ứng yêu cầu phát triển kinh tế-xã hội của đất nước
+
+1. Thông tin về doanh nghiệp hợp tác đào tạo trong lĩnh vực CNTT 
+
+TT Tên doanh nghiệp
+
+ hợp tác Nội dung hợp tác Thời gian 
+
+1 Tập đoàn Naver (Hàn Quốc) Hợp tác trong nghiên cứu và đào tạo về công nghệ, đặc biệt là trí tuệ nhân tạo
+
+Các hoạt động hợp tác chính bao gồm:
+
+- Hỗ trợ vận hành 01 phòng lab nghiên cứu về công nghệ trí tuệ nhân tạo và đa phương tiện
+
+- Xây dựng các bộ bài giảng, học liệu số
+
+- Tổ chức các khóa đào tạo về trí tuệ nhân tạo cho sinh viên
+
+- Tiến hành 05 dự án, đề tài nghiên cứu
+
+- Trao tặng 05 suất học bổng cho các nghiên cứu sinh và học viên cao học của Học viện
+
+Hỗ trợ các hoạt động khởi nghiệp, sáng tạo tại Học viện 30/8/2022-30/8/2023 
+
+
+
+2 Học viện Công nghệ Shibaura (Nhật Bản) Hợp tác trong nghiên cứu và đào tạo về công nghệ thông tin
+
+Các hoạt động hợp tác chính bao gồm:
+
+- Trao đổi học thuật
+
+- Hỗ trợ các chương trình học bổng trao đổi sinh viên 1/12/2022-1/12/2023 
+
+
+
+3 Viện JAIST Nhật Bản Hợp tác trong nghiên cứu và đào tạo về công nghệ
+
+Các hoạt động hợp tác chính bao gồm:
+
+- Trao đổi học thuật,
+
+- Hỗ trợ các chương trình học bổng cho học viên cao học ngành công nghệ thông tin 6/2/2023-6/2/2028 
+
+
+
+4 ĐH Lille 1-Khoa học và Công nghệ (Pháp) Hợp tác trong nghiên cứu và đào tạo về công nghệ thông tin và truyền thông
+
+Các hoạt động hợp tác chính bao gồm:
+
+- Trao đổi học thuật
+
+- Trao đổi giảng viên, sinh viên
+
+- Thực hiện các đề tài nghiên cứu chung 4/2/2020-4/2/2025 
+
+
+
+8 Tập đoàn Qualcomm (Hoa Kỳ) Hợp tác trong nghiên cứu và đào tạo về công nghệ, viễn thông
+
+Các hoạt động hợp tác chính bao gồm:
+
+- Trao đổi học thuật
+
+- Hỗ trợ 04 dự án nghiên cứu của Học viện về công nghệ và viễn thông 8/7/2021 đến khi công việc kết thúc (đã thực hiện các dự án 2022, đang triển khai các dự án 2023 
+
+
+
+10 Trung tâm Phát triển Tin học Nâng cao (CDAC- Ấn Độ) Hợp tác trong nghiên cứu và đào tạo về công nghệ thông tin và truyền thông
+
+Các hoạt động hợp tác chính bao gồm:
+
+- Hỗ trợ thành lập Trung tâm Đào tạo và Phát triển phần mềm chất lượng cao tại cơ sở của Học viện tại TP.HCM
+
+- Hỗ trợ các thiết bị phục vụ công tác đào tạo nguồn nhân lực về công nghệ thông tin 7/8/2020 đến khi dự án kết thúc 
+
+
+
+11 Viện NICT (Nhật Bản) Hợp tác trong nghiên cứu và đào tạo về công nghệ thông tin và truyền thông
+
+Các hoạt động hợp tác chính bao gồm:
+
+- Trao đổi học thuật
+
+- Hỗ trợ các dự án, đề tài nghiên cứu về công nghệ thông tin và viễn thông do Học viện chủ trì hoặc tham gia 30/6/2021-30/6/2026

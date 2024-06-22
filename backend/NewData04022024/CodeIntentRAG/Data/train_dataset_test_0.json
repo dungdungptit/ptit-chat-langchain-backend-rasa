@@ -1,0 +1,89 @@
+{
+    "queries": {
+        "478a2e4e-4918-4c99-8de3-4dea65397e90": "Ngành/chương trình mới nào sẽ được tuyển sinh từ năm 2024 theo thông báo của Học viện?",
+        "fcfe69e2-da80-475b-96ee-22ec76f20132": "Ngành Thiết kế và Phát triển Game sẽ được tuyển sinh từ năm nào?",
+        "0a6e03aa-1a51-42d5-b3a0-a38d5dd2a658": "Ngành/chương trình Công nghệ thông tin Việt – Nhật dự kiến sẽ tuyển sinh từ năm nào?",
+        "a50f3b20-bb40-4e5d-8dab-988ea2bac8d0": "Ngành/chương trình Quan hệ công chúng sẽ được tuyển sinh từ năm nào?",
+        "c80d7159-d66f-4f31-b434-5c3877cb370a": "Khi nào dự kiến sẽ có thông báo bổ sung về chương trình Quan hệ công chúng?",
+        "fa682000-1f85-4177-9437-b42942249b51": "Có bao nhiêu ngành/chương trình mới dự kiến sẽ tuyển sinh từ năm 2024?",
+        "fdf74218-46ca-47ad-89fe-2a92087e7a24": "Ngành Thiết kế và Phát triển Game thuộc lĩnh vực nào?",
+        "9eeef3a2-7f17-4018-89e3-78fabd547ab8": "Ngành Công nghệ thông tin Việt – Nhật có sự hợp tác giữa quốc gia nào?",
+        "553fd380-3be2-48ac-8683-2273664e56ba": "Ngành/chương trình nào được đưa vào danh sách tuyển sinh mới của Học viện?",
+        "7807423c-476f-4160-b4dc-807b6eec573a": "Theo thông báo, ngành/chương trình nào sẽ có thông báo bổ sung vào tháng 5/2024?",
+        "faeae0d9-8a38-4488-97ec-d429a3b975a6": "Ngành/chương trình nào được dự kiến sẽ tuyển sinh từ năm 2024?",
+        "af99defb-19b1-4f91-867b-0ae0dea6c265": "Ngành/chương trình nào sẽ cung cấp kiến thức về Quan hệ công chúng?",
+        "d6675fcf-2353-4dc9-8910-26c8d4c286f8": "Ngành/chương trình nào sẽ cung cấp kiến thức về Thiết kế và Phát triển Game?",
+        "0a78ef81-da77-4a59-9a14-70549e4a82ca": "Ngành/chương trình nào sẽ cung cấp kiến thức về Công nghệ thông tin Việt – Nhật?",
+        "e77e01cb-bd72-4fd1-b276-c8d347ce599b": "Ngành/chương trình nào sẽ tập trung vào việc phát triển game?",
+        "2672382f-7467-49ae-aada-a79103fb0a0b": "Ngành/chương trình nào sẽ tập trung vào việc xây dựng mối quan hệ công chúng?",
+        "592a2491-65b5-438b-a2a1-31b4aa213de4": "Ngành/chương trình nào sẽ hợp tác giữa Việt Nam và Nhật Bản?",
+        "58f5856f-684a-4e5c-aa31-402b4245ef5d": "Ngành/chương trình nào sẽ tập trung vào việc ứng dụng công nghệ thông tin?",
+        "686d3a3b-e154-4e9a-8704-1ca914dd0215": "Ngành/chương trình nào sẽ cung cấp kiến thức về quản lý thông tin và truyền thông?",
+        "e724ab50-bcee-4960-8899-3dde37bc0a3d": "Ngành/chương trình nào sẽ cung cấp kiến thức về thiết kế và phát triển ứng dụng game?"
+    },
+    "corpus": {
+        "491a11ce-c5e2-4ac5-84d6-a68feaca0279": "Học viện thông báo sẽ tuyển sinh các ngành/chương trình mới sau:\r\nCác ngành mới, chương trình đào tạo mới dự kiến sẽ tuyển sinh từ năm 2024 gồm có Thiết kế và Phát triển Game, Công nghệ thông tin Việt – Nhật, Quan hệ công chúng (sẽ có thông báo bổ sung dự kiến vào tháng 5/2024)."
+    },
+    "relevant_docs": {
+        "478a2e4e-4918-4c99-8de3-4dea65397e90": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ],
+        "fcfe69e2-da80-475b-96ee-22ec76f20132": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ],
+        "0a6e03aa-1a51-42d5-b3a0-a38d5dd2a658": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ],
+        "a50f3b20-bb40-4e5d-8dab-988ea2bac8d0": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ],
+        "c80d7159-d66f-4f31-b434-5c3877cb370a": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ],
+        "fa682000-1f85-4177-9437-b42942249b51": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ],
+        "fdf74218-46ca-47ad-89fe-2a92087e7a24": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ],
+        "9eeef3a2-7f17-4018-89e3-78fabd547ab8": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ],
+        "553fd380-3be2-48ac-8683-2273664e56ba": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ],
+        "7807423c-476f-4160-b4dc-807b6eec573a": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ],
+        "faeae0d9-8a38-4488-97ec-d429a3b975a6": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ],
+        "af99defb-19b1-4f91-867b-0ae0dea6c265": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ],
+        "d6675fcf-2353-4dc9-8910-26c8d4c286f8": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ],
+        "0a78ef81-da77-4a59-9a14-70549e4a82ca": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ],
+        "e77e01cb-bd72-4fd1-b276-c8d347ce599b": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ],
+        "2672382f-7467-49ae-aada-a79103fb0a0b": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ],
+        "592a2491-65b5-438b-a2a1-31b4aa213de4": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ],
+        "58f5856f-684a-4e5c-aa31-402b4245ef5d": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ],
+        "686d3a3b-e154-4e9a-8704-1ca914dd0215": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ],
+        "e724ab50-bcee-4960-8899-3dde37bc0a3d": [
+            "491a11ce-c5e2-4ac5-84d6-a68feaca0279"
+        ]
+    }
+}

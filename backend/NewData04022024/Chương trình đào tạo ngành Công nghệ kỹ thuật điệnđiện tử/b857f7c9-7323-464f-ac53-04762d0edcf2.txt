@@ -1,0 +1,11 @@
+2.1. Kiến thức  
+
+Chương trình trang bị cho sinh viên những kiến thức sau:  
+
+Kiến thức giáo dục đại cương:  trang bị cho sinh viên các kiến thức giáo dục đại cương về Lý luận của Chủ nghĩa Mác Lênin và Tư tưởng Hồ Chí Minh, Khoa học tự nhiên; chú trọng vào Toán học, Vật lý làm nền tảng tiền đề cho ngàn h đào tạo; 
+
+Kiến thức cơ sở ngành : trang bị cho sinh viên kiến thức cơ sở cần thiết và cốt lõi của ngành  về Linh kiện và mạch điện tử, Hệ thống số và máy tính, Tin học, Lý thuyết tín hiệu hệ thống thông tin, Xử lý tín hiệu số, Trường điện từ và kỹ thuật siêu cao tần;  
+
+Kiến thức ngành:  trang bị cho sinh viên những kiến thức chuyên sâu về một hoặc một vài lĩnh vực khác nhau của ngành như  : Kỹ thuật điện tử máy tính (Hệ thống nhúng, Hệ thống số, Hệ điều hành nhúng, Hệ thống VLSI, Thiết bị ngoại vi và kỹ thuật gh ép nối...)  ; Xử lý tín hiệu và truyền thông (Xử lý ảnh, Xử lý tiếng nói, Công nghệ phát thanh truyền hình số, Truyền thông đa phương tiện, Bảo mật 
+
+thông tin ...); Điện tử công nghiệp và tự động hóa, Kỹ thuật Robot công nghiệp ...

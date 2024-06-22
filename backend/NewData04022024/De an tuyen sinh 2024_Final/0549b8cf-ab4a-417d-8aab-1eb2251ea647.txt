@@ -1,0 +1,127 @@
+Ghi chú:
+
+Tổ hợp A00: Toán, Vật lý, Hóa học;
+
+Tổ hợp A01: Toán, Vật lý, Tiếng Anh;
+
+Tổ hợp D01: Toán, Văn, Tiếng Anh.
+
+Danh sách các ngành của học viện gồm 20 ngành sau:
+
+1. ngành Công nghệ thông tin, mã ngành 7480201, tổ hợp xét tuyển A00, A01
+
+2. ngành Cử nhân Công nghệ thông tin định hướng ứng dụng, mã ngành 7480201_UDU, tổ hợp xét tuyển A00, A01
+
+3. ngành Mạng máy tính và truyền thông dữ liệu (CT Kỹ thuật dữ liệu), mã ngành 7480102, tổ hợp xét tuyển A00, A01
+
+4. ngành Khoa học máy tính (định hướng Khoa học dữ liệu), mã ngành 7480101, tổ hợp xét tuyển A00, A01
+
+5. ngành Kỹ thuật Điện tử viễn thông, mã ngành 7520207, tổ hợp xét tuyển A00, A01
+
+6. ngành Công nghệ kỹ thuật Điện, điện tử, mã ngành 7510301, tổ hợp xét tuyển A00, A01
+
+7. ngành Kỹ thuật Điều khiển và tự động hóa, mã ngành 7520216, tổ hợp xét tuyển A00, A01
+
+8. ngành Công nghệ Inernet vạn vật (IoT), mã ngành 7520208, tổ hợp xét tuyển A00, A01
+
+9. ngành An toàn thông tin, mã ngành 7480202, tổ hợp xét tuyển A00, A01
+
+10. ngành Công nghệ đa phương tiện, mã ngành 7329001, tổ hợp xét tuyển A00, A01, D01
+
+11. ngành Truyền thông đa phương tiện, mã ngành 7320104, tổ hợp xét tuyển A00, A01, D01
+
+12. ngành Báo chí, mã ngành 7320101, tổ hợp xét tuyển A00, A01, D01
+
+13. ngành Quản trị kinh doanh, mã ngành 7340101, tổ hợp xét tuyển A00, A01, D01
+
+14. ngành Thương mại điện tử, mã ngành 7340122, tổ hợp xét tuyển A00, A01, D01
+
+15. ngành Marketing, mã ngành 7340115, tổ hợp xét tuyển A00, A01, D01
+
+16. ngành Kế toán, mã ngành 7340301, tổ hợp xét tuyển A00, A01, D01
+
+17. ngành Công nghệ tài chính (Fintech), mã ngành 7340205, tổ hợp xét tuyển A00, A01, D01
+
+18. ngành Công nghệ thông tin_CLC, mã ngành 7480201_CLC, tổ hợp xét tuyển A00, A01
+
+19. ngành Marketing_CLC, mã ngành 7340115_CLC, tổ hợp xét tuyển A00, A01, D01
+
+20. ngành Kế toán_CLC (chuẩn quốc tế ACCA), mã ngành 7340301_CLC, tổ hợp xét tuyển A00, A01, D01
+
+Danh sách các ngành tổ hợp xét tuyển A00, A01 gồm: 
+
+- Công nghệ thông tin
+
+- Cử nhân Công nghệ thông tin định hướng ứng dụng
+
+- An toàn thông tin
+
+- Khoa học máy tính (định hướng Khoa học dữ liệu)
+
+- Mạng máy tính và truyền thông dữ liệu (CT Kỹ thuật dữ liệu)
+
+- Kỹ thuật Điện tử viễn thông
+
+- Kỹ thuật Điều khiển và tự động hóa
+
+- Công nghệ Kỹ thuật Điện
+
+- điện tử
+
+- Công nghệ Inernet vạn vật
+
+Danh sách các ngành tổ hợp xét tuyển A00, A01, D01 gồm: 
+
+- Công nghệ đa phương tiện
+
+- Truyền thông đa phương tiện
+
+- Báo chí
+
+- Quản trị kinh doanh
+
+- Thương mại điện tử
+
+- Marketing
+
+- Kế toán
+
+- Công nghệ tài chính (Fintech)
+
+- Marketing_CLC
+
+- Kế toán_CLC (chuẩn quốc tế ACCA)
+
+- Công nghệ thông tin_CLC
+
+Tổ chức tuyển sinh
+
+Thời gian đăng ký, thời gian nhận hồ sơ, thời gian công bố kết quả xét tuyển. hình thức, điều kiện nhận hồ sơ dự tuyển/thi tuyển; các điều kiện xét tuyển/thi tuyển như sau:
+
+a) Phương thức 1 – Xét tuyển tài năng
+
+- Xét tuyển thẳng và ưu tiên xét tuyển: Theo quy định và theo lịch tuyển sinh của Bộ Giáo dục và Đào tạo.
+
+- Xét tuyển dựa vào hồ sơ năng lực:
+
+Thời gian đăng ký và nhận hồ sơ ĐKXT: Từ 15/04/2024 đến hết 20/05/2024;
+
+Hình thức đăng ký xét tuyển và nộp hồ sơ: thí sinh khai hồ sơ, đăng ký nguyện vọng xét tuyển trên Cổng xét tuyển trực tuyến của Học viện tại địa chỉ https://xettuyen.ptit.edu.vn và nộp hồ sơ (gửi qua đường Bưu điện, không nhận hồ sơ trực tiếp) cho các Cơ sở đào tạo của Học viện;
+
+Công bố kết quả xét tuyển: Dự kiến cuối tháng 5/2024.
+
+b) Phương thức 2 - Xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2024
+
+Hình thức ĐKXT: Trực tuyến theo quy định của Bộ Giáo dục và Đào tạo;
+
+Thời gian xét tuyển: Theo lịch xét tuyển của Bộ Giáo dục và Đào tạo;
+
+Các điều kiện xét tuyển: Không tổ chức sơ tuyển
+
+c) Phương thức 3, 4 - Xét tuyển kết hợp và xét tuyển dựa vào kết quả bài thi ĐGNL, ĐGTD
+
+Thời gian đăng ký và nhận hồ sơ ĐKXT: Từ 15/04/2024 đến hết 25/05/2024;
+
+Hình thức đăng ký xét tuyển và nộp hồ sơ: thí sinh khai hồ sơ, đăng ký nguyện vọng xét tuyển trên Cổng xét tuyển trực tuyến của Học viện tại địa chỉ https://xettuyen.ptit.edu.vn và nộp hồ sơ (gửi qua đường Bưu điện, không nhận hồ sơ trực tiếp) cho các Cơ sở đào tạo của Học viện;
+
+Công bố kết quả xét tuyển: Dự kiến đầu tháng 6/2024.

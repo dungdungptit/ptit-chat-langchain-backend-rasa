@@ -1,0 +1,11 @@
+Kiến thức ngành và chuyên ngành 
+
+Sau khi hoàn thành chương trình thạc sĩ ngành Hệ thống Thông tin, học viên có những khả năng sau:    
+
+-Vận dụng tốt các nguyên lý, lý thuyết  hệ thống thông tin trong việc đáp ứng nhu cầu xử lý thông tin cho các tổ chức;  
+
+- Có khả năng vận dụng các công cụ trong việc đặc tả, phân tích, xây dựng, triển khai, bảo trì các hệ thống dựa trên máy tính;  
+
+-  Đánh giá và thử nghiệm các giải pháp và hệ thống thông tin cho tổ chức và doanh nghiệp;  
+
+- Đối với chương trình đào tạo theo định hướng nghiên cứu: tiến hành nghiên cứu khoa học trong lĩnh vực Hệ thống Thông tin.

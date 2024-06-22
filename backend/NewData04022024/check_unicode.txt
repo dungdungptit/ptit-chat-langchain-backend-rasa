@@ -1,0 +1,89 @@
+{'file_path': 'e:\\Learn-AI\\Learn_DeepAI\\llm\\NewData04022024\\Thông tin tuyển sinh\\Chính sách ưu tiên.txt', 'file_name': 'e:/Learn-AI/Learn_DeepAI/llm/NewData04022024/Thông tin tuyển sinh/Chính sách ưu tiên.txt', 'file_type': 'text/plain', 'file_size': 805, 'creation_date': '2024-05-06', 'last_modified_date': '2024-05-06', 'last_accessed_date': None}
+  0%|          | 0/1 [00:00<?, ?it/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+INFO:openai._base_client:Retrying request to /chat/completions in 0.916782 seconds
+Retrying request to /chat/completions in 0.916782 seconds
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+INFO:openai._base_client:Retrying request to /chat/completions in 1.932631 seconds
+Retrying request to /chat/completions in 1.932631 seconds
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+INFO:openai._base_client:Retrying request to /chat/completions in 3.728097 seconds
+Retrying request to /chat/completions in 3.728097 seconds
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+  0%|          | 0/1 [00:18<?, ?it/s]
+Error code: 500 - {'error': {'message': 'Failed to create completion as the model generated invalid Unicode output. Unfortunately, this can happen in rare situations. Consider reviewing your prompt or reducing the temperature of your request. You can retry your request, or contact us through our help center at help.openai.com if the error persists. (Please include the request ID req_385b2c7716ed4d46d69d71495aaab5f5 in your message.)', 'type': None, 'param': None, 'code': None}} {'file_path': 'e:\\Learn-AI\\Learn_DeepAI\\llm\\NewData04022024\\Thông tin tuyển sinh\\Chính sách ưu tiên.txt', 'file_name': 'e:/Learn-AI/Learn_DeepAI/llm/NewData04022024/Thông tin tuyển sinh/Chính sách ưu tiên.txt', 'file_type': 'text/plain', 'file_size': 805, 'creation_date': '2024-05-06', 'last_modified_date': '2024-05-06', 'last_accessed_date': None}
+{'file_path': 'e:\\Learn-AI\\Learn_DeepAI\\llm\\NewData04022024\\Thông tin tuyển sinh\\Chỉ tiêu tuyển sinh.txt', 'file_name': 'e:/Learn-AI/Learn_DeepAI/llm/NewData04022024/Thông tin tuyển sinh/Chỉ tiêu tuyển sinh.txt', 'file_type': 'text/plain', 'file_size': 11175, 'creation_date': '2024-04-02', 'last_modified_date': '2024-05-03', 'last_accessed_date': None}
+  0%|          | 0/1 [00:00<?, ?it/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+100%|██████████| 1/1 [00:14<00:00, 14.74s/it]
+{'file_path': 'e:\\Learn-AI\\Learn_DeepAI\\llm\\NewData04022024\\Thông tin tuyển sinh\\Câu hỏi.txt', 'file_name': 'e:/Learn-AI/Learn_DeepAI/llm/NewData04022024/Thông tin tuyển sinh/Câu hỏi.txt', 'file_type': 'text/plain', 'file_size': 4456, 'creation_date': '2024-05-03', 'last_modified_date': '2024-05-04', 'last_accessed_date': None}
+  0%|          | 0/1 [00:00<?, ?it/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+100%|██████████| 1/1 [00:15<00:00, 15.63s/it]
+{'file_path': 'e:\\Learn-AI\\Learn_DeepAI\\llm\\NewData04022024\\Thông tin tuyển sinh\\Học phí.txt', 'file_name': 'e:/Learn-AI/Learn_DeepAI/llm/NewData04022024/Thông tin tuyển sinh/Học phí.txt', 'file_type': 'text/plain', 'file_size': 3201, 'creation_date': '2024-05-06', 'last_modified_date': '2024-05-06', 'last_accessed_date': None}
+  0%|          | 0/1 [00:00<?, ?it/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+100%|██████████| 1/1 [00:20<00:00, 20.42s/it]
+{'file_path': 'e:\\Learn-AI\\Learn_DeepAI\\llm\\NewData04022024\\Thông tin tuyển sinh\\Liên hệ và hỗ trợ.txt', 'file_name': 'e:/Learn-AI/Learn_DeepAI/llm/NewData04022024/Thông tin tuyển sinh/Liên hệ và hỗ trợ.txt', 'file_type': 'text/plain', 'file_size': 978, 'creation_date': '2024-05-03', 'last_modified_date': '2024-05-04', 'last_accessed_date': None}
+  0%|          | 0/1 [00:00<?, ?it/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+100%|██████████| 1/1 [00:15<00:00, 15.37s/it]
+{'file_path': 'e:\\Learn-AI\\Learn_DeepAI\\llm\\NewData04022024\\Thông tin tuyển sinh\\Phương thức 1.txt', 'file_name': 'e:/Learn-AI/Learn_DeepAI/llm/NewData04022024/Thông tin tuyển sinh/Phương thức 1.txt', 'file_type': 'text/plain', 'file_size': 10055, 'creation_date': '2024-05-03', 'last_modified_date': '2024-05-06', 'last_accessed_date': None}
+  0%|          | 0/1 [00:00<?, ?it/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+100%|██████████| 1/1 [00:11<00:00, 11.07s/it]
+{'file_path': 'e:\\Learn-AI\\Learn_DeepAI\\llm\\NewData04022024\\Thông tin tuyển sinh\\Phương thức 2.txt', 'file_name': 'e:/Learn-AI/Learn_DeepAI/llm/NewData04022024/Thông tin tuyển sinh/Phương thức 2.txt', 'file_type': 'text/plain', 'file_size': 5101, 'creation_date': '2024-05-03', 'last_modified_date': '2024-05-04', 'last_accessed_date': None}
+  0%|          | 0/1 [00:00<?, ?it/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+100%|██████████| 1/1 [00:17<00:00, 17.99s/it]
+{'file_path': 'e:\\Learn-AI\\Learn_DeepAI\\llm\\NewData04022024\\Thông tin tuyển sinh\\Phương thức 3.txt', 'file_name': 'e:/Learn-AI/Learn_DeepAI/llm/NewData04022024/Thông tin tuyển sinh/Phương thức 3.txt', 'file_type': 'text/plain', 'file_size': 5161, 'creation_date': '2024-05-03', 'last_modified_date': '2024-05-04', 'last_accessed_date': None}
+  0%|          | 0/1 [00:00<?, ?it/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+100%|██████████| 1/1 [00:15<00:00, 15.86s/it]
+{'file_path': 'e:\\Learn-AI\\Learn_DeepAI\\llm\\NewData04022024\\Thông tin tuyển sinh\\Phương thức 4.txt', 'file_name': 'e:/Learn-AI/Learn_DeepAI/llm/NewData04022024/Thông tin tuyển sinh/Phương thức 4.txt', 'file_type': 'text/plain', 'file_size': 4796, 'creation_date': '2024-05-03', 'last_modified_date': '2024-05-04', 'last_accessed_date': None}
+  0%|          | 0/1 [00:00<?, ?it/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+100%|██████████| 1/1 [00:13<00:00, 13.82s/it]
+{'file_path': 'e:\\Learn-AI\\Learn_DeepAI\\llm\\NewData04022024\\Thông tin tuyển sinh\\Quy đổi chứng chỉ, giải.txt', 'file_name': 'e:/Learn-AI/Learn_DeepAI/llm/NewData04022024/Thông tin tuyển sinh/Quy đổi chứng chỉ, giải.txt', 'file_type': 'text/plain', 'file_size': 3422, 'creation_date': '2024-05-06', 'last_modified_date': '2024-05-06', 'last_accessed_date': None}
+  0%|          | 0/1 [00:00<?, ?it/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+INFO:openai._base_client:Retrying request to /chat/completions in 0.843037 seconds
+Retrying request to /chat/completions in 0.843037 seconds
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+100%|██████████| 1/1 [00:22<00:00, 22.50s/it]
+{'file_path': 'e:\\Learn-AI\\Learn_DeepAI\\llm\\NewData04022024\\Thông tin tuyển sinh\\Thông báo mở đăng ký xét tuyển.txt', 'file_name': 'e:/Learn-AI/Learn_DeepAI/llm/NewData04022024/Thông tin tuyển sinh/Thông báo mở đăng ký xét tuyển.txt', 'file_type': 'text/plain', 'file_size': 1830, 'creation_date': '2024-05-03', 'last_modified_date': '2024-05-03', 'last_accessed_date': None}
+  0%|          | 0/1 [00:00<?, ?it/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+100%|██████████| 1/1 [00:13<00:00, 13.36s/it]
+{'file_path': 'e:\\Learn-AI\\Learn_DeepAI\\llm\\NewData04022024\\Thông tin tuyển sinh\\Thông tin tuyển sinh.txt', 'file_name': 'e:/Learn-AI/Learn_DeepAI/llm/NewData04022024/Thông tin tuyển sinh/Thông tin tuyển sinh.txt', 'file_type': 'text/plain', 'file_size': 7420, 'creation_date': '2024-05-03', 'last_modified_date': '2024-05-03', 'last_accessed_date': None}
+  0%|          | 0/1 [00:00<?, ?it/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+100%|██████████| 1/1 [00:13<00:00, 13.51s/it]
+{'file_path': 'e:\\Learn-AI\\Learn_DeepAI\\llm\\NewData04022024\\Thông tin tuyển sinh\\Thời gian đăng kí.txt', 'file_name': 'e:/Learn-AI/Learn_DeepAI/llm/NewData04022024/Thông tin tuyển sinh/Thời gian đăng kí.txt', 'file_type': 'text/plain', 'file_size': 1999, 'creation_date': '2024-05-06', 'last_modified_date': '2024-05-06', 'last_accessed_date': None}
+  0%|          | 0/1 [00:00<?, ?it/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+100%|██████████| 1/1 [00:12<00:00, 12.27s/it]
+{'file_path': 'e:\\Learn-AI\\Learn_DeepAI\\llm\\NewData04022024\\Thông tin tuyển sinh\\Thời_gian_nộp_hồ_sơ_đăng_ký_xét_tuyển_kết_hợp_XTKH.txt', 'file_name': 'e:/Learn-AI/Learn_DeepAI/llm/NewData04022024/Thông tin tuyển sinh/Thời_gian_nộp_hồ_sơ_đăng_ký_xét_tuyển_kết_hợp_XTKH.txt', 'file_type': 'text/plain', 'file_size': 1664, 'creation_date': '2024-05-03', 'last_modified_date': '2024-05-03', 'last_accessed_date': None}
+  0%|          | 0/1 [00:00<?, ?it/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+100%|██████████| 1/1 [00:13<00:00, 13.44s/it]
+{'file_path': 'e:\\Learn-AI\\Learn_DeepAI\\llm\\NewData04022024\\Thông tin tuyển sinh\\Thời_gian_nộp_hồ_sơ_đăng_ký_xét_tuyển_ĐGNL,_ĐGTD.txt', 'file_name': 'e:/Learn-AI/Learn_DeepAI/llm/NewData04022024/Thông tin tuyển sinh/Thời_gian_nộp_hồ_sơ_đăng_ký_xét_tuyển_ĐGNL,_ĐGTD.txt', 'file_type': 'text/plain', 'file_size': 1674, 'creation_date': '2024-05-03', 'last_modified_date': '2024-05-04', 'last_accessed_date': None}
+  0%|          | 0/1 [00:00<?, ?it/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+100%|██████████| 1/1 [00:13<00:00, 13.39s/it]
+{'file_path': 'e:\\Learn-AI\\Learn_DeepAI\\llm\\NewData04022024\\Thông tin tuyển sinh\\Tổ hợp xét tuyển.txt', 'file_name': 'e:/Learn-AI/Learn_DeepAI/llm/NewData04022024/Thông tin tuyển sinh/Tổ hợp xét tuyển.txt', 'file_type': 'text/plain', 'file_size': 167, 'creation_date': '2024-05-06', 'last_modified_date': '2024-05-06', 'last_accessed_date': None}
+  0%|          | 0/1 [00:00<?, ?it/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+100%|██████████| 1/1 [00:10<00:00, 10.23s/it]
+{'file_path': 'e:\\Learn-AI\\Learn_DeepAI\\llm\\NewData04022024\\Thông tin tuyển sinh\\Xét học bạ.txt', 'file_name': 'e:/Learn-AI/Learn_DeepAI/llm/NewData04022024/Thông tin tuyển sinh/Xét học bạ.txt', 'file_type': 'text/plain', 'file_size': 2814, 'creation_date': '2024-05-04', 'last_modified_date': '2024-05-04', 'last_accessed_date': None}
+  0%|          | 0/1 [00:00<?, ?it/s]INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+INFO:openai._base_client:Retrying request to /chat/completions in 0.777967 seconds
+Retrying request to /chat/completions in 0.777967 seconds
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+100%|██████████| 1/1 [00:26<00:00, 26.68s/it]

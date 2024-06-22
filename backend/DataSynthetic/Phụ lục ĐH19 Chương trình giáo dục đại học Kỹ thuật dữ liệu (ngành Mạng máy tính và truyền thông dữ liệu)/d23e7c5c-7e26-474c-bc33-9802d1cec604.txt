@@ -1,0 +1,345 @@
+Khối kiến thức giáo dục chuyên nghiệp   
+
+4.2.2.1. Khối kiến thức cơ sở  
+
+20
+
+Tên môn học: Nhập môn kĩ thuật dữ liệu
+
+Mã học phần: DAE1301
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 34
+
+	Bài tập/Thảo luận: 6
+
+Thí nghiệm /Thực hành (tiết): 4
+
+Tự học (tiết): 1
+
+21
+
+Tên môn học: Toán rời rạc
+
+Mã học phần: TEL1337
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 38
+
+	Bài tập/Thảo luận: 6
+
+Tự học (tiết): 1
+
+22
+
+Tên môn học: Xử lý dữ liệu đa phương tiện
+
+Mã học phần: DAE1302
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 38
+
+	Bài tập/Thảo luận: 6
+
+Tự học (tiết): 1
+
+Mã số môn học tiên quyết: DAE1301
+
+23
+
+Tên môn học: Kĩ thuật lập trình
+
+Mã học phần: INT13171
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 30
+
+	Bài tập/Thảo luận: 8
+
+Thí nghiệm /Thực hành (tiết): 6
+
+Tự học (tiết): 1
+
+24
+
+Tên môn học: Kiến trúc máy tính
+
+Mã học phần: INT1323
+
+Số tín chỉ: 2
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 24
+
+	Bài tập/Thảo luận: 6
+
+25
+
+Tên môn học: Mạng truyền dữ liệu
+
+Mã học phần: DAE1303
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 32
+
+	Bài tập/Thảo luận: 8
+
+Thí nghiệm /Thực hành (tiết): 4
+
+Tự học (tiết): 1
+
+26
+
+Tên môn học: Lập trình hướng đối tượng
+
+Mã học phần: INT1332
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý thuyết: 8
+
+	Bài tập/Thảo luận: 6
+
+Tự học (tiết): 1
+
+27
+
+Tên môn học: Hệ điều hành
+
+Mã học phần: INT1319
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 34
+
+	Bài tập/Thảo luận: 8
+
+Thí nghiệm /Thực hành (tiết): 3
+
+28
+
+Tên môn học: Cấu trúc dữ liệu và giải thuật
+
+Mã học phần: INT1306
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 32
+
+	Bài tập/Thảo luận: 8
+
+Thí nghiệm /Thực hành (tiết): 4
+
+Tự học (tiết): 1
+
+29
+
+Tên môn học: Cơ sở dữ liệu
+
+Mã học phần: INT1313
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 32
+
+	Bài tập/Thảo luận: 8
+
+Thí nghiệm /Thực hành (tiết): 4
+
+Tự học (tiết): 1
+
+30
+
+Tên môn học: Công nghệ phần mềm
+
+Mã học phần: INT13172
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 36
+
+	Bài tập/Thảo luận: 8
+
+Tự học (tiết): 1
+
+31
+
+Tên môn học: Điện toán đám mây
+
+Mã học phần: TEL1447
+
+Số tín chỉ: 2
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 24
+
+	Bài tập/Thảo luận: 6
+
+Mã số môn học tiên quyết: INT1319
+
+32
+
+Tên môn học: Nhập môn trí tuệ nhân tạo
+
+Mã học phần: INT1341
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 36
+
+	Bài tập/Thảo luận: 8
+
+Tự học (tiết): 1
+
+33
+
+Tên môn học: Hệ quản trị cơ sở dữ liệu
+
+Mã học phần: INT14167
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 32
+
+	Bài tập/Thảo luận: 4
+
+Thí nghiệm / Thực hành (tiết): 8
+
+Tự học (tiết): 1
+
+34
+
+Tên môn học: An toàn mạng thông tin
+
+Mã học phần: TEL1401
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 36
+
+	Bài tập/Thảo luận: 8
+
+Tự học (tiết): 1
+
+Mã số môn học tiên quyết: DAE1303
+
+35
+
+Tên môn học: Tính toán song song và hệ thống phân tán
+
+Mã học phần: INT13173
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 36
+
+	Bài tập/Thảo luận: 4
+
+Thí nghiệm / Thực hành (tiết): 4
+
+Tự học (tiết): 1
+
+36
+
+Tên môn học: Đồ án ngành
+
+Mã học phần: DAE1304
+
+Số tín chỉ: 2
+
+Tổng số tín chỉ: 48
+
+4.2.2. 2. Khối kiến thức chuyên ngành  
+
+37
+
+Tên môn học: Phương pháp thống kê dữ liệu
+
+Mã học phần: DAE1405
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 36
+
+	Bài tập/Thảo luận: 8
+
+Tự học (tiết): 1
+
+38
+
+Tên môn học: Khai phá dữ liệu
+
+Mã học phần: DAE1406
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 32
+
+	Bài tập/Thảo luận: 8
+
+Thí nghiệm / Thực hành (tiết): 4
+
+Tự học (tiết): 1
+
+39
+
+Tên môn học: Lưu trữ dữ liệu
+
+Mã học phần: DAE1407
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 32
+
+	Bài tập/Thảo luận: 4
+
+Thí nghiệm / Thực hành (tiết): 8
+
+Tự học (tiết): 1
+
+40
+
+Tên môn học: Kho dữ liệu
+
+Mã

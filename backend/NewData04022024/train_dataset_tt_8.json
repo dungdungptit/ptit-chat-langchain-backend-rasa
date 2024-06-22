@@ -1,0 +1,89 @@
+{
+    "queries": {
+        "25ffe818-c492-4447-a477-3b973da44352": "Thí sinh cần đạt điểm thi đánh giá năng lực của HSA từ bao nhiêu điểm trở lên để được xét tuyển theo phương thức 4?",
+        "c31ca4c8-5b28-4dc5-9b18-a6f6470a745c": "Điểm thi đánh giá năng lực của APT cần đạt từ bao nhiêu điểm trở lên để thí sinh có thể xét tuyển theo phương thức 4?",
+        "865bbe84-c985-463d-a871-392d8d308e19": "Điểm thi đánh giá tư duy của TSA cần đạt từ bao nhiêu điểm trở lên để thí sinh có thể xét tuyển theo phương thức 4?",
+        "9de5d277-e0f8-4d4e-8f42-cae64009ff1d": "Hồ sơ đăng ký xét tuyển dựa vào kết quả nào của bài thi đánh giá năng lực và đánh giá tư duy?",
+        "d5001bc1-f5c8-4a8b-aa39-c3ad5718d2fa": "Thí sinh cần chuẩn bị những giấy tờ gì khi nộp hồ sơ đăng ký xét tuyển theo phương thức 4?",
+        "ebf1b108-1f8b-45f2-91b2-ee020f56cb27": "Thời gian đăng ký tài khoản xét tuyển trực tuyến bắt đầu từ ngày nào?",
+        "b517fed8-6e30-4b70-a716-184aa9ed8ce3": "Thí sinh có thể điều chỉnh nguyện vọng xét tuyển đến ngày nào?",
+        "6fd92765-e6b1-42c3-9f52-7c681d420035": "Thí sinh cần nộp kinh phí xét tuyển trực tuyến bằng cách nào?",
+        "2005ec4a-8d0d-43e2-89d3-2846cad6a1de": "Thí sinh cần rà soát và khóa hồ sơ đăng ký xét tuyển trên hệ thống xét tuyển trực tuyến của Học viện đến ngày nào?",
+        "075b857b-75c0-4187-b890-f187f371e51e": "Thí sinh cần nộp hồ sơ đăng ký xét tuyển theo quy định về Học viện qua đường chuyển phát nhanh hoặc chuyển phát đảm bảo trước ngày nào?",
+        "863b1e9c-f86a-4590-abf9-783800065f00": "Học viện thông báo thí sinh đủ điều kiện trúng tuyển trước ngày nào?",
+        "8340bc28-a144-49f6-9b30-edeaff419418": "Thí sinh có thể đăng ký nguyện vọng xét tuyển trên hệ thống của Bộ GD&ĐT đến ngày nào?",
+        "052095dc-f0eb-4158-85e2-3e1f5c1030a9": "Thí sinh cần xác nhận nhập học trực tuyến trên hệ thống trước ngày nào?",
+        "b52b13b3-84e7-434b-a371-b1b86cb5b914": "Hồ sơ đăng ký xét tuyển được xác lập là hồ sơ hợp lệ khi nào?",
+        "cb66c7cb-e474-4ce1-914d-266953706b9f": "Thí sinh cần làm gì ở Bước 1 khi khai hồ sơ đăng ký xét tuyển đánh giá năng lực, đánh giá tư duy?",
+        "6c9c8810-6a21-4ef2-9991-0a5deed085c7": "Thí sinh cần chuẩn bị những giấy tờ gì theo yêu cầu khi nộp hồ sơ đăng ký xét tuyển đánh giá năng lực?",
+        "a3abaf1f-8827-407e-b0b4-5245a936ac1a": "Lệ phí xét tuyển phương thức 4 là bao nhiêu đồng/nguyện vọng?",
+        "1deab77b-4e45-4d2a-a290-04b6e32821da": "Lệ phí xét tuyển tài năng là bao nhiêu đồng/nguyện vọng?",
+        "f287cbf0-91fe-4616-add6-4460f5b0cd62": "Thí sinh cần in bao nhiêu Phiếu ĐKXT theo phương thức xét tuyển khi khai hồ sơ?",
+        "6f547084-6631-4d03-9013-0b69afb8c7fe": "Thí sinh cần nộp hồ sơ ĐKXT-KH bằng đường bưu điện đến đâu?"
+    },
+    "corpus": {
+        "86c5e8c9-f328-4df7-9104-b9a55b5e8131": "Thông tin phương thức 4:\r\n1. Điều kiện xét tuyển\r\n2. Hồ sơ đăng ký xét tuyển\r\n3. Thời gian và hình thức nộp hồ sơ đăng ký xét tuyển\r\n4. Các bước thực hiện xét tuyển\r\n5. Lệ phí xét tuyển\r\n\r\nThông tin chi tiết phương thức 4 - xét tuyển đánh giá năng lực, đánh giá tư duy:\r\n\r\nĐiều kiện xét tuyển phương thức 4:\r\nĐiều kiện xét tuyển đánh giá năng lực, đánh giá tư duy:\r\n- Thí sinh có điểm thi đánh giá năng lực của Đại học quốc gia Hà Nội (HSA) năm 2024 từ 75 điểm trở lên;\r\n- Thí sinh có điểm thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh (APT) năm 2024 từ 600 điểm trở lên;\r\n- Thí sinh có điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội (TSA) năm 2024 từ 50 điểm trở lên.\r\n\r\nHồ sơ phương thức 4, Hồ sơ đánh giá năng lực, đánh giá tư duy, Hồ sơ Đăng ký xét tuyển dựa vào kết quả bài thi đánh giá năng lực, đánh giá tư duy:\r\na) Phiếu đăng ký xét tuyển có xác nhận của trường THPT nơi thí sinh đang học hoặc Công an xã, phường nơi thí sinh tự do đang cư trú tại địa phương (In từ hệ thống xét tuyển);\r\nb) Bản sao hợp lệ Giấy báo điểm/kết quả thi đánh giá năng lực hoặc đánh giá tư duy.\r\nc) Bản sao hợp lệ CMND/CCCD;\r\nd) Bản sao các giấy tờ ưu tiên khác (nếu có);\r\nLưu ý: Hồ sơ đăng ký xét tuyển dựa vào kết quả bài thi đánh giá năng lực hoặc đánh giá tư duy là riêng, độc lập với hồ sơ đăng ký xét tuyển theo kết quả thi tốt nghiệp THPT.\r\n\r\nThời gian nộp hồ sơ đăng ký xét tuyểnđánh giá năng lực, đánh giá tư duy:\r\nThời gian đăng ký xét tuyển đánh giá năng lực, đánh giá tư duy\r\n- Từ ngày 15/4/2024, thí sinh đăng ký tài khoản xét tuyển trên hệ thống xét tuyển trực tuyến của Học viện.\r\n- Từ ngày 15/4 đến 0h00 ngày 26/5/2024, thí sinh đăng ký, điều chỉnh nguyện vọng xét tuyển (không giới hạn số lần) trên Hệ thống xét tuyển trực tuyến của Học viện.\r\n- Từ ngày 15/4 đến 0h00 ngày 26/5/2024, thí sinh nộp kinh phí xét tuyển (trực tuyến bằng mã định danh hoặc mã QR).\r\n- Từ ngày 15/4 đến 0h00 ngày 26/5/2024, thí sinh rà soát và khóa hồ sơ đăng ký xét tuyển trên Hệ thống xét tuyển của Học viện.\r\n- Từ ngày 15/4 đến 17h00 ngày 25/5/2024, thí sinh nộp hồ sơ đăng ký xét tuyển theo quy định về Học viện qua đường chuyển phát nhanh hoặc chuyển phát đảm bảo.\r\n- Trước 17h00 ngày 10/6/2024, Học viện thông báo thí sinh đủ điều kiện trúng tuyển.\r\n- Từ ngày 10/7 đến 17h00 ngày 25/7/2024, thí sinh đủ điều kiện trúng tuyển đăng ký nguyện vọng xét tuyển trên Hệ thống của Bộ GD&ĐT.\r\n- Trước 17h00 ngày 18/08/2024, thí sinh xác nhận nhập học trực tuyến trên Hệ thống.\r\nLưu ý: Hồ sơ đăng ký xét tuyển (ĐKXT) được xác lập là hồ sơ hợp lệ khi thí sinh đã khoá hồ sơ trên hệ thống xét tuyển trực tuyến, thí sinh đã đóng lệ phí xét tuyển, hồ sơ ĐKXT (bản cứng) được gửi tới Học viện và được Học viện chấp nhận.\r\n\r\nCác bước thực hiện xét tuyển phương thức 4, nộp hồ sơ xét tuyển phương thức 4:\r\nCác bước thực hiện khai và nộp hồ sơ xét tuyển phương thức 4, nộp hồ sơ đánh giá năng lực:\r\nCác bước thực hiện nộp hồ sơ đăng ký xét tuyển ĐGNL:\r\nBước 1: Thí sinh lựa chọn Phương thức xét tuyển và khai hồ sơ đăng ký xét tuyển đánh giá năng lực, đánh giá tư duy trực tuyến tại địa chỉ website: https://xettuyen.ptit.edu.vn;\r\nBước 2: In 02 Phiếu ĐKXT theo phương thức xét tuyển kết hợp rồi xin xác nhận của trường THPT nơi thí sinh đang học hoặc Công an xã, phường nơi thí sinh tự do đang cư trú tại địa phương;\r\nBước 3: Chuẩn bị đầy đủ hồ sơ đăng ký xét tuyển ĐGNL theo yêu cầu như mục 1 nêu trên;\r\nBước 4: Nộp hồ sơ ĐKXT-KH bằng đường bưu điện chuyển phát nhanh hoặc chuyển phát đảm bảo đến các địa chỉ cơ sở đào tạo của Học viện (Thời gian nộp hồ sơ được tính theo dấu bưu điện).\r\n\r\nLệ phí xét tuyển phương thức 4 là 25.000 đ/nguyện vọng\r\nLệ phí xét tuyển tài năng là 25.000 đ/nguyện vọng"
+    },
+    "relevant_docs": {
+        "25ffe818-c492-4447-a477-3b973da44352": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ],
+        "c31ca4c8-5b28-4dc5-9b18-a6f6470a745c": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ],
+        "865bbe84-c985-463d-a871-392d8d308e19": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ],
+        "9de5d277-e0f8-4d4e-8f42-cae64009ff1d": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ],
+        "d5001bc1-f5c8-4a8b-aa39-c3ad5718d2fa": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ],
+        "ebf1b108-1f8b-45f2-91b2-ee020f56cb27": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ],
+        "b517fed8-6e30-4b70-a716-184aa9ed8ce3": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ],
+        "6fd92765-e6b1-42c3-9f52-7c681d420035": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ],
+        "2005ec4a-8d0d-43e2-89d3-2846cad6a1de": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ],
+        "075b857b-75c0-4187-b890-f187f371e51e": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ],
+        "863b1e9c-f86a-4590-abf9-783800065f00": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ],
+        "8340bc28-a144-49f6-9b30-edeaff419418": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ],
+        "052095dc-f0eb-4158-85e2-3e1f5c1030a9": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ],
+        "b52b13b3-84e7-434b-a371-b1b86cb5b914": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ],
+        "cb66c7cb-e474-4ce1-914d-266953706b9f": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ],
+        "6c9c8810-6a21-4ef2-9991-0a5deed085c7": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ],
+        "a3abaf1f-8827-407e-b0b4-5245a936ac1a": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ],
+        "1deab77b-4e45-4d2a-a290-04b6e32821da": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ],
+        "f287cbf0-91fe-4616-add6-4460f5b0cd62": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ],
+        "6f547084-6631-4d03-9013-0b69afb8c7fe": [
+            "86c5e8c9-f328-4df7-9104-b9a55b5e8131"
+        ]
+    }
+}

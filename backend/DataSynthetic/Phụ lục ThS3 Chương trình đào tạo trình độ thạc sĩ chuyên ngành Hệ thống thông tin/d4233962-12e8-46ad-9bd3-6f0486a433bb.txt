@@ -1,0 +1,39 @@
+V Đề án Luận văn        
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 9
+
+Định hướng nghiên cứu: 14
+
+27
+
+Mã học phần: INT4538
+
+Tên học phần (Tiếng Việt và tiếng Anh): Đề án thạc sĩ hệ thống thông tin Project for Information Systems
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 9
+
+Định hướng nghiên cứu: 0
+
+28
+
+Mã học phần: INT4539
+
+Tên học phần (Tiếng Việt và tiếng Anh Luận văn thạc sĩ hệ thống thông tin Thesis for Information Systems
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 0
+
+Định hướng nghiên cứu: 14
+
+Tổng cộng
+
+  Số tín chỉ:
+
+Định hướng ứng dụng: 51
+
+Định hướng nghiên cứu: 51

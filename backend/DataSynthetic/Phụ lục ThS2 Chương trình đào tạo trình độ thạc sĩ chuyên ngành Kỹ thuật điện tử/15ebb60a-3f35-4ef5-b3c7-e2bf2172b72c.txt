@@ -1,0 +1,273 @@
+2.2. Khung chương trình  
+
+I.Khối kiến thức chung  
+
+Định hướng ứng dụng: 7 tín chỉ  
+
+Định hướng nghiên cứu: 7 tín chỉ  
+
+1
+
+Mã học phần: BAS4101  
+
+Tên học phần (Tiếng Việt và tiếng Anh): Triết học Philosophy  
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 3 
+
+Định hướng nghiên cứu: 3 
+
+Số giờ tín chỉ:
+
+	Lý thuyết: 30
+
+	Thực hành/Bài tập/Thảo luận: 15
+
+	Tự học: 135
+
+Ghi chú: Theo quy định của Bộ GD&ĐT  
+
+2 
+
+Mã học phần:IGF4101 
+
+Tên học phần (Tiếng Việt và tiếng Anh): Phương pháp nghiên cứu khoa học Methodology of Scientific Research 
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+3 
+
+Mã học phần: BAS4103
+
+Tên học phần (Tiếng Việt và tiếng Anh): Công cụ toán cho điện tử -viễn thông Mathematics Tools for Electronics-Telecommunications
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+II Khối kiến thức cơ sở 
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 10
+
+Định hướng nghiên cứu: 12
+
+II.1 Các học phần bắt buộc  
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 4
+
+Định hướng nghiên cứu: 4     
+
+4
+
+ Mã học phần: TEL4301
+
+Tên học phần (Tiếng Việt và tiếng Anh): Truyền thông số nâng cao Advanced Digital Communications
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+Ghi chú: Học phần trọng tâm 
+
+5
+
+Mã học phần: ELE4301
+
+Tên học phần (Tiếng Vệt và tiếng Anh): Xử lý tín hiệu số nâng cao Advanced Digital Signal Processing
+
+Số tín chỉ
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+Ghi chú: Học phần trọng tâm 
+
+II.2 Các học phần tự chọn  
+
+(Định hướng ứng dụng: chọn 03 trong 06 học phần; Định hướng nghiên cứu: chọn 01 trong 06 học phần)  
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 6 
+
+Định hướng nghiên cứu: 2 
+
+6
+
+Mã học phần: ELE4302
+
+Tên học phần (Tiếng Việt và tiếng Anh): Lý thuyết thông tin nâng cao Advanced Infomation Theory
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+7
+
+Mã học phần: ELE4303
+
+Tên học phần (Tiếng Việt và tiếng Anh): Mật mã học nâng cao Advanced Cryptography
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+8
+
+Mã học phần: TEL4302
+
+Tên học phần (Tiếng Việt và tiếng Anh): Mô hình hóa và mô phỏng Modeling and Simulation
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+9
+
+Mã học phần: TEL4304
+
+Tên học phần (Tiếng Việt và tiếng Anh): Truyền thông đa phương tiện nâng cao Advanced Multimedia Communications
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+10
+
+Mã học phần: TEL4306
+
+Tên học phần (Tiếng Việt và tiếng Anh): Lý thuyết và kỹ thuật anten Antennas Theory and Engineering
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+11
+
+Mã học phần: INT4306
+
+Tên học phần (Tiếng Việt và tiếng Anh): Kiến trúc máy tính tiên tiến Advanced Computer Architecture
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+II.3 
+
+Mã học phần: ELE4316
+
+Tên học phần (Tiếng Việt và tiếng Anh): Chuyên đề thạc sĩ 1 Special Study for Electronic Engineering 1
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 0
+
+Định hướng nghiên cứu: 3      
+
+II.

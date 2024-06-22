@@ -1,0 +1,149 @@
+-Nội dung đào tạo: Tiểu luận tổng quan  
+
+Đối tượng: Tất cả nghiên cứu sinh  
+
+Số tín chỉ:2 
+
+Thời gian thực hiện: Trong 24 tháng đầu của thời gian đào tạo trình độ tiến sĩ   
+
+III. Nghiên cứu khoa học và luận án tiến sĩ 
+
+Tổng số tín chỉ:80
+
+-Nội dung đào tạo:  Luận án tiến sĩ:  
+
+     - Bảo vệ cấp cơ sở  
+
+     - Bảo vệ cấp Học viện  
+
+-Đối tượng: Tất cả nghiên cứu sinh  
+
+-Số tín chỉ:80 
+
+-Thời gian thực hiện: Trong thời gian đào tạo trình độ tiến sĩ   
+
+Tổng cộng (II và III) số tín chỉ:  96   
+
+2.2. Các học phần ở trình độ tiến sĩ  
+
+I.Các học phần bắt buộc  
+
+Số tín chỉ: 6     
+
+ Mã học phần: IGF5401  
+
+Tên học phần: Học thuật hóa các bài toán kỹ thuật Scientific Approaches to Technical Matters
+
+Số tín chỉ:2 
+
+Số giờ tín chỉ:
+
+Lý thuyết:24 
+
+Thực hành/Bài tập/Thảo luận:6 
+
+Tự học: 90   tiết
+
+ Mã học phần: ELE5401
+
+Tên học phần: Công cụ toán nâng cao cho điện tử - viễn thông Advanced Mathematic Tools for Electronics - Telecommunications
+
+Số tín chỉ:2 
+
+Số giờ tín chỉ:
+
+Lý thuyết:24 
+
+Thực hành/Bài tập/Thảo luận:6 
+
+Tự học: 90  tiết
+
+ Mã học phần: ELE5402
+
+Tên học phần: Mật mã học và ứng dụng Cryptography and Applications
+
+Số tín chỉ:2 
+
+Số giờ tín chỉ:
+
+Lý thuyết:24 
+
+Thực hành/Bài tập/Thảo luận:6 
+
+Tự học: 90  tiết
+
+II.Các học phần tự chọn 
+
+(Chọn 1 trong 5 học phần)  
+
+Số tín chỉ:2     
+
+Mã học phần: ELE5403
+
+Tên học phần: Các công nghệ điện tử mới Modern Electronic Technologies
+
+Số tín chỉ:2 
+
+Số giờ tín chỉ:
+
+Lý thuyết:24 
+
+Thực hành/Bài tập/Thảo luận:6 
+
+Tự học: 90 tiết
+
+Mã học phần: ELE5404
+
+Tên học phần: Một số vấn đề khoa học công nghệ và kỹ thuật điện tử Selected Topics on Electronic Techniques and Technologies 
+
+Số tín chỉ:2 
+
+Số giờ tín chỉ:
+
+Lý thuyết:24 
+
+Thực hành/Bài tập/Thảo luận:6 
+
+Tự học: 90 tiết
+
+Mã học phần: ELE5405
+
+Tên học phần: Lý thuyết thông tin và mã hóa Information Theory and Coding
+
+Số tín chỉ:2 
+
+Số giờ tín chỉ:
+
+Lý thuyết:24 
+
+Thực hành/Bài tập/Thảo luận:6 
+
+Tự học: 90 tiết
+
+Mã học phần: TEL5401
+
+Tên học phần: Lý thuyết độ tin cậy Reliable Theory
+
+Số tín chỉ:2 
+
+Số giờ tín chỉ:
+
+Lý thuyết:24 
+
+Thực hành/Bài tập/Thảo luận:6 
+
+Tự học: 90 tiết
+
+Mã học phần: TEL5405
+
+Tên học phần: Xử lý tín hiệu nâng cao cho truyền thông vô tuyến Advanced Signal Processing for Wireless Communications
+
+Số tín chỉ:2 
+
+Số giờ tín chỉ:
+
+Lý thuyết:24 
+
+Thực hành/Bài tập/Thảo luận:6 
+
+Tự học: 90 tiết

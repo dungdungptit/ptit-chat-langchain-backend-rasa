@@ -1,0 +1,69 @@
+nghiệp
+
+37
+
+Tên môn học: Phát triển hệ thống thông tin quản lý
+
+Mã học phần: INT1445
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 36
+
+	Bài tập/Thảo luận: 8
+
+Tự học (tiết): 1
+
+Học phần tự chọn (Chọn 1 trong 3 học phần)
+
+38
+
+Tên môn học: Hệ trợ giúp quyết định
+
+Mã học phần: INT1421
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 36
+
+	Bài tập/Thảo luận: 8
+
+Tự học (tiết): 1
+
+39
+
+Tên môn học: Các hệ thống dựa trên tri thức
+
+Mã học phần: INT1404
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 36
+
+	Bài tập/Thảo luận: 8
+
+Tự học (tiết): 1
+
+40
+
+Tên môn học: Phát triển ứng dụng phân tán
+
+Mã học phần: INT1498
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 36
+
+	Bài tập/Thảo luận: 7
+
+Tự học (tiết): 1
+
+Tổng số tín chỉ: 24

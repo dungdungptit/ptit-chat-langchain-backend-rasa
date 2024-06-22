@@ -1,0 +1,77 @@
+The program is part of the development strategy of PTIT with the content "Knowledge - Creativity - Ethics -Responsibility" ). 
+
+2.2. Mục tiêu cụ thể (Program Objectives - POs)  
+
+2.2.1 Về Kiến thức  (Knowledge) 
+
+PO1 : Trang bị cho sinh viên các kiến thức giáo dục đại cương về Lý luận chính trị, Khoa học tự nhiên và xã hội; chú trọng vào Toán học là nền tảng tiền đề cho ngành đào tạo. 
+
+(Equip students with general educational knowledge of The Theory of Marxism Leninism and Ho Chi Minh Thought, Natural Science; Focusing on Mathema tics is the foundation for the training industry) . 
+
+PO2 : Trang bị cho sinh viên những kiến thức về Toán chuyên ngành công nghệ thông tin, Lập trình máy tính, Hệ thống máy tính, Các ứng dụng quan trọng của công nghệ thông tin.  
+
+(Equip students with knowledge  of Mathematics specialized in information technology, computer programming, computer systems, important applications of information technology).   
+
+PO3 : Trang bị cho sinh viên năm cuối các kiến thức chuyên sâu về một trong các lĩnh vực: thiết kế, phát triển, và kiểm thử phần mềm; trí tuệ nhân tạo và học máy; phân tích, thiết kế, và phát triển hệ thống thông tin. 
+
+(Equips the final year students with in -depth knowledge  in one or more of the following areas: software design, develop ment , and testing; data science, artificial intelligence and machine learning; information system analysis, design, and development) . 
+
+2.2.2 Về Kỹ năng  (Skills) 
+
+PO4 : Làm việc chuyên  nghiệp trong ít nhất một trong các lĩnh vực sau: thiết kế phần mềm, phát triển phần mềm, kiểm thử phần mềm, khoa học dữ liệu, học máy, nghiên cứu về khoa học máy tính, hệ thống thông tin.  
+
+(Work professionally in one or more of the following areas: softwa re design, developing, and testing; data science, machine learning engineering; computer science research; information s ystems ). 
+
+PO5 : Làm việc hiệu quả, độc lập cũng như tập thể, trong nhiều môi trường làm việc khác nhau.  
+
+(Work effectively in a variety of  contexts, both as individuals and in team environments) . 
+
+PO6 : Có khả năng tự học suốt đời để đảm bảo làm việc chuyên nghiệp và hiệu quả trong thế giới công nghệ không ngừng thay đổi.  
+
+(Engage in lifelong learning to remain effective professionals in a con stantly changing world of technology) . 
+
+2.2.3 Về Thái độ  (Attitude ) 
+
+PO7 : Hiểu biết về các giá trị đạo đức nghề nghiệp, ý thức về những vấn đề đương đại, hiểu rõ vai trò của các giải pháp kỹ thuật trong bối cảnh kinh tế, môi trường, xã hội toàn cầu và trong bối cảnh riêng của đất nước.  
+
+(Be aware of professional and societal r esponsibilities, and committed to ethical actions) . 
+
+2.2.4 Trình độ ngoại ngữ và tin học  (English & Informatics) 
+
+PO8: Sử dụng tiếng Anh thành thạo, làm việc hiệu quả trong môi trường quốc tế.  
+
+(Use English in work, and work effectively in an international environment) .  
+
+PO9 : Thành thạo kỹ năng số, bao gồm các kỹ năng về tin học văn phòng; sử dụng, khai thác Internet và các phần mềm thông dụng khác trong công việc và học tập.   
+
+(Use digital skills effectively in work, including office information technology skills;  exploit the Internet and other popular software in work and study ). 
+
+2.2.5 Vị trí làm việc sau tốt nghiệp  (Job Positions ) 
+
+Sau khi tốt nghiệp sinh viên có thể đảm nhận tốt các vị trí công việc sau  (Graduates of the program can  take up the following positions ): 
+
+- Cán bộ kỹ thuật, quản lý, điều hành trong lĩnh vực công nghệ thông tin (Technical, managerial and executive officers in information technology sector) ;  
+
+- Lập trình viên, các nhà quản trị hệ thống, các nhà phân tích thiết kế  hệ thống thông tin  
+
+(Programmers, system administrators, information system analyst and designer) ; 
+
+- Làm việc trong các dự án với vai trò là người quản trị dự án về công nghệ thông tin 
+
+(Project Administrator in information technology projects) ; 
+
+- Cán bộ nghiên  cứu, cán bộ giảng dạy về công nghệ thông tin tại các viện, trung tâm nghiên cứu và các cơ sở đào tạo (Information technology researcher and lectures at research centers and training institutions) ; 
+
+- Có thể tiếp tục học tiếp lên trình độ sau đại học ở trong nước và nước ngoài (Continue to study to graduate level abroad) . 
+
+3. CÁC CHÍNH SÁCH, HOẠT ĐỘNG HỖ TRỢ HỌC TẬP, SINH HOẠT CHO 
+
+NGƯỜI HỌC  
+
+- Người học được cấp email riêng, cấp tài khoản để sử dụng phần mềm quản lý đào tạo trực tuyến để quản lý và theo dõi quá trình học tập của mình, tự tra cứu tiến độ kế hoạch học tập, kinh phí, học phí, kết quả học tập của cá nhân.  
+
+- Bên cạnh các hoạt động nằm trong chương trình đào tạo, sinh viên còn được đào tạo các kỹ năng mềm như kỹ năng thuyết trình, kỹ năng làm việc nhóm, kỹ năng tạo lập văn bản tiếng việt. Đặc biệt, sinh viên còn được tham gia các hoạt động nghiên cứu khoa học, các câu lạc bộ do Học viện tổ chức.  
+
+- Chế độ, chính sách đối với sinh viên được thực hiện trên tinh thần công khai, công bằng và đúng quy định. Tổ chức xét khen thưởng, kỷ luật được tiến hành thường xuyên và đúng quy chế.  
+
+4.

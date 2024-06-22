@@ -1,0 +1,95 @@
+2.1. Cấu trúc chương trình đào tạo  
+
+Chương trình đào tạo trình độ tiến sĩ chuyên ngành Hệ thống Thông tin gồm các học phần bổ sung, các học phần ở trình độ tiến sĩ (có khối lượng 16 tín chỉ), nghiên cứu khoa học và luận án tiến sĩ (có khối lượng 80 tín chỉ) .  
+
+I.  Các học phần bổ sung     
+
+-Nội dung đào tạo: Các học phần ở trình độ thạc sĩ chuyên ngành Hệ thống Thông tin của Học viện Công nghệ Bưu chính Viễn thông  
+
+Đối tượng: Nghiên cứu sinh chưa có bằng thạc sĩ 
+
+Số tín chỉ: lớn hơn hoặc bằng 30 
+
+Thời gian thực hiện: Trong 24 tháng đầu của thời gian đào tạo trình độ tiến sĩ   
+
+-Nội dung đào tạo: Các học phần trọng tâm ở trình độ thạc sĩ chuyên ngành Hệ thống Thông tin của Học viện Công nghệ Bưu chính Viễn thông 
+
+Đối tượng: Nghiên cứu sinh có bằng thạc sĩ ở chuyên ngành gần, hoặc chuyên ngành phù hợp nhưng đã tốt nghiệp quá 15 năm  
+
+Số tín chỉ: Theo quy định của Học viện  
+
+Thời gian thực hiện: Trong 24 tháng đầu của thời gian đào tạo trình độ tiến sĩ   
+
+II. Các học phần ở trình độ tiến sĩ 
+
+Tổng số tín chỉ:16   
+
+-Nội dung đào tạo: Các học phần bắt buộc  
+
+Đối tượng: Tất cả nghiên cứu sinh  
+
+Số tín chỉ:6 
+
+Thời gian thực hiện: Trong 12 tháng đầu của thời gian đào tạo trình độ tiến sĩ   
+
+-Nội dung đào tạo: Các học phần tự chọn  
+
+Đối tượng: Tất cả nghiên cứu sinh 
+
+Số tín chỉ:2 
+
+Thời gian thực hiện: Trong 12 tháng đầu của thời gian đào tạo trình độ tiến sĩ   
+
+
+
+-Nội dung đào tạo: Chuyên đề 1  
+
+Đối tượng: Tất cả nghiên cứu sinh  
+
+Số tín chỉ:2 
+
+Thời gian thực hiện: Trong 18 tháng đầu của thời gian đào tạo trình độ tiến sĩ   
+
+-Nội dung đào tạo: Chuyên đề 2  
+
+Đối tượng: Tất cả nghiên cứu sinh  
+
+Số tín chỉ:2 
+
+Thời gian thực hiện: Trong 18 tháng đầu của thời gian đào tạo trình độ tiến sĩ   
+
+-Nội dung đào tạo: Chuyên đề 3  
+
+Đối tượng: Tất cả nghiên cứu sinh  
+
+Số tín chỉ: 2 
+
+Thời gian thực hiện: Trong 18 tháng đầu của thời gian đào tạo trình độ tiến sĩ   
+
+
+
+-Nội dung đào tạo: Tiểu luận tổng quan  
+
+Đối tượng: Tất cả nghiên cứu sinh  
+
+Số tín chỉ:2 
+
+Thời gian thực hiện: Trong 24 tháng đầu của thời gian đào tạo trình độ tiến sĩ   
+
+III. Nghiên cứu khoa học và luận án tiến sĩ 
+
+Tổng số tín chỉ:80
+
+-Nội dung đào tạo:  Luận án tiến sĩ:  
+
+     - Bảo vệ cấp cơ sở  
+
+     - Bảo vệ cấp Học viện  
+
+-Đối tượng: Tất cả nghiên cứu sinh  
+
+-Số tín chỉ:80 
+
+-Thời gian thực hiện: Trong thời gian đào tạo trình độ tiến sĩ   
+
+Tổng cộng (II và III) số tín chỉ:  96

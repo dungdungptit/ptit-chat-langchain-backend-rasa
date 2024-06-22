@@ -1,0 +1,71 @@
+version: "3.0"
+
+nlu:
+  - intent: phuong_thuc_1
+    examples: |
+      - Thí sinh nào được ưu tiên xét tuyển theo phương thức 1?
+      - Hồ sơ xét tuyển tài năng cần bao gồm những giấy tờ?
+      - Thời gian đăng ký và nộp hồ sơ xét tuyển phương thức 1 là bao lâu?
+      - Lệ phí xét tuyển phương thức 1 là bao nhiêu tiền?
+      - Thí sinh được đăng ký bao nhiêu nguyện vọng xét tuyển?
+      - Công thức tính điểm HSNL trong phương thức 1 là gì?
+      - Thí sinh chỉ trúng tuyển vào một nguyện vọng nào?
+      - Điểm học lực chiếm tỷ lệ bao nhiêu trong điểm HSNL?
+      - Thí sinh cần chuẩn bị những gì trước khi nộp hồ sơ xét tuyển?
+      - Điểm thành tích của học sinh chuyên là bao nhiêu?
+      - Thí sinh nào được xem là đủ điều kiện trúng tuyển?
+      - Cách tính điểm học lực trong phương thức 1 là gì?
+      - Thí sinh cần làm gì sau khi nộp hồ sơ xét tuyển?
+      - Điểm HSNL được quy đổi theo thang điểm bao nhiêu?
+      - Thí sinh cần xác nhận nhập học trước thời hạn nào?
+      - Các bước thực hiện khai hồ sơ xét tuyển phương thức 1 là gì?
+      - Thí sinh cần có điểm trung bình chung học tập từ bao nhiêu trở lên để đủ điều kiện xét tuyển?
+      - Điểm thành tích của thí sinh đạt giải nhất học sinh giỏi cấp tỉnh/thành phố trung ương là bao nhiêu?
+      - Thí sinh cần nộp hồ sơ đăng ký xét tuyển theo quy định như thế nào?
+      - Điểm HSNL được tính như thế nào trong phương thức 1?
+      - Thí sinh nào có giải học sinh giỏi quốc gia sẽ được cộng bao nhiêu điểm nếu xét tuyển theo phương thức 3?
+      - Thí sinh nào có giải nhất học sinh giỏi cấp tỉnh/thành phố trung ương sẽ được cộng bao nhiêu điểm nếu xét tuyển theo phương thức 4?
+      - Thí sinh có giải khuyến khích học sinh giỏi cấp tỉnh/thành phố trung ương sẽ được cộng bao nhiêu điểm nếu xét tuyển theo phương thức 1?
+      - Thí sinh có giải nhì học sinh giỏi cấp tỉnh/thành phố trung ương sẽ được cộng bao nhiêu điểm nếu xét tuyển theo phương thức 3?
+      - Thí sinh có giải khuyến khích học sinh giỏi cấp tỉnh/thành phố trung ương sẽ được cộng bao nhiêu điểm nếu xét tuyển theo phương thức 4?
+      - Thí sinh có giải ba học sinh giỏi cấp tỉnh/thành phố trung ương sẽ được cộng bao nhiêu điểm nếu xét tuyển theo phương thức 1?
+      - Thí sinh có giải khuyến khích học sinh giỏi quốc gia sẽ được cộng bao nhiêu điểm nếu xét tuyển theo phương thức 3?
+      - Thí sinh có giải nhất học sinh giỏi cấp tỉnh/thành phố trung ương sẽ được cộng bao nhiêu điểm nếu xét tuyển theo phương thức 1?
+      - Thí sinh có giải nhì học sinh giỏi cấp tỉnh/thành phố trung ương sẽ được cộng bao nhiêu điểm nếu xét tuyển theo phương thức 4?
+      - Thí sinh có giải ba học sinh giỏi cấp tỉnh/thành phố trung ương sẽ được cộng bao nhiêu điểm nếu xét tuyển theo phương thức 3?
+
+  - intent: dieu_kien_quy_trinh_phuong_thuc_3
+    examples: |
+      - Thí sinh cần đạt điểm SAT từ bao nhiêu trở lên để được xét tuyển phương thức 3?
+      - Điều kiện cần thiết để thí sinh được xét tuyển phương thức 3 là gì?
+      - Thí sinh cần có kết quả điểm trung bình chung học tập từ lớp nào trở lên để được xét tuyển phương thức 3?
+      - Thí sinh cần đạt điểm IELTS bao nhiêu trở lên để được xét tuyển phương thức 3?
+      - Hồ sơ xét tuyển kết hợp bao gồm những giấy tờ cần thiết?
+      - Thời gian nộp hồ sơ đăng ký xét tuyển kết hợp kéo dài đến ngày nào?
+      - Hồ sơ đăng ký xét tuyển kết hợp được xác lập là hồ sơ hợp lệ khi nào?
+      - Thí sinh cần xin xác nhận của đơn vị nào trước khi nộp hồ sơ đăng ký xét tuyển kết hợp?
+      - Lệ phí xét tuyển phương thức 3 là bao nhiêu đồng/nguyện vọng?
+      - Thí sinh cần chuẩn bị đầy đủ hồ sơ đăng ký xét tuyển kết hợp theo yêu cầu như thế nào?
+      - Bước cuối cùng trong quá trình nộp hồ sơ xét tuyển phương thức 3 là gì?
+      - Thí sinh cần đạt điểm bao nhiêu trở lên trong kỳ thi SAT để được xét tuyển phương thức 3?
+      - Điểm ACT tối thiểu mà thí sinh cần đạt để được xét tuyển phương thức 3 là bao nhiêu?
+      - Thí sinh cần có điểm trung bình chung học tập từ lớp nào đến lớp nào để được xét tuyển phương thức 3?
+      - Điểm trung bình cần đạt từ bao nhiêu trở lên để được xét tuyển phương thức 3?
+      - Thí sinh cần có hạnh kiểm từ mức nào trở lên để được xét tuyển phương thức 3?
+      - Chứng chỉ tiếng Anh quốc tế nào được chấp nhận để thí sinh được xét tuyển phương thức 3?
+      - Điểm IELTS tối thiểu mà thí sinh cần đạt để được xét tuyển phương thức 3 là bao nhiêu?
+      - Điểm TOEFL iBT tối thiểu mà thí sinh cần đạt để được xét tuyển phương thức 3 là bao nhiêu?
+      - Điểm TOEFL ITP tối thiểu mà thí sinh cần đạt để được xét tuyển phương thức 3 là bao nhiêu?
+      - Thí sinh cần có điểm trung bình chung học tập từ lớp nào đến lớp nào để được xét tuyển phương thức 3?
+      - Điểm trung bình cần đạt từ bao nhiêu trở lên để được xét tuyển phương thức 3?
+      - Thí sinh cần có hạnh kiểm từ mức nào trở lên để được xét tuyển phương thức 3?
+      - Thời hạn tính điểm SAT hoặc ACT cho việc xét tuyển phương thức 3 là bao lâu?
+      - Thí sinh cần đạt điểm bao nhiêu trở lên trong kỳ thi SAT để được xét tuyển phương thức 3?
+      - Điểm ACT tối thiểu mà thí sinh cần đạt để được xét tuyển phương thức 3 là bao nhiêu'
+      - Thí sinh nào không có giải nhưng có chứng chỉ quốc tế SAT có thể xét tuyển theo phương thức nào?
+      - Thí sinh nào không có giải nhưng có chứng chỉ quốc tế IELTS có thể xét tuyển theo phương thức nào?
+      - Thí sinh nào không có giải nhưng có chứng chỉ quốc tế TOEFL iBT có thể xét tuyển theo phương thức nào?
+      - Thí sinh nào không có giải nhưng có chứng chỉ quốc tế TOEFL ITP có thể xét tuyển theo phương thức nào?
+      - Thí sinh có giải và chứng chỉ quốc tế ACT có thể xét tuyển theo phương thức nào?
+      - Thí sinh nào không có giải nhưng có chứng chỉ quốc tế IELTS có thể xét tuyển theo phương thức nào?
+      - Thí sinh nào không có giải nhưng có chứng chỉ quốc tế TOEFL iBT có thể xét tuyển theo phương thức nào?

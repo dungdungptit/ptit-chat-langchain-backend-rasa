@@ -1,0 +1,43 @@
+{
+  "kind": "collectionType",
+  "collectionName": "intents",
+  "info": {
+    "singularName": "intent",
+    "pluralName": "intents",
+    "displayName": "intent",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    },
+    "is_active": {
+      "type": "boolean",
+      "default": true
+    },
+    "topic": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::topic.topic",
+      "inversedBy": "intents"
+    },
+    "questions": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::question.question",
+      "mappedBy": "intent"
+    },
+    "file": {
+      "type": "text",
+      "required": true
+    }
+  }
+}

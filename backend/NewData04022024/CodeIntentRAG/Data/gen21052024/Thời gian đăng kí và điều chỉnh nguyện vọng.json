@@ -1,0 +1,89 @@
+{
+    "queries": {
+        "7df06262-3586-4bbb-8649-a314fbf6e136": "Thời gian đăng kí và điều chỉnh nguyện vọng cho phương thức xét tuyển tài năng là từ khi đến khi?",
+        "fe927276-c045-4e57-a935-95885a098770": "Thời gian đăng kí và điều chỉnh nguyện vọng cho phương thức xét tuyển thi THPT là từ khi đến khi?",
+        "553c058c-1b01-4c8c-bffd-3760ead243ae": "Phương thức nào cho phép thí sinh đăng ký, điều chỉnh nguyện vọng trên Hệ thống tuyển sinh từ ngày 15/4 đến 26/5/2024?",
+        "d91dcbbf-b045-4436-b81d-a7f8b6f46093": "Phương thức nào yêu cầu thí sinh đánh giá năng lực và tư duy?",
+        "e0293d29-dfcf-4971-9b75-c9eebee7c8b6": "Thí sinh có thể điều chỉnh nguyện vọng bao nhiêu lần trên Hệ thống xét tuyển trực tuyến của Học viện?",
+        "70d1583e-e046-486c-9e64-a74d9bcfb2f5": "Phương thức nào không giới hạn số lần thí sinh có thể điều chỉnh nguyện vọng?",
+        "9d66b7b0-975e-4b43-99cc-00c1c0b74862": "Thí sinh có thể đăng ký xét tuyển từ ngày 10/07/2024 đến ngày 25/07/2024 cho phương thức nào?",
+        "62489406-8973-44ab-803e-2592bd056103": "Phương thức nào yêu cầu thí sinh đánh giá tài năng?",
+        "8cea72a0-bc38-4636-9d68-3ba1ba4b4092": "Thời gian đăng kí và điều chỉnh nguyện vọng cho phương thức xét tuyển kết hợp là từ khi đến khi?",
+        "e475c711-c9ea-4bf5-a4a2-506aa2cac648": "Phương thức nào yêu cầu thí sinh tham gia thi THPT?",
+        "b9a42fba-967f-40e4-ac4b-ddfa030d392f": "Thí sinh có thể đăng ký xét tuyển từ ngày 15/04/2024 đến 0h00 ngày 21/05/2024 cho phương thức nào?",
+        "5c9e29b0-7fab-471e-8b65-fce3577fb753": "Phương thức nào yêu cầu thí sinh đăng ký trực tuyến trên Hệ thống xét tuyển của Học viện?",
+        "ac7dd65c-fbee-42f5-9560-e49fd95c4da1": "Thí sinh có thể đăng ký xét tuyển từ ngày 15/4 đến 26/5/2024 cho phương thức nào?",
+        "64da1d19-981e-4e1a-afac-26614e1e6ca1": "Phương thức nào yêu cầu thí sinh đánh giá kết hợp giữa năng lực và tư duy?",
+        "b29a2caf-bc71-4f71-9b32-7f59f0da78b6": "Thời gian đăng kí và điều chỉnh nguyện vọng cho phương thức xét tuyển đánh giá năng lực, đánh giá tư duy là từ khi đến khi?",
+        "8628500d-4080-4ced-b398-35cfd3d8f446": "Phương thức nào cho phép thí sinh đăng ký, điều chỉnh nguyện vọng trên Hệ thống xét tuyển trực tuyến của Học viện từ ngày 15/4 đến 26/5/2024?",
+        "122567a5-93bf-462d-bad6-146dd7e44b21": "Thí sinh có thể tham gia xét tuyển từ ngày 15/04/2024 đến 0h00 ngày 21/05/2024 cho phương thức nào?",
+        "44eacaef-b315-40c7-85fa-f9db3a878c64": "Phương thức nào yêu cầu thí sinh tham gia xét tuyển tài năng?",
+        "7ab4f47a-b964-4b6a-94cd-e7a9bcf3c040": "Thời gian đăng kí và điều chỉnh nguyện vọng cho phương thức xét tuyển tài năng là từ khi đến khi?",
+        "ca51b883-b2cc-4c55-8742-aaede6bd600c": "Phương thức nào không giới hạn số lần thí sinh có thể đăng ký, điều chỉnh nguyện vọng?"
+    },
+    "corpus": {
+        "f2213e63-4626-45de-85e1-04701fd0b26d": "Thời gian đăng kí và điều chỉnh nguyện vọng\r\n- Phương thức 1 - xét tuyển tài năng từ ngày 15/04/2024 đến 0h00 ngày 21/05/2024 thí sinh đăng ký, điều chỉnh nguyện vọng xét tuyển (không giới hạn lần) trên Hệ thống xét tuyển trực tuyến của Học viện\r\n- Phương thức 2 - xét tuyển thi THPT từ ngày 10/07/2024 đến 17h00 ngày 25/07/2024 thí sinh đăng ký, điều chỉnh nguyện vọng xét tuyển (không giới hạn lần) trên Hệ thống tuyển sinh\r\n- Phương thức 3 - xét tuyển kết hợp từ ngày 15/4 đến 0h00 ngày 26/5/2024, thí sinh đăng ký, điều chỉnh nguyện vọng xét tuyển (không giới hạn số lần) trên Hệ thống xét tuyển trực tuyến của Học viện.\r\n- Phương thức 4 - xét tuyển đánh giá năng lực, đánh giá tư duy từ ngày 15/4 đến 0h00 ngày 26/5/2024, thí sinh đăng ký, điều chỉnh nguyện vọng xét tuyển (không giới hạn số lần) trên Hệ thống xét tuyển trực tuyến của Học viện."
+    },
+    "relevant_docs": {
+        "7df06262-3586-4bbb-8649-a314fbf6e136": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ],
+        "fe927276-c045-4e57-a935-95885a098770": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ],
+        "553c058c-1b01-4c8c-bffd-3760ead243ae": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ],
+        "d91dcbbf-b045-4436-b81d-a7f8b6f46093": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ],
+        "e0293d29-dfcf-4971-9b75-c9eebee7c8b6": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ],
+        "70d1583e-e046-486c-9e64-a74d9bcfb2f5": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ],
+        "9d66b7b0-975e-4b43-99cc-00c1c0b74862": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ],
+        "62489406-8973-44ab-803e-2592bd056103": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ],
+        "8cea72a0-bc38-4636-9d68-3ba1ba4b4092": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ],
+        "e475c711-c9ea-4bf5-a4a2-506aa2cac648": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ],
+        "b9a42fba-967f-40e4-ac4b-ddfa030d392f": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ],
+        "5c9e29b0-7fab-471e-8b65-fce3577fb753": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ],
+        "ac7dd65c-fbee-42f5-9560-e49fd95c4da1": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ],
+        "64da1d19-981e-4e1a-afac-26614e1e6ca1": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ],
+        "b29a2caf-bc71-4f71-9b32-7f59f0da78b6": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ],
+        "8628500d-4080-4ced-b398-35cfd3d8f446": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ],
+        "122567a5-93bf-462d-bad6-146dd7e44b21": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ],
+        "44eacaef-b315-40c7-85fa-f9db3a878c64": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ],
+        "7ab4f47a-b964-4b6a-94cd-e7a9bcf3c040": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ],
+        "ca51b883-b2cc-4c55-8742-aaede6bd600c": [
+            "f2213e63-4626-45de-85e1-04701fd0b26d"
+        ]
+    }
+}

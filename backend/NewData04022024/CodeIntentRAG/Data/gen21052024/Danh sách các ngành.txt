@@ -1,0 +1,21 @@
+Danh sách các ngành của học viện gồm 20 ngành sau:
+ngành công nghệ thông tin, mã ngành 7480201, tổ hợp xét tuyển A00, A01, đào tạo tại cả 2 cơ sở
+ngành cử nhân công nghệ thông tin định hướng ứng dụng, mã ngành 7480201_UDU, tổ hợp xét tuyển A00, A01, đào tạo tại phía Bắc
+ngành mạng máy tính và truyền thông dữ liệu (ct kỹ thuật dữ liệu), mã ngành 7480102, tổ hợp xét tuyển A00, A01, đào tạo tại phía Bắc
+ngành khoa học máy tính (định hướng khoa học dữ liệu), mã ngành 7480101, tổ hợp xét tuyển A00, A01, đào tạo tại phía Bắc
+ngành kỹ thuật Điện tử viễn thông, mã ngành 7520207, tổ hợp xét tuyển A00, A01, đào tạo tại cả 2 cơ sở
+ngành công nghệ kỹ thuật Điện, điện tử, mã ngành 7510301, tổ hợp xét tuyển A00, A01, đào tạo tại cả 2 cơ sở
+ngành kỹ thuật Điều khiển và tự động hóa, mã ngành 7520216, tổ hợp xét tuyển A00, A01, đào tạo tại cả 2 cơ sở
+ngành công nghệ inernet vạn vật (Iot), mã ngành 7520208, tổ hợp xét tuyển A00, A01, đào tạo tại phía Nam
+ngành an toàn thông tin, mã ngành 7480202, tổ hợp xét tuyển A00, A01, đào tạo tại cả 2 cơ sở
+ngành công nghệ đa phương tiện, mã ngành 7329001, tổ hợp xét tuyển A00, A01, D01, đào tạo tại cả 2 cơ sở
+ngành truyền thông đa phương tiện, mã ngành 7320104, tổ hợp xét tuyển A00, A01, D01, đào tạo tại phía Bắc
+ngành báo chí, mã ngành 7320101, tổ hợp xét tuyển A00, A01, D01, đào tạo tại phía Bắc
+ngành quản trị kinh doanh, mã ngành 7340101, tổ hợp xét tuyển A00, A01, D01, đào tạo tại cả 2 cơ sở
+ngành thương mại điện tử, mã ngành 7340122, tổ hợp xét tuyển A00, A01, D01, đào tạo tại phía Bắc
+ngành marketing, mã ngành 7340115, tổ hợp xét tuyển A00, A01, D01, đào tạo tại cả 2 cơ sở
+ngành kế toán, mã ngành 7340301, tổ hợp xét tuyển A00, A01, D01, đào tạo tại cả 2 cơ sở
+ngành công nghệ tài chính (Fintech), mã ngành 7340205, tổ hợp xét tuyển A00, A01, D01, đào tạo tại phía Bắc
+ngành công nghệ thông tin chất lượng cao, mã ngành 7480201_cLc, tổ hợp xét tuyển A00, A01, đào tạo tại cả 2 cơ sở
+ngành marketing chất lượng cao, mã ngành 7340115_cLc, tổ hợp xét tuyển A00, A01, D01, đào tạo tại cả 2 cơ sở
+ngành kế toán chất lượng cao (chuẩn quốc tế acca), mã ngành 7340301_cLc, tổ hợp xét tuyển A00, A01, D01, đào tạo tại phía Bắc

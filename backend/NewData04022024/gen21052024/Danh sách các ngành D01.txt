@@ -1,0 +1,12 @@
+Danh sách các ngành tổ hợp xét tuyển D01 gồm: 
+- Công nghệ đa phương tiện
+- Truyền thông đa phương tiện
+- Báo chí
+- Quản trị kinh doanh
+- Thương mại điện tử
+- Marketing
+- Kế toán
+- Công nghệ tài chính (Fintech)
+- Marketing_CLC
+- Kế toán_CLC (chuẩn quốc tế ACCA)
+- Công nghệ thông tin_CLC

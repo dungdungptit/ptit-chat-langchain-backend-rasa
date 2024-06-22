@@ -1,0 +1,82 @@
+[
+  {
+    "text": "anh yêu em không",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "cảm ơn",
+      "confidence": 0.6367465853691101
+    }
+  },
+  {
+    "text": "thầy cô cho em hỏi địa chỉ tiếp nhận hồ sơ xét tuyển của trường mình là km 10 đường nguyễn trãi quận hà đông hà nội phải không",
+    "intent": "địa chỉ cơ sở",
+    "intent_prediction": {
+      "name": "xét tuyển kết hợp",
+      "confidence": 0.9989098310470581
+    }
+  },
+  {
+    "text": "địa chỉ gửi giấy báo điểm km 10 đường nguyễn trãi quậun hà đông thành phố hà nội đúng không vậy",
+    "intent": "địa chỉ cơ sở",
+    "intent_prediction": {
+      "name": "điểm trúng tuyển",
+      "confidence": 0.8940725326538086
+    }
+  },
+  {
+    "text": "với phương thức xét tuyển kết hợp con gái tôi đã đủ điều kiện vào ngành công nghệtt điểm thi khối a01 toán lý anh được 27 05 điểm không tính điểm ưu tiên thì có được miễn học phí năm thứ không không",
+    "intent": "học phí",
+    "intent_prediction": {
+      "name": "xét tuyển kết hợp",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "em nghe các anh chị đi trước nói trường có vài ngành hệ dân lập học phí cao",
+    "intent": "học phí",
+    "intent_prediction": {
+      "name": "các ngành đào tạo",
+      "confidence": 0.9999980926513672
+    }
+  },
+  {
+    "text": "vd chỉ tiêu ngành là 100 50 chỉ tiêu cho a00 50 chỉ tiêu cho a01 em cảm ơn",
+    "intent": "các ngành đào tạo",
+    "intent_prediction": {
+      "name": "cảm ơn",
+      "confidence": 0.9999998807907104
+    }
+  },
+  {
+    "text": "chào . em đang là sinh viên 2003 ngành httt trường uit, nay em muốn chuyển ngành học an toàn thông tin của trường trường cơ sở tphcm, anh  c tư vấn, hướng dẫn em nộp hs vào trường 1 cách tốt nhất . em xin cảm ơn",
+    "intent": "xin chào",
+    "intent_prediction": {
+      "name": "cảm ơn",
+      "confidence": 0.9999996423721313
+    }
+  },
+  {
+    "text": "trường mình đã có dự kiến điểm chuẩn ngành công nghệdpt chưa",
+    "intent": "điểm trúng tuyển",
+    "intent_prediction": {
+      "name": "các ngành đào tạo",
+      "confidence": 0.9999997615814209
+    }
+  },
+  {
+    "text": "xin chào anh chị . con tôi học trường trung học phổ thông ngô quyền tại hải phòng, cháu có thuộc diện được xét tuyển kết hợp không ?",
+    "intent": "xét tuyển kết hợp",
+    "intent_prediction": {
+      "name": "xin chào",
+      "confidence": 0.9990556836128235
+    }
+  },
+  {
+    "text": "bạn nhà em đã có điểm sat  1450  và ielts  7 . 0  . phiền anh chị cho gia đình hỏi rõ hơn về hình thức xét tuyển kết hợp  điều kiện cần để được đăng ký theo hình thức xét tuyển này là học sinh có điểm sat lớn hơn 1130 hoặc ielts lớn hơn 5 . 5, còn điểm trúng tuyển là điểm bình quân kết quả học tập ở năm học lớp 10, 11, 12  hoặc học kỳ 1 lớp 12  của ba  03  môn học toán, lý anh  bạn nhà em chọn tổ hợp toán, lý, anh  và điểm trúng tuyển sẽ lấy từ cao xuống thấp cho đến khi đủ chỉ tiêu .",
+    "intent": "xét tuyển kết hợp",
+    "intent_prediction": {
+      "name": "điểm trúng tuyển",
+      "confidence": 1.0
+    }
+  }
+]

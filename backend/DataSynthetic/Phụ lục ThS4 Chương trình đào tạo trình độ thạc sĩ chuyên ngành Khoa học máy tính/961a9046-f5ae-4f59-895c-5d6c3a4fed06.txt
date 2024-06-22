@@ -1,0 +1,253 @@
+2  Các học phần tự chọn  
+
+(Định hướng ứng dụng: chọn 05 trong 10 học phần; Định hướng nghiên cứu: chọn 02 trong 10 học phần)  
+
+Số giờ tín chỉ:
+
+Lý thuyết: 10
+
+Thực hành/Bài tập/Thảo luận: 4
+
+16
+
+Mã học phần: INT4408
+
+Tên học phần (Tiếng Việt và tiếng Anh): An toàn thông tin nâng cao Advanced Information Securit
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+17
+
+Mã học phần: INT4412
+
+Tên học phần (Tiếng Việt và tiếng Anh): Hệ điều hành mạng Network Operating System
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+18
+
+Mã học phần: INT4413
+
+Tên học phần (Tiếng Việt và tiếng Anh): Tìm kiếm và truy xuất thông tin Information Retrieva
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+19
+
+Mã học phần: INT4422
+
+Tên học phần (Tiếng Việt và tiếng Anh): Tính toán phân tán Distributed Computing
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+20
+
+Mã học phần: INT4423
+
+Tên học phần (Tiếng Việt và tiếng Anh): Công nghệ phần mềm nhúng Embedded Software Engineering
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+21
+
+Mã học phần: INT4424
+
+Tên học phần (Tiếng Việt và tiếng Anh): Tin sinh học Bioinformatics
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+22
+
+Mã học phần: INT4425
+
+Tên học phần (Tiếng Việt và tiếng Anh): Dịch vụ Web Web Services
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+23
+
+Mã học phần: INT4426
+
+Tên học phần (Tiếng Việt và tiếng Anh): Công nghệ phần mềm hướng Agent Agent-Oriented Software Engineering
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+24
+
+Mã học phần: INT4427
+
+Tên học phần (Tiếng Việt và tiếng Anh): Mô hình hóa và mô phỏng các hệ thống phức tạp Modeling and Simulation of Complex Systems
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+25
+
+Mã học phần: ELE4408
+
+Tên học phần (Tiếng Việt và tiếng Anh): Xử lý âm thanh nâng cao Advanced Audio Signal Processing
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+III.3  
+
+Mã học phần: INT4435
+
+Tên học phần (Tiếng Việt và tiếng Anh): Chuyên đề thạc sĩ 3 Special Study for Computer Science 3
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 0
+
+Định hướng nghiên cứu: 3 
+
+III.4 
+
+ Mã học phần: INT4436
+
+Tên học phần (Tiếng Việt và tiếng Anh): Chuyên đề thạc sĩ 4 Special Study for Computer Science 4
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 0
+
+Định hướng nghiên cứu: 3 
+
+IV Thực tập    
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 7
+
+Định hướng nghiên cứu: 0
+
+26
+
+Mã học phần: INT4540
+
+Tên học phần (Tiếng Việt và tiếng Anh): Thực tập Internship
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 7
+
+Định hướng nghiên cứu: 0

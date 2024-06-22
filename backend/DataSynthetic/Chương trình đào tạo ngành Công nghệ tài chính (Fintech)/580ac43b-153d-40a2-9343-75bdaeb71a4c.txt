@@ -1,0 +1,39 @@
+2. MỤC TIÊU, KIẾN THỨC, KỸ NĂNG, TRÌNH ĐỘ NGOẠI NGỮ ĐẠT ĐƯỢC  
+
+2.1 Mục tiêu  
+
+Công nghệ tài chính (FINTECH) là một ngành đào tạo lai ghép giữa công nghệ và tài chính. Fintech là thuật ngữ mô tả sự đổi mới và hiệu quả nhờ công nghệ trong lĩnh vực tài chính. Các hoạt động Fintech hiện nay gắn liền với sự ra đời và ứng dụng của công nghệ Blockchain, phân tích dữ liệu lớn, trực quan hóa dữ liệu, trí tuệ nhân tạo. Những công cụ này đã và đang đóng vai trò là chất xúc tác tạo đổi mới đáng kể trong ngành dịch vụ tài chính. Để hiểu về fintech, người học phải nắm bắt được sự đối, quản lý dữ liệu, trực quan hóa, Blockchain, trí tuệ nhân tạo và các mô hình kinh doanh trực tuyến.  
+
+Chương trình đào tạo ngành Công nghệ tài chính của Học viện Công nghệ Bưu chính Viễn thông được thiết kế để đào tạo và cung ứng nguồn nhân lực trình độ cử nhân  ngành Công nghệ tài chính  trong bối cảnh hội nhập quốc tế và phát triển của nền kinh tế số; sinh viên tốt nghiệp chương trình có phẩm chất đạo đức nghề nghiệp và sức khỏe tốt; có kiến thức cơ bản và chuyên môn về tài chính ngân hàng, công nghệ thông tin và công nghệ tài chính ;  Phát t riển năng lực sáng tạo, khả năng sử dụng ngoại ngữ trong các hoạt động về chuyên môn hoặc các vấn đề xã hội thông thường.  Thông qua chương trình đào tạo, sinh viên sẽ khám phá các lý thuyết về tài chính và ứng dụng của chúng cũng như các công nghệ như bloc kchain, dữ liệu lớn, trí tuệ nhân tạo có thể tạo đổi mới trong các hoạt động tài chính.  
+
+2.2 Kiến thức  
+
+Nắm vững các kiến thức đại cương về khoa học tự nhiên, khoa học xã hội, và vận dụng các kiến thức này trong học tập, nghiên cứu và thực hiện các hoạt độn g nghề nghiệp;  
+
+Nắm vững các kiến thức cơ sở ngành kinh tế, kinh doanh, quản trị, kế toán như: kinh tế vi mô, kinh tế vĩ mô, tài chính tiền tệ, nguyên lý kế toán, marketing căn bản và vận dụng các kiến thức này trong hoạt động nghề nghiệp;   
+
+Nắm vững và vận dụng các kiến thức về tài chính, ngân hàng như: hệ thống tài chính, nghiệp vụ ngân hàng, thanh toán quốc tế, tài chính doanh nghiệp, phân tích tài chính, đầu tư tài chính, quản trị rủi ro tài chính;  
+
+Nắm vững kiến thức nền tảng cơ bản về công nghệ thông tin: lập trình máy tính, khoa học dữ liệu và quản trị cơ sở dữ liệu, Phân tích thiết kế hệ thống thông tin quản lý, phát triển các hệ thống thương mại điện tử…  
+
+Nắm vững và vận dụng kiến thức nền tảng cơ bản về công nghệ tài chính: C ông nghệ tài chính căn bản, Quản lý và ứng dụng cơ sở dữ liệu trong tài chính, phân tích dữ liệu tài chính qui mô lớn, Tiền số và công nghệ Blockchain, trí tuệ nhân tạo, đổi mới sáng tạo tài chính.  
+
+Có kiến thức về pháp luật trong kinh doanh, kiến thức  về thống kê toán và kinh tế lượng ứng dụng trong tài chính.  
+
+2.3 Kỹ năng  
+
+(7) Kỹ năng ghi nhận các giao dịch kinh tế - tài chính phát sinh; Kỹ năng phân tích báo cáo tài chính theo yêu cầu cung cấp thông tin và tư vấn cho nhà quản lý;  
+
+(8) Kỹ năng nghiệp vụ liê n quan đến hoạt động tín dụng, ngoại hối và thanh toán quốc tế; 
+
+(9) Kỹ năng sử dụng các công cụ tài chính để quản lý tài chính, quản lý rủi ro tài chính, quản lý các hoạt động đầu tư, kinh doanh trong các doanh nghiệp và các tổ chức tài chính;  
+
+(10) Kỹ năng  thu thập, phân tích tìm hiểu và tổng hợp các yêu cầu từ đối tượng sử dụng sản phẩm phần mềm để phục vụ công tác thiết kế;  
+
+(11)  Kỹ năng thiết kế, triển khai thực hiện và quản lý các dự án phần mềm có qui mô vừa và nhỏ, đáp ứng các yêu cầu kỹ thuật trong điều kiện thực tế;  
+
+(12)  Kỹ năng phân tích và mô hình hóa quá trình và dữ liệu trong các tổ chức, khả năng xác định và cụ thể hóa các giải pháp kỹ thuật, khả năng quản trị dự án;  
+
+(13)  Kỹ năng vận dụng các khái niệm về hệ thống thông tin để đánh giá,  giải quyết các vấn đề xuất hiện trong hệ thống thông tin tài chính;  
+
+(14)  Kỹ năng phân tích và quản lý dữ liệu tài chính, sử dụng các phần mềm/ứng dụng công nghệ thông tin trong hoạt động của định chế tài chính, thị trường tài chính và doanh nghiệp.

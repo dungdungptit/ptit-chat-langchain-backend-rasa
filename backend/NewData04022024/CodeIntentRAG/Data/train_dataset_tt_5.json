@@ -1,0 +1,89 @@
+{
+    "queries": {
+        "ae8a1763-f0d5-42be-8278-813a09a8e704": "Thí sinh nào được ưu tiên xét tuyển theo phương thức 1?",
+        "e636e6a5-4665-42a3-ac5d-01cf535c9186": "Hồ sơ xét tuyển tài năng cần bao gồm những giấy tờ?",
+        "507018a0-5dc8-40f3-a40b-9e45e9bc22ce": "Thời gian đăng ký và nộp hồ sơ xét tuyển phương thức 1 là bao lâu?",
+        "38240336-c137-4b58-905c-313ca9550546": "Lệ phí xét tuyển phương thức 1 là bao nhiêu tiền?",
+        "aef03413-0b2e-4e1d-b9a6-c8122a673a0e": "Thí sinh được đăng ký bao nhiêu nguyện vọng xét tuyển?",
+        "6e49dfc7-b5d3-467a-a180-f70a94438803": "Công thức tính điểm HSNL trong phương thức 1 là gì?",
+        "60bf42c5-4695-4ac8-9a40-db075c0155a1": "Thí sinh chỉ trúng tuyển vào một nguyện vọng nào?",
+        "fe3eef54-fe61-4e6a-a5a7-adaa9dd83c62": "Điểm học lực chiếm tỷ lệ bao nhiêu trong điểm HSNL?",
+        "cd6f39c0-623b-4fa7-a6d7-a6682f1831a7": "Thí sinh cần chuẩn bị những gì trước khi nộp hồ sơ xét tuyển?",
+        "231da7cd-a467-499c-a6a6-2166bf9b00ee": "Điểm thành tích của học sinh chuyên là bao nhiêu?",
+        "9e7e2af7-8696-45f8-a48a-0592fbe04311": "Thí sinh nào được xem là đủ điều kiện trúng tuyển?",
+        "8cac2a88-6b6d-488d-b3c8-4c89e68d0eb2": "Cách tính điểm học lực trong phương thức 1 là gì?",
+        "70e62215-8b30-4c9b-9c64-39e8a746d079": "Thí sinh cần làm gì sau khi nộp hồ sơ xét tuyển?",
+        "0ce2c3dd-5c53-4ed8-8faa-0c61be5b28c8": "Điểm HSNL được quy đổi theo thang điểm bao nhiêu?",
+        "4f482cf1-d668-4e2c-97a4-9104fc9e0312": "Thí sinh cần xác nhận nhập học trước thời hạn nào?",
+        "51dd6f46-ec30-46f1-97e2-1c01b5d4dbf3": "Các bước thực hiện khai hồ sơ xét tuyển phương thức 1 là gì?",
+        "8c919819-7b1a-4f93-b5f9-b9989031c8d5": "Thí sinh cần có điểm trung bình chung học tập từ bao nhiêu trở lên để đủ điều kiện xét tuyển?",
+        "4a81a787-cf56-40ca-a332-1fb2ce42542d": "Điểm thành tích của thí sinh đạt giải nhất học sinh giỏi cấp tỉnh/thành phố trung ương là bao nhiêu?",
+        "113d3778-08d9-4944-8080-1973b1be4404": "Thí sinh cần nộp hồ sơ đăng ký xét tuyển theo quy định như thế nào?",
+        "404e3bed-4738-4811-8c91-e19e586f4e8f": "Điểm HSNL được tính như thế nào trong phương thức 1?"
+    },
+    "corpus": {
+        "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9": "Thông tin phương thức 1:\r\n1. Điều kiện xét tuyển\r\n2. Hồ sơ đăng ký xét tuyển\r\n3. Thời gian và hình thức nộp hồ sơ đăng ký xét tuyển\r\n4. Các bước thực hiện xét tuyển\r\n5. Lệ phí xét tuyển\r\n\r\nThông tin chi tiết phương thức 1 - xét tuyển tài năng:\r\n\r\nĐiều kiện xét tuyển phương thức 1:\r\nĐiều kiện xét tuyển tài năng:\r\n- Xét tuyển thẳng và ưu tiên xét tuyển: thí sinh là thành viên đội tuyển Olympic quốc tế hoặc đoạt giải Quốc gia, Quốc tế theo Quy chế tuyển sinh hiện hành của Bộ Giáo dục và Đào tạo và của Học viện (có thông báo chi tiết riêng).\r\n- Xét tuyển dựa vào hồ sơ năng lực (HSNL), thí sinh cần có thêm một trong các điều kiện sau đây:\r\n1. Thí sinh đoạt giải Khuyến khích trong kỳ thi chọn học sinh giỏi quốc gia hoặc đã tham gia kỳ thi chọn học sinh giỏi quốc gia hoặc đoạt giải Nhất, Nhì, Ba, Khuyến khích trong kỳ thi chọn học sinh giỏi cấp Tỉnh, Thành phố trực thuộc Trung ương (TW) các môn Toán, Lý, Hóa, Tin học và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên;\r\n2. Là học sinh chuyên các môn Toán, Lý, Hóa, Tin học của trường THPT chuyên trên phạm vi toàn quốc (các trường THPT chuyên thuộc Tỉnh, Thành phố trực thuộc TW và các trường THPT chuyên thuộc Cơ sở giáo dục đại học) hoặc hệ chuyên thuộc các trường THPT trọng điểm quốc gia; Và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên.\r\n\r\nHồ sơ phương thức 1:\r\nHồ sơ xét tuyển tài năng:\r\na) Phiếu đăng ký xét tuyển có xác nhận của trường THPT nơi thí sinh đang học hoặc Công an xã, phường nơi thí sinh tự do đang cư trú tại địa phương (In từ hệ thống xét tuyển);\r\nb) Bản sao hợp pháp một trong các giấy tờ sau: Giấy chứng nhận đạt giải kỳ thi chọn học sinh giỏi quốc gia hoặc Giấy xác nhận đã tham gia kỳ thi chọn học sinh giỏi quốc gia hoặc Giấy chứng nhận đạt giải kỳ thi chọn học sinh giỏi cấp Tỉnh, Thành phố trực thuộc Trung ương.\r\nc) Hoặc Giấy xác nhận là học sinh chuyên các môn Toán, Lý, Hóa, Tin học của trường THPT chuyên trên phạm vi toàn quốc (các trường THPT chuyên thuộc Tỉnh, Thành phố trực thuộc TW và các trường THPT chuyên thuộc Cơ sở giáo dục đại học) hoặc hệ chuyên thuộc các trường THPT trọng điểm quốc gia (nếu học bạ THPT không ghi hệ chuyên).\r\nd) Bản sao hợp lệ Học bạ THPT, trong trường hợp thí sinh chưa xin được học bạ THPT thì có thể thay thế bằng bản xác nhận kết quả học tập các môn học năm lớp 10, lớp 11, lớp 12 (hoặc học kỳ 1 lớp 12) có ký và đóng dấu của trường THPT;\r\nđ) Bản sao hợp lệ CMND/CCCD;\r\ne) Bản sao các giấy tờ ưu tiên khác (nếu có).\r\nLưu ý: Hồ sơ đăng ký xét tuyển dựa vào hồ sơ năng lực (HSNL) là riêng, độc lập với hồ sơ đăng ký xét tuyển theo kết quả thi tốt nghiệp THPT.\r\n\r\nThời gian đăng ký xét tuyển phương thức 1 - xét tuyển tài năng và hình thức nộp hồ sơ đăng ký xét tuyển phương thức 1 - xét tuyển tài năng:\r\n1. Từ ngày 15/04/2024 thí sinh đăng ký tài khoản xét tuyển trên trang web của Học viện.\r\n2. Từ ngày 15/04/2024 đến 0h00 ngày 21/05/2024 thí sinh đăng ký, điều chỉnh nguyện vọng xét tuyển (không giới hạn lần) trên Hệ thống xét tuyển trực tuyến của Học viện\r\n3. Từ ngày 15/04/2024 đến 0h00 ngày 21/05/2024 thí sinh nộp kinh phí xét tuyển (trực tuyến bằng mã định danh hoặc QR)\r\n4. Từ ngày 15/04/2024 đến 0h00 ngày 21/05/2024 thí sinh rà soát và khóa hồ sơ đăng ký xét tuyển trên Hệ thống xét tuyển trực tuyến của Học viện\r\n5. Từ ngày 15/04/2024 đến 17h00 ngày 20/05/2024 thí sinh nộp hồ sơ đăng ký xét tuyển theo quy định như mục 2 nêu trên về Học viện qua đường bưu điện chuyển phát nhanh hoặc chuyển phát đảm bảo\r\n6. Trước 17h00 ngày 30/05/2024 Học viện thông báo thí sinh đủ điều kiện trúng tuyển\r\n7. Từ ngày 10/07/2024 đến 17h00 ngày 25/07/2024 thí sinh đủ điều kiện trúng tuyển đăng ký nguyện vọng xét tuyển trên Hệ thống bủa Bộ GD&ĐT\r\n8. Trước 17h00 ngày 18/08/2024 thí sinh xác nhận nhập học trực tuyến trên Hệ thống\r\nLưu ý: Hồ sơ đăng ký xét tuyển (ĐKXT) được xác lập là hồ sơ hợp lệ khi thí sinh đã khoá hồ sơ trên hệ thống xét tuyển trực tuyến, thí sinh đã đóng lệ phí xét tuyển, hồ sơ ĐKXT (bản cứng) được gửi tới Học viện và được Học viện chấp nhận.\r\n\r\nCác bước thực hiện xét tuyển phương thức 1, nộp hồ sơ xét tuyển phương thức 1:\r\nCác bước thực hiện khai và nộp hồ sơ xét tuyển phương thức 1, nộp hồ sơ xét tuyển tài năng:\r\nBước 1: Thí sinh lựa chọn Phương thức xét tuyển và khai hồ sơ ĐKXT dựa vào HSNL trực tuyến tại địa chỉ website: https://xettuyen.ptit.edu.vn;\r\nBước 2: In 02 Phiếu ĐKXT dựa vào HSNL rồi xin xác nhận của trường THPT nơi thí sinh đang học hoặc Công an xã, phường nơi thí sinh tự do đang cư trú tại địa phương;\r\nBước 3: Chuẩn bị đầy đủ hồ sơ ĐKXT dựa vào HSNL theo yêu cầu như mục 2 nêu trên;\r\nBước 4: Nộp hồ sơ ĐKXT dựa vào HSNL bằng đường bưu điện chuyển phát nhanh hoặc chuyển phát đảm bảo đến các địa chỉ cơ sở đào tạo của Học viện (Thời gian nộp hồ sơ được tính theo dấu bưu điện).\r\n\r\nLệ phí xét tuyển phương thức 1 là 25.000 đ/nguyện vọng\r\nLệ phí xét tuyển tài năng là 25.000 đ/nguyện vọng\r\n\r\nNguyên tắc xét tuyển phương thức 1:\r\nThí sinh được đăng ký xét tuyển 02 nguyện vọng và phải sắp xếp nguyện vọng theo thứ tự ưu tiên từ cao xuống thấp (nguyện vọng 1 là nguyện vọng cao nhất). Thí sinh chỉ trúng tuyển vào một (01) nguyện vọng ưu tiên cao nhất trong danh sách các nguyện vọng đã đăng ký;\r\nXét tuyển theo ngành và theo Điểm hồ sơ năng lực (Điểm HSNL);\r\nXét trúng tuyển từ thí sinh có kết quả cao xuống cho đến hết chỉ tiêu;\r\nĐiểm HSNL = Điểm học lực + Điểm thành tích + Điểm ưu tiên (theo Quy chế tuyển sinh của Bộ GD&ĐT). Trong đó,\r\nĐiểm HSNL được quy đổi theo thang điểm 100;\r\nĐiểm học lực chiếm 60% (tối đa 60 điểm);\r\nĐiểm thành tích chiếm 40% (tối đa 40 điểm);\r\nĐiểm ưu tiên thực hiện theo Quy chế tuyển sinh của Bộ GD&ĐT và được quy đổi theo thang điểm 100 tương ứng.\r\nĐiểm học lực (ĐHL) được tính bằng tổng của ba (03) điểm bình quân kết quả học tập ở năm học lớp 10, lớp 11, lớp 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) của ba (03) môn học tương ứng với tổ hợp bài thi/môn thi của ngành đã đăng ký xét tuyển, cụ thể:\r\nĐHL = [Điểm BQ môn 1 + Điểm BQ môn 2 + Điểm BQ môn 3]*6/3\r\nvới Điểm BQ môn = [Điểm năm lớp 10 + Điểm năm lớp 11 + Điểm năm lớp 12]/3\r\n\r\nCông thức tính điểm HSNL phương thức 1: Điểm HSNL = Điểm học lực + Điểm thành tích + Điểm ưu tiên \r\nCông thức tính điểm học lực (ĐHL) phương thức 1: Điểm học lực (ĐHL)\r\n\r\nCông thức tính điểm HSNL xét tuyển tài năng: Điểm HSNL = Điểm học lực + Điểm thành tích + Điểm ưu tiên \r\nCông thức tính điểm học lực (ĐHL) xét tuyển tài năng: Điểm học lực (ĐHL)\r\n\r\nĐiểm thành tích được xác định cụ thể như sau:\r\nGiải khuyến khích hsg quốc gia, điểm thành tích 40\r\nGiải nhất hsg cấp tỉnh/thành phố trung ương, điểm thành tích 35\r\nGiải nhì hsg cấp tỉnh/thành phố trung ương, điểm thành tích 30\r\nGiải ba hsg cấp tỉnh/thành phố trung ương, điểm thành tích 25\r\nGiải khuyến khích hsg cấp tỉnh/thành phố trung ương, điểm thành tích 20\r\nHọc sinh chuyên (không có giải), điểm thành tích 25\r\nGhi chú: Thí sinh chỉ được lựa chọn một (01) loại thành tích cao nhất.\r\n- Nếu xét tuyển không đủ chỉ tiêu thì số chỉ tiêu còn lại được chuyển sang xét tuyển theo phương thức khác;\r\n- Thí sinh đủ điều kiện trúng tuyển vẫn phải đăng ký nguyện vọng trên Hệ thống tuyển sinh của Bộ Giáo dục và Đào tạo theo kế hoạch chung (thí sinh xếp nguyện vọng đã đủ điều kiện trúng tuyển là nguyện vọng 1 khi đăng ký nguyện vọng trên Hệ thống để được trúng tuyển chính thức vào Học viện);\r\n- Thí sinh trúng tuyển phải xác nhận nhập học trên Hệ thống tuyển sinh và theo kế hoạch quy định của Bộ Giáo dục và Đào tạo. Nếu quá thời hạn này, thí sinh không xác nhận nhập học được xem là từ chối nhập học.\r\n"
+    },
+    "relevant_docs": {
+        "ae8a1763-f0d5-42be-8278-813a09a8e704": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ],
+        "e636e6a5-4665-42a3-ac5d-01cf535c9186": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ],
+        "507018a0-5dc8-40f3-a40b-9e45e9bc22ce": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ],
+        "38240336-c137-4b58-905c-313ca9550546": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ],
+        "aef03413-0b2e-4e1d-b9a6-c8122a673a0e": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ],
+        "6e49dfc7-b5d3-467a-a180-f70a94438803": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ],
+        "60bf42c5-4695-4ac8-9a40-db075c0155a1": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ],
+        "fe3eef54-fe61-4e6a-a5a7-adaa9dd83c62": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ],
+        "cd6f39c0-623b-4fa7-a6d7-a6682f1831a7": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ],
+        "231da7cd-a467-499c-a6a6-2166bf9b00ee": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ],
+        "9e7e2af7-8696-45f8-a48a-0592fbe04311": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ],
+        "8cac2a88-6b6d-488d-b3c8-4c89e68d0eb2": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ],
+        "70e62215-8b30-4c9b-9c64-39e8a746d079": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ],
+        "0ce2c3dd-5c53-4ed8-8faa-0c61be5b28c8": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ],
+        "4f482cf1-d668-4e2c-97a4-9104fc9e0312": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ],
+        "51dd6f46-ec30-46f1-97e2-1c01b5d4dbf3": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ],
+        "8c919819-7b1a-4f93-b5f9-b9989031c8d5": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ],
+        "4a81a787-cf56-40ca-a332-1fb2ce42542d": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ],
+        "113d3778-08d9-4944-8080-1973b1be4404": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ],
+        "404e3bed-4738-4811-8c91-e19e586f4e8f": [
+            "3d0a8ccf-e5e4-49c4-9c2a-cf27c1a2a9f9"
+        ]
+    }
+}

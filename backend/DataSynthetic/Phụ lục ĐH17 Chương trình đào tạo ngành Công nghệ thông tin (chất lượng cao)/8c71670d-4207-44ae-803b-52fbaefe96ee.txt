@@ -1,0 +1,13 @@
+2.2.2 Về Kỹ năng  (Skills) 
+
+PO4 : Làm việc chuyên  nghiệp trong ít nhất một trong các lĩnh vực sau: thiết kế phần mềm, phát triển phần mềm, kiểm thử phần mềm, khoa học dữ liệu, học máy, nghiên cứu về khoa học máy tính, hệ thống thông tin.  
+
+(Work professionally in one or more of the following areas: softwa re design, developing, and testing; data science, machine learning engineering; computer science research; information s ystems ). 
+
+PO5 : Làm việc hiệu quả, độc lập cũng như tập thể, trong nhiều môi trường làm việc khác nhau.  
+
+(Work effectively in a variety of  contexts, both as individuals and in team environments) . 
+
+PO6 : Có khả năng tự học suốt đời để đảm bảo làm việc chuyên nghiệp và hiệu quả trong thế giới công nghệ không ngừng thay đổi.  
+
+(Engage in lifelong learning to remain effective professionals in a con stantly changing world of technology) .

@@ -1,0 +1,9 @@
+c. Chuyên ngành Hệ thống thông tin  
+
+Nắm vững vai trò hệ thống thông tin trong các tổ chức. Hiểu được vai trò các thành phần của hệ thống thông tin bao gồm con người, quy trình, phần cứng, phần mềm, và dữ liệu.  
+
+Vận dụng các khái niệm về hệ thống để đánh giá, giải quyết các vấn đề xuất hiện trong hệ thống thông tin.  
+
+Phân tích và mô hình hóa quá trình và dữ liệu trong các tổ chức, khả năng xác định và cụ thể hóa các giải pháp kỹ thuật, khả năng quản trị dự  án, khả năng tích hợp hệ thống.  
+
+Các kỹ thuật thu thập, biến đổi, truyền, và lưu trữ dữ liệu và thông tin.

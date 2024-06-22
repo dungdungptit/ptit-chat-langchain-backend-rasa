@@ -1,0 +1,4 @@
+Đối với thí sinh làm mất thẻ BHYT, thẻ BHYT hết hạn thì cách làm như sau:
+
+1. Quên mã số thẻ BHYT: Thí sinh vào trang https://baohiemxahoi.gov.vn (chọn mục tra cứu mã số BHYT) để lấy mã số BHYT, có mã số BHYT (chọn tra cứu giá trị sử dụng thẻ) rồi in thông tin về mã số BHYT và nộp khi nhập học. Hoặc thí sinh liên hệ trường THPT để lấy mã số thẻ BHYT.
+2. Nếu thí sinh đã cài đặt VssID- phần mềm bảo hiểm số trên điện thoại, trên đó có hình ảnh thẻ BHYT thí sinh in ra và nộp.

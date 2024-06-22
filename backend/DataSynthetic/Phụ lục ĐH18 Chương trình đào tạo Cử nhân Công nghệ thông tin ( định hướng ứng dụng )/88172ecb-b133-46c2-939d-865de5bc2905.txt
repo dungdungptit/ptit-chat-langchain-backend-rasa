@@ -1,0 +1,99 @@
+4.2.2. Khối kiến thức khoa học tự nhiên và xã hội  
+
+10
+
+Tên môn học: Giải tích 1
+
+Mã học phần: BAS1203
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 36
+
+	Bài tập/Thảo luận: 8
+
+Tự học (tiết): 1
+
+11
+
+Tên môn học: Giải tích 2
+
+Mã học phần: BAS1204
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 36
+
+	Bài tập/Thảo luận: 8
+
+Tự học (tiết): 1
+
+12
+
+Tên môn học: Đại số
+
+Mã học phần: BAS1201
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 36
+
+	Bài tập/Thảo luận: 8
+
+Tự học (tiết): 1
+
+13
+
+Tên môn học: Xác suất thống kê
+
+Mã học phần: BAS1226
+
+Số tín chỉ: 2
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 24
+
+	Bài tập/Thảo luận: 6
+
+14
+
+Tên môn học: Toán rời rạc
+
+Mã học phần: INT1358
+
+Số tín chỉ: 3
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 36
+
+	Bài tập/Thảo luận: 8
+
+Tự học (tiết): 1
+
+15
+
+Tên môn học: Pháp luật đại cương
+
+Mã học phần: BAS1221
+
+Số tín chỉ: 2
+
+Lên lớp (tiết):
+
+	Lý Thuyết: 24
+
+	Bài tập/Thảo luận: 6
+
+Tổng số tín chỉ: 16
+
+4.2.3. Khối kiến thức giáo dục chuyên nghiệp   
+
+4.2.3.1.

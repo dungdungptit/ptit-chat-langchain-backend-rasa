@@ -1,0 +1,3 @@
+Chuyên ngành công nghệ phần mềm  
+
+PO4. Áp dụng  kiến thức chuyên sâu về phân tích, thiết kế, phát triển và triển khai giải pháp trong lĩnh vực công nghệ phần mềm đối với hệ thống web, ứng dụng di động bao gồm máy chủ, cơ sở dữ liệu, giao diện người dùng một cách tối ưu và hiệu quả trong giải quyết các vấn đề thực tế tại doanh nghiệp;

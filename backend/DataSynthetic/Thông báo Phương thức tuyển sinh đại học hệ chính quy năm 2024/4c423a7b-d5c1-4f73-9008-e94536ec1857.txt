@@ -1,0 +1,57 @@
+8. Phương thức Xét tuyển dựa vào kết quả bài thi đánh giá năng lực, tư duy
+
+8.1. Điều kiện xét tuyển
+
+Thí sinh phải đáp ứng một trong các điều kiện sau:
+
+Có điểm thi đánh giá năng lực của Đại học quốc gia Hà Nội năm 2024 từ 75 điểm trở lên;
+
+Có điểm thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh năm 2024 từ 600 điểm trở lên;
+
+Có điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội năm 2024 từ 50 điểm trở lên.
+
+8.2. Nguyên tắc xét tuyển
+
+Ngoài các nguyên tắc xét tuyển chung tại mục 6, nguyên tắc xét tuyển áp dụng cho phương thức xét tuyển dựa vào kết quả bài thi đánh giá năng lực, đánh giá tư duy quy định cụ thể như sau:
+
+Thí sinh được đăng ký xét tuyển 02 nguyện vọng và phải sắp xếp nguyện vọng theo thứ tự ưu tiên từ cao xuống thấp (nguyện vọng 1 là nguyện vọng cao nhất). Thí sinh chỉ trúng tuyển vào một (01) nguyện vọng ưu tiên cao nhất trong danh sách các nguyện vọng đã đăng ký;
+
+Xét tuyển theo ngành và theo điểm xét tuyển đã quy đổi về thang điểm 30;
+
+Xét trúng tuyển từ thí sinh có kết quả cao xuống cho đến hết chỉ tiêu;
+
+Điểm xét tuyển (ĐXT) được quy đổi về theo thang điểm 30 như sau:
+
+ĐXT theo kỳ thi đánh gia năng lực của Đại học quốc gia Hà Nội:
+
+ĐXT = điểm ĐGNL *30/150 + điểm ưu tiên (nếu có)
+
+ĐXT theo kỳ thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh:
+
+ĐXT = điểm ĐGNL *30/1200 + điểm ưu tiên (nếu có)
+
+ĐXT theo kỳ thi đánh giá tư duy của Đại học Bách khoa Hà Nội:
+
+ĐXT = điểm ĐGTD *30/100 + điểm ưu tiên (nếu có)
+
+Nếu xét tuyển kết hợp không đủ chỉ tiêu thì chỉ tiêu còn lại được chuyển sang xét tuyển theo phương thức khác;
+
+Thí sinh trúng tuyển phải xác nhận nhập học trong thời gian quy định của Học viện. Nếu quá thời hạn này, thí sinh không xác nhận nhập học được xem từ chối nhập học.
+
+8.3. Hình thức đăng ký xét tuyển dựa vào kết quả bài thi đánh giá năng lực hoặc đánh giá tư duy
+
+Thí sinh đăng ký xét tuyển theo hình thức trực tuyến trên hệ thống xét tuyển trực tuyến của Học viện tại địa chỉ: https://xettuyen.ptit.edu.vn.
+
+8.4. Thời gian công bố kết quả xét tuyển
+
+Dự kiến tháng 5/2024
+
+
+
+Các thông tin chi tiết và hướng dẫn tuyển sinh đại học chính quy năm 2024 thí sinh có thể xem trên các công thông tin điện tử và trang Fanpage tuyển sinh của Học viện tại các địa chỉ: https://ptit.edu.vn, https://daotao.ptit.edu.vn, https://tuyensinh.ptit.edu.vn, https://facebook.com/ptittuyensinh; trang zalo: Học viện Công nghệ Bưu chính Viễn thông (ID 1260203497642986925).
+
+Xin trân trọng thông tin!
+
+Tài liệu đính kèm
+
+cv217__phuong_thuc_tuyen_sinh_2024.pdf: https://apiquanlydaotao.ptit.edu.vn/documents/fileUpload-1709694286513-cv217__phuong_thuc_tuyen_sinh_2024.pdf

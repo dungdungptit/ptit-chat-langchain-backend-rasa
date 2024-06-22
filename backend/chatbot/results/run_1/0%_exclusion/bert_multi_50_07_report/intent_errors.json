@@ -1,0 +1,66 @@
+[
+  {
+    "text": "địa chỉ gửi giấy báo điểm km 10 đường nguyễn trãi quậun hà đông thành phố hà nội đúng không vậy",
+    "intent": "địa chỉ cơ sở",
+    "intent_prediction": {
+      "name": "điểm trúng tuyển",
+      "confidence": 0.6283034086227417
+    }
+  },
+  {
+    "text": "với phương thức xét tuyển kết hợp con gái tôi đã đủ điều kiện vào ngành công nghệtt điểm thi khối a01 toán lý anh được 27 05 điểm không tính điểm ưu tiên thì có được miễn học phí năm thứ không không",
+    "intent": "học phí",
+    "intent_prediction": {
+      "name": "xét tuyển kết hợp",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "em nghe các anh chị đi trước nói trường có vài ngành hệ dân lập học phí cao",
+    "intent": "học phí",
+    "intent_prediction": {
+      "name": "các ngành đào tạo",
+      "confidence": 0.9999996423721313
+    }
+  },
+  {
+    "text": "vd chỉ tiêu ngành là 100 50 chỉ tiêu cho a00 50 chỉ tiêu cho a01 em cảm ơn",
+    "intent": "các ngành đào tạo",
+    "intent_prediction": {
+      "name": "cảm ơn",
+      "confidence": 0.9999990463256836
+    }
+  },
+  {
+    "text": "không biet muc diem dao dong cua ngành nay trog truong qua cac nam la bao nhiu vậy a",
+    "intent": "các ngành đào tạo",
+    "intent_prediction": {
+      "name": "xin chào",
+      "confidence": 0.9992501139640808
+    }
+  },
+  {
+    "text": "mình dọc chỉ thấy kết hợp chứng chỉ tiếng anh với học bạ nhưng không biết cách tính thế nào để ra được điểm trúng tuyển",
+    "intent": "điểm trúng tuyển",
+    "intent_prediction": {
+      "name": "xét tuyển kết hợp",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "dạ vâng, à cho em hỏi thêm là phương thức xét tuyển kết hợp có cần điểm thi đại học vượt qua điểm sàn của trường không ạ ?",
+    "intent": "xét tuyển kết hợp",
+    "intent_prediction": {
+      "name": "điểm trúng tuyển",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "xin chào anh chị . con tôi học trường trung học phổ thông ngô quyền tại hải phòng, cháu có thuộc diện được xét tuyển kết hợp không ?",
+    "intent": "xét tuyển kết hợp",
+    "intent_prediction": {
+      "name": "xin chào",
+      "confidence": 0.9980992674827576
+    }
+  }
+]

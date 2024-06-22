@@ -1,0 +1,89 @@
+{
+    "queries": {
+        "053cf6e6-0369-4f88-ba56-95bb1cf3474c": "Thí sinh cần đạt điểm SAT từ bao nhiêu trở lên để được xét tuyển phương thức 3?",
+        "0059a46f-b791-4202-9af1-10da68187e8e": "Điều kiện cần thiết để thí sinh được xét tuyển phương thức 3 là gì?",
+        "07a38a83-44a5-474e-96b9-ec1545bdd38a": "Thí sinh cần có kết quả điểm trung bình chung học tập từ lớp nào trở lên để được xét tuyển phương thức 3?",
+        "559ce250-e027-47a8-b025-7b93a8dfbfc4": "Thí sinh cần đạt điểm IELTS bao nhiêu trở lên để được xét tuyển phương thức 3?",
+        "c2953c34-b0a9-4427-8254-8d41d4c29125": "Hồ sơ xét tuyển kết hợp bao gồm những giấy tờ cần thiết?",
+        "f200aa87-57e8-4a24-812f-7c6149e47198": "Thời gian nộp hồ sơ đăng ký xét tuyển kết hợp kéo dài đến ngày nào?",
+        "defa604a-cc75-48d8-83c1-db36997b835c": "Thí sinh cần nộp kinh phí xét tuyển trước ngày nào?",
+        "b8ee2cb2-6844-4aa3-ba34-c568bc83adfd": "Thí sinh cần rà xoát và khóa hồ sơ đăng ký xét tuyển trên hệ thống trước thời gian nào?",
+        "670d2e52-5abe-4de0-b1e7-d0b0d864cd22": "Học viện thông báo thí sinh đủ điều kiện trúng tuyển trước ngày nào?",
+        "34b79ba5-57e2-44ec-b090-ed043881685b": "Thí sinh cần đăng ký nguyện vọng xét tuyển trên hệ thống của Bộ BD&ĐT trong khoảng thời gian nào?",
+        "df2fe4a3-346d-43f7-82a4-870b5b491791": "Thí sinh cần xác nhận nhập học trực tuyến trước ngày nào?",
+        "72e4a1de-5908-4bc3-94fd-c37c0f256deb": "Hồ sơ đăng ký xét tuyển kết hợp được xác lập là hồ sơ hợp lệ khi nào?",
+        "fae9556e-1ff5-471f-b825-df95aee48618": "Bước nào thí sinh cần thực hiện sau khi lựa chọn phương thức xét tuyển trực tuyến?",
+        "b7fbcd4b-700b-44c7-b16e-a47c729b3352": "Thí sinh cần xin xác nhận của đơn vị nào trước khi nộp hồ sơ đăng ký xét tuyển kết hợp?",
+        "97f7c871-8035-40d1-a473-76f67a4d3c47": "Lệ phí xét tuyển phương thức 3 là bao nhiêu đồng/nguyện vọng?",
+        "f754e11a-3b58-4a37-abb1-4b3ccd1d88db": "Thí sinh cần chuẩn bị đầy đủ hồ sơ đăng ký xét tuyển kết hợp theo yêu cầu như thế nào?",
+        "756455fd-f1b9-4a43-8714-685b3ba20402": "Thời gian nộp hồ sơ được tính theo phương tiện nào?",
+        "50af85b6-0c5a-4ce9-a555-66a5963100b2": "Bước cuối cùng trong quá trình nộp hồ sơ xét tuyển phương thức 3 là gì?",
+        "36f1d645-9e1a-4550-8409-1ebdb53547bd": "Thí sinh cần nộp hồ sơ đăng ký xét tuyển theo quy định của Học viện qua phương tiện nào?",
+        "10d2903a-a260-449e-90f9-d0d89cffafcc": "Thí sinh cần nộp hồ sơ đăng ký xét tuyển kết hợp đến địa chỉ nào?"
+    },
+    "corpus": {
+        "ce79bf66-c530-4710-b668-4547d369b838": "Thông tin phương thức 3:\r\n1. Điều kiện xét tuyển\r\n2. Hồ sơ đăng ký xét tuyển\r\n3. Thời gian và hình thức nộp hồ sơ đăng ký xét tuyển\r\n4. Các bước thực hiện xét tuyển\r\n5. Lệ phí xét tuyển\r\n\r\nThông tin chi tiết phương thức 3 - xét tuyển kết hợp:\r\n\r\nĐiều kiện xét tuyển phương thức 3:\r\nĐiều kiện xét tuyển kết hợp:\r\n- Thí sinh có Chứng chỉ quốc tế SAT, trong thời hạn 02 năm (tính đến ngày xét tuyển) từ 1130/1600 trở lên hoặc ACT từ 25/36 trở lên; và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên;\r\n- Thí sinh có Chứng chỉ tiếng Anh quốc tế trong thời hạn (tính đến ngày xét tuyển) đạt IELTS 5.5 trở lên hoặc TOEFL iBT 65 trở lên hoặc TOEFL ITP 513 trở lên; và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên.\r\n\r\nHồ sơ phương thức 3:\r\nHồ sơ xét tuyển kết hợp gồm:\r\na) Phiếu đăng ký xét tuyển có xác nhận của trường THPT nơi thí sinh đang học hoặc Công an xã, phường nơi thí sinh tự do đang cư trú tại địa phương (In từ hệ thống xét tuyển);\r\nb) Bản sao hợp pháp một trong các giấy tờ sau:\r\nChứng chỉ quốc tế SAT hoặc ACT;\r\nChứng chỉ tiếng Anh quốc tế còntrong thời hạn (tính đến ngày xét tuyển);\r\nc) Bản sao hợp lệ Học bạ THPT, trong trường hợp thí sinh chưa xin được học bạ THPT thì có thể thay thế bằng bản xác nhận kết quả học tập các môn học năm lớp 10, lớp 11, lớp 12 (hoặc học kỳ 1 lớp 12) có ký và đóng dấu của trường THPT;\r\nd) Bản sao hợp lệ CMND/CCCD;\r\ne) Bản sao các giấy tờ ưu tiên khác (nếu có).\r\nLưu ý: Hồ sơ đăng ký xét tuyển kết hợp là riêng, độc lập với hồ sơ đăng ký xét tuyển theo kết quả thi tốt nghiệp THPT.\r\n\r\nThời gian nộp hồ sơ đăng ký xét tuyển phương thức 3:\r\nThời gian nộp hồ sơ đăng ký xét tuyển kết hợp (XTKH):\r\n- Từ ngày 15/4/2024, thí sinh đăng ký tài khoản xét tuyển trên hệ thống xết tuyển trực tuyến của Học viện.\r\n- Từ ngày 15/4 đến 0h00 ngày 26/5/2024, thí sinh đăng ký, điều chỉnh nguyện vọng xét tuyển (không giới hạn số lần) trên Hệ thống xét tuyển trực tuyến của Học viện.\r\n- Từ ngày 15/4 đến 0h00 ngày 26/5/2024, thí sinh nộp kinh phí xét tuyển (trực tuyến bằng mã định danh hoặc mã QR).\r\n- Từ ngày 15/4 đến 0h00 ngày 26/5/2024, thí sinh rà xoát và khóa hồ sơ đăng ký xét tuyển trên Hệ thống xét tuyển của Học viện.\r\n- Từ ngày 15/4 đến 17h00 ngày 25/5/2024, thí sinh nộp hồ sơ đăng ký xét tuyển theo quy định của Học viện qua đường bưu điện chuyển phát nhanh hoặc chuyển phát đảm bảo.\r\n- Trước 17h00 ngày 10/6/2024, Học viện thông báo thí sinh đủ điều kiện trúng tuyển.\r\n- Từ ngày 10/7 đến 17h00 ngày 25/07/20024, thí sinh đủ điều kiện trúng tuyển đăng ký nguyện vọng xét tuyển trên Hệ thống của Bộ BD&ĐT.\r\n- Trước 17h00 ngày 18/08/2024, thí sinh xác nhận nhập học trực tuyến trên Hệ thống.\r\nLưu ý: Hồ sơ đăng ký xét tuyển (ĐKXT) được xác lập là hồ sơ hợp lệ khi thí sinh đã khoá hồ sơ trên hệ thống xét tuyển trực tuyến, thí sinh đã đóng lệ phí xét tuyển, hồ sơ ĐKXT (bản cứng) được gửi tới Học viện và được Học viện chấp nhận.\r\n\r\nCác bước thực hiện xét tuyển phương thức 3, nộp hồ sơ xét tuyển phương thức 3:\r\nCác bước thực hiện khai và nộp hồ sơ xét tuyển phương thức 3, nộp hồ sơ xét tuyển kết hợp:\r\nBước 1: Thí sinh lựa chọn Phương thức xét tuyển và khai hồ sơ đăng ký XTKH trực tuyến tại địa chỉ website: https://xettuyen.ptit.edu.vn;\r\nBước 2: In 02 Phiếu ĐKXT theo phương thức xét tuyển kết hợp rồi xin xác nhận của trường THPT nơi thí sinh đang học hoặc Công an xã, phường nơi thí sinh tự do đang cư trú tại địa phương;\r\nBước 3: Chuẩn bị đầy đủ hồ sơ ĐKXT-KH theo yêu cầu như mục 1 nêu trên;\r\nBước 4: Nộp hồ sơ ĐKXT-KH bằng đường bưu điện chuyển phát nhanh hoặc chuyển phát đảm bảo đến các địa chỉ cơ sở đào tạo của Học viện (Thời gian nộp hồ sơ được tính theo dấu bưu điện).\r\n\r\nLệ phí xét tuyển phương thức 3 là 25.000 đ/nguyện vọng\r\nLệ phí xét tuyển kết hợp là 25.000 đ/nguyện vọng"
+    },
+    "relevant_docs": {
+        "053cf6e6-0369-4f88-ba56-95bb1cf3474c": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ],
+        "0059a46f-b791-4202-9af1-10da68187e8e": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ],
+        "07a38a83-44a5-474e-96b9-ec1545bdd38a": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ],
+        "559ce250-e027-47a8-b025-7b93a8dfbfc4": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ],
+        "c2953c34-b0a9-4427-8254-8d41d4c29125": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ],
+        "f200aa87-57e8-4a24-812f-7c6149e47198": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ],
+        "defa604a-cc75-48d8-83c1-db36997b835c": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ],
+        "b8ee2cb2-6844-4aa3-ba34-c568bc83adfd": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ],
+        "670d2e52-5abe-4de0-b1e7-d0b0d864cd22": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ],
+        "34b79ba5-57e2-44ec-b090-ed043881685b": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ],
+        "df2fe4a3-346d-43f7-82a4-870b5b491791": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ],
+        "72e4a1de-5908-4bc3-94fd-c37c0f256deb": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ],
+        "fae9556e-1ff5-471f-b825-df95aee48618": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ],
+        "b7fbcd4b-700b-44c7-b16e-a47c729b3352": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ],
+        "97f7c871-8035-40d1-a473-76f67a4d3c47": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ],
+        "f754e11a-3b58-4a37-abb1-4b3ccd1d88db": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ],
+        "756455fd-f1b9-4a43-8714-685b3ba20402": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ],
+        "50af85b6-0c5a-4ce9-a555-66a5963100b2": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ],
+        "36f1d645-9e1a-4550-8409-1ebdb53547bd": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ],
+        "10d2903a-a260-449e-90f9-d0d89cffafcc": [
+            "ce79bf66-c530-4710-b668-4547d369b838"
+        ]
+    }
+}

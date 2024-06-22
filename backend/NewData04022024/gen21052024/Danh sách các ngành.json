@@ -1,0 +1,89 @@
+{
+    "queries": {
+        "a25235fe-45c2-40e9-ac76-1911a6b9c3a3": "Ngành nào đào tạo tại phía Bắc trong danh sách các ngành của học viện?",
+        "cfc98ec7-fd1f-43da-940d-b4c7050bc52a": "Ngành nào có mã ngành là 7340115_CLC?",
+        "bb1238a8-0d43-4de4-adf8-1156e2e7a76c": "Tổ hợp xét tuyển A00, A01 gồm những ngành nào?",
+        "2d596930-7aa1-48aa-861d-c526b4d66f3d": "Ngành nào có mã ngành là 7520208 và đào tạo tại phía Nam?",
+        "b2168d61-3b30-472c-9fb7-05f8024a42b7": "Ngành nào không thuộc danh sách các ngành tổ hợp xét tuyển A00, A01, D01?",
+        "df28d721-ba1c-4487-bd16-7baae00054b8": "Ngành nào có tổ hợp xét tuyển A00, A01, D01 và đào tạo tại phía Bắc?",
+        "5bc3c464-2b3d-495f-b975-b017d38e9f40": "Ngành nào có mã ngành là 7340301_CLC?",
+        "3491d10f-6338-4732-bce0-9080b0572d02": "Ngành nào không thuộc danh sách các ngành tổ hợp xét tuyển A00, A01?",
+        "dc770b7e-316f-4676-a49f-3b3e9988812a": "Ngành nào có mã ngành là 7480201_CLC?",
+        "652498c8-f360-41f3-9cc0-d626f1f5a12a": "Ngành nào có tổ hợp xét tuyển A00, A01 và đào tạo tại phía Bắc?",
+        "649292e0-1d23-417d-bec8-5746adf043a7": "Ngành nào có mã ngành là 7320101?",
+        "9c7cd411-1c71-4bcc-995d-59e5de0c0f8b": "Ngành nào có mã ngành là 7520216?",
+        "0ea35058-df05-4852-801a-d2dc214f4e4e": "Ngành nào có mã ngành là 7340205 và đào tạo tại phía Bắc?",
+        "a04500a2-201e-45a1-98db-6c57b41fe455": "Ngành nào có mã ngành là 7320104 và đào tạo tại phía Bắc?",
+        "dfeaaff0-8968-48fa-94c2-15d7cac8331a": "Ngành nào có mã ngành là 7340122 và đào tạo tại phía Bắc?",
+        "5f95352e-71f7-4103-b591-e8a1456aaa7f": "Ngành nào có mã ngành là 7340101?",
+        "c814362a-c305-4eff-93ed-7ea53cb67303": "Ngành nào có mã ngành là 7480202?",
+        "f9a99369-42dc-49f4-978e-3452f8d9a7f4": "Ngành nào có mã ngành là 7510301?",
+        "3578702f-f81a-4beb-8360-be111b254eba": "Ngành nào có mã ngành là 7480101 và đào tạo tại phía Bắc?",
+        "95bc0da4-1f6c-4310-9743-fc6a63a91f4a": "Ngành nào có mã ngành là 7480102 và đào tạo tại phía Bắc?"
+    },
+    "corpus": {
+        "7038c979-01a9-4045-bb36-54a00cbd646a": "Danh sách các ngành của học viện gồm 20 ngành sau:\r\n1. ngành Công nghệ thông tin, mã ngành 7480201, tổ hợp xét tuyển A00, A01\r\n2. ngành Cử nhân Công nghệ thông tin định hướng ứng dụng, mã ngành 7480201_UDU, tổ hợp xét tuyển A00, A01, đào tạo tại phía Bắc\r\n3. ngành Mạng máy tính và truyền thông dữ liệu (CT Kỹ thuật dữ liệu), mã ngành 7480102, tổ hợp xét tuyển A00, A01, đào tạo tại phía Bắc\r\n4. ngành Khoa học máy tính (định hướng Khoa học dữ liệu), mã ngành 7480101, tổ hợp xét tuyển A00, A01, đào tạo tại phía Bắc\r\n5. ngành Kỹ thuật Điện tử viễn thông, mã ngành 7520207, tổ hợp xét tuyển A00, A01\r\n6. ngành Công nghệ kỹ thuật Điện, điện tử, mã ngành 7510301, tổ hợp xét tuyển A00, A01\r\n7. ngành Kỹ thuật Điều khiển và tự động hóa, mã ngành 7520216, tổ hợp xét tuyển A00, A01\r\n8. ngành Công nghệ Inernet vạn vật (IoT), mã ngành 7520208, tổ hợp xét tuyển A00, A01, đào tạo tại phía Nam\r\n9. ngành An toàn thông tin, mã ngành 7480202, tổ hợp xét tuyển A00, A01\r\n10. ngành Công nghệ đa phương tiện, mã ngành 7329001, tổ hợp xét tuyển A00, A01, D01\r\n11. ngành Truyền thông đa phương tiện, mã ngành 7320104, tổ hợp xét tuyển A00, A01, D01, đào tạo tại phía Bắc\r\n12. ngành Báo chí, mã ngành 7320101, tổ hợp xét tuyển A00, A01, D01, đào tạo tại phía Bắc\r\n13. ngành Quản trị kinh doanh, mã ngành 7340101, tổ hợp xét tuyển A00, A01, D01\r\n14. ngành Thương mại điện tử, mã ngành 7340122, tổ hợp xét tuyển A00, A01, D01, đào tạo tại phía Bắc\r\n15. ngành Marketing, mã ngành 7340115, tổ hợp xét tuyển A00, A01, D01\r\n16. ngành Kế toán, mã ngành 7340301, tổ hợp xét tuyển A00, A01, D01\r\n17. ngành Công nghệ tài chính (Fintech), mã ngành 7340205, tổ hợp xét tuyển A00, A01, D01, đào tạo tại phía Bắc\r\n18. ngành Công nghệ thông tin_CLC, mã ngành 7480201_CLC, tổ hợp xét tuyển A00, A01\r\n19. ngành Marketing_CLC, mã ngành 7340115_CLC, tổ hợp xét tuyển A00, A01, D01\r\n20. ngành Kế toán_CLC (chuẩn quốc tế ACCA), mã ngành 7340301_CLC, tổ hợp xét tuyển A00, A01, D01, đào tạo tại phía Bắc\r\n\r\nDanh sách các ngành tổ hợp xét tuyển A00, A01 gồm: \r\n- Công nghệ thông tin\r\n- Cử nhân Công nghệ thông tin định hướng ứng dụng\r\n- Mạng máy tính và truyền thông dữ liệu (CT Kỹ thuật dữ liệu)\r\n- Khoa học máy tính (định hướng Khoa học dữ liệu)\r\n- Kỹ thuật Điện tử viễn thông\r\n- Công nghệ kỹ thuật Điện, điện tử\r\n- Kỹ thuật Điều khiển và tự động hóa\r\n- Công nghệ Inernet vạn vật (IoT)\r\n- An toàn thông tin\r\n- Công nghệ đa phương tiện\r\n- Truyền thông đa phương tiện\r\n- Báo chí\r\n- Quản trị kinh doanh\r\n- Thương mại điện tử\r\n- Marketing\r\n- Kế toán\r\n- Công nghệ tài chính (Fintech)\r\n- Công nghệ thông tin_CLC\r\n- Marketing_CLC\r\n- Kế toán_CLC (chuẩn quốc tế ACCA)\r\n\r\nDanh sách các ngành tổ hợp xét tuyển A00, A01, D01 gồm: \r\n- Công nghệ đa phương tiện\r\n- Truyền thông đa phương tiện\r\n- Báo chí\r\n- Quản trị kinh doanh\r\n- Thương mại điện tử\r\n- Marketing\r\n- Kế toán\r\n- Công nghệ tài chính (Fintech)\r\n- Marketing_CLC\r\n- Kế toán_CLC (chuẩn quốc tế ACCA)\r\n- Công nghệ thông tin_CLC"
+    },
+    "relevant_docs": {
+        "a25235fe-45c2-40e9-ac76-1911a6b9c3a3": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ],
+        "cfc98ec7-fd1f-43da-940d-b4c7050bc52a": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ],
+        "bb1238a8-0d43-4de4-adf8-1156e2e7a76c": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ],
+        "2d596930-7aa1-48aa-861d-c526b4d66f3d": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ],
+        "b2168d61-3b30-472c-9fb7-05f8024a42b7": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ],
+        "df28d721-ba1c-4487-bd16-7baae00054b8": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ],
+        "5bc3c464-2b3d-495f-b975-b017d38e9f40": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ],
+        "3491d10f-6338-4732-bce0-9080b0572d02": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ],
+        "dc770b7e-316f-4676-a49f-3b3e9988812a": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ],
+        "652498c8-f360-41f3-9cc0-d626f1f5a12a": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ],
+        "649292e0-1d23-417d-bec8-5746adf043a7": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ],
+        "9c7cd411-1c71-4bcc-995d-59e5de0c0f8b": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ],
+        "0ea35058-df05-4852-801a-d2dc214f4e4e": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ],
+        "a04500a2-201e-45a1-98db-6c57b41fe455": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ],
+        "dfeaaff0-8968-48fa-94c2-15d7cac8331a": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ],
+        "5f95352e-71f7-4103-b591-e8a1456aaa7f": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ],
+        "c814362a-c305-4eff-93ed-7ea53cb67303": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ],
+        "f9a99369-42dc-49f4-978e-3452f8d9a7f4": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ],
+        "3578702f-f81a-4beb-8360-be111b254eba": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ],
+        "95bc0da4-1f6c-4310-9743-fc6a63a91f4a": [
+            "7038c979-01a9-4045-bb36-54a00cbd646a"
+        ]
+    }
+}

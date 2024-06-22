@@ -1,0 +1,89 @@
+{
+    "queries": {
+        "52120881-5463-42c9-8dc6-0f3045e4fa64": "Thời gian đăng ký và nhận hồ sơ ĐKXT cho phương thức xét tuyển tài năng là khi nào?",
+        "f3bac9d6-f0f6-4e7a-b6d2-ab7952d94d02": "Hình thức đăng ký xét tuyển và nộp hồ sơ cho phương thức xét tuyển tài năng là gì?",
+        "46f3edc7-e422-4bc1-a87c-2874bccc1b4f": "Cách thức công bố kết quả xét tuyển cho phương thức xét tuyển tài năng là gì?",
+        "ee723f64-5ba9-4fac-9344-3bdab7c0a40f": "Phương thức 2 của việc xét tuyển dựa vào điểm thi tốt nghiệp THPT năm 2024 là gì?",
+        "90e96c4f-a79b-4302-9c6e-e4058cf54afd": "Thời gian xét tuyển cho phương thức 2 là khi nào?",
+        "ce6df21c-e2bc-4984-846e-d7790b4d7d83": "Có tổ chức sơ tuyển cho phương thức xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2024 không?",
+        "b6a6789a-f4bc-4b37-a3a3-6eb0b6e1893d": "Thời gian đăng ký và nhận hồ sơ ĐKXT cho phương thức xét tuyển kết hợp và dựa vào kết quả bài thi ĐGNL, ĐGTD là khi nào?",
+        "4150da8a-9baf-4b4a-9f04-a59147782fcc": "Hình thức đăng ký xét tuyển và nộp hồ sơ cho phương thức xét tuyển kết hợp và dựa vào kết quả bài thi ĐGNL, ĐGTD là gì?",
+        "505b8be3-3adf-4427-85f8-014454cce73e": "Cách thức công bố kết quả xét tuyển cho phương thức xét tuyển kết hợp và dựa vào kết quả bài thi ĐGNL, ĐGTD là gì?",
+        "4c4048ff-c20b-4ed3-affd-acf356395999": "Địa chỉ website để thí sinh đăng ký nguyện vọng xét tuyển trực tuyến là gì?",
+        "80bdad50-3549-421e-98ab-9f392719768f": "Phương thức nào được ưu tiên xét tuyển theo quy định của Bộ Giáo dục và Đào tạo?",
+        "2ebce1be-3e31-4d90-a3da-88803df0f518": "Thời gian nhận hồ sơ ĐKXT cho phương thức xét tuyển tài năng kéo dài đến ngày nào?",
+        "17ef04c7-c936-4285-9085-3ee483cfd97d": "Phương thức nào không tổ chức sơ tuyển?",
+        "06f5cd12-be19-499a-9407-5c3f64103746": "Thời gian công bố kết quả xét tuyển cho phương thức xét tuyển dựa vào kết quả bài thi ĐGNL, ĐGTD là khi nào?",
+        "9249b3b2-9f46-47e8-8aee-ac6936837891": "Có thể nộp hồ sơ trực tiếp tại đâu?",
+        "ba8c002e-88ec-4b8b-96c9-b24982b2ee03": "Phương thức nào dựa vào hồ sơ năng lực của thí sinh?",
+        "04f3b8bf-5dfd-432b-b138-fc185474afbc": "Thời gian đăng ký và nhận hồ sơ ĐKXT cho phương thức xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2024 kéo dài đến ngày nào?",
+        "07988a30-6a0d-4d47-8d71-bf106ef24016": "Có bao nhiêu phương thức xét tuyển được nêu trong thông tin ngữ cảnh?",
+        "0ecf8423-b524-42fa-b4bd-b592183304a6": "Phương thức nào được xét tuyển dựa vào kết quả bài thi ĐGNL, ĐGTD?",
+        "1dc15cd3-461f-4705-9f4c-87c1a01e7f03": "Thời gian công bố kết quả xét tuyển cho phương thức xét tuyển tài năng là khi nào?"
+    },
+    "corpus": {
+        "9f7d7d98-669c-4755-895f-8073347a489c": "Thời gian đăng ký, thời gian nhận hồ sơ, thời gian công bố kết quả xét tuyển. hình thức, điều kiện nhận hồ sơ dự tuyển/thi tuyển; các điều kiện xét tuyển/thi tuyển như sau:\r\na) Phương thức 1 – Xét tuyển tài năng\r\n- Xét tuyển thẳng và ưu tiên xét tuyển: Theo quy định và theo lịch tuyển sinh của Bộ Giáo dục và Đào tạo.\r\n- Xét tuyển dựa vào hồ sơ năng lực:\r\nThời gian đăng ký và nhận hồ sơ ĐKXT: Từ 15/04/2024 đến hết 20/05/2024;\r\nHình thức đăng ký xét tuyển và nộp hồ sơ: thí sinh khai hồ sơ, đăng ký nguyện vọng xét tuyển trên Cổng xét tuyển trực tuyến của Học viện tại địa chỉ https://xettuyen.ptit.edu.vn và nộp hồ sơ (gửi qua đường Bưu điện, không nhận hồ sơ trực tiếp) cho các Cơ sở đào tạo của Học viện;\r\nCông bố kết quả xét tuyển: Học viện thông báo thí sinh đủ điều kiện trước 17h ngày 30/05/2024.\r\nb) Phương thức 2 - Xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2024\r\nHình thức ĐKXT: Trực tuyến theo quy định của Bộ Giáo dục và Đào tạo;\r\nThời gian xét tuyển: Theo lịch xét tuyển của Bộ Giáo dục và Đào tạo;\r\nCác điều kiện xét tuyển: Không tổ chức sơ tuyển\r\nCông bố kết quả xét tuyển: Học viện thông báo thí sinh trúng truyển đợt 1 trước 17h ngày 12/08/2024.\r\nc) Phương thức 3, 4 - Xét tuyển kết hợp và xét tuyển dựa vào kết quả bài thi ĐGNL, ĐGTD\r\nThời gian đăng ký và nhận hồ sơ ĐKXT: Từ 15/04/2024 đến hết 25/05/2024;\r\nHình thức đăng ký xét tuyển và nộp hồ sơ: thí sinh khai hồ sơ, đăng ký nguyện vọng xét tuyển trên Cổng xét tuyển trực tuyến của Học viện tại địa chỉ https://xettuyen.ptit.edu.vn và nộp hồ sơ (gửi qua đường Bưu điện, không nhận hồ sơ trực tiếp) cho các Cơ sở đào tạo của Học viện;\r\nCông bố kết quả xét tuyển: Học viện thông báo thí sinh đủ điều kiện trước 17h ngày 10/06/2024.\r\n"
+    },
+    "relevant_docs": {
+        "52120881-5463-42c9-8dc6-0f3045e4fa64": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ],
+        "f3bac9d6-f0f6-4e7a-b6d2-ab7952d94d02": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ],
+        "46f3edc7-e422-4bc1-a87c-2874bccc1b4f": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ],
+        "ee723f64-5ba9-4fac-9344-3bdab7c0a40f": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ],
+        "90e96c4f-a79b-4302-9c6e-e4058cf54afd": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ],
+        "ce6df21c-e2bc-4984-846e-d7790b4d7d83": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ],
+        "b6a6789a-f4bc-4b37-a3a3-6eb0b6e1893d": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ],
+        "4150da8a-9baf-4b4a-9f04-a59147782fcc": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ],
+        "505b8be3-3adf-4427-85f8-014454cce73e": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ],
+        "4c4048ff-c20b-4ed3-affd-acf356395999": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ],
+        "80bdad50-3549-421e-98ab-9f392719768f": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ],
+        "2ebce1be-3e31-4d90-a3da-88803df0f518": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ],
+        "17ef04c7-c936-4285-9085-3ee483cfd97d": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ],
+        "06f5cd12-be19-499a-9407-5c3f64103746": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ],
+        "9249b3b2-9f46-47e8-8aee-ac6936837891": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ],
+        "ba8c002e-88ec-4b8b-96c9-b24982b2ee03": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ],
+        "04f3b8bf-5dfd-432b-b138-fc185474afbc": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ],
+        "07988a30-6a0d-4d47-8d71-bf106ef24016": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ],
+        "0ecf8423-b524-42fa-b4bd-b592183304a6": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ],
+        "1dc15cd3-461f-4705-9f4c-87c1a01e7f03": [
+            "9f7d7d98-669c-4755-895f-8073347a489c"
+        ]
+    }
+}

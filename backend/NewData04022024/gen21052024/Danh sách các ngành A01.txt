@@ -1,0 +1,21 @@
+Danh sách các ngành tổ hợp xét tuyển A01 gồm: 
+- Công nghệ thông tin
+- Cử nhân Công nghệ thông tin định hướng ứng dụng
+- Mạng máy tính và truyền thông dữ liệu (CT Kỹ thuật dữ liệu)
+- Khoa học máy tính (định hướng Khoa học dữ liệu)
+- Kỹ thuật Điện tử viễn thông
+- Công nghệ kỹ thuật Điện, điện tử
+- Kỹ thuật Điều khiển và tự động hóa
+- Công nghệ Inernet vạn vật (IoT)
+- An toàn thông tin
+- Công nghệ đa phương tiện
+- Truyền thông đa phương tiện
+- Báo chí
+- Quản trị kinh doanh
+- Thương mại điện tử
+- Marketing
+- Kế toán
+- Công nghệ tài chính (Fintech)
+- Công nghệ thông tin_CLC
+- Marketing_CLC
+- Kế toán_CLC (chuẩn quốc tế ACCA)

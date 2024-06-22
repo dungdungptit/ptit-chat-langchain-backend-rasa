@@ -1,0 +1,13 @@
+4.1 Cấu trúc chương trình
+
+Kiến thức giáo dục đại cương: 43 tín chỉ
+
+Kiến thức giáo dục chuyên nghiệp: 80 tín chỉ trong đó:
+
+Kiến thức cơ sở ngành: 44 tín chỉ
+
+Kiến thức chuyên ngành: 36 tín chỉ
+
+Thực tập và Tốt nghiệp: 10 tín chỉ
+
+Tổng cộng: 133 tín chỉ

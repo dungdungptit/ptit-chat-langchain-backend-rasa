@@ -1,0 +1,12 @@
+Danh sách các ngành tổ hợp xét tuyển A00, A01, D01 gồm: 
+ngành Công nghệ đa phương tiện
+ngành Truyền thông đa phương tiện
+ngành Báo chí
+ngành Quản trị kinh doanh
+ngành Thương mại điện tử
+ngành Marketing
+ngành Kế toán
+ngành Công nghệ tài chính (Fintech)
+ngành Marketing_CLC
+ngành Kế toán_CLC (chuẩn quốc tế ACCA)
+ngành Công nghệ thông tin_CLC

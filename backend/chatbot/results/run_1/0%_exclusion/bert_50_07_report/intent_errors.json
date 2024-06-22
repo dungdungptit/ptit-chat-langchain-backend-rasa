@@ -1,0 +1,122 @@
+[
+  {
+    "text": "thời tiết ngày mai",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "các ngành đào tạo",
+      "confidence": 0.8434922695159912
+    }
+  },
+  {
+    "text": "anh yêu em không",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "các ngành đào tạo",
+      "confidence": 0.696750819683075
+    }
+  },
+  {
+    "text": "địa chỉ gửi giấy báo điểm km 10 đường nguyễn trãi quậun hà đông thành phố hà nội đúng không vậy",
+    "intent": "địa chỉ cơ sở",
+    "intent_prediction": {
+      "name": "điểm trúng tuyển",
+      "confidence": 0.9999935626983643
+    }
+  },
+  {
+    "text": "với phương thức xét tuyển kết hợp con gái tôi đã đủ điều kiện vào ngành công nghệtt điểm thi khối a01 toán lý anh được 27 05 điểm không tính điểm ưu tiên thì có được miễn học phí năm thứ không không",
+    "intent": "học phí",
+    "intent_prediction": {
+      "name": "xét tuyển kết hợp",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "em nghe các anh chị đi trước nói trường có vài ngành hệ dân lập học phí cao",
+    "intent": "học phí",
+    "intent_prediction": {
+      "name": "các ngành đào tạo",
+      "confidence": 0.9999995231628418
+    }
+  },
+  {
+    "text": "biết điểm từng ngành luôn",
+    "intent": "các ngành đào tạo",
+    "intent_prediction": {
+      "name": "điểm trúng tuyển",
+      "confidence": 0.9999996423721313
+    }
+  },
+  {
+    "text": "tại em thấy trên trang của trường ghi trên 80 điểm nhưng em muốn điểm cụ thể từng ngành với",
+    "intent": "các ngành đào tạo",
+    "intent_prediction": {
+      "name": "điểm trúng tuyển",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "em thích ngành gì năng động và phù hợp với con gái",
+    "intent": "các ngành đào tạo",
+    "intent_prediction": {
+      "name": "xét tuyển kết hợp",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "vd chỉ tiêu ngành là 100 50 chỉ tiêu cho a00 50 chỉ tiêu cho a01 em cảm ơn",
+    "intent": "các ngành đào tạo",
+    "intent_prediction": {
+      "name": "cảm ơn",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "học viện cho em hỏi mai là tuần lễ sinh hoạt công dân thì ngành khoa học máy tính và công nghệ đa phương tiện học lúc nào",
+    "intent": "các ngành đào tạo",
+    "intent_prediction": {
+      "name": "học phí",
+      "confidence": 0.997968852519989
+    }
+  },
+  {
+    "text": "cảm ơn admin nhiều có lẽ ngành này phù hợp với em hơn em sẽ tìm hiểu thêm",
+    "intent": "cảm ơn",
+    "intent_prediction": {
+      "name": "xét tuyển kết hợp",
+      "confidence": 0.9999986886978149
+    }
+  },
+  {
+    "text": "chào admin em có thắc mắc về cách để xét tuyển vào trường bằng học bạ trung học phổ thông admin có thể giải đáp giúp em được không",
+    "intent": "xin chào",
+    "intent_prediction": {
+      "name": "học phí",
+      "confidence": 0.8602533936500549
+    }
+  },
+  {
+    "text": "chào . em đang là sinh viên 2003 ngành httt trường uit, nay em muốn chuyển ngành học an toàn thông tin của trường trường cơ sở tphcm, anh  c tư vấn, hướng dẫn em nộp hs vào trường 1 cách tốt nhất . em xin cảm ơn",
+    "intent": "xin chào",
+    "intent_prediction": {
+      "name": "các ngành đào tạo",
+      "confidence": 0.9999673366546631
+    }
+  },
+  {
+    "text": "em chào thầy cô trong quá trình chuẩn bị hồ sơ em có sử dụng bảng điểm sat",
+    "intent": "xin chào",
+    "intent_prediction": {
+      "name": "điểm trúng tuyển",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "mình dọc chỉ thấy kết hợp chứng chỉ tiếng anh với học bạ nhưng không biết cách tính thế nào để ra được điểm trúng tuyển",
+    "intent": "điểm trúng tuyển",
+    "intent_prediction": {
+      "name": "xét tuyển kết hợp",
+      "confidence": 1.0
+    }
+  }
+]

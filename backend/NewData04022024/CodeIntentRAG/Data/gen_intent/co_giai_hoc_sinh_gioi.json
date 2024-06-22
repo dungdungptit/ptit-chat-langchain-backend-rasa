@@ -1,0 +1,49 @@
+{
+    "queries": {
+        "67ee2306-9e1f-42d5-8a21-fd8e158484d5": "Điều kiện nào cần phải đạt để được xét tuyển theo phương thức 1 - Xét tuyển tài năng?",
+        "579b413e-1b46-45e0-ba6b-e19bd3058ca2": "Ai có thể đăng ký xét tuyển theo phương thức hồ sơ năng lực?",
+        "3687126a-9037-476c-8432-9f27eb20449d": "Điểm trung bình chung học tập cần đạt từ bao nhiêu trở lên để được xét tuyển theo phương thức 1?",
+        "325e57d9-5076-431d-ba25-f129264132fd": "Hạnh kiểm cần đạt để được xét tuyển theo phương thức 1 là gì?",
+        "234ad5a2-5d2a-42bf-9f36-583c9b3abc4e": "Ai có thể đăng ký xét tuyển theo phương thức 1 nếu đã có giải từ khuyến khích quốc gia trở lên?",
+        "76076a3e-4c2f-4bea-9ed7-000b9738a22d": "Điểm trung bình chung học tập cần đạt từ bao nhiêu trở lên để được xét tuyển theo phương thức hồ sơ năng lực?",
+        "25ab92f4-dc95-49a8-bcb5-4c71ab436888": "Có bao nhiêu môn được xét tuyển theo phương thức 1?",
+        "34c24527-d5b7-49e9-acdd-5d5ba5c6c7c8": "Học sinh đã tham gia kỳ thi chọn học sinh giỏi quốc gia có thể đăng ký xét tuyển theo phương thức nào?",
+        "c4f15690-fc2c-43ec-a618-a07578e8589c": "Điều kiện nào cần phải đạt để được xét tuyển theo phương thức hồ sơ năng lực?",
+        "509c5d05-c791-4346-9252-16b8abaea207": "Học sinh đã có giải nhất cấp tỉnh môn nào có thể đăng ký xét tuyển theo phương thức 1?"
+    },
+    "corpus": {
+        "811b1035-807e-4e78-9133-19d630da8bfc": "có giải từ khuyến khích quốc gia trở lên hoặc đã tham gia kỳ thi chọn học sinh giỏi quốc gia nên đăng ký xét tuyển phương thức 1 - Xét tuyển tài năng là xét tuyển dựa vào hồ sơ năng lực (HSNL) với điều kiện có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên\r\n\r\ncó giải nhất cấp tỉnh môn Toán, Lý, Hóa, Tin học, có giải nhất thành phố môn Toán, Lý, Hóa, Tin học nên đăng ký xét tuyển phương thức 1 - Xét tuyển tài năng là xét tuyển dựa vào hồ sơ năng lực (HSNL) với điều kiện có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên\r\n\r\ncó giải nhì cấp tỉnh môn Toán, Lý, Hóa, Tin học, có giải nhì thành phố môn Toán, Lý, Hóa, Tin học nên đăng ký xét tuyển phương thức 1 - Xét tuyển tài năng là xét tuyển dựa vào hồ sơ năng lực (HSNL) với điều kiện có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên\r\n\r\ncó giải ba cấp tỉnh môn Toán, Lý, Hóa, Tin học, có giải ba thành phố môn Toán, Lý, Hóa, Tin học nên đăng ký xét tuyển phương thức 1 - Xét tuyển tài năng là xét tuyển dựa vào hồ sơ năng lực (HSNL) với điều kiện có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên\r\n\r\ncó giải khuyến khích cấp tỉnh môn Toán, Lý, Hóa, Tin học nên đăng ký xét tuyển phương thức 1 - Xét tuyển tài năng là xét tuyển dựa vào hồ sơ năng lực (HSNL) với điều kiện có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên\r\n\r\ncó giải khuyến khích thành phố môn Toán, Lý, Hóa, Tin học nên đăng ký xét tuyển phương thức 1 - Xét tuyển tài năng là xét tuyển dựa vào hồ sơ năng lực (HSNL) với điều kiện có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên\r\n\r\ncó giải khuyến khích thành phố môn Tin học có thể đăng ký xét tuyển theo phương thức hồ sơ năng lực với điều kiện có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên"
+    },
+    "relevant_docs": {
+        "67ee2306-9e1f-42d5-8a21-fd8e158484d5": [
+            "811b1035-807e-4e78-9133-19d630da8bfc"
+        ],
+        "579b413e-1b46-45e0-ba6b-e19bd3058ca2": [
+            "811b1035-807e-4e78-9133-19d630da8bfc"
+        ],
+        "3687126a-9037-476c-8432-9f27eb20449d": [
+            "811b1035-807e-4e78-9133-19d630da8bfc"
+        ],
+        "325e57d9-5076-431d-ba25-f129264132fd": [
+            "811b1035-807e-4e78-9133-19d630da8bfc"
+        ],
+        "234ad5a2-5d2a-42bf-9f36-583c9b3abc4e": [
+            "811b1035-807e-4e78-9133-19d630da8bfc"
+        ],
+        "76076a3e-4c2f-4bea-9ed7-000b9738a22d": [
+            "811b1035-807e-4e78-9133-19d630da8bfc"
+        ],
+        "25ab92f4-dc95-49a8-bcb5-4c71ab436888": [
+            "811b1035-807e-4e78-9133-19d630da8bfc"
+        ],
+        "34c24527-d5b7-49e9-acdd-5d5ba5c6c7c8": [
+            "811b1035-807e-4e78-9133-19d630da8bfc"
+        ],
+        "c4f15690-fc2c-43ec-a618-a07578e8589c": [
+            "811b1035-807e-4e78-9133-19d630da8bfc"
+        ],
+        "509c5d05-c791-4346-9252-16b8abaea207": [
+            "811b1035-807e-4e78-9133-19d630da8bfc"
+        ]
+    }
+}

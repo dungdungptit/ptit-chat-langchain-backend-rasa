@@ -1,0 +1,39 @@
+2. Chuẩn đầu ra ngành An toàn thông tin MỤC TIÊU, KIẾN THỨC, KỸ NĂNG, TRÌNH ĐỘ NGOẠI NGỮ ĐẠT ĐƯỢC
+
+2.1. Kiến thức
+
+Chương trình trang bị cho sinh viên những kiến thức sau:
+
+Kiến thức giáo dục đại cương:  trang bị cho sinh viên các kiến thức giáo dục đại cương về Lý luận chính trị, Khoa học tự nhiên, Khoa học xã hội và nhân văn; chú trọng các môn Toán học, Vật lý và Tin học để làm nền tảng cho sin h viên khi học kiến thức ngành.
+
+Kiến thức cơ sở ngành : trang bị cho sinh viên những kiến thức về toán chuyên ngành, các kiến thức cơ bản về công nghệ thông tin như kỹ thuật và ngôn ngữ lập trình, kiến trúc máy tính, hệ điều hành, cơ sở dữ liệu, mạng máy tính, công nghệ phần mềm, cơ sở an toàn thông tin, mật mã học cơ sở.
+
+Kiến thức ngành: trang bị cho sinh viên kiến thức chuyên sâu về An toàn thông tin như: các kỹ thuật mật mã nâng cao, an toàn mạng máy tính, an toàn hệ điều hành, an toàn các ứng dụng web, an toàn cơ sở dữ liệu, các kỹ thuật tấn công và xâm nhập mạng, mô hình bảo vệ và các kỹ thuật phòng thủ chống tấn công xâm nhập, quản trị mạng an toàn, lập trình web, lập trình mạng và ứng dụng di động, thiết kế các phần mềm và công cụ đảm bảo an toàn, quả n lý và đánh giá điểm yếu, lỗ hổng, các kỹ thuật kiểm tra đánh giá an toàn, các vấn đề về chính sách, pháp luật và chuẩn hóa an toàn thông tin.
+
+2.2. Kỹ năng
+
+Áp dụng các các kiến thức, kỹ năng; sử dụng các công cụ khoa học kỹ thuật để nhận biết, phân tích,  giải quyết các vấn đề liên quan đến an toàn, bảo mật thông tin mạng;
+
+Thu thập, phân tích tìm hiểu và tổng hợp các yêu cầu về an ninh, bảo mật từ hệ thống thông tin để phục vụ công tác nghiên cứu, xây dựng và phát triển hệ thống an toàn, an ninh thông tin;
+
+Thiết kế và triển khai các ứng dụng đảm bảo an toàn thông tin đáp ứng các yêu cầu kỹ thuật đặt ra trong điều kiện thực tế;
+
+Tìm kiếm, tiếp cận, ứng dụng hiệu quả và sáng tạo các kỹ thuật, kỹ năng và công cụ hiện đại để giải quyết những vấn đề thực tế của lĩnh vực An toàn thông tin.
+
+2.3. Kỹ năng mềm
+
+Có kỹ năng giao tiếp và thuyết trình tốt thể hiện qua việc trình bày rõ ràng, tự tin và thuyết phục các vấn đề liên quan đến chuyên môn và các vấn đề kinh tế xã hội;
+
+Có kỹ năng làm việc nhóm, biết thành lập và tổ chức tốt công việc theo nhóm;
+
+Có các kỹ năng cá nhân và phẩm chất nghề nghiệp trong việc giải quyết vấn đề, tư duy sáng tạo, lập kế hoạch và tổ chức công việc;
+
+Có phương pháp làm việc khoa học và chuyên nghiệ p, tư duy hệ thống và tư duy phân tích và làm việc hiệu quả trong nhóm (đa ngành), hội nhập được trong môi trường quốc tế.
+
+2.4. Ngoại ngữ Tiếng Anh
+
+Đạt trình độ tiếng Anh 450 điểm TOEIC quốc tế hoặc tương đương;
+
+Có khả năng sử dụng tiếng Anh phục vụ họ c tập, nghiên cứu, hoà nhập nhanh với cộng đồng công nghệ thông tin khu vực và quốc tế sau khi ra trường.
+
+Có khả năng sử dụng tiếng Anh tốt trong các hoạt động liên quan đến nghề nghiệp được đào tạo.

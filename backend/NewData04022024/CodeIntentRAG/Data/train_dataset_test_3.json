@@ -1,0 +1,89 @@
+{
+    "queries": {
+        "e311b9c2-70b8-4bc3-9160-22346f761ce7": "Điểm tối thiểu cần đạt để được xét tuyển vào Đại học quốc gia Hà Nội là bao nhiêu?",
+        "9017abdf-f3d1-461d-a2ae-21529ea8c3ac": "Điểm tối thiểu cần đạt để được xét tuyển vào Đại học quốc gia Tp. Hồ Chí Minh là bao nhiêu?",
+        "20d2d428-d671-4bfc-8745-e4833e5c0885": "Điểm tối thiểu cần đạt để được xét tuyển vào Đại học Bách khoa Hà Nội là bao nhiêu?",
+        "edd0f3fd-4299-4807-b466-6d5550003215": "Khi nào kết quả bài thi đánh giá năng lực của Đại học quốc gia Hà Nội được coi là đạt yêu cầu?",
+        "7a73388f-95f8-43a0-af1c-b1ba87ddd7b6": "Khi nào kết quả bài thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh được coi là đạt yêu cầu?",
+        "c7549832-634f-48e3-91d3-c06b9c7ca797": "Khi nào kết quả bài thi đánh giá tư duy của Đại học Bách khoa Hà Nội được coi là đạt yêu cầu?",
+        "9fc87bcc-ecd4-4df6-81d2-9c9a2b183aae": "Điểm tối thiểu cần đạt để được xét tuyển vào Đại học quốc gia Hà Nội là bao nhiêu điểm cao hơn so với Đại học Bách khoa Hà Nội?",
+        "9fd2b1c9-a748-4f8b-9d68-14feac6fb9bf": "Điểm tối thiểu cần đạt để được xét tuyển vào Đại học quốc gia Tp. Hồ Chí Minh là bao nhiêu điểm cao hơn so với Đại học quốc gia Hà Nội?",
+        "77dd8917-9c55-43ec-895a-c48d4962fbda": "Kết quả bài thi đánh giá năng lực của Đại học quốc gia Hà Nội năm 2024 có thể được sử dụng để xét tuyển vào trường nào khác?",
+        "0678d09d-42eb-48c8-85a9-c6fecb9be46b": "Kết quả bài thi đánh giá tư duy của Đại học Bách khoa Hà Nội năm 2024 có thể được sử dụng để xét tuyển vào trường nào khác?",
+        "dffc42a6-8d71-483a-be76-d5adb325a63d": "Điểm tối thiểu cần đạt để được xét tuyển vào Đại học quốc gia Tp. Hồ Chí Minh là bao nhiêu điểm cao hơn so với Đại học Bách khoa Hà Nội?",
+        "d305dab9-6378-475b-add3-4c59eef80020": "Kết quả bài thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh năm 2024 có thể được sử dụng để xét tuyển vào trường nào khác?",
+        "7a84d7ef-c8e4-4104-847a-129da1fd6f14": "Kết quả bài thi đánh giá năng lực của Đại học quốc gia Hà Nội năm 2024 có thể được sử dụng để xét tuyển vào trường nào khác?",
+        "5bc7c55a-3258-46fd-88d8-beae0e3322b8": "Kết quả bài thi đánh giá tư duy của Đại học Bách khoa Hà Nội năm 2024 có thể được sử dụng để xét tuyển vào trường nào khác?",
+        "80aff2d3-c14e-48c5-bc44-72f7d0085963": "Khi nào kết quả bài thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh được coi là không đạt yêu cầu?",
+        "8fa63a91-1749-4d72-8540-ba061328f535": "Khi nào kết quả bài thi đánh giá tư duy của Đại học Bách khoa Hà Nội được coi là không đạt yêu cầu?",
+        "8a62acd4-ab98-493d-9d80-a617a253763e": "Điểm tối thiểu cần đạt để được xét tuyển vào Đại học quốc gia Hà Nội là bao nhiêu điểm thấp hơn so với Đại học quốc gia Tp. Hồ Chí Minh?",
+        "e1023925-4daf-4b16-b8a1-775a74c90afb": "Kết quả bài thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh năm 2024 có thể được sử dụng để xét tuyển vào trường nào khác?",
+        "cfa872ef-fe72-4c53-9a34-78d015475caf": "Khi nào kết quả bài thi đánh giá năng lực của Đại học quốc gia Hà Nội được coi là không đạt yêu cầu?",
+        "90786378-6bba-449f-b292-86cfc6bb4b43": "Khi nào kết quả bài thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh được coi là không đạt yêu cầu?"
+    },
+    "corpus": {
+        "935f1543-d038-4f21-8330-744cf5ba9630": "Học viện sử dụng kết quả bài thi đánh giá năng lực hoặc đánh giá tư duy sau để xét tuyển dựa vào kết quả bài thi đánh giá năng lực hoặc đánh giá tư duy:\r\nKết quả bài thi thi đánh giá năng lực của Đại học quốc gia Hà Nội (HSA) năm 2024 từ 75 điểm trở lên.\r\nKết quả bài thi thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh (APT) năm 2024 từ 600 điểm trở lên.\r\nKết quả bài thi thi đánh giá tư duy của Đại học Bách khoa Hà Nội (TSA) năm 2024 từ 50 điểm trở lên."
+    },
+    "relevant_docs": {
+        "e311b9c2-70b8-4bc3-9160-22346f761ce7": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ],
+        "9017abdf-f3d1-461d-a2ae-21529ea8c3ac": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ],
+        "20d2d428-d671-4bfc-8745-e4833e5c0885": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ],
+        "edd0f3fd-4299-4807-b466-6d5550003215": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ],
+        "7a73388f-95f8-43a0-af1c-b1ba87ddd7b6": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ],
+        "c7549832-634f-48e3-91d3-c06b9c7ca797": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ],
+        "9fc87bcc-ecd4-4df6-81d2-9c9a2b183aae": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ],
+        "9fd2b1c9-a748-4f8b-9d68-14feac6fb9bf": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ],
+        "77dd8917-9c55-43ec-895a-c48d4962fbda": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ],
+        "0678d09d-42eb-48c8-85a9-c6fecb9be46b": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ],
+        "dffc42a6-8d71-483a-be76-d5adb325a63d": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ],
+        "d305dab9-6378-475b-add3-4c59eef80020": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ],
+        "7a84d7ef-c8e4-4104-847a-129da1fd6f14": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ],
+        "5bc7c55a-3258-46fd-88d8-beae0e3322b8": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ],
+        "80aff2d3-c14e-48c5-bc44-72f7d0085963": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ],
+        "8fa63a91-1749-4d72-8540-ba061328f535": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ],
+        "8a62acd4-ab98-493d-9d80-a617a253763e": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ],
+        "e1023925-4daf-4b16-b8a1-775a74c90afb": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ],
+        "cfa872ef-fe72-4c53-9a34-78d015475caf": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ],
+        "90786378-6bba-449f-b292-86cfc6bb4b43": [
+            "935f1543-d038-4f21-8330-744cf5ba9630"
+        ]
+    }
+}

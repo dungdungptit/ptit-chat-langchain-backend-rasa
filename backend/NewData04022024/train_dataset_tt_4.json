@@ -1,0 +1,89 @@
+{
+    "queries": {
+        "4540ca77-245e-4a53-a44a-977c4238be8b": "Địa chỉ nào thí sinh có thể nộp hồ sơ xét tuyển tại Hà Nội?",
+        "218919d0-c90a-4f6e-9326-da10e41eb1a7": "Website nào thí sinh có thể truy cập để biết thông tin tuyển sinh của Học viện Công nghệ Bưu chính Viễn thông?",
+        "65269e46-41a2-4ac3-9256-cdb21fcee6c9": "Số điện thoại nào thí sinh có thể gọi để được hỗ trợ về tuyển sinh?",
+        "caa8eaa1-4ccc-4a4a-930c-20a0c89be9b6": "Email nào thí sinh có thể liên hệ để được hỗ trợ về tuyển sinh?",
+        "cee99f46-0bf0-4a95-a95e-14dc96d3ade4": "Fanpage nào thí sinh có thể theo dõi để cập nhật thông tin tuyển sinh?",
+        "8cc5750b-73c4-4a50-9c34-ebfd17707ee7": "Zalo ID của Học viện Công nghệ Bưu chính Viễn thông là gì?",
+        "21ce89b6-12a0-4557-92a5-d4bc761d69ea": "Địa chỉ nào thí sinh có thể nộp hồ sơ xét tuyển tại Tp. Hồ Chí Minh?",
+        "e110b3e5-b461-4865-bd27-c68c10f5f1ca": "Cơ sở đào tạo phía Bắc của Học viện Công nghệ Bưu chính Viễn thông nằm ở đâu?",
+        "2226df49-5ab0-4a0f-a2b2-3e963c69326f": "Cơ sở đào tạo phía Nam của Học viện Công nghệ Bưu chính Viễn thông nằm ở đâu?",
+        "909ec7d8-0019-465e-a0ab-e9bde70a3e24": "Số điện thoại nào thí sinh có thể gọi để được hỗ trợ về tuyển sinh tại Tp. Hồ Chí Minh?",
+        "3765e234-0124-4df3-843c-dcd5696e4ec5": "Địa chỉ email nào thí sinh có thể liên hệ để được hỗ trợ về tuyển sinh tại Tp. Hồ Chí Minh?",
+        "effdf9cf-ba5a-439a-8b78-4335fb20812a": "Website nào thí sinh có thể truy cập để biết thông tin tuyển sinh tại Tp. Hồ Chí Minh?",
+        "8dc823e6-e66d-45a1-9b8a-06c6e08041f2": "Fanpage nào thí sinh có thể theo dõi để cập nhật thông tin tuyển sinh tại Tp. Hồ Chí Minh?",
+        "c96a3387-992b-42fb-8f3d-7e9c6108390c": "Zalo ID của Học viện Công nghệ Bưu chính Viễn thông tại Tp. Hồ Chí Minh là gì?",
+        "d819bc1c-fe76-47b6-9a94-f06b80efc9fc": "Địa chỉ nào thí sinh có thể nộp hồ sơ xét tuyển tại Hà Nội?",
+        "63410528-b7f8-4f0b-ad1c-0d2a484b2b30": "Cơ sở đào tạo phía Bắc của Học viện Công nghệ Bưu chính Viễn thông nằm ở đâu?",
+        "10ce4c68-4278-4d99-abbe-b2f665d28afe": "Số điện thoại nào thí sinh có thể gọi để được hỗ trợ về tuyển sinh tại Hà Nội?",
+        "1baeeacf-6fd6-4191-9abe-06799e13cb69": "Địa chỉ email nào thí sinh có thể liên hệ để được hỗ trợ về tuyển sinh tại Hà Nội?",
+        "cc72bfd2-30f9-4f35-a197-4448b222172c": "Website nào thí sinh có thể truy cập để biết thông tin tuyển sinh tại Hà Nội?",
+        "f71ddd46-4f21-4d21-8bbf-cd5779a43eaf": "Fanpage nào thí sinh có thể theo dõi để cập nhật thông tin tuyển sinh tại Hà Nội?"
+    },
+    "corpus": {
+        "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac": "Thông tin liên hệ và hỗ trợ:\r\nThí sinh có thể truy cập cổng thông tin tuyển sinh tại địa chỉ:\r\nhoặc https://tuyensinh.ptit.edu.vn\r\nSố điện thoại hỗ trợ: 024.33512252, 024.33528122, 028.38297220\r\nWebsite: https://ptit.edu.vn, https://tuyensinh.ptit.edu.vn\r\nEmail: tuyensinh@ptit.edu.vn\r\nFanpage: https://facebook.com/ptittuyensinh\r\nZalo: Học viện Công nghệ Bưu chính Viễn thông (ID 1260203497642986925)\r\n\r\nđịa điểm tiếp nhận hồ sơ đăng ký xét tuyển:\r\nđịa chỉ nộp hồ sơ xét tuyển:\r\nCƠ SỞ ĐÀO TẠO PHÍA BẮC (mã trường BVH): Phòng đào tạo - Học viện Công nghệ Bưu chính Viễn thông Km10, đường Nguyễn Trãi, Quận Hà Đông, Hà Nội\r\nCƠ SỞ ĐÀO TẠO PHÍA NAM (mã trường BVS): Phòng đào tạo - Học viện Công nghệ Bưu chính Viễn thông - Cơ sở Tp. Hồ Chí Minh Số 11 Nguyễn Đình Chiểu, Quận 1, Thành phố Hồ Chí Minh"
+    },
+    "relevant_docs": {
+        "4540ca77-245e-4a53-a44a-977c4238be8b": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ],
+        "218919d0-c90a-4f6e-9326-da10e41eb1a7": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ],
+        "65269e46-41a2-4ac3-9256-cdb21fcee6c9": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ],
+        "caa8eaa1-4ccc-4a4a-930c-20a0c89be9b6": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ],
+        "cee99f46-0bf0-4a95-a95e-14dc96d3ade4": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ],
+        "8cc5750b-73c4-4a50-9c34-ebfd17707ee7": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ],
+        "21ce89b6-12a0-4557-92a5-d4bc761d69ea": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ],
+        "e110b3e5-b461-4865-bd27-c68c10f5f1ca": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ],
+        "2226df49-5ab0-4a0f-a2b2-3e963c69326f": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ],
+        "909ec7d8-0019-465e-a0ab-e9bde70a3e24": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ],
+        "3765e234-0124-4df3-843c-dcd5696e4ec5": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ],
+        "effdf9cf-ba5a-439a-8b78-4335fb20812a": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ],
+        "8dc823e6-e66d-45a1-9b8a-06c6e08041f2": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ],
+        "c96a3387-992b-42fb-8f3d-7e9c6108390c": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ],
+        "d819bc1c-fe76-47b6-9a94-f06b80efc9fc": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ],
+        "63410528-b7f8-4f0b-ad1c-0d2a484b2b30": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ],
+        "10ce4c68-4278-4d99-abbe-b2f665d28afe": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ],
+        "1baeeacf-6fd6-4191-9abe-06799e13cb69": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ],
+        "cc72bfd2-30f9-4f35-a197-4448b222172c": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ],
+        "f71ddd46-4f21-4d21-8bbf-cd5779a43eaf": [
+            "eb47d92a-11bf-4974-b6b9-bd70e8c0e7ac"
+        ]
+    }
+}

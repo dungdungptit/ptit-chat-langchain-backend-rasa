@@ -1,0 +1,89 @@
+{
+    "queries": {
+        "d1998cab-b574-41c0-9ebf-b202a30ebda3": "Học viện Công nghệ Bưu chính Viễn thông cấp bao nhiêu suất học bổng đặc biệt vào năm 2024?",
+        "3ca6e2f8-853a-4ed0-a056-a6b5e8acd833": "Đối tượng xét cấp học bổng đặc biệt là ai?",
+        "26325754-5fd4-425b-b087-ac4201726934": "Điều kiện để được nhận học bổng đặc biệt là gì?",
+        "64579a5c-34f1-4efa-9a7c-eda7f63d003f": "Học viện Công nghệ Bưu chính Viễn thông cấp tối đa bao nhiêu suất học bổng toàn phần vào năm 2024?",
+        "77c7ef71-9dda-4ca5-8279-f73c86cde12c": "Ai được nhận học bổng toàn phần?",
+        "523cf09e-7631-42e6-8329-9db15d5dc816": "Điều kiện để được nhận học bổng toàn phần là gì?",
+        "5d651daf-8248-408b-aba4-21c51c768ad1": "Học viện Công nghệ Bưu chính Viễn thông cấp bao nhiêu suất học bổng miễn 100% học phí trong năm học thứ nhất?",
+        "26858f12-1ff8-40eb-b21a-ca98c693bb3b": "Đối tượng được nhận học bổng miễn 100% học phí là ai?",
+        "620ba187-125d-41fa-8ad5-29a0787467e4": "Học viện Công nghệ Bưu chính Viễn thông cấp bao nhiêu suất học bổng miễn 50% học phí trong năm học thứ nhất?",
+        "d8e0127c-1172-4ed5-aac6-99dc4e003330": "Đối tượng được nhận học bổng miễn 50% học phí là ai?",
+        "45a8d3ce-582b-4092-9590-4df3065d38aa": "Các doanh nghiệp nào cung cấp xuất học bổng cho sinh viên của Học viện Công nghệ Bưu chính Viễn thông?",
+        "92593045-b120-49ef-bfeb-d1b4531318b8": "Thí sinh chỉ được nhận một loại học bổng nào trong chính sách học bổng?",
+        "3532ce29-67bc-4295-99a0-0796eed8f25e": "Học viện Công nghệ Bưu chính Viễn thông xét cấp học bổng theo nguyên tắc nào?",
+        "654a34f7-8396-4a17-a932-7642077abd06": "Điểm trung bình chung tích lũy năm học liên tục phải đạt từ loại nào để được nhận học bổng đặc biệt?",
+        "3b200dc8-2af9-4c1b-be23-4034f33a5d81": "Điểm trung bình chung tích lũy năm học liên tục phải đạt từ loại nào để được nhận học bổng toàn phần?",
+        "d6476b93-61a8-4a9d-a612-b97ab50852fe": "Điểm trung bình chung tích lũy năm học liên tục phải đạt từ loại nào để được nhận học bổng miễn 100% học phí?",
+        "41a5e6a9-c7f7-4000-b7c9-8d8ecb5df059": "Điểm trung bình chung tích lũy năm học liên tục phải đạt từ loại nào để được nhận học bổng miễn 50% học phí?",
+        "5bbe003a-3f17-45e2-b5fb-ed6a725acdcc": "Có bao nhiêu suất học bổng đặc biệt được cấp cho thí sinh tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế?",
+        "498d402e-885f-4f62-9fb7-5793600978c0": "Có bao nhiêu suất học bổng toàn phần được cấp cho thí sinh đoạt giải Nhất trong kỳ thi học sinh giỏi cấp Tỉnh/Thành phố trực thuộc TW các môn Toán, Lý và Tin học?",
+        "63e78780-cd67-412c-b74b-e43a67cc8343": "Có bao nhiêu suất học bổng miễn 100% học phí được cấp cho thí sinh đoạt trong kỳ thi chọn học sinh giỏi quốc tế, quốc gia hoặc thí sinh đoạt giải Nhất, Nhì, Ba trong kỳ thi chọn học sinh giỏi cấp Tỉnh, Thành phố trực thuộc TW các môn Toán, Lý, Hóa và Tin học?"
+    },
+    "corpus": {
+        "c11a05e2-c7db-4683-ac46-b1e682e67adf": "Chính sách học bổng\r\nHọc bổng đặc biệt: năm 2024, Học viện Công nghệ Bưu chính Viễn thông cấp tối đa 30 suất học bổng đặc biệt, giá trị mỗi suất học bổng tới 500 triệu đồng (gồm: học phí trong toàn thời gian học, chi phí ăn ở, kinh phí nghiên cứu khoa học, thực tập ở nước ngoài, kinh phí hỗ trợ từ doanh nghiệp đối tác và các hỗ trợ khác).\r\nĐối tượng xét cấp học bổng đặc biệt là các thí sinh tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế, thí sinh đoạt giải Nhất, Nhì, Ba trong kỳ thi chọn học sinh giỏi quốc gia các môn Toán, Lý và Tin học; thí sinh có điểm thi tốt nghiệp THPT từ 29,0 điểm trở lên. Người được nhận học bổng đặc biệt phải đảm bảo điểm trung bình chung tích lũy năm học liên tục đạt từ loại Giỏi trở lên trong thời gian học tập.\r\nHọc bổng toàn phần: năm 2024, Học viện Công nghệ Bưu chính Viễn thông cấp tối đa 50 suất học bổng toàn phần với giá trị học bổng tới 250 triệu đồng (tương đương học phí toàn khóa học của chương trình chất lượng cao) cho các thí sinh đoạt giải Nhất trong kỳ thi học sinh giỏi cấp Tỉnh/Thành phố trực thuộc TW các môn Toán, Lý và Tin học. Người được nhận học bổng toàn phần phải đảm bảo điểm trung bình chung tích lũy năm học liên tục đạt từ loại Giỏi trở lên trong thời gian học tập.\r\nHọc bổng miễn 100% học phí trong năm học thứ nhất với tối đa 100 suất cho đối tượng là các thí sinh đoạt trong kỳ thi chọn học sinh giỏi quốc tế, quốc gia hoặc thí sinh đoạt giải Nhất, Nhì, Ba trong kỳ thi chọn học sinh giỏi cấp Tỉnh, Thành phố trực thuộc TW các môn Toán, Lý, Hóa và Tin học hoặc đạt kết quả cao trong kỳ thi tốt nghiệp THPT năm 2024;\r\nHọc bổng miễn 50% học phí trong năm học thứ nhất với tối đa 300 suất cho đối tượng là các thí sinh đoạt trong kỳ thi học sinh giỏi hoặc đạt kết quả cao trong kỳ thi tốt nghiệp THPT năm 2024;\r\nNgoài ra, sinh viên còn có nhiều cơ hội để được nhận các xuất học bổng của các doanh nghiệp hàng đầu như Samsung, VNPT, Mobifone, Viettel, FPT, AGR, ...\r\nGhi chú: Thí sinh chỉ được xét và cấp một Loại học bổng trong chính sách học bổng nêu trên; xét cấp học bổng thực hiện xét từ trên xuống cho đến hết số suất học bổng."
+    },
+    "relevant_docs": {
+        "d1998cab-b574-41c0-9ebf-b202a30ebda3": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ],
+        "3ca6e2f8-853a-4ed0-a056-a6b5e8acd833": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ],
+        "26325754-5fd4-425b-b087-ac4201726934": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ],
+        "64579a5c-34f1-4efa-9a7c-eda7f63d003f": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ],
+        "77c7ef71-9dda-4ca5-8279-f73c86cde12c": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ],
+        "523cf09e-7631-42e6-8329-9db15d5dc816": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ],
+        "5d651daf-8248-408b-aba4-21c51c768ad1": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ],
+        "26858f12-1ff8-40eb-b21a-ca98c693bb3b": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ],
+        "620ba187-125d-41fa-8ad5-29a0787467e4": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ],
+        "d8e0127c-1172-4ed5-aac6-99dc4e003330": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ],
+        "45a8d3ce-582b-4092-9590-4df3065d38aa": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ],
+        "92593045-b120-49ef-bfeb-d1b4531318b8": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ],
+        "3532ce29-67bc-4295-99a0-0796eed8f25e": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ],
+        "654a34f7-8396-4a17-a932-7642077abd06": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ],
+        "3b200dc8-2af9-4c1b-be23-4034f33a5d81": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ],
+        "d6476b93-61a8-4a9d-a612-b97ab50852fe": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ],
+        "41a5e6a9-c7f7-4000-b7c9-8d8ecb5df059": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ],
+        "5bbe003a-3f17-45e2-b5fb-ed6a725acdcc": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ],
+        "498d402e-885f-4f62-9fb7-5793600978c0": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ],
+        "63e78780-cd67-412c-b74b-e43a67cc8343": [
+            "c11a05e2-c7db-4683-ac46-b1e682e67adf"
+        ]
+    }
+}

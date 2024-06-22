@@ -1,0 +1,193 @@
+2. CHƯƠNG TRÌNH ĐÀO TẠO  
+
+2.1. Cấu trúc chương trình đào tạo  
+
+ Chương trình đào tạo trình độ tiến sĩ chuyên ngành Kỹ thuật Máy tính gồm các học phần bổ sung, các học phần ở trình độ tiến sĩ (có khối lượng 16 tín chỉ), nghiên cứu khoa học và luận án tiến sĩ (có khối lượng 80 tín chỉ) .  
+
+I.  Các học phần bổ sung     
+
+-Nội dung đào tạo: Các học phần ở trình độ thạc sĩ chuyên ngành Hệ thống Thông tin của Học viện Công nghệ Bưu chính Viễn thông  
+
+Đối tượng: Nghiên cứu sinh chưa có bằng thạc sĩ 
+
+Số tín chỉ: lớn hơn hoặc bằng 30 
+
+Thời gian thực hiện: Trong 24 tháng đầu của thời gian đào tạo trình độ tiến sĩ   
+
+-Nội dung đào tạo: Các học phần trọng tâm ở trình độ thạc sĩ chuyên ngành Hệ thống Thông tin của Học viện Công nghệ Bưu chính Viễn thông 
+
+Đối tượng: Nghiên cứu sinh có bằng thạc sĩ ở chuyên ngành gần, hoặc chuyên ngành phù hợp nhưng đã tốt nghiệp quá 15 năm  
+
+Số tín chỉ: Theo quy định của Học viện  
+
+Thời gian thực hiện: Trong 24 tháng đầu của thời gian đào tạo trình độ tiến sĩ   
+
+II. Các học phần ở trình độ tiến sĩ 
+
+Tổng sô tín chỉ:16   
+
+-Nội dung đào tạo: Các học phần bắt buộc  
+
+Đối tượng: Tất cả nghiên cứu sinh  
+
+Số tín chỉ:6 
+
+Thời gian thực hiện: Trong 12 tháng đầu của thời gian đào tạo trình độ tiến sĩ   
+
+-Nội dung đào tạo: Các học phần tự chọn  
+
+Đối tượng: Tất cả nghiên cứu sinh 
+
+Số tín chỉ:2 
+
+Thời gian thực hiện: Trong 12 tháng đầu của thời gian đào tạo trình độ tiến sĩ   
+
+
+
+-Nội dung đào tạo: Chuyên đề 1  
+
+Đối tượng: Tất cả nghiên cứu sinh  
+
+Số tín chỉ:2 
+
+Thời gian thực hiện: Trong 18 tháng đầu của thời gian đào tạo trình độ tiến sĩ   
+
+-Nội dung đào tạo: Chuyên đề 2  
+
+Đối tượng: Tất cả nghiên cứu sinh  
+
+Số tín chỉ:2 
+
+Thời gian thực hiện: Trong 18 tháng đầu của thời gian đào tạo trình độ tiến sĩ   
+
+-Nội dung đào tạo: Chuyên đề 3  
+
+Đối tượng: Tất cả nghiên cứu sinh  
+
+Số tín chỉ: 2 
+
+Thời gian thực hiện: Trong 18 tháng đầu của thời gian đào tạo trình độ tiến sĩ   
+
+
+
+-Nội dung đào tạo: Tiểu luận tổng quan  
+
+Đối tượng: Tất cả nghiên cứu sinh  
+
+Số tín chỉ:2 
+
+Thời gian thực hiện: Trong 24 tháng đầu của thời gian đào tạo trình độ tiến sĩ   
+
+III. Nghiên cứu khoa học và luận án tiến sĩ 
+
+Tổng số tín chỉ:80
+
+-Nội dung đào tạo:  Luận án tiến sĩ:  
+
+     - Bảo vệ cấp cơ sở  
+
+     - Bảo vệ cấp Học viện  
+
+-Đối tượng: Tất cả nghiên cứu sinh  
+
+-Số tín chỉ:80 
+
+-Thời gian thực hiện: Trong thời gian đào tạo trình độ tiến sĩ   
+
+Tổng cộng (II và III) số tín chỉ:  96   
+
+2.2. Các học phần ở trình độ tiến sĩ  
+
+I.Các học phần bắt buộc  
+
+Số tín chỉ: 6     
+
+ Mã học phần: IGF5402  
+
+Tên học phần: Phương pháp nghiên cứu và viết báo cáo khoa học
+
+Số tín chỉ:2 
+
+Số giờ tín chỉ:
+
+Lý thuyết:24 
+
+Thực hành/Bài tập/Thảo luận:6 
+
+Tự học: 90 tiết
+
+ Mã học phần:BSA5402  
+
+Tên học phần: Các lý thuyết quản trị hiện đại Modern Business Management Research Methods and Technical WritingTheories  
+
+Số tín chỉ:2 
+
+Số giờ tín chỉ:
+
+Lý thuyết:24 
+
+Thực hành/Bài tập/Thảo luận:6 
+
+Tự học: 90  tiết
+
+ Mã học phần: INT5401 
+
+Tên học phần: Công cụ toán nâng cao cho công nghệ thông tin Advanced Mathematic Tools for Information Technology
+
+Số tín chỉ:2 
+
+Số giờ tín chỉ:
+
+Lý thuyết:24 
+
+Thực hành/Bài tập/Thảo luận:6 
+
+Tự học: 90  tiết
+
+Mã học phần: INT5402 
+
+Tên học phần: Tối ưu tổ hợp và phân tích dữ liệu Complex Optimization and Data Analysis
+
+Số tín chỉ:2 
+
+Số giờ tín chỉ:
+
+Lý thuyết:24 
+
+Thực hành/Bài tập/Thảo luận:6 
+
+Tự học: 90  tiết
+
+II.Các học phần tự chọn 
+
+(Chọn 1 trong 2 học phần)  
+
+Số tín chỉ:2     
+
+Mã học phần: INT5405
+
+Tên học phần: Hệ thống nhúng nâng cao Advanced Embedded System
+
+Số tín chỉ:2 
+
+Số giờ tín chỉ:
+
+Lý thuyết:24 
+
+Thực hành/Bài tập/Thảo luận:6 
+
+Tự học: 90  tiết
+
+Mã học phần: INT5406
+
+Tên học phần: Điện toán đám mây nâng cao Advanced Clouds Computing
+
+Số tín chỉ:2 
+
+Số giờ tín chỉ:
+
+Lý thuyết:24 
+
+Thực hành/Bài tập/Thảo luận:6 
+
+Tự học: 90  tiết

@@ -1,0 +1,89 @@
+{
+    "queries": {
+        "53cb6517-07e0-487d-89db-9e0903b66ae1": "Phương thức nào được sử dụng để xét tuyển thẳng và ưu tiên đối với các thí sinh là thành viên đội tuyển Olympic quốc tế?",
+        "d6505a6a-bfc5-4d0e-91a8-70184c69c1e1": "Thí sinh nào được xét tuyển dựa vào hồ sơ năng lực?",
+        "22463e22-10ad-4241-b76a-139b2476db71": "Thí sinh cần đạt giải ở kỳ thi nào để được xét tuyển dựa vào hồ sơ năng lực?",
+        "455e8192-48f5-4d17-b861-2d8837b5ee4d": "Phương thức nào yêu cầu thí sinh dựa vào kết quả thi tốt nghiệp THPT năm 2024?",
+        "261da1b1-3352-49b9-ae77-afb9bdbee692": "Phương thức nào kết hợp giữa Chứng chỉ quốc tế và kết quả học tập ở bậc THPT?",
+        "1b846f09-26c3-409d-b985-391ed758ad94": "Thí sinh cần có Chứng chỉ nào để được xét tuyển kết hợp theo phương thức 3?",
+        "960ad7c9-562a-488b-a681-a5b34b3f3900": "Phương thức 4 yêu cầu thí sinh dựa vào kết quả của các kỳ thi nào để xét tuyển?",
+        "87a2bef1-9cbf-458d-a004-ddd4860d0887": "Đơn vị nào tổ chức các kỳ thi đánh giá năng lực và tư duy trong phương thức 4?",
+        "2577d153-d892-4b82-b958-b733b96b2141": "Thí sinh cần đạt giải ở kỳ thi nào để được xét tuyển dựa vào hồ sơ năng lực?",
+        "43e37c89-e03f-491f-849b-161bc6985418": "Thí sinh cần là học sinh tại trường nào để được xét tuyển dựa vào hồ sơ năng lực?",
+        "44a53fcd-6cf8-46de-8c07-1ff210d2a85d": "Thí sinh cần đạt giải ở kỳ thi nào để được xét tuyển dựa vào hồ sơ năng lực?",
+        "68501cc8-be43-4cff-99db-14fb6951e8b5": "Thí sinh cần có kết quả bao nhiêu điểm trong kỳ thi tốt nghiệp THPT năm 2024 để được xét tuyển theo phương thức 2?",
+        "590321f8-418d-4bcd-8f2e-db979b00cb03": "Thí sinh cần có Chứng chỉ nào để được xét tuyển kết hợp theo phương thức 3?",
+        "4e9e89ec-332f-41ec-a9ea-a5f8f600627b": "Thí sinh cần đạt giải ở kỳ thi nào để được xét tuyển dựa vào hồ sơ năng lực?",
+        "994ca593-0ac0-4184-88fd-c62adb8aebe8": "Thí sinh cần có kết quả bao nhiêu điểm trong kỳ thi tốt nghiệp THPT năm 2024 để được xét tuyển theo phương thức 2?",
+        "8b6ebafd-91ed-430f-a3e5-9a9e13d17400": "Thí sinh cần có kết quả bao nhiêu điểm trong kỳ thi tốt nghiệp THPT năm 2024 để được xét tuyển theo phương thức 2?",
+        "471b0d5c-e7ef-46f2-8326-5bddcc58c70f": "Thí sinh cần có kết quả bao nhiêu điểm trong kỳ thi tốt nghiệp THPT năm 2024 để được xét tuyển theo phương thức 2?",
+        "328c71b3-51a7-4f1f-aeaf-2b1af0f17377": "Thí sinh cần có kết quả bao nhiêu điểm trong kỳ thi tốt nghiệp THPT năm 2024 để được xét tuyển theo phương thức 2?",
+        "7db37d45-b805-4a9a-80b1-f3d2a1df27a6": "Thí sinh cần có kết quả bao nhiêu điểm trong kỳ thi tốt nghiệp THPT năm 2024 để được xét tuyển theo phương thức 2?",
+        "7ef2355a-23a4-45eb-8a21-d5a0c7690a1d": "Thí sinh cần có kết quả bao nhiêu điểm trong kỳ thi tốt nghiệp THPT năm 2024 để được xét tuyển theo phương thức 2?"
+    },
+    "corpus": {
+        "b53ab9d0-c1c4-4214-9cbb-88a784900f41": "Phương thức tuyển sinh 2024\r\nCác phương thức xét tuyển 2024\r\nNăm 2024, Học viện Công nghệ Bưu chính Viễn thông sử dụng 04 phương thức tuyển sinh như sau:\r\n1. Phương thức 1: Xét tuyển tài năng, gồm có:\r\n- Xét tuyển thẳng và ưu tiên xét tuyển: đối với các thí sinh là thành viên đội tuyển Olympic quốc tế hoặc đoạt giải Quốc gia, Quốc tế theo Quy chế tuyển sinh hiện hành của Bộ Giáo dục và Đào tạo và của Học viện (có thông báo chi tiết riêng).\r\n- Xét tuyển dựa vào hồ sơ năng lực (HSNL): đối với các thí sinh có Thành tích đoạt giải trong kỳ thi chọn học sinh giỏi THPT cấp quốc gia (giải Khuyến khích), cấp Tỉnh/Thành phố trực thuộc TW (Nhất, Nhì, Ba và Khuyến khích), thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển hoặc là học sinh tại các trường THPT chuyên (điều kiện cụ thể tại điểm b mục 2 về Đối tượng tuyển sinh).\r\n2. Phương thức 2: Xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2024.\r\n3. Phương thức 3: Xét tuyển kết hợp\r\nXét tuyển kết hợp giữa một trong các loại Chứng chỉ quốc tế (Chứng chỉ SAT/ACT) hoặc Chứng chỉ tiếng Anh quốc tế (Chứng chỉ IELTS, TOEFL) với kết quả học tập ở bậc THPT (điều kiện cụ thể tại điểm d mục 2 về Đối tượng tuyển sinh).\r\n4. Phương thức 4: Xét tuyển dựa vào kết quả trong các kỳ thi đánh giá năng lực (ĐGNL), đánh giá tư duy (ĐGTD) của các đơn vị: Đại học Quốc gia Hà Nội, Đại học Quốc gia Tp. Hồ Chí Minh và Đại học Bách khoa Hà Nội tổ chức."
+    },
+    "relevant_docs": {
+        "53cb6517-07e0-487d-89db-9e0903b66ae1": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ],
+        "d6505a6a-bfc5-4d0e-91a8-70184c69c1e1": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ],
+        "22463e22-10ad-4241-b76a-139b2476db71": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ],
+        "455e8192-48f5-4d17-b861-2d8837b5ee4d": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ],
+        "261da1b1-3352-49b9-ae77-afb9bdbee692": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ],
+        "1b846f09-26c3-409d-b985-391ed758ad94": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ],
+        "960ad7c9-562a-488b-a681-a5b34b3f3900": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ],
+        "87a2bef1-9cbf-458d-a004-ddd4860d0887": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ],
+        "2577d153-d892-4b82-b958-b733b96b2141": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ],
+        "43e37c89-e03f-491f-849b-161bc6985418": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ],
+        "44a53fcd-6cf8-46de-8c07-1ff210d2a85d": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ],
+        "68501cc8-be43-4cff-99db-14fb6951e8b5": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ],
+        "590321f8-418d-4bcd-8f2e-db979b00cb03": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ],
+        "4e9e89ec-332f-41ec-a9ea-a5f8f600627b": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ],
+        "994ca593-0ac0-4184-88fd-c62adb8aebe8": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ],
+        "8b6ebafd-91ed-430f-a3e5-9a9e13d17400": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ],
+        "471b0d5c-e7ef-46f2-8326-5bddcc58c70f": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ],
+        "328c71b3-51a7-4f1f-aeaf-2b1af0f17377": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ],
+        "7db37d45-b805-4a9a-80b1-f3d2a1df27a6": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ],
+        "7ef2355a-23a4-45eb-8a21-d5a0c7690a1d": [
+            "b53ab9d0-c1c4-4214-9cbb-88a784900f41"
+        ]
+    }
+}

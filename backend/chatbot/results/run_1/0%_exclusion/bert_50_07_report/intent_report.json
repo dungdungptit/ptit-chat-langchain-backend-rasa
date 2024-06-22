@@ -1,0 +1,94 @@
+{
+  "xét tuyển kết hợp": {
+    "precision": 0.9907192575406032,
+    "recall": 1.0,
+    "f1-score": 0.9953379953379953,
+    "support": 427,
+    "confused_with": {}
+  },
+  "xin chào": {
+    "precision": 1.0,
+    "recall": 0.9454545454545454,
+    "f1-score": 0.9719626168224299,
+    "support": 55,
+    "confused_with": {
+      "điểm trúng tuyển": 1,
+      "học phí": 1
+    }
+  },
+  "các ngành đào tạo": {
+    "precision": 0.8787878787878788,
+    "recall": 0.8529411764705882,
+    "f1-score": 0.8656716417910447,
+    "support": 34,
+    "confused_with": {
+      "điểm trúng tuyển": 2,
+      "xét tuyển kết hợp": 1
+    }
+  },
+  "học phí": {
+    "precision": 0.8666666666666667,
+    "recall": 0.8666666666666667,
+    "f1-score": 0.8666666666666667,
+    "support": 15,
+    "confused_with": {
+      "xét tuyển kết hợp": 1,
+      "các ngành đào tạo": 1
+    }
+  },
+  "điểm trúng tuyển": {
+    "precision": 0.95,
+    "recall": 0.987012987012987,
+    "f1-score": 0.9681528662420381,
+    "support": 77,
+    "confused_with": {
+      "xét tuyển kết hợp": 1
+    }
+  },
+  "cảm ơn": {
+    "precision": 0.9818181818181818,
+    "recall": 0.9818181818181818,
+    "f1-score": 0.9818181818181818,
+    "support": 55,
+    "confused_with": {
+      "xét tuyển kết hợp": 1
+    }
+  },
+  "địa chỉ cơ sở": {
+    "precision": 1.0,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.9090909090909091,
+    "support": 6,
+    "confused_with": {
+      "điểm trúng tuyển": 1
+    }
+  },
+  "out_of_scope": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2,
+    "confused_with": {
+      "các ngành đào tạo": 2
+    }
+  },
+  "accuracy": 0.977645305514158,
+  "macro avg": {
+    "precision": 0.8334989981016663,
+    "recall": 0.8084033613445378,
+    "f1-score": 0.8198376097211582,
+    "support": 671
+  },
+  "weighted avg": {
+    "precision": 0.9747629073750006,
+    "recall": 0.977645305514158,
+    "f1-score": 0.9760095676760587,
+    "support": 671
+  },
+  "micro avg": {
+    "precision": 0.977645305514158,
+    "recall": 0.977645305514158,
+    "f1-score": 0.977645305514158,
+    "support": 671
+  }
+}

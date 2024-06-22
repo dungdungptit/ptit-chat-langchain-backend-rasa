@@ -1,0 +1,75 @@
+2. MỤC TIÊU, KIẾN THỨC, KỸ NĂNG, TRÌNH ĐỘ NGOẠI NGỮ ĐẠT ĐƯỢC  
+
+2.1. Kiến thức  
+
+ Chương trình Điện tử viễn thông trang bị cho sinh viên những kiến thức sau:  
+
+Hiểu biết cơ bản về các lĩnh vực liên quan đến ngành điện tử viễn thông.  
+
+Nắm vững các phương pháp, công cụ để phân tích, thiết kế, phát triển, vận hành mạng, hệ thống và thiết bị viễn thông.  
+
+Nắm vững kiến thức về cơ sở dữ liệu, thu thập và phân tích dữ liệu.  
+
+Vận dụng tốt kiến thức về hệ thống thông tin và truyền thông, có khả năng tích hợp hệ thống.  
+
+Nắm vững các kiến thức, công cụ phù hợp để quản lý và ứng dụng công nghệ truyền thông vào các lĩnh vực thực tế, các ngành khác nhau.  
+
+Chuyên ngành Mạng và dịch vụ Internet  
+
+Vận dụng tốt kiến thức để triển khai và phát triển sản phẩm, giải pháp cho các ứng dụng truyền thông trên các nền tảng mạng viễn thông, Internet.  
+
+Vận dụng tốt kiến thức về lập trình, có khả năng phát triển các phần mềm ứng dụng trong viễn thông.  
+
+Chuyên ngành Thông tin vô tuyến và di động  
+
+Vận dụng tốt kiến thức để triển khai và phát triển sản phẩm, giải pháp cho các ứng dụng truyền thông trên các nền tảng công nghệ vô tuyến, mạng di động.  
+
+Vận dụng tốt kiến thức về lập trình, có khả năng phát triển các phần mềm ứng dụng di động.  
+
+Chuyên ngành Hệ thống IoT   
+
+Vận dụng tốt kiến thức để triển khai và phát triển sản phẩm, giải pháp cho các ứng dụng truyền thông trên các nền tảng mạng Internet, hệ thống IoT.  
+
+Vận dụng tốt kiến thức về lập trình, có khả năng phát triển các phần mềm ứng dụng IoT. 
+
+2.2. Kỹ năng  
+
+Các kỹ năng nghề nghiệp  
+
+ Sinh viên ngành Điện tử viễn thông đạt được các yêu cầu sau đây  về kỹ năng nghề nghiệp:  
+
+Đảm bảo các yêu cầu cơ bản về đạo đức nghề nghiệp như trung thực, trách nhiệm và tin cậy; 
+
+Thành thục kỹ năng tổ chức, sắp xếp công việc ; làm việc độc lập và tự tin trong môi trường làm việc ; 
+
+Thành thục kỹ năng xây dựng mục tiêu cá nhân, tạo động lực làm việc và phát triển sự nghiệp cá nhân ; 
+
+Đảm bảo kỹ năng sử dụng tiếng Anh chuyên ngành, kỹ năng tin học và ứng dụng trong hoạt động nghề nghiệp và giao tiếp xã hội.  
+
+Khả năng lập luận tư duy và giải quyết vấn đề  
+
+ Sinh viên ngành Điện tử viễn thông đạt được các yêu cầu sau đây  về kỹ năng tư duy, giải quyết vấn đề:   
+
+Có khả năng ph át hiện, tổng qu át hóa, phân tích và đ ánh gi á vấn đề kỹ thuật liên quan tới lĩnh vực chuyên môn ; 
+
+Có kỹ năng lập luận và xử l ý thông tin, phân tích định lượng để giải quyết các bài toán chuyên môn cũng như đưa ra gi ải pháp và kiến nghị đối với vấn đề chuyên môn.  
+
+Khả năng nghiên cứu và khám phá kiến thức  
+
+ Sinh viên được trang bị và rèn luyện k ỹ năng ph át hiện vấn đề, tìm kiếm và thu thập thông tin, kỹ năng triển khai thí nghiệm và tham gia vào các khảo sát thực tế.  
+
+ Khả năng tư duy theo hệ thống  
+
+ Sinh viên được phát triển kh ả năng tư duy chỉnh thể, logic, phân tích đa chiều.  
+
+Khả năng nhận thức bối cảnh xã hội và ngoại cảnh  
+
+ Hiểu được vai trò và trách nhiệm của mình v ề sự phát triển ngành Điện tử viễn  thông, tác động của ngành đến xã hội. Nắm bắt rõ được c ác quy định của xã hội, bối cảnh lịch sử và văn hóa dân tộc trong lĩnh vực chuyên môn; hiểu được ý nghĩa và giá trị thời đại của các vấn đề chuyên môn trong bối cảnh toàn cầu.  
+
+Khả năng làm việc thành công trong tổ chức  
+
+ Nhận thức chính xác và hiểu rõ vị trí làm việc trong c ác doanh nghiệp; nắm rõ được văn hóa doanh nghiệp; chiến lược, mục tiêu và kế hoạch của tổ chức, v ận dụng kiến thức được trang bị để phục vụ hiệu quả cho hoạt động của doanh nghiệp, có khả năng làm việc thành công trong tổ chức.  
+
+Năng lực vận dụng kiến thức, kỹ năng vào thực tiễn  
+
+ Đảm bảo kh ả năng vận dụng c ác kiến thức, kĩ năng đã được học vào thực tiễn; có thể sử dụng các định nghĩa, kh ái niệm cơ bản làm nền tảng; c ó khả năng hình thành ý tưởng liên quan đến chuyên môn hoặc quản lý các dự án trong lĩnh vực Điện tử viễn thông.

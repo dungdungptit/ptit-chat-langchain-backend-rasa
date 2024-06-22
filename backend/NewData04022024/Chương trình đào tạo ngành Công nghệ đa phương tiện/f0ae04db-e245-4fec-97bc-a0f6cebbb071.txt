@@ -1,0 +1,21 @@
+2.1. Kiến thức
+
+Chương trình trang bị cho sinh viên những kiến thức cụ thể sau:  
+
+Kiến thức giáo dục đại cương:  Sinh viên được trang bị các kiến thức giáo dục đại cương về Lý luận của Chủ nghĩa Mác Lênin và Tư tưởng Hồ Chí Minh, Khoa học tự nhiên, Khoa học xã hội và nhân văn.  
+
+Kiến thức cơ sở ngành và ngành:  Sinh viên được trang bị những kiến thức nền tảng của ngành học Công nghệ Đa phương tiện bao gồm:  
+
+Các môn học liên quan đến kỹ thuật dựng hình: Kỹ thuật nhiếp ảnh, Kỹ thuật quay phim, Dựng Audio & Video phi tuyến.  
+
+Các môn học liên quan đến thiết kế: Cơ sở tạo hình, Mỹ thuật cơ bản, Luật xa gần, Thiết kế đồ họa cơ bản, Thiết kế Website, Thiết kế ứng dụng trên đầu cuối di động, Thiết kế đồ họa đa phương tiện, Thiết kế tương tác đa phương tiện, Kịch bản đa phương tiện.  
+
+Các môn học liên quan đến phát triển ứng dụng: Phân tích thiết kế kiến trúc phần mềm ĐPT, Lập trình hướng đối tượng, Cơ sở dữ liệu, Đồ họa máy tính, Kiến trúc máy tính và hệ điều hành, Ngôn ngữ lập trình Java.  
+
+Các môn học bổ trợ: Nhập môn đa phương tiện, Tổ chức sản xuất sản phẩm đa phương tiện, Bản quyền số.  
+
+Kiến thức chuyên ngành:  Sinh viên sẽ lựa chọn chuyên sâu hướng học tập và nghiên cứu trong phần chuyên ngành, gồm: (1) Chuyên ngành Phát triển ứng dụng đa phương tiện, (2) Chuyên ngành Thiết kế đa phương tiện.  
+
+Phần kiến thức chuyên  ngành Phát triển ứng dụng đa phương tiện trang bị cho sinh viên kiến thức liên quan đến phân tích, xử lý và tích hợp các tài nguyên đa phương tiện. Từ đó sinh viên có thể phát triển các phần mềm ứng dụng đa phương tiện tương tác như Web, Game, ứng dụng thực tại ảo; tạo kỹ xảo âm thanh và hình ảnh trong các lĩnh vực điện ảnh, truyền hình có sử dụng các tài nguyên đa phương tiện.  
+
+Phần kiến thức chuyên ngành Thiết kế Đa phương tiện trang bị cho sinh viên các kiến thức chuyên sâu bao gồm: Nguyên lý và phương p háp thiết kế hình động 2D&3D, Thiết kế UI, Layout (dàn trang), đồ họa chữ trong một số lĩnh vực: Game, thiết bị di động, xuất bản điện tử, tư duy thiết kế và đồ họa chuyển động (motion design).

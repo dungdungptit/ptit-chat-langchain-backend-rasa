@@ -1,0 +1,18 @@
+[
+  {
+    "text": "cho mình hỏi học phí ngành kỹ thuật điện tử viễn thông năm học 2019 2020 là bao nhiêu với",
+    "intent": "các ngành đào tạo",
+    "intent_prediction": {
+      "name": "học phí",
+      "confidence": 0.9295982122421265
+    }
+  },
+  {
+    "text": "em nghe các anh chị đi trước nói trường có vài ngành hệ dân lập học phí cao",
+    "intent": "các ngành đào tạo",
+    "intent_prediction": {
+      "name": "học phí",
+      "confidence": 0.999553382396698
+    }
+  }
+]

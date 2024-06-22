@@ -1,0 +1,5 @@
+2.2.4. Trình độ ngoại ngữ và tin học  
+
+PO12: Đạt trình độ tiếng Anh 450 điểm TOEIC quốc tế; có thể sử dụng ngoại ngữ để diễn đạt, xử lý một số tình huống chuyên môn thông thường; có thể viết được báo cáo có nội dung đơn giản, giao tiếp và trình bày ý kiến liên qu an đến công việc chuyên môn với các chuyên gia, đồng nghiệp nước ngoài . 
+
+PO13: Đạt trình độ tương đương chứng chỉ CCNA (Routing and Switching)  hoặc  AWS (Cloud Practitioner ) mức cơ bản tùy  vào từng chuyên ngành .

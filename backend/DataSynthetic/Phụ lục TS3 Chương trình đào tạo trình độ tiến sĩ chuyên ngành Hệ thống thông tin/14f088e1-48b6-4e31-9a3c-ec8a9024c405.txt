@@ -1,0 +1,7 @@
+Kiến thức ngành và chuyên ngành 
+
+ - Có trình độ hiểu biết sâu sắc về các kiến thức nền tảng  và chuyên sâu của ít nhất một trong các chuyên ngành hẹp sau (nhưng không giới hạn trong các chuyên ngành hẹp này): phân tích và xử lý dữ liệu, khai phá dữ liệu, dữ liệu lớn, tính toán hiệu năng cao, kiến trúc hệ thống, an ninh mạng, an toàn hệ thống, tìm kiếm và truy xuất thông tin.  
+
+ - Có các khả năng phân t ích đánh gi á các kiến thức chuyên ngành Hệ thống Thông tin; từ đó tiến hành nghiên cứu để phát hiện những kết quả mới trong l ý thuyết và thực tiễn góp phần làm giàu kho trí thức của chuyên ngành Hệ thống Thông tin . 
+
+ - Có khả năng đưa ra các giả thuyết; ch ứng minh tính đúng đắn và bảo vệ được các kết quả đề xuất bằng lý thuyết và kiểm nghiệm bằng thực nghiệm.

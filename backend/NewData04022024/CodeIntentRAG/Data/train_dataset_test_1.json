@@ -1,0 +1,49 @@
+{
+    "queries": {
+        "bb7469ab-dcd8-409b-b806-1c3b06e67ca9": "Thí sinh cần đạt điểm trung bình chung học tập từ bao nhiêu điểm trở lên để được xét tuyển theo phương thức kết hợp?",
+        "7b546bad-1c3d-43ed-9504-90408be8a0ff": "Thí sinh cần có hạnh kiểm như thế nào để được xét tuyển theo phương thức xét tuyển tài năng?",
+        "52c142e1-cff2-41d1-a6ea-95412fb43020": "Điểm ngưỡng cần đạt để thí sinh được xét tuyển dựa vào kết quả thi tốt nghiệp THPT là bao nhiêu?",
+        "085c9804-6e11-444e-ae95-68d22f726aa8": "Thí sinh cần đạt điểm thi đánh giá năng lực của Đại học quốc gia Hà Nội từ bao nhiêu điểm trở lên để được xét tuyển?",
+        "de7aac00-b41c-4ed2-8d9f-28ac77fda28d": "Điểm ngưỡng cần đạt để thí sinh được xét tuyển dựa vào kết quả bài thi đánh giá tư duy của Đại học Bách khoa Hà Nội là bao nhiêu?",
+        "c7d80b02-c6d1-49f7-85c6-e7b0a824e426": "Thí sinh cần đạt điểm thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh từ bao nhiêu điểm trở lên để được xét tuyển?",
+        "e7ada985-8b65-452a-a43e-e7bdb10e76a2": "Thí sinh cần có kết quả điểm trung bình chung học tập từ những năm học nào để được xét tuyển theo phương thức kết hợp?",
+        "64c43393-4d95-450d-90be-744fd6b0e0ef": "Thí sinh cần đạt điểm trung bình chung học tập từ bao nhiêu điểm trở lên để được xét tuyển theo phương thức xét tuyển tài năng?",
+        "1a734b85-c2bc-4872-bd6f-5b31616a20e2": "Thí sinh cần có hạnh kiểm như thế nào để được xét tuyển theo phương thức xét tuyển kết hợp?",
+        "695cd87b-923e-40ca-ad44-9a6b63d50403": "Điểm ngưỡng cần đạt để thí sinh được xét tuyển dựa vào kết quả bài thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh là bao nhiêu?"
+    },
+    "corpus": {
+        "94f3dc84-2d68-461d-97cc-432903d36caa": "Các ngưỡng đảm bảo đầu vào\r\nNgưỡng đảm bảo chất lượng đầu vào cho các phương thức:\r\nNgưỡng đảm bảo chất lượng đầu vào đối với Phương thức xét tuyển dựa vào kết quả thi tốt nghiệp THPT: Học viện sẽ thông báo sau khi có kết quả thi tốt nghiệp THPT năm 2024;\r\nNgưỡng đảm bảo chất lượng đầu vào đối với Phương thức xét tuyển tài năng (Xét tuyển dựa vào hồ sơ năng lực) và Phương thức xét tuyển kết hợp: thí sinh có kết quả điểm trung bình chung học tập các năm học lớp 10, lớp 11, lớp 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên tùy theo từng loại đối tượng;\r\nNgưỡng đảm bảo chất lượng đầu vào đối với Phương thức xét tuyển dựa vào kết quả bài thi đánh giá năng lực hoặc đánh giá tư duy:\r\nThí sinh có điểm thi đánh giá năng lực của Đại học quốc gia Hà Nội năm 2024 từ 75 điểm trở lên.\r\nThí sinh có điểm thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh năm 2024 từ 600 điểm trở lên.\r\nThí sinh có điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội năm 2024 từ 50 điểm trở lên."
+    },
+    "relevant_docs": {
+        "bb7469ab-dcd8-409b-b806-1c3b06e67ca9": [
+            "94f3dc84-2d68-461d-97cc-432903d36caa"
+        ],
+        "7b546bad-1c3d-43ed-9504-90408be8a0ff": [
+            "94f3dc84-2d68-461d-97cc-432903d36caa"
+        ],
+        "52c142e1-cff2-41d1-a6ea-95412fb43020": [
+            "94f3dc84-2d68-461d-97cc-432903d36caa"
+        ],
+        "085c9804-6e11-444e-ae95-68d22f726aa8": [
+            "94f3dc84-2d68-461d-97cc-432903d36caa"
+        ],
+        "de7aac00-b41c-4ed2-8d9f-28ac77fda28d": [
+            "94f3dc84-2d68-461d-97cc-432903d36caa"
+        ],
+        "c7d80b02-c6d1-49f7-85c6-e7b0a824e426": [
+            "94f3dc84-2d68-461d-97cc-432903d36caa"
+        ],
+        "e7ada985-8b65-452a-a43e-e7bdb10e76a2": [
+            "94f3dc84-2d68-461d-97cc-432903d36caa"
+        ],
+        "64c43393-4d95-450d-90be-744fd6b0e0ef": [
+            "94f3dc84-2d68-461d-97cc-432903d36caa"
+        ],
+        "1a734b85-c2bc-4872-bd6f-5b31616a20e2": [
+            "94f3dc84-2d68-461d-97cc-432903d36caa"
+        ],
+        "695cd87b-923e-40ca-ad44-9a6b63d50403": [
+            "94f3dc84-2d68-461d-97cc-432903d36caa"
+        ]
+    }
+}

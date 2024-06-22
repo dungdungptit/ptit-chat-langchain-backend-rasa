@@ -1,0 +1,25 @@
+V Đề án Luận văn         
+
+27
+
+Mã học phần: INT4541
+
+Tên học phần (Tiếng Việt và tiếng Anh): Đề án thạc sĩ khoa học máy tính Project for Computer Science
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 9
+
+Định hướng nghiên cứu: 0
+
+28
+
+Mã học phần: INT4542
+
+Tên học phần (Tiếng Việt và tiếng Anh): Luận văn thạc sĩ khoa học máy tính Thesis for Computer Science
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 0
+
+Định hướng nghiên cứu: 14

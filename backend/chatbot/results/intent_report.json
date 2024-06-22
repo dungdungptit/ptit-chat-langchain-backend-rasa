@@ -1,0 +1,79 @@
+{
+  "học phí": {
+    "precision": 0.9733333333333334,
+    "recall": 1.0,
+    "f1-score": 0.9864864864864865,
+    "support": 73,
+    "confused_with": {}
+  },
+  "các ngành đào tạo": {
+    "precision": 1.0,
+    "recall": 0.9883040935672515,
+    "f1-score": 0.9941176470588234,
+    "support": 171,
+    "confused_with": {
+      "học phí": 2
+    }
+  },
+  "xét tuyển kết hợp": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2132,
+    "confused_with": {}
+  },
+  "cảm ơn": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 275,
+    "confused_with": {}
+  },
+  "địa chỉ cơ sở": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 33,
+    "confused_with": {}
+  },
+  "out_of_scope": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7,
+    "confused_with": {}
+  },
+  "xin chào": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 276,
+    "confused_with": {}
+  },
+  "điểm trúng tuyển": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 384,
+    "confused_with": {}
+  },
+  "accuracy": 0.9994031632348552,
+  "macro avg": {
+    "precision": 0.9966666666666667,
+    "recall": 0.9985380116959064,
+    "f1-score": 0.9975755166931637,
+    "support": 3351
+  },
+  "weighted avg": {
+    "precision": 0.9994190788819258,
+    "recall": 0.9994031632348552,
+    "f1-score": 0.9994054405134504,
+    "support": 3351
+  },
+  "micro avg": {
+    "precision": 0.9994031632348552,
+    "recall": 0.9994031632348552,
+    "f1-score": 0.9994031632348552,
+    "support": 3351
+  }
+}

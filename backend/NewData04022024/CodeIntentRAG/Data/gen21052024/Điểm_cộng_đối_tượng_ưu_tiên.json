@@ -1,0 +1,89 @@
+{
+    "queries": {
+        "b1872829-2d09-445f-b923-aa65804d8391": "Đối tượng nào được cộng 02 điểm theo quy định?",
+        "d97ebfb3-0463-46a7-a029-754f6345d39b": "Nhóm đối tượng nào được cộng 01 điểm theo quy định?",
+        "7425d2bf-883d-440a-a536-5558633ed3e0": "Tại sao nhóm đối tượng 01, 02, 03 và 04 được cộng 02 điểm?",
+        "0e3d71f6-49ba-44dd-9456-02b1654011ae": "Tại sao nhóm đối tượng 05, 06 và 07 chỉ được cộng 01 điểm?",
+        "9d8e1311-2e03-44ce-b18b-895ec5e3aac9": "Đối tượng nào không được ưu tiên trong việc cộng điểm?",
+        "009bcd05-f339-42b0-916d-f74881ff8ae2": "Tại sao quy định cộng điểm ưu tiên được chia thành 2 nhóm?",
+        "794ff043-d40a-4fa9-8d24-5494f772433a": "Nếu một đối tượng thuộc nhóm 01 và nhóm 02, điểm cộng ưu tiên sẽ là bao nhiêu?",
+        "33787439-95fc-4e8c-889f-3bb7e9ec6c4a": "Liệt kê các đối tượng thuộc nhóm 01.",
+        "72dea189-ccbc-4470-80f5-3d681dd196b3": "Liệt kê các đối tượng thuộc nhóm 02.",
+        "4df4454a-547f-42ba-9ac7-84ef01e71435": "Đối tượng nào được ưu tiên cao nhất trong việc cộng điểm?",
+        "7bae73d8-2f3d-44a4-b61c-8dd890ba6367": "Tại sao việc cộng điểm ưu tiên quan trọng trong quá trình tuyển sinh?",
+        "1ba66d01-7b17-4597-b1c5-beab44c76573": "Đối tượng nào có cơ hội cao nhất để được chấp nhận vào trường?",
+        "d34d24df-41a8-4fc4-8931-176065b6d459": "Tại sao việc phân loại đối tượng ưu tiên thành 2 nhóm là cần thiết?",
+        "0db664f6-3446-40e6-9a80-ac60ca422403": "Đối tượng nào có ưu tiên ít nhất trong việc cộng điểm?",
+        "ba78e66a-7ff2-4be8-85e2-cd9a531a3656": "Tại sao việc cộng điểm ưu tiên giữa các nhóm đối tượng khác nhau không giống nhau?",
+        "bd7da1ed-fcbe-4d91-8983-84ef1b590b48": "Đối tượng nào có thể được cộng cả 02 điểm và 01 điểm?",
+        "71b8d796-b571-4155-98b0-e1ce1703c3a9": "Tại sao quy định cộng điểm ưu tiên không áp dụng cho tất cả đối tượng?",
+        "a3afc550-92d0-4ee4-a421-1840b233f42b": "Liệt kê các lý do mà một đối tượng có thể được ưu tiên cộng điểm.",
+        "2b4ade0b-61bf-4af1-a70a-fb63b78d8220": "Tại sao việc cộng điểm ưu tiên giữa các nhóm đối tượng khác nhau?",
+        "d12d6ac2-27a4-4927-a789-84dafd596bb1": "Đối tượng nào có cơ hội thấp nhất để được chấp nhận vào trường?"
+    },
+    "corpus": {
+        "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1": "Điểm cộng đối tượng ưu tiên\nMức điểm cộng ưu tiên áp dụng được quy định theo 2 nhóm:\n1. Nhóm 01: gồm các đối tượng thuộc nhóm đối tượng 01, 02, 03 và 04\nCác đối tượng này được cộng 02 điểm.\n2. Nhóm 02: gồm các đối tượng thuộc nhóm đối tượng 05, 06 và 07\nCác đối tượng này được cộng 01 điểm."
+    },
+    "relevant_docs": {
+        "b1872829-2d09-445f-b923-aa65804d8391": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ],
+        "d97ebfb3-0463-46a7-a029-754f6345d39b": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ],
+        "7425d2bf-883d-440a-a536-5558633ed3e0": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ],
+        "0e3d71f6-49ba-44dd-9456-02b1654011ae": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ],
+        "9d8e1311-2e03-44ce-b18b-895ec5e3aac9": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ],
+        "009bcd05-f339-42b0-916d-f74881ff8ae2": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ],
+        "794ff043-d40a-4fa9-8d24-5494f772433a": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ],
+        "33787439-95fc-4e8c-889f-3bb7e9ec6c4a": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ],
+        "72dea189-ccbc-4470-80f5-3d681dd196b3": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ],
+        "4df4454a-547f-42ba-9ac7-84ef01e71435": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ],
+        "7bae73d8-2f3d-44a4-b61c-8dd890ba6367": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ],
+        "1ba66d01-7b17-4597-b1c5-beab44c76573": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ],
+        "d34d24df-41a8-4fc4-8931-176065b6d459": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ],
+        "0db664f6-3446-40e6-9a80-ac60ca422403": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ],
+        "ba78e66a-7ff2-4be8-85e2-cd9a531a3656": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ],
+        "bd7da1ed-fcbe-4d91-8983-84ef1b590b48": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ],
+        "71b8d796-b571-4155-98b0-e1ce1703c3a9": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ],
+        "a3afc550-92d0-4ee4-a421-1840b233f42b": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ],
+        "2b4ade0b-61bf-4af1-a70a-fb63b78d8220": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ],
+        "d12d6ac2-27a4-4927-a789-84dafd596bb1": [
+            "7a3b0052-bd65-4e38-9a0c-bbe3c217b2b1"
+        ]
+    }
+}

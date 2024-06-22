@@ -1,0 +1,63 @@
+2.2. Kiến thức  
+
+Sinh viên tốt nghiệp ngành Công nghệ Internet v ạn vật đạt được các yêu cầu sau đây về kiến thức chuyên ngành:  
+
+Hiểu biết cơ bản về các lĩnh vực liên quan đ ến ngành Công nghệ Internet v ạn vật. Kiến thức căn bản trong hội tụ điện tử – tin học – viễn thông, bao gồm cả lý thuyết, thực hành và thực tế mạng lưới; 
+
+Nắm vững các phương pháp, công cụ để phân tích, thiết kế, phát triển, vận hành mạng, hệ thống và thiết bị IoT; 
+
+Vận dụng tốt kiến thức để triển khai và phát triển sản phẩm hay giải pháp cho các ứng dụng truy ền thông trên các nền tảng mạng vi ễn thông, Internet, mạng di động và mạng IoT;  
+
+Nắm vững ki ến thức về cơ sở dữ liệu, thu th ập và phân tích dữ liệu; 
+
+Vận dụng tốt kiến thức về hệ thống thông tin và truyền thông, có khả năng tích hợp hệ thống; 
+
+Vận dụng tốt kiến thức về lập trình, có khả năng phát triển các phần mềm ứng dụng trong lĩnh vực IoT;  
+
+Nắm vững các ki ến thức, công c ụ phù h ợp để quản lý và ứng dụng công nghệ IoT vào các lĩnh v ực thực tế, các ngành khác nhau.  
+
+2.3. Kỹ năng  
+
+Các kỹ năng nghề nghiệp  
+
+Sinh viên tốt nghiệp ngành Công nghệ Internet vạn vật đạt được các yêu cầu sau đây về kỹ năng nghề nghiệp:  
+
+Đảm bảo các yêu cầu cơ bản về đạo đức ngh ề nghiệp như trung thực, trách nhiệm và tin c ậy; 
+
+Thành thục k ỹ năng tổ chức, sắp xếp công việc. Có năng lực làm việc độc l ập và tự tin trong môi trường làm việc;  
+
+Thành thục kỹ năng xây dựng mục tiêu c á nhân, tạo động lực làm việc và phát triển sự nghiệp cá nhân;  
+
+Đảm bảo kỹ năng sử dụng tiếng Anh chuyên ngành, kỹ năng tin học và ứng dụng trong hoạt động nghề nghiệp và giao tiếp xã hội.  
+
+Khả năng lập luận tư duy và giải quyết vấn đề   
+
+Sinh viên tốt nghiệp ngành Công nghệ Internet vạn vật đạt được các yêu cầu sau đây về kỹ năng tư duy, giải quyết vấn đề:   
+
+Có khả năng ph át hiện, tổng quát hóa, phân tích và đánh giá vấn đề kỹ thuật liên quan tới lĩnh vực chuyên môn;  
+
+Có kỹ năng l ập luận và xử lý thông tin, phân tích định lượng để giải quyết các bài toán chuyên môn cũng như đưa ra giải pháp và kiến nghị đối với vấn đề chuyên môn.  
+
+Khả năng nghiên c ứu và khám phá kiến thức  
+
+Sinh viên được trang bị và rèn luyện kỹ năng phát hiện vấn đề, tìm kiếm và thu thập thông tin, kỹ năng triển khai thí nghiệm và tham gia vào các khảo sát thực tế.  
+
+Khả năng tư duy theo hệ thống  
+
+Sinh viên được phát triển khả năng tư duy chỉnh thể, logic, phân tích đa chiều.  
+
+Khả năng nhận thức bối cảnh xã hội và ngoại cảnh  
+
+Hiểu được vai trò và trách nhiệm của mình về sự phát triển ngành Công nghệ Internet vạn vật, tác động của ngành đến x ã hội. Nắm bắt rõ được các quy định của xã hội, bối cảnh lịch sử và văn hóa dân tộc trong lĩnh vực chuyên môn; hiểu được ý nghĩa và giá trị thời đại của các vấn đề chuyên môn trong bối c ảnh toàn cầu.  
+
+Khả năng làm việc thành công trong tổ chức  
+
+Nhận thức chính xác và hiểu rõ vị trí làm việc trong c ác doanh nghiệp; nắm rõ được văn hóa doanh nghiệp; chiến lược, mục tiêu và kế hoạch của tổ chức, vận dụng kiến thức được trang bị để phục vụ hiệu quả cho hoạt động của doanh nghiệp, có khả năng làm việc thành công trong tổ chức.  
+
+Năng lực vận dụng kiến thức, kỹ năng vào thực tiễn  
+
+Đảm bảo khả năng vận dụng các kiến thức, kỹ năng đã được học vào thực tiễn; có thể sử dụng các định nghĩa, khái niệm cơ bản làm nền tảng; có khả năng hình thành ý tưởng liên quan đến chuyên môn hoặc quản lý các dự án trong lĩnh vực IoT.  
+
+Năng lực sáng tạo, phát triển và dẫn dắt sự thay đổi trong nghề nghiệp  
+
+Sinh viên được trang bị kỹ năng xây dựng mục tiêu cá nhân, động lực làm việc, phát triển cá nhân và sự nghiệp.

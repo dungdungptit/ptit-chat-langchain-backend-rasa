@@ -1,0 +1,117 @@
+III.1  Các học phần bắt buộc  
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 10
+
+Định hướng nghiên cứu: 10      
+
+13
+
+Mã học phần: BSA4410
+
+Tên học phần (Tiếng Việt và tiếng Anh): Quản trị chiến lược nâng cao Advanced Strategy Management
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+Ghi chú: Học phần trọng tâm 
+
+14
+
+Mã học phần: BSA4411
+
+Tên học phần (Tiếng Việt và tiếng Anh): Quản trị nguồn nhân lực nâng cao Advanced Human Resources Management
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+Ghi chú: Học phần trọng tâm 
+
+15
+
+Mã học phần: BSA4412
+
+Tên học phần (Tiếng Việt và tiếng Anh): Quản trị Marketing nâng cao Advanced Marketing Management
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+Ghi chú: Học phần trọng tâm 
+
+16
+
+Mã học phần: BSA4413
+
+Tên học phần (Tiếng Việt và tiếng Anh): Quản trị tài chính doanh nghiệp nâng cao Advanced Business Financial Management
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+Ghi chú: Học phần trọng tâm 
+
+17 
+
+Mã học phần: BSA4414
+
+Tên học phần (Tiếng Việt và tiếng Anh): Quản trị sản xuất và tác nghiệp Operation and Production Management
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+Ghi chú: Học phần trọng tâm

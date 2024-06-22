@@ -1,0 +1,89 @@
+{
+    "queries": {
+        "a4819c74-6eda-4215-b49c-ae77953dd469": "Thí sinh nào được ưu tiên xét tuyển theo phương thức 1 dựa vào hồ sơ năng lực?",
+        "fcd16fcb-6528-4aa3-851e-b7d9a02f9027": "Thí sinh nào được xét tuyển theo phương thức 3 dựa vào chứng chỉ quốc tế SAT?",
+        "e8509de2-9ec5-4fb0-8673-badb4002b90c": "Thí sinh nào được xét tuyển theo phương thức 4 dựa vào điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội?",
+        "7b9dda80-e222-4ec1-a2cf-1b7f7c7428c1": "Thí sinh nào được xét tuyển theo phương thức 1 dựa vào giải nhất cấp tỉnh môn Toán?",
+        "59f15882-20ed-483f-a252-c86c8d894bf1": "Thí sinh nào được xét tuyển theo phương thức 3 dựa vào chứng chỉ tiếng Anh quốc tế TOEFL iBT?",
+        "11c2fe20-2eaa-4d4c-9d23-3504f1cb3c9f": "Thí sinh nào được xét tuyển theo phương thức 4 dựa vào điểm thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh?",
+        "09f42e14-4e81-4ea0-8287-822bff702b1d": "Thí sinh nào được xét tuyển theo phương thức 1 dựa vào giải ba thành phố môn Hóa?",
+        "dc8c67a2-422b-4bfa-a14f-ee70488b62dd": "Thí sinh nào được xét tuyển theo phương thức 3 dựa vào chứng chỉ IELTS?",
+        "78b2bd71-b587-41c6-8ec5-617a7dd54bbb": "Thí sinh nào được xét tuyển theo phương thức 4 dựa vào điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội?",
+        "5965bc52-709d-4cba-b21b-365550b932a3": "Thí sinh nào được xét tuyển theo phương thức 1 dựa vào chứng chỉ quốc tế ACT?",
+        "369a4b44-b7fe-460a-927b-4c51061c436f": "Thí sinh nào được xét tuyển theo phương thức 3 dựa vào chứng chỉ tiếng Anh quốc tế TOEFL ITP?",
+        "7b99e6c3-d949-4c0d-9542-2dbd33d92574": "Thí sinh nào được xét tuyển theo phương thức 4 dựa vào điểm thi đánh giá năng lực của Đại học quốc gia Hà Nội?",
+        "c8fbfcbc-3a49-45ed-8bdd-bbb7352c4c5d": "Thí sinh nào được xét tuyển theo phương thức 1 dựa vào giải nhất thành phố môn Tin học?",
+        "ed926da1-9963-4063-9df4-cc46eea80142": "Thí sinh nào được xét tuyển theo phương thức 3 dựa vào chứng chỉ SAT từ 1130/1600 trở lên?",
+        "cd073004-1e92-48fe-88b2-75579ee95813": "Thí sinh nào được xét tuyển theo phương thức 4 dựa vào điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội?",
+        "a3a6d7e6-4eaa-40cf-bf6e-fddff4b27852": "Thí sinh nào được xét tuyển theo phương thức 1 dựa vào giải nhì cấp tỉnh môn Lý?",
+        "89c1214b-41e4-42ce-bf1c-b9253dc8ec06": "Thí sinh nào được xét tuyển theo phương thức 3 dựa vào chứng chỉ tiếng Anh IELTS?",
+        "50e719c1-faa0-448d-afcc-215d41c27e8b": "Thí sinh nào được xét tuyển theo phương thức 4 dựa vào điểm thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh?",
+        "d06e413c-4542-4053-b877-5888495a9d05": "Thí sinh nào được xét tuyển theo phương thức 1 dựa vào học sinh chuyên môn Tin học?",
+        "5b9d8a1f-b0ac-4eb1-a8d8-06059d5995f5": "Thí sinh nào được xét tuyển theo phương thức 3 dựa vào chứng chỉ TOEFL iBT từ 65 trở lên?"
+    },
+    "corpus": {
+        "f683f882-5be9-498d-ba53-951cde869849": "Thí sinh là thành viên đội tuyển Olympic quốc tế hoặc đoạt giải Quốc gia được thì xét tuyển phương thức 1 - Xét tuyển tài năng kèm điều kiện Xét tuyển thẳng và ưu tiên xét tuyển\r\nThí sinh đoạt giải từ khuyến khích quốc gia trở lên hoặc đã tham gia kỳ thi chọn học sinh giỏi quốc gia thí xét tuyển phương thức 1 - Xét tuyển tài năng kèm điều kiện Xét tuyển dựa vào hồ sơ năng lực (HSNL)\r\nThí sinh đoạt giải nhất cấp tỉnh môn Toán, Lý, Hóa, Tin học, đoạt giải nhất thành phố môn Toán, Lý, Hóa, Tin học xét tuyển phương thức 1 - Xét tuyển tài năng kèm điều kiện Xét tuyển dựa vào hồ sơ năng lực (HSNL)\r\nThí sinh đoạt giải nhì cấp tỉnh môn Toán, Lý, Hóa, Tin học, đoạt giải nhì thành phố môn Toán, Lý, Hóa, Tin học xét tuyển phương thức 1 - Xét tuyển tài năng kèm điều kiện Xét tuyển dựa vào hồ sơ năng lực (HSNL)\r\nThí sinh đoạt giải ba cấp tỉnh môn Toán, Lý, Hóa, Tin học, đoạt giải ba thành phố môn Toán, Lý, Hóa, Tin học xét tuyển phương thức 1 - Xét tuyển tài năng kèm điều kiện Xét tuyển dựa vào hồ sơ năng lực (HSNL)\r\nThí sinh đoạt giải khuyến khích cấp tỉnh môn Toán, Lý, Hóa, Tin học, đoạt giải khuyến khích thành phố môn Toán, Lý, Hóa, Tin học xét tuyển phương thức 1 - Xét tuyển tài năng kèm điều kiện Xét tuyển dựa vào hồ sơ năng lực (HSNL)\r\nThí sinh là học sinh chuyên môn Toán, Lý, Hóa, Tin học xét tuyển phương thức 1 - Xét tuyển tài năng kèm điều kiện Xét tuyển dựa vào hồ sơ năng lực (HSNL)\r\nThí sinh là học sinh trường chuyên môn Toán, Lý, Hóa, Tin học xét tuyển phương thức 1 - Xét tuyển tài năng kèm điều kiện Xét tuyển dựa vào hồ sơ năng lực (HSNL)\r\n\r\nThí sinh có chứng chỉ quốc tế SAT trong thời hạn 02 năm (tính đến ngày xét tuyển) từ 1130/1600 trở lên hoặc ACT từ 25/36 trở lên xét tuyển phương thức 3 - Xét tuyển kết hợp\r\nThí sinh có chứng chỉ SAT trong thời hạn 02 năm (tính đến ngày xét tuyển) từ 1130/1600 trở lên hoặc ACT từ 25/36 trở lên xét tuyển phương thức 3 - Xét tuyển kết hợp\r\nThí sinh có chứng chỉ quốc tế SAT trong thời hạn 02 năm (tính đến ngày xét tuyển) từ 1130/1600 trở lên xét tuyển phương thức 3 - Xét tuyển kết hợp\r\nThí sinh có chứng chỉ ACT trong thời hạn 02 năm (tính đến ngày xét tuyển) từ 25/36 trở lên xét tuyển phương thức 3 - Xét tuyển kết hợp\r\nThí sinh có chứng chỉ tiếng Anh quốc tế trong thời hạn (tính đến ngày xét tuyển) đạt IELTS 5.5 trở lên hoặc TOEFL iBT 65 trở lên hoặc TOEFL ITP 513 trở lên xét tuyển phương thức 3 - Xét tuyển kết hợp\r\nThí sinh có chứng chỉ tiếng Anh trong thời hạn (tính đến ngày xét tuyển) đạt IELTS 5.5 trở lên hoặc TOEFL iBT 65 trở lên hoặc TOEFL ITP 513 trở lên xét tuyển phương thức 3 - Xét tuyển kết hợp\r\nThí sinh có chứng chỉ IELTS 5.5 trong thời hạn (tính đến ngày xét tuyển) xét tuyển phương thức 3 - Xét tuyển kết hợp\r\nThí sinh có chứng chỉ TOEFL iBT 65 trong thời hạn (tính đến ngày xét tuyển) xét tuyển phương thức 3 - Xét tuyển kết hợp\r\nThí sinh có chứng chỉ TOEFL ITP 513 trong thời hạn (tính đến ngày xét tuyển) xét tuyển phương thức 3 - Xét tuyển kết hợp\r\n\r\nThí sinh có điểm thi đánh giá năng lực của Đại học quốc gia Hà Nội (HSA) năm 2024 từ 75 điểm trở lên xét tuyển phương thức 4 - Xét tuyển đánh giá năng lực, đánh giá tư duy\r\nThí sinh có điểm thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh (APT) năm 2024 từ 600 điểm trở lên xét tuyển phương thức 4 - Xét tuyển đánh giá năng lực, đánh giá tư duy\r\nThí sinh có điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội (TSA) năm 2024 từ 50 điểm trở lên xét tuyển phương thức 4 - Xét tuyển đánh giá năng lực, đánh giá tư duy"
+    },
+    "relevant_docs": {
+        "a4819c74-6eda-4215-b49c-ae77953dd469": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ],
+        "fcd16fcb-6528-4aa3-851e-b7d9a02f9027": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ],
+        "e8509de2-9ec5-4fb0-8673-badb4002b90c": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ],
+        "7b9dda80-e222-4ec1-a2cf-1b7f7c7428c1": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ],
+        "59f15882-20ed-483f-a252-c86c8d894bf1": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ],
+        "11c2fe20-2eaa-4d4c-9d23-3504f1cb3c9f": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ],
+        "09f42e14-4e81-4ea0-8287-822bff702b1d": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ],
+        "dc8c67a2-422b-4bfa-a14f-ee70488b62dd": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ],
+        "78b2bd71-b587-41c6-8ec5-617a7dd54bbb": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ],
+        "5965bc52-709d-4cba-b21b-365550b932a3": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ],
+        "369a4b44-b7fe-460a-927b-4c51061c436f": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ],
+        "7b99e6c3-d949-4c0d-9542-2dbd33d92574": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ],
+        "c8fbfcbc-3a49-45ed-8bdd-bbb7352c4c5d": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ],
+        "ed926da1-9963-4063-9df4-cc46eea80142": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ],
+        "cd073004-1e92-48fe-88b2-75579ee95813": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ],
+        "a3a6d7e6-4eaa-40cf-bf6e-fddff4b27852": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ],
+        "89c1214b-41e4-42ce-bf1c-b9253dc8ec06": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ],
+        "50e719c1-faa0-448d-afcc-215d41c27e8b": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ],
+        "d06e413c-4542-4053-b877-5888495a9d05": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ],
+        "5b9d8a1f-b0ac-4eb1-a8d8-06059d5995f5": [
+            "f683f882-5be9-498d-ba53-951cde869849"
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+I.Các học phần bắt buộc  
+
+Số tín chỉ: 6     
+
+ Mã học phần: IGF5402  
+
+Tên học phần: Phương pháp nghiên cứu và viết báo cáo khoa học
+
+Số tín chỉ:2 
+
+Số giờ tín chỉ:
+
+Lý thuyết:24 
+
+Thực hành/Bài tập/Thảo luận:6 
+
+Tự học: 90   tiết
+
+ Mã học phần:BSA5402  
+
+Tên học phần: Các lý thuyết quản trị hiện đại Modern Business Management Research Methods and Technical WritingTheories  
+
+Số tín chỉ:2 
+
+Số giờ tín chỉ:
+
+Lý thuyết:24 
+
+Thực hành/Bài tập/Thảo luận:6 
+
+Tự học: 90  tiết
+
+ Mã học phần: INT5401 
+
+Tên học phần: Công cụ toán nâng cao cho công nghệ thông tin Advanced Mathematic Tools for Information Technology
+
+Số tín chỉ:2 
+
+Số giờ tín chỉ:
+
+Lý thuyết:24 
+
+Thực hành/Bài tập/Thảo luận:6 
+
+Tự học: 90  tiết
+
+Mã học phần: INT5402 
+
+Tên học phần: Tối ưu tổ hợp và phân tích dữ liệu Complex Optimization and Data Analysis
+
+Số tín chỉ:2 
+
+Số giờ tín chỉ:
+
+Lý thuyết:24 
+
+Thực hành/Bài tập/Thảo luận:6 
+
+Tự học: 90 tiết

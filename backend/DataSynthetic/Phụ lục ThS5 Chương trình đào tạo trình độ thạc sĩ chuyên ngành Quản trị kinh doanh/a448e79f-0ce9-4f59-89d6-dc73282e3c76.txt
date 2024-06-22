@@ -1,0 +1,291 @@
+2  Các học phần tự chọn  
+
+(Định hướng ứng dụng: chọn 07 trong 14 học phần; Định hướng nghiên cứu: chọn 04 trong 14 học phần)  
+
+Số giờ tín chỉ:
+
+Lý thuyết: 14
+
+Thực hành/Bài tập/Thảo luận: 8
+
+18
+
+Mã học phần: BSA4415
+
+Tên học phần (Tiếng Việt và tiếng Anh): Quản trị thương hiệu nâng cao Advanced Brand Management
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+19
+
+Mã học phần: BSA4416
+
+Tên học phần (Tiếng Việt và tiếng Anh): Kế toán quản trị nâng cao Advanced Management Accounting
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+20
+
+Mã học phần: BSA4417
+
+Tên học phần (Tiếng Việt và tiếng Anh): Quản trị thương mại điện tử E-commerce Management
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+21
+
+Mã học phần: BSA4418
+
+Tên học phần (Tiếng Việt và tiếng Anh): Phân tích và quản lý đầu tư Analysis and Investment Management
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+22
+
+Mã học phần: BSA4419
+
+Tên học phần (Tiếng Việt và tiếng Anh): Kỹ năng quản trị Management Skills
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+23
+
+Mã học phần: BSA4420
+
+Tên học phần (Tiếng Việt và tiếng Anh): Quản trị rủi ro Risk Manegenment
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+24
+
+Mã học phần: BSA4421
+
+Tên học phần (Tiếng Việt và tiếng Anh): Quản trị chuỗi cung ứng Supply Chain Management
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+25
+
+Mã học phần: BSA4422
+
+Tên học phần (Tiếng Việt và tiếng Anh): Hành vi tổ chức Organizational Behavior
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+26
+
+Mã học phần: BSA4423
+
+Tên học phần (Tiếng Việt và tiếng Anh): Nghiên cứu và phát triển sản phẩm mới Research & Development New Product
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+27
+
+Mã học phần: BSA4424
+
+Tên học phần (Tiếng Việt và tiếng Anh): Kinh doanh quốc tế International Business
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+28
+
+Mã học phần: BSA4425
+
+Tên học phần (Tiếng Việt và tiếng Anh): Văn hóa kinh doanh Business Culture
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+29
+
+Mã học phần: BSA4426
+
+Tên học phần (Tiếng Việt và tiếng Anh): Chính sách kinh tế và năng lực cạnh tranh của doanh nghiệp Economy Policy and the Competitiveness of Enterprises
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+30
+
+Mã học phần: BSA4427
+
+Tên học phần (Tiếng Việt và tiếng Anh): Thẩm định giá trị tài sản doanh nghiệp Corpoate Asset Value Appraisal
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+31
+
+Mã học phần: BSA4428
+
+Tên học phần (Tiếng Việt và tiếng Anh): Quản trị các định chế tài chính Management of Finacial Organizations
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+III.

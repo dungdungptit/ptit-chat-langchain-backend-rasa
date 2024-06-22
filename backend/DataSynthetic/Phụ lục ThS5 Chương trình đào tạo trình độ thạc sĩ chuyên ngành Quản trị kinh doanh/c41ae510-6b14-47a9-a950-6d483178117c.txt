@@ -1,0 +1,163 @@
+2 Các học phần tự chọn  
+
+(Định hướng ứng dụng: chọn 03 trong 06 học phần;Định hướng nghiên cứu: chọn 01 trong 06 học phần)  
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 6 
+
+Định hướng nghiên cứu: 2 
+
+7
+
+Mã học phần: BSA4304
+
+Tên học phần (Tiếng Việt và tiếng Anh): Pháp luật kinh doanh Business Laws
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+8
+
+Mã học phần: BSA4305
+
+Tên học phần (Tiếng Việt và tiếng Anh): Quản trị sự thay đổi Change Management
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+9
+
+Mã học phần: BSA4306
+
+Tên học phần (Tiếng Việt và tiếng Anh): Ra quyết định quản trị Decision Making in Management
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+10
+
+Mã học phần: BSA4307
+
+Tên học phần (Tiếng Việt và tiếng Anh): Quản lý Nhà nước về thông tin và truyền thông State Management of Information and Communications
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+11
+
+Mã học phần: BSA4308
+
+Tên học phần (Tiếng Việt và tiếng Anh): Nghiên cứu định lượng trong kinh doanh Quantitative Resarch in Business
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+12
+
+Mã học phần: BSA4309
+
+Tên học phần (Tiếng Việt và tiếng Anh): Kinh tế lượng ứng dụng Econometrics with Applications
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+II.3 
+
+Mã học phần: BSA4329 
+
+Tên học phần (Tiếng Việt và tiếng Anh): Chuyên đề thạc sĩ 1 Special Study for Business Administration 1
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 0
+
+Định hướng nghiên cứu: 3      
+
+II.4 
+
+Mã học phần: BSA4320 
+
+Tên học phần (Tiếng Việt và tiếng Anh): Chuyên đề thạc sĩ 2 Special Study for Business Administration 2
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 0
+
+Định hướng nghiên cứu: 3      
+
+III Khối kiến thức chuyên ngành  
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 24
+
+Định hướng nghiên cứu: 24
+
+III.

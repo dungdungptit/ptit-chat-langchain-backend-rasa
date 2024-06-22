@@ -1,0 +1,9 @@
+d. Chuyên ngành Khoa học máy tính  
+
+Nắm vững và vận dụng tốt các nguyên lý, khái niệm, lý thuyết liên quan tới khoa học máy tính và ứng dụng phần mềm ; 
+
+Xác định và phân tích yêu cầu đối với các vấn đề cụ thể, lên kế hoạch và tìm giải pháp cho vấn đề; 
+
+Đánh giá và thử nghiệm giải pháp ; 
+
+Có khả năng vận dụng các công cụ trong việc đặc tả, phân tích, xây dựng, triển khai, bảo trì các hệ thống dựa trên máy tính .

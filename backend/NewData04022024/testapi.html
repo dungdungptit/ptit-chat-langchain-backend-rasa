@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Request</title>
+</head>
+<body>
+    <h1>API Request Example</h1>
+    <form id="apiForm">
+        <label for="urlInput">URL:</label><br>
+        <input type="text" id="urlInput" name="urlInput" value="https://api.example.com"><br>
+        <label for="bodyInput">Body:</label><br>
+        <textarea id="bodyInput" name="bodyInput" rows="4" cols="50"></textarea><br>
+        <button type="button" onclick="sendRequest()">Send Request</button>
+    </form>
+    <div id="response"></div>
+
+    <script>
+        function sendRequest() {
+            var url = document.getElementById("urlInput").value;
+            var body = document.getElementById("bodyInput").value;
+            
+            fetch(url, {
+                method: 'POST',
+                body: body,
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById("response").innerHTML = JSON.stringify(data);
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        }
+    </script>
+</body>
+</html>

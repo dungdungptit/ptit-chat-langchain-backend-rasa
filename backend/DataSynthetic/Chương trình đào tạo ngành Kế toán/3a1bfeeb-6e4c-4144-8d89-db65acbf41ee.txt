@@ -1,0 +1,21 @@
+4.1 Cấu trúc chương trình
+
+Kiến thức giáo dục đại cương: 38 tín chỉ
+
+Khối kiến thức chung: 29 tín chỉ
+
+Lý luận chính trị: 11 tín chỉ
+
+Tiếng anh: 14 tín chỉ
+
+Tin học: 4 tín chỉ
+
+Khối kiến thức khoa học tự nhiên và xã hội: 9 tín chỉ
+
+Kiến thức giáo dục chuyên nghiệp: 92 tín chỉ
+
+Khối kiến thức cơ sở (nhóm ngành và ngành): 45 tín chỉ
+
+Khối kiến thức chuyên chuyên ngành: 37 ngành
+
+Thực tập và Tốt nghiệp: 10 (4+6)

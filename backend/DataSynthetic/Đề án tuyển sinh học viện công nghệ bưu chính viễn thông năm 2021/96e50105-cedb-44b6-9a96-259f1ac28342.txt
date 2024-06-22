@@ -1,0 +1,115 @@
+3. Ngành, mã ngành, tổ hợp xét tuyển
+
+TT Ngành đào tạo Mã ngành Tổ hợp xét tuyển 
+
+1 Kỹ thuật Điện tử viễn thông 7520207 A00, A01 
+
+2 Công nghệ kỹ thuật Điện, điện tử 7510301 A00, A01 
+
+3 Kỹ thuật Điều khiển và tự động hóa 7520216 A00, A01 
+
+4 Công nghệ Inernet vạn vật (IoT) 7520208 A00, A01 
+
+5 Công nghệ thông tin 7480201 A00, A01 
+
+6 An toàn thông tin 7480202 A00, A01 
+
+7 Khoa học máy tính 7480101 A00, A01 
+
+8 Công nghệ đa phương tiện 7329001 A00, A01, D01
+
+9 Truyền thông đa phương tiện 7320104 A00, A01, D01 
+
+10 Báo chí 7320101 A00, A01, D01 
+
+11 Quản trị kinh doanh 7340101 A00, A01, D01 
+
+12 Thương mại điện tử 7340122 A00, A01, D01 
+
+13 Marketing 7340115 A00, A01, D01 
+
+14 Kế toán 7340301 A00, A01, D01 
+
+15 Công nghệ tài chính (Fintech) 7340205 A00, A01, D01 
+
+Ghi chú: Tổ hợp A00: Toán, Vật lý, Hóa học;
+
+Tổ hợp A01: Toán, Vật lý, Tiếng Anh;
+
+Tổ hợp D01: Toán, Văn, Tiếng Anh. 
+
+
+
+1.7. Tổ chức tuyển sinh
+
+1. Phương thức tuyển thẳng và ưu tiên xét tuyển: Theo quy định và theo lịch tuyển sinh của Bộ Giáo dục và Đào tạo.
+
+2. Phương thức xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2023:
+
+
+
+Hình thức ĐKXT: Trực tuyến theo quy định của Bộ Giáo dục và Đào tạo;
+
+Thời gian xét tuyển: Theo lịch xét tuyển của Bộ Giáo dục và Đào tạo;
+
+Các điều kiện xét tuyển: Không tổ chức sơ tuyển
+
+
+
+3. Phương thức xét tuyển kết hợp và xét tuyển dựa vào kết quả bài thi đánh giá năng lực hoặc đánh giá tư duy:
+
+
+
+Thời gian đăng ký và nhận hồ sơ ĐKXT: Từ 15/04/2023 đến hết 30/05/2023;
+
+Hình thức đăng ký xét tuyển và nộp hồ sơ: thí sinh khai hồ sơ, đăng ký nguyện vọng xét tuyển trên Cổng xét tuyển trực tuyến của Học viện tại địa chỉ https://xettuyen.ptit.edu.vn và nộp hồ sơ (gửi qua đường Bưu điện, không nhận hồ sơ trực tiếp) cho các Cơ sở đào tạo của Học viện;
+
+Công bố kết quả xét tuyển: Dự kiến tháng 6/2023.
+
+
+
+1.8. Chính sách ưu tiên
+
+ Học viện thực hiện tuyển thẳng và ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ GD&ĐT và Thông báo của Học viện, không giới hạn số lượng chỉ tiêu (có Thông báo riêng);
+
+ Học viện thực hiện chính sách ưu tiên về đối tượng, khu vực theo Quy chế tuyển sinh của Bộ GD&ĐT. Cụ thể: 
+
+
+
+Từ năm 2023, thí sinh được hưởng chính sách ưu tiên khu vực theo quy định trong năm tốt nghiệp THPT (hoặc trung cấp) và một năm kế tiếp (thí sinh tốt nghiệp năm 2023 và năm 2022).
+
+Từ năm 2023, điểm ưu tiên (ưu tiên đối tượng và khu vực) đối với thí sinh đạt tổng điểm từ 22,5 trở lên (khi quy đổi về điểm theo thang 10 và tổng điểm 3 môn tối đa là 30) được xác định theo công thức sau: 
+
+Điểm ưu tiên = [(30 – Tổng điểm đạt được(*))/7,5] x Mức điểm ưu tiên theo quy định
+
+(*) Tổng điểm đạt được là điểm xét tuyển (không gồm điểm ưu tiên) tương ứng với từng phương thức xét tuyển (là kết quả thi tốt nghiệp THPT đối với PTXT dựa vào kết quả thi tốt nghiệp THPT hoặc kết quả học tập THPT đối với PTXT kết hợp hoặc kết quả đánh giá năng lực, đánh giá tư duy sau quy đổi về thang điểm 30 đối với PTXT dựa vào kết quả bài thi đánh giá năng lực, đánh giá tư duy).
+
+
+
+1.9. Lệ phí xét tuyển, thi tuyển
+
+Theo quy định của Bộ Giáo dục và Đào tạo và của Học viện
+
+
+
+1.10. Học phí dự kiến với sinh viên chính quy
+
+Học phí trình độ đại hệ chính quy chương trình đại trà năm học 2023-2024: trung bình từ khoảng 24,5 triệu đồng đến 27,8 triệu đồng/năm tùy theo từng ngành học;
+
+Học phí chương trình chất lượng cao trình độ đại học ngành Công nghệ thông tin năm học 2023-2024: trung bình khoảng 42 triệu đồng/năm;
+
+Học phí chương trình Cử nhân Công nghệ thông tin định hướng ứng dụng năm học 2023-2024: trung bình khoảng 30,5 triệu đồng/năm.
+
+
+
+1.11. Thời gian dự kiến tuyển sinh các đợt trong năm
+
+Tuyển sinh đợt 1: Theo kế hoạch tuyển sinh của Bộ GD&ĐT
+
+Tuyển sinh bổ sung đợt 2: sẽ có thông báo riêng trước 15 ngày thí sinh đăng ký xét tuyển.
+
+
+
+1.12. Các nội dung khác
+
+1.

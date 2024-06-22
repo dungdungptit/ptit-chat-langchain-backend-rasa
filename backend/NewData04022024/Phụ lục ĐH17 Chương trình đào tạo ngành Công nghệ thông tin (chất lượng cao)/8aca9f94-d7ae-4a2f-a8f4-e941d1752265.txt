@@ -1,0 +1,13 @@
+2.2.1 Về Kiến thức  (Knowledge) 
+
+PO1 : Trang bị cho sinh viên các kiến thức giáo dục đại cương về Lý luận chính trị, Khoa học tự nhiên và xã hội; chú trọng vào Toán học là nền tảng tiền đề cho ngành đào tạo. 
+
+(Equip students with general educational knowledge of The Theory of Marxism Leninism and Ho Chi Minh Thought, Natural Science; Focusing on Mathema tics is the foundation for the training industry) . 
+
+PO2 : Trang bị cho sinh viên những kiến thức về Toán chuyên ngành công nghệ thông tin, Lập trình máy tính, Hệ thống máy tính, Các ứng dụng quan trọng của công nghệ thông tin.  
+
+(Equip students with knowledge  of Mathematics specialized in information technology, computer programming, computer systems, important applications of information technology).   
+
+PO3 : Trang bị cho sinh viên năm cuối các kiến thức chuyên sâu về một trong các lĩnh vực: thiết kế, phát triển, và kiểm thử phần mềm; trí tuệ nhân tạo và học máy; phân tích, thiết kế, và phát triển hệ thống thông tin. 
+
+(Equips the final year students with in -depth knowledge  in one or more of the following areas: software design, develop ment , and testing; data science, artificial intelligence and machine learning; information system analysis, design, and development) .

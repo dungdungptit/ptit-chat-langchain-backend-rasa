@@ -1,0 +1,253 @@
+2  Các học phần tự chọn  
+
+(Định hướng ứng dụng: chọn 05 trong 10 học phần; Định hướng nghiên cứu: chọn 02 trong 10 học phần)  
+
+Số giờ tín chỉ:
+
+Lý thuyết: 10
+
+Thực hành/Bài tập/Thảo luận: 4
+
+16
+
+Mã học phần: INT4412
+
+Tên học phần (Tiếng Việt và tiếng Anh): Hệ điều hành mạng Network Operating Systems
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+17
+
+Mã học phần: INT4413
+
+Tên học phần (Tiếng Việt và tiếng Anh): Tìm kiếm và truy xuất thông tin Information Retrieval
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+18
+
+Mã học phần: INT4414
+
+Tên học phần (Tiếng Việt và tiếng Anh): Quản trị mạng Network Administration
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+19
+
+Mã học phần: INT4415
+
+Tên học phần (Tiếng Việt và tiếng Anh): Thị giác máy tính Computer Vision
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+20
+
+Mã học phần: INT4416
+
+Tên học phần (Tiếng Việt và tiếng Anh): Thiết kế và tối ưu mạng Network Design and Optimization
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+21
+
+Mã học phần: INT4417
+
+Tên học phần (Tiếng Việt và tiếng Anh): Điện toán đám mây Clouds Computing
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+22
+
+Mã học phần: INT4418
+
+Tên học phần (Tiếng Việt và tiếng Anh): Dữ liệu lớn Big Data
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+23
+
+Mã học phần: INT4419
+
+Tên học phần (Tiếng Việt và tiếng Anh): Hệ thống thông tin doanh nghiệp Enterprises Information Systems
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+24
+
+Mã học phần: ELE4408
+
+Tên học phần (Tiếng Việt và tiếng Anh): Xử lý âm thanh nâng cao Advanced Audio Signal Processing
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+25
+
+Mã học phần: TEL4409
+
+Tên học phần (Tiếng Việt và tiếng Anh): Công nghệ mạng viễn thông thế hệ mới New Generation Network’s Technologies
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 2 
+
+Định hướng nghiên cứu: 2 
+
+Số giờ tín chỉ:
+
+Lý thuyết: 24
+
+Thực hành/Bài tập/Thảo luận: 6
+
+Tự học: 90   
+
+III.3  
+
+Mã học phần: INT4431
+
+Tên học phần (Tiếng Việt và tiếng Anh): Chuyên đề thạc sĩ 3 Special Study for Information Systems 3
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 0
+
+Định hướng nghiên cứu: 3 
+
+III.4 
+
+ Mã học phần: INT4432
+
+Tên học phần (Tiếng Việt và tiếng Anh): Chuyên đề thạc sĩ 4 Special Study for Information Systems 4
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 0
+
+Định hướng nghiên cứu: 3 
+
+IV Thực tập    
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 7
+
+Định hướng nghiên cứu: 0
+
+26
+
+Mã học phần: INT4537
+
+Tên học phần (Tiếng Việt và tiếng Anh): Thực tập Internship
+
+Số tín chỉ:
+
+Định hướng ứng dụng: 7
+
+Định hướng nghiên cứu: 0

@@ -1,0 +1,89 @@
+{
+    "queries": {
+        "a515170b-eeb1-42a7-96a1-690e4c3a8a0e": "Thí sinh cần đáp ứng những điều kiện nào để được xét tuyển theo phương thức 1?",
+        "b75ee684-633c-4038-aa72-50a8a1e03116": "Thí sinh cần đạt điểm bao nhiêu trong kỳ thi chọn học sinh giỏi quốc gia để được xét tuyển theo phương thức 1?",
+        "cf5467b1-f0a8-4adc-abaf-c31dcb7c106a": "Thí sinh cần có kết quả điểm trung bình chung học tập từ bao nhiêu trở lên để được xét tuyển theo phương thức 1?",
+        "252e50e9-1798-4892-8079-3793f1b99f88": "Thí sinh cần đáp ứng những điều kiện nào để được xét tuyển theo phương thức 3?",
+        "543f2b90-3944-40b0-b289-39f78df24822": "Thí sinh cần có Chứng chỉ quốc tế SAT từ điểm bao nhiêu trở lên để được xét tuyển theo phương thức 3?",
+        "ecef33ed-bdf8-4da9-9fc5-707345ead07b": "Thí sinh cần có kết quả điểm trung bình chung học tập từ bao nhiêu trở lên để được xét tuyển theo phương thức 3?",
+        "8da98daa-7ec5-40da-b70f-c52621c1b9dd": "Thí sinh cần có Chứng chỉ tiếng Anh quốc tế từ điểm bao nhiêu trở lên để được xét tuyển theo phương thức 3?",
+        "2be25cd3-5017-4556-a546-302900435241": "Thí sinh cần có hạnh kiểm từ mức nào trở lên để được xét tuyển theo phương thức 1?",
+        "b7ac04a3-15db-470c-a77a-8bc8fda9ae2c": "Thí sinh cần có hạnh kiểm từ mức nào trở lên để được xét tuyển theo phương thức 3?",
+        "6ccc8f69-8ad7-44f4-bc1b-5fbe146ec04e": "Thí sinh cần đạt giải Nhất, Nhì, Ba, Khuyến khích trong kỳ thi chọn học sinh giỏi cấp Tỉnh, Thành phố trực thuộc Trung ương (TW) ở những môn nào để được xét tuyển theo phương thức 1?",
+        "0645373a-e45d-45f1-82de-6cd633e4be4b": "Thí sinh cần là học sinh chuyên các môn nào của trường THPT chuyên trên phạm vi toàn quốc để được xét tuyển theo phương thức 1?",
+        "494d5cc8-0b4f-4aeb-8286-9fa8b51088c2": "Thí sinh cần có kết quả điểm trung bình chung học tập từ 7,5 trở lên ở những năm học nào để được xét tuyển theo phương thức 1?",
+        "bffd855d-bd4f-4707-9c6e-982affb05bba": "Thí sinh cần có Chứng chỉ quốc tế SAT từ điểm bao nhiêu trở lên để được xét tuyển theo phương thức 3?",
+        "79374a37-fc77-4e98-8461-e80c91366bb6": "Thí sinh cần có Chứng chỉ tiếng Anh quốc tế từ điểm bao nhiêu trở lên để được xét tuyển theo phương thức 3?",
+        "da1898a9-7a0a-4b91-95a1-6b2620a1791f": "Thí sinh cần có kết quả điểm trung bình chung học tập từ 7,5 trở lên ở những năm học nào để được xét tuyển theo phương thức 3?",
+        "deb00aa8-ecd3-4965-9740-f76424e9fccd": "Thí sinh cần đạt giải Khuyến khích trong kỳ thi chọn học sinh giỏi quốc gia ở môn nào để được xét tuyển theo phương thức 1?",
+        "291247c2-156e-4af2-b3c0-da423456be95": "Thí sinh cần có hạnh kiểm từ mức nào trở lên để được xét tuyển theo phương thức 1?",
+        "82ba10f0-d115-4f62-ba8d-a6ffc035c94c": "Thí sinh cần có hạnh kiểm từ mức nào trở lên để được xét tuyển theo phương thức 3?",
+        "c4b564ad-0386-40aa-8026-f88983b401c9": "Thí sinh cần đạt giải Khuyến khích trong kỳ thi chọn học sinh giỏi quốc gia ở môn nào để được xét tuyển theo phương thức 1?",
+        "68035776-2f36-4d2f-a290-04c1db6d1c90": "Thí sinh cần có kết quả điểm trung bình chung học tập từ 7,5 trở lên ở những năm học nào để được xét tuyển theo phương thức 1?"
+    },
+    "corpus": {
+        "767b3e37-4296-43f9-b46e-e14158170f38": "xét tuyển học bạ\r\nHọc viện xét tuyển học bạ theo phương thức 1 là hồ sơ năng lực và phương thức 3 là xét tuyển kết hợp\r\nThí sinh đọc thông báo tuyển sinh ở hai phương thức trên để biết điều kiện được nộp theo thông tin dưới đây:\r\nThí sinh xét tuyển học bạ cần đọc rõ thông tin của phương thức 1 và 3 để biết điều kiện cụ thể theo thông tin dưới đây:\r\nĐối với phương thức xét tuyển học bạ, thí sinh cần nắm rõ các điều kiện sau:\r\n- Phương thức 1: thí sinh có thể đăng ký xét tuyển dựa vào hồ sơ năng lực (HSNL) và đáp ứng 1 trong các điều kiến sau đây:\r\nThí sinh đoạt giải Khuyến khích trong kỳ thi chọn học sinh giỏi quốc gia hoặc đã tham gia kỳ thi chọn học sinh giỏi quốc gia hoặc đoạt giải Nhất, Nhì, Ba, Khuyến khích trong kỳ thi chọn học sinh giỏi cấp Tỉnh, Thành phố trực thuộc Trung ương (TW) các môn Toán, Lý, Hóa, Tin học và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên;\r\nLà học sinh chuyên các môn Toán, Lý, Hóa, Tin học của trường THPT chuyên trên phạm vi toàn quốc (các trường THPT chuyên thuộc Tỉnh, Thành phố trực thuộc TW và các trường THPT chuyên thuộc Cơ sở giáo dục đại học) hoặc hệ chuyên thuộc các trường THPT trọng điểm quốc gia; Và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên.\r\n- Phương thức 3: thí sinh có thể đăng ký xét tuyển kết hợp và đáp ứng 1 trong các điều kiện sau đây:\r\nThí sinh có Chứng chỉ quốc tế SAT, trong thời hạn 02 năm (tính đến ngày xét tuyển) từ 1130/1600 trở lên hoặc ACT từ 25/36 trở lên; và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên;\r\nThí sinh có Chứng chỉ tiếng Anh quốc tế trong thời hạn (tính đến ngày xét tuyển) đạt IELTS 5.5 trở lên hoặc TOEFL iBT 65 trở lên hoặc TOEFL ITP 513 trở lên; và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên."
+    },
+    "relevant_docs": {
+        "a515170b-eeb1-42a7-96a1-690e4c3a8a0e": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ],
+        "b75ee684-633c-4038-aa72-50a8a1e03116": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ],
+        "cf5467b1-f0a8-4adc-abaf-c31dcb7c106a": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ],
+        "252e50e9-1798-4892-8079-3793f1b99f88": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ],
+        "543f2b90-3944-40b0-b289-39f78df24822": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ],
+        "ecef33ed-bdf8-4da9-9fc5-707345ead07b": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ],
+        "8da98daa-7ec5-40da-b70f-c52621c1b9dd": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ],
+        "2be25cd3-5017-4556-a546-302900435241": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ],
+        "b7ac04a3-15db-470c-a77a-8bc8fda9ae2c": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ],
+        "6ccc8f69-8ad7-44f4-bc1b-5fbe146ec04e": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ],
+        "0645373a-e45d-45f1-82de-6cd633e4be4b": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ],
+        "494d5cc8-0b4f-4aeb-8286-9fa8b51088c2": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ],
+        "bffd855d-bd4f-4707-9c6e-982affb05bba": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ],
+        "79374a37-fc77-4e98-8461-e80c91366bb6": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ],
+        "da1898a9-7a0a-4b91-95a1-6b2620a1791f": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ],
+        "deb00aa8-ecd3-4965-9740-f76424e9fccd": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ],
+        "291247c2-156e-4af2-b3c0-da423456be95": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ],
+        "82ba10f0-d115-4f62-ba8d-a6ffc035c94c": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ],
+        "c4b564ad-0386-40aa-8026-f88983b401c9": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ],
+        "68035776-2f36-4d2f-a290-04c1db6d1c90": [
+            "767b3e37-4296-43f9-b46e-e14158170f38"
+        ]
+    }
+}

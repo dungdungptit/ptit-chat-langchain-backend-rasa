@@ -1,0 +1,9 @@
+2.2. Kỹ năng
+
+Áp dụng các các kiến thức, kỹ năng; sử dụng các công cụ khoa học kỹ thuật để nhận biết, phân tích,  giải quyết các vấn đề liên quan đến an toàn, bảo mật thông tin mạng;
+
+Thu thập, phân tích tìm hiểu và tổng hợp các yêu cầu về an ninh, bảo mật từ hệ thống thông tin để phục vụ công tác nghiên cứu, xây dựng và phát triển hệ thống an toàn, an ninh thông tin;
+
+Thiết kế và triển khai các ứng dụng đảm bảo an toàn thông tin đáp ứng các yêu cầu kỹ thuật đặt ra trong điều kiện thực tế;
+
+Tìm kiếm, tiếp cận, ứng dụng hiệu quả và sáng tạo các kỹ thuật, kỹ năng và công cụ hiện đại để giải quyết những vấn đề thực tế của lĩnh vực An toàn thông tin.

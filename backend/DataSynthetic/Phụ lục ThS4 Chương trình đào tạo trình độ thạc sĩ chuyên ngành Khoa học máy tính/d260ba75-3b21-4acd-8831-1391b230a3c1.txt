@@ -1,0 +1,69 @@
+Phụ lục ThS 4 
+
+Chương trình đào tạo  trình độ  thạc sĩ  chuyên ngành Khoa học máy tính  
+
+(Quyết định số 982/QĐ-HV ngày 29/10/2021 của Giám đốc Học viện về việc hiệu chỉnh chương trình khung đào tạo trình độ tiến sĩ các chuyên ngành ) 
+
+1. MỤC TIÊU, KIẾN THỨC, KỸ NĂNG, TRÌNH ĐỘ NGOẠI NGỮ ĐẠT ĐƯỢC  
+
+1.1 Mục tiêu  
+
+Mục tiêu chung  
+
+Đào tạo nhân lực trình độ thạc sĩ chuyên ngành Khoa học Máy tính . Nâng cao và bổ sung kiến thức đã được học ở đại học bao gồm kiến thức về triết học, ngoại ngữ, kiến thức cơ sở ngành và chuyên ngành Khoa học Máy tính . 
+
+Mục tiêu cụ thể 
+
+Trang bị cho học viên kiến thức rộng về công nghệ thông tin, đồng thời cung cấp kiến thức chuyên sâu và cập nhật trong chuyên ngành Khoa học Máy tính, bao gồm  : 
+
+ + Nền tảng toán học của khoa học máy tính, lý thuyết tính toán và thuật toán, lập trình máy tính ; 
+
+ + Kiến thức mang tính hệ thống và tổng quát về hệ thống máy tính bao gồm cả phần cứng và phần mềm ; 
+
+ + Kiến thức chuyên sâu về một số lĩnh vực Khoa học Máy tính và ứng dụng. Các lĩnh vực chuyên sâu bao gồm: trí tuệ nhân tạo, phân tích dữ liệu, khai phá tri thức, xử lý ngôn ngữ tự nhiên, an toàn thông tin, tính toán y sinh, tính toán di động và Internet .  
+
+1.2 Kiến thức  
+
+Kiến thức chung gồm 
+
+- Hiểu và vận dụng được hệ thống tri thức khoa học những nguyên lý cơ bản của chủ nghĩa Mác-Lê Nin, những kiến thức cơ bản, có tính hệ thống về tư tưởng, đạo đức, giá trị văn hóa Hồ Chí Minh, những nội dung cơ bản của Đường lối cách mạng của Đảng Cộng sản Việt Nam, chủ yếu là đường lối trong thời kỳ đổi mới trên một số lĩnh vực cơ bản của đời sống xã hội. 
+
+- Tiếng Anh đạt trình độ tương đương Bậc 4 theo Khung năng lực ngoại ngữ dùng cho Việt Nam.  
+
+- Hiểu và sử dụng thành thạo một số phương pháp nghiên cứu khoa h ọc, mô hình toán học, công c ụ mô phỏng phục vụ cho việc học tập các môn học khác và nghiên cứu khoa học. 
+
+Kiến thức ngành và chuyên ngành
+
+Sau khi hoàn thành chương trình Thạc sĩ ngành Khoa học Máy tính, học viên có những khả năng sau:   
+
+- Vận dụng tốt các nguyên lý, lý thuyết  khoa học máy tính  cho các vấn đề thực tế ; 
+
+- Xác định và phân tích yêu cầu đối với các vấn đề cụ thể, lên kế hoạch và tìm giải pháp dựa trên máy tính cho vấn đề;  
+
+- Đánh giá và thử nghiệm giải pháp dựa trên máy tính;  
+
+- Có khả năng vận dụng các công cụ trong việc đặc tả, phân tích, xây dựng, triển khai, bảo trì các hệ thống dựa trên máy tính;  
+
+- Đối với chương trình đào tạo theo định hướng nghiên cứu: tiến hành nghiên cứu khoa học trong lĩnh vực Khoa học Máy tính.  
+
+Yêu cầu đối với luận văn tốt nghiệp 
+
+Luận văn là một báo cáo khoa học, tổng hợp các kết quả nghiên cứu chính của học viên, đáp ứng các yêu cầu sau:  
+
+- Có đóng góp về lý luận, học thuật hoặc phát triển công nghệ, đổi mới sáng tạo; thể hiện năng lực nghiên cứu của học viên;  
+
+- Phù hợp với các chuẩn mực về văn hóa, đạo đức và thuần phong mỹ tục của người Việt Nam;  
+
+- Tuân thủ quy định của Học viện Công nghệ Bưu chính Viễn thông về liêm chính học thuật và các quy định hiện hành của pháp luật về sở hữu trí tuệ.  
+
+Yêu cầu đối với đề án tốt nghiệp 
+
+Báo cáo đề án là một bản thuyết minh quá trình xây dựng, triển khai và kết quả triển khai đề án, đáp ứng các yêu cầu sau:  
+
+- Đề xuất và kiểm nghiệm được mô hình, giải pháp mới để giải quyết hiệu quả những thách thức trong thực tiễn; thể hiện năng lực ứng dụng khoa học, công nghệ và giải quyết vấn đề của học  viên;  
+
+- Phù hợp với các chuẩn mực về văn hóa, đạo đức và thuần phong mỹ tục của người Việt Nam;  
+
+- Tuân thủ quy định của Học viện Công nghệ Bưu chính Viễn thông về liêm chính học thuật và các quy định hiện hành của pháp luật về sở hữu trí tuệ . 
+
+1.3.

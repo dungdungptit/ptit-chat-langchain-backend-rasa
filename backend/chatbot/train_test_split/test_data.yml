@@ -1,0 +1,698 @@
+version: "3.1"
+nlu:
+- intent: out_of_scope
+  examples: |
+    - ad xấu xí
+    - thời tiết ngày mai
+- intent: địa chỉ cơ sở
+  examples: |
+    - cho em hỏi em muốn gửi giấy chứng nhân kết quả thi thì gửi đến địa chỉ quận 1 hoặc quận 9 đều được
+    - địa chỉ gửi hồ sơ qua đường bưu điện là học viện bưu chính viễn thông km 10 đường nguyễn trãi quận hà đông thành phố hà nồi phải không
+    - nơi ở địa chỉ 122 hoàng quốc việt cổ nhuế cầu giấy hà nội
+    - em ghi địa chỉ gửi là học viện công nghệ bưu chính viễn thông km10 đường nguyễn trãi quận hà đông hà nội
+    - địa chỉ của trường mình là ở đâu vậy
+    - địa chỉ các trụ sở trụ sở chính và cơ sở đào tạo trụ sở chính cơ sở đào tạo phía bắc bvh km 10 đường nguyễn trãi phường mộ lao quận hà đông thành phố
+- intent: học phí
+  examples: |
+    - em nghe nói học phí học viện hơi cao
+    - cho mình hỏi con thương bệnh binh thì có được giảm học phí không
+    - học phí năm học này có p tằng nhiều hơn so vowism ọi năm không
+    - cho em hỏi công nghệ đa phương tiện và truyền thông đa phương tiện thì học phí cao không 4
+    - cho em hỏi học phí dự kiến năm 2018 của trường là bao nhiêu
+    - cái bảng học phí này
+    - học viện ơi cho em hỏi là em là d22 mới trúng tuyển vào trường thì em muốn lúc nhập học thì nộp học phí trực tiếp có được không
+    - là em đã mua bảo hiểm y tế tại nhà thì bây giờ em nộp học phí thì có cần trừ đi tiền bào hiểm y tế không
+    - học phí cho khóa mới năm nay thế nào
+    - cho em học phí của mình bao nhiu cho 1 năm học vậy
+    - là có số này gọi bảo là bên ngân hàng agribank bảo hỗ trợ em nộp học phí rồi mở tài khoản hộ ý bảo khi nào nộp tiền thì báo họ là sao
+    - em không hiểu rõ về cách tính học phí 1 kỳ là bao nhiu ý
+    - cho em hỏi học phí 1 năm
+    - không ý mình nộp học phí như thế nào
+    - em hiện tại không biết nộp học phí như nào và em không có tài khoản agribank và bidv
+- intent: các ngành đào tạo
+  examples: |
+    - ngành công nghệ thông tin bắt buộc phải để nguyện vọng 1
+    - năm nay cơ sở phía nam có bao nhiêu thí sinh đăng ký ngành công nghệ thông tin
+    - anh chị cho em hỏi em là sinh viên 2003 ngành công nghệ ttclc
+    - ngành truyền thông đa phương tiện của trường mình chỉ xét nhưng ai đặt nguyện vọng 1 thôi
+    - ngành này chỉ có hệ chất lượng cao thôi đúng không
+    - ngành công nghệ thông tin chất lg cao
+    - ngành công nghệ thông tin xét theo nguyện vọng 1 có bắt buộc phải để nguyện vọng 1 không
+    - được miễn học phí năm thứ không không
+    - admin ơi trường bưu chính năm nay sẽ mở thêm ngành kỹ thuật điều khiển tự động hóa admin
+    - cho em hỏi trường mình có tuyển sinh ngành quản trị nhân lực khối c năm 2019 không
+    - cho em hỏi chuyên ngành công nghệ tài chính có phù hợp với nữ không
+    - cho em hỏi năm nay trường có bao nhiêu thí sinh đăng ký ngành an toàn thông tin của trường
+    - ngành kỹ thuật điện tử viễn thông có 3 nhóm ngành thì em chọn 1 trong 3 nhóm ngành hay là học cả 3
+    - mọi năm ngành công nghệ thông tin đều xét nguyện vọng 1
+    - học sinh hệ chuyên ví dụ môn văn thì không thể xét bất cứ ngành nào hết còn phương thức xét chứng chỉ ngoại ngữ thì có thể dùng bằng b2 tiếng trung được không
+    - cho em hỏi là khối ngành marketing của trường ta có tuyển khối d07 không
+    - em đang quan tâm đến ngành marketing của trường mình
+    - admin ơi em trúng tuyển vào ngành marketing lịch nhập học là vào 30 8 nhưng 29 8 em muốn lên đký ký túc xá luôn vì sợ hết phòng được không
+    - khi nào công bố điểm ngành
+    - bây giờ em muốn xem danh sách trúg tuyển ngành thương mại đtử thì phải vào đâu
+    - cô cho em biết số lượng các bao nhiêu đăng ký ngành công nghệ thông tin học bạ trường mình hiện đánh giá là bao nhiêu được không cô
+    - cho em hỏi năm nay 18 điểm có đỗ được ngành công nghệ thông tin không
+    - tối đa được đăng ký mấy ngành
+    - vậy lượng đơn đăng ký xét tuyển vào ngành này đến hiện tại là bao nhiêu ạ
+    - trường mình các ngành năm nay có giới hạn nguyện vọng đăng ký là phải nhỏ hơn nguyện vọng bao nhiêu không
+    - 25 có cơ hội vào ngành công nghệ thông tin không
+    - biết điểm từng ngành luôn
+    - em thích ngành gì năng động và phù hợp với con gái
+    - cơ sở đào tạo phía bắc ngành kỹ thuật điện tử viễn thông 19
+    - không biet muc diem dao dong cua ngành nay trog truong qua cac nam la bao nhiu vậy a
+    - em định hỏi là ngành này trường có xét khối d07 không
+    - cho em hỏi thêm ngành an toàn thông tin học tuần lễ công dân vào ngày nào
+    - có ghi ngành công nghệ đpt là được chọn 3 chuyên ngành là ứng dụng thiết kế đồ họa và truyền thông đa phương tiện đúng không
+    - hiện tại có bao nhiêu thí sinh đăng ký ngành điện tử viễn thông ở cơ sở phía nam
+- intent: cảm ơn
+  examples: |
+    - ok cảm ơn anh hoặc chị hoặc chú cô bác
+    - dạ vâng vậy em cảm ơn ạ
+    - hihi cảm ơn admin xinh đẹp
+    - em cảm ơn hội đồng
+    - mình vào được rồi, mình cảm ơn
+    - êm cảm ơn
+    - em cảm ơn admin nhaaaa
+    - em tìm được rồi, em cảm ơn ạ .
+    - được rồi ạ, em cảm ơn ạ
+    - vvang em cảm ơn
+    - em đăng ký được rồi em cảm ơn ạ
+    - vâng cảm ơn các cô đã hướng dẫn tôi tra được rồi
+    - vậy mình cảm ơn nhé
+    - em cảm ơn tại em chưa thấy tin nhắn báo trúng tuyển
+    - em cảm ơn admin nhèo nhó
+    - vầng em cảm ơn
+    - em cảm ơn admin cho em hỏi tiếng anh trường mình thi là theo phương thức tự luận
+    - em hiểu rồi ạ, cảm ơn admin ạ
+    - trận trọng cảm ơn
+    - thôi admin ơi mẹ em liên hệ được với kế toán của học viện rồi ạ . họ bảo để chiều họ giải quyết . em cảm ơn ạ
+    - ok cảm ơn bạn nhiều nha
+    - dạ vâng ạ . em cảm ơn admin nhiều ạ .
+    - cảm ơn nhà trường đã phản hồi thông tin
+    - em cảm ơn em thấy 10 6 rồi mà trên website chưa hiện đã nộp nên em lo quá
+    - em cảm ơn admin nhiều lắm
+    - vâng cảm ơn quý trường
+    - hóa ra thế ạ . em cảm ơn ạ . gud night  vậy
+    - cảm ơn admin gấu trúc
+    - dạ thôi ạ em cảm ơn ạ
+    - vâng ạ cảm ơn admin
+    - uii em cảm ơn aa
+    - hị cảm ơn admin nhièu lắm
+    - ☺️ em xin cảm ơn
+    - vâng em mở được rồi ạ,em cảm ơn ạ
+    - em cảm ơn làm em hoảng luôn d
+    - em cảm ơn ạ nhg thắc mắc bên trên em làm được rồi ạ
+    - em cảm ơn mong nhà trường có thể giúp em
+    - vaang em cảm ơn
+    - xin cảm ơn ban ts
+    - ok mình cảm ơn nha ❤
+    - yay cảm ơn admin
+    - em cảm ơn vì trang đã reply thắc mắc của em
+    - xin cảm ơn quý nhà trường
+    - may quá em cảm ơn
+    - dzạ em cảm ơn admin
+    - xin cảm ơn nhà trường ăn
+    - thầy cô cho em hỏi em xét tuyển kết hợp xong thì gửi lệ phí thế nào em cảm ơn
+    - vâng vậy em cảm ơn
+    - hihi cảm ơn admin đẹp zai nếu là anh admin xinh gái nếu là chị
+    - dạ em cảm ơn ạ
+    - admin báo học viện giúp em em cảm ơn
+    - mk cảm ơn
+    - liệu em có hi vọng không em xin cảm ơn
+    - mong admin có thể trả lời thắc mắc của em cảm ơn admin nhiều
+    - em cảm ơn em vừa ra bưu điện lấy rồi
+- intent: xin chào
+  examples: |
+    - chào
+    - chào admin có thể tư vấn giúp em được không
+    - chào nhà trường
+    - chào tuyển sinh trường
+    - em chào anh chị cô chú
+    - em chào quý thầy cô em có một số vấn đề mong quý thầy cô trả lời giúp em
+    - chào với
+    - da chào th cô
+    - chào á
+    - em chào cô
+    - xin chào admin chút
+    - chào trang tuyển sinh
+    - em xin chào học viện
+    - xin chào bên tuyển sinh
+    - xin chào ban quane trị
+    - em chào ban tuyển sinh
+    - em chào admin hiện tại em có 1 thắc mắc mong được admin giải đáp
+    - xon chào
+    - em chào trường học viện bưu chính viễn thông
+    - xin chào admin có thể giải đáp thắc mắc cho em được không
+    - chào bác
+    - em chào admin em xin hỏi
+    - em kính chào
+    - em chào page
+    - chào ‍♀️ ạ
+    - em chào achi
+    - xin chào ban tư vấn ts
+    - kính chào quý ace học viện công nghệ bưu chính viễn thông mình là phụ huynh
+    - em chào trang
+    - chào b
+    - em chào th cô
+    - em chào học viện
+    - chào các bạn
+    - chào adm
+    - em xin chào thầy cô
+    - em chào anh chị phòng tuyển sinh
+    - hehe đề chào đại ca
+    - chào admin an
+    - chào bts trường
+    - xin chào ptit
+    - em chào thầy em có thắc mắc muốn hỏi các thầy cô
+    - da em chào anh chị
+    - em chào admin aa
+    - em chào thầy cô em muốn hỏi về vấn đề nộp hồ sơ bản cứng
+    - xin chào trường
+    - em chào các anh chị
+    - chào anh
+    - xin chào em từng là sinh viên của trường
+    - em chào trang tuyển sinh
+    - xin chào tuyển sinh ptit
+    - xin chào admin mình là hưng
+    - em chào thầy cô trong quá trình chuẩn bị hồ sơ em có sử dụng bảng điểm sat
+    - xìn chào
+    - em chào nhà trường
+    - xin chào trường em hiện đang là tân sinh viên
+- intent: điểm trúng tuyển
+  examples: |
+    - bao giờ trường có điểm sàn đó
+    - cho em hỏi điểm sàn xét tuyển bằng đánh giá tư duy của trường năm nay là bao nhiêu điểm
+    - điểm sàn theo điểm thi trung học phổ thông chưa có
+    - bao giờ trường có điểm sàn của khu vực 2
+    - em đủ điểm sàn đỗ vào trường thì sếp ngẫu nhiên vào khoa
+    - nhưng ví dụ có 150 thí sinh có điểm trúng tuyển thì 100 chỉ tiêu đó xét theo hình thức nào
+    - anh chị ơi trường mình đã công bố điểm chuẩn chưa
+    - xét học bạ hay điểm sàn
+    - điểm chuẩn năm 2021 khoa công nghệ thông tin
+    - cho em hỏi trường mình có điểm sàn chưa
+    - cho mình hỏi trường đã công bố điểm chuẩn cho các ngành chưa
+    - nhà trường đã có điểm chuẩn chưa
+    - bao giờ có điểm chuẩn đại học vậy
+    - có điểm chuẩn chưa vậy
+    - trường công bố điểm trúng tuyển vào thời gian nào
+    - hệ chất lượng cao thì điểm chuẩn có thấp hơn hệ đại trà không
+    - cho em hỏi khi nào có điểm chuẩn
+    - là trường mình liệu đêm nay rạng sáng mai có điểm chuẩn chưa
+    - cho em hỏi bao lâu trường mới công bố điểm sàn vậy
+    - nếu có thì điểm trúng tuyển khoảng bao nhiêu thế
+    - trường mình có điểm chuẩn chiwa
+    - có điểm chuẩn bvs chưa
+    - thì có xét riêng ban a a1 không hay chỉ tính điểm sàn chung
+    - cho mình xin tham khảo điểm trúng tuyển theo diện xét tuyển năm nay được không
+    - điểm trúng tuyển bằng phương thức xét tuyển kết quả học tập trung học phổ thông của năm ngoái là bao nhiêu vậy
+    - anh chị cho em hỏi bao giờ trường có điển sàn với điểm sàn có chênh lệch nhiều so với điểm chuẩn không
+    - hic vâng em cam ơn sao trường không xét từ điểm sàn trở nên nhỉ
+    - nếu xét học bạ thì có cần phải vượt qua điểm sàn thi trung học phổ thông quốc gia không
+    - bao giờ trường có điểm sàn
+    - nhà trường cho em hỏi khi nào trường sẽ ra điểm chuẩn của từng ngành
+    - cho em hỏi khi nào trường thông báo điểm chuẩn vậy
+    - mức điểm sàn hoặc chuẩn năm 2020 là bao nhiêu
+    - trường đã công bố điểm sàn 2021 chưa nhỉ
+    - chưa có điểm trúng tuyển của trường bạn ơi
+    - admin cho hỏi miền nam khi nào có điểm chuẩn vậy
+    - cho em hỏi là trường nhận mức điểm sàn là 700đ quy ra thang điểm 30 là 17
+    - cho em hỏi là năm nay nhà trường có giảm điểm sàn không
+    - nay sao vẫn chưa có điểm chuẩn của trường vậy
+    - mấy giờ công bố điểm chuẩn vậy admin ơi
+    - cho em hỏi khi nào có mưc điểm sàn của trường
+    - em muốn hỏi là trường đã công bố điểm sàn và em thấy là mức điểm đó chỉ dành cho khu vực 3
+    - thoi gian nhận giấy chứng nhận kết quả thi từ thời điểm công bố điểm trúng tuyển đến 17h00 ngày 15 08 2019 tính theo dấu bưu điện trên bì thư
+    - cho em hỏi cách tính điểm trúng tuyển theo phương thức xét tuyển kết hợp dùng ielts với
+    - bình thường vào thời điểm nào thì trường mình có điểm chuẩn
+    - luk nào trường mình có có điểm chuẩn
+    - học viện bao giờ thông báo điểm chuẩn theo kết quả thi trung học phổ thông nhỉ
+    - sao em tra cứu điểm trúng tuyển lại không có vậy
+    - cho em hỏi khi nào trường có điểm sàn vậy
+    - khi nào thì có mức điểm sàn củ trường
+    - khi trường công bố điểm chuẩn rồi thì trường bắt đầu xét phải không
+    - em đã đủ điểm trúng tuyển nhưng tra cứu lại không thấy thì phải làm sao
+    - hôm nay trường mình có điểm chuẩn chưa anh
+    - trường có điểm sàn chưa vậy
+    - à em còn thắc mắc là bao giờ nhà trường công bố điểm chuẩn
+    - cho em hỏi bao giờ trường mình có điểm sàn
+    - cho em hỏi cái là đã có thông tin về điểm chuẩn của trường chưa
+    - mình muốn xem điểm chuẩn 2020 của trường
+    - sao học viện chưa thấy công bố điểm chuẩn
+    - trường ơi cho em hỏi khi nào trường mới công bố điểm chuẩn em hồi hộp quá
+    - admin ơi năm nay trường mình lấy điểm sàn là bao nhiêu vậy
+    - giờ điểm của em bằng điểm chuẩn thì giờ sao
+    - thông tin điểm trúng tuyển của trường sao rồi
+    - với cả bao giờ trường công bố điểm chuẩn sau khi lọc ảo
+    - cho em hỏi mọi năm nhà trường công bố điểm chuẩn thường vào thời điểm nào trong ngày
+    - trường mình bao giờ công bố điểm chuẩn thế em đợi mòn mỏi rùi huhu
+    - khi nào thì công bố điểm trúng tuyển vậy
+    - điểm sàn năm nay là bao nhiêu thế
+    - cho em hỏi khi nào công bố điểm chuẩn vậy
+    - điểm sàn là như thể nào hả admin
+    - điểm sàn của trường năm 2019 có tăng so với 2018 không
+    - thế trường mình có điểm chuẩn để nộp hồ sơ chưa
+    - cho em hỏi điểm sàn bao nhiêu
+    - bạn cho mình hỏi hôm nay 23.8 trường mình đã công bố điểm chuẩn chưa
+    - cho em hỏi bg có điểm chuẩn
+    - mình dọc chỉ thấy kết hợp chứng chỉ tiếng anh với học bạ nhưng không biết cách tính thế nào để ra được điểm trúng tuyển
+    - điểm sàn cho khu vực 2 thì như thế nào
+    - điểm sàn của trường để đậu là bao nhiêu thế
+- intent: xét tuyển kết hợp
+  examples: |
+    - thầy cô ơi cho em hỏi, sao em chưa vào tra cứu kết quả xét tuyển kết hợp của con em được ạ .
+    - trường cho em xin phép hỏi khi đăng kí xét tuyển kết hợp trực tuyến thì đính kèm file học bạ có thể chụp hình bản photo công chứng được không ạ, hay nhất thiết phải dùng bản gốc ạ ?
+    - em đỗ vào trường theo phương thức xét tuyển kết hợp
+    - hạn nộp hồ sơ nhập học xét tuyển kết hợp là bao giờ ạ
+    - trường em đến ngày mùng 9  5 là hoàn thành học bạ cả năm . vậy em có thể điền điểm tổng kết cả lớp 12 vào hồ sơ xét tuyển kết hợp được không ạ ?
+    - cho em hỏi trường dự kiến bao giờ mở hệ thống nộp hồ sơ xét tuyển kết hợp và phương thức xét tuyển kết hợp được đăng ký bao nhiêu nguyện vọng ạ ?
+    - cho tôi hỏi trường đã mở để đăng ký phương thức xét tuyển kết hợp chua ạ
+    - em muốn xin hướng dẫn đăng ký xét tuyển kết hợp kết quả thi tốt nghiệp, anh chị hướng dẫn giúp em với à
+    - cho mình hỏi khi nào trường mở cổng xét tuyển kết hợp chứng chỉ đó để con nộp hồ sơ à , tks bạn
+    - mình là phụ huynh xin hỏi nhà trường khi nào nhận đơn đăng ký xét tuyển theo phương thức xét tuyển kết hợp con mình có điểm ielts 7 . 0 điểm trung bình chung trên 7 . 5 kính xin nhà trường tư vấn giúp xin chân thành cảm ơn
+    - vâng ạ, em đọc được bài viết nói xét tuyển kết hợp nên em hoang mang quá, em sợ em bỏ lỡ gì đó . em cảm ơn admin ạ
+    - admin cho em hỏi giải khuyến khích tỉnh có được xét tuyển kết hợp không ạ
+    - phần đối tượng ưu tiên thì xét tuyển kết hợp cùng chứng chỉ ielts như em thì là đối tượng nào ạ ?
+    - em em xét tuyển kết hợp theo đề án của học viện
+    - dạ em đăng ký xét tuyển kết hợp và chuẩn bị nộp hồ sơ cho trường bằng dịch vụ chuyển phát nhanh và trong đó cần thông tin về địa chỉ của trường là số liên lạc của người nhận hồ sơ vậy cho em hỏi địa chỉ trường và số liên hệ của người nhận hồ sơ với ạ
+    - em lỡ nộp hồ sơ xét tuyển kết hợp và để ngày sinh là 28  04  2021 thì làm cách nào để sửa ạ ?
+    - cho em hỏi là trường bắt đầu cho nộp hồ sơ xét tuyển kết hợp chưa ạ ?
+    - tôi có con trai nguyện vọng 1 vào trường đạt giải 3 học sinh giỏi cấp tỉnh môn toán và có kết quả học tập ba môn tổ hợp xét tuyển tầm 9,0 , nhưng do quên không đăng kí xét tuyển kết hợp . tôi rất mong nhà trường tạo điều kiện để con tôi được xét bổ sung .
+    - cho em hỏi  điểm trúng tuyển của phương thức xét tuyển kết hợp là tổng điểm 3 môn của kết quả học tập 3 năm . vậy trường có tính điểm của chứng chỉ ielts không ạ ?
+    - xét tuyển kết hợp theo đề án tuyển sinh của học viện dự kiến 25 %
+    - hồ sơ xét tuyển kết hợp thì phải khai cả ở trên trang web và nộp hồ sơ trực tiếp cho trường ạ ?
+    - em đã đỗ khoa an toàn thông tin bằng phương thức xét tuyển kết hợp . bây giờ em muốn đăng ký khoa công nghệ thông tin bằng điểm thi trung học phổ thông và để nv1, còn an toàn thông tin để nv2 . trường hợp em không đỗ nv1, thì nv2 có được không ? em cảm ơn bạn tuyển sinh
+    - em là thí sinh đã xét tuyển kết hợp ạ
+    - cho em hỏi là em là thí sinh tự do, nếu xét tuyển kết hợp thì có được cộng điểm khu vực không ạ
+    - trường mình đã kết quả xét tuyển kết hợp chưa ạ ?
+    - em nộp hồ sơ bưu điện thì cần - 2 tờ phiếu đăng ký xét tuyển kết hợp - bản công chứng giấy khai sinh, sổ hộ khẩu, chứng minh nhân dân, chứng chỉ ngoại ngữ, học bạ
+    - hôm nay em mới biết đến xét tuyển kết hợp của trường ạ
+    - thầy cô cho tôi hỏi con tôi đạt giải nhì hs giỏi tỉnh ban a01, tức là con thi hsgioi tỉnh tổ hợp 3 môn toán lý anh, chứ không phải môn riêng . vậy con có được xét tuyển kết hợp không ạ
+    - em xét tuyển kết hợp trực tuyến thì có phải nộp bản cứng không ạ
+    - admin hqua em có đăng ký hồ sơ xét tuyển kết hợp trên web và đã lưu chốt hồ sơ rồi ạ, đến hôm nay em in ra mới biết phần ngày tháng năm sinh bị ghi nhầm thành ngày đăng kí, em phải làm gì bây giờ ạ, liệu em có bị hủy hết và không còn cơ hội sửa chữa nữa không ạ em cám ơn
+    - con tôi nhận được thông báo trúng tuyển vào trường trường sau khi đăng ký xét tuyển kết hợp . nếu tôi đăng ký đến bước 2 theo hướng dẫn của nhà trường thì có bị mất quyền được tiếp tục được dự tuyển vào các ngành khác của trường, hoặc của trường khác bằng đợt xét tuyển điểm tốt nghiệp ptth không ạ ?
+    - cho em hỏi là nếu em xác nhận nhập học thì các nguyện vọng xét tuyển kết hợp ở các trường khác và nguyện vọng em đăng kí ở trên hệ thống thi trung học phổ thông quốc gia đều bị hủy hết ạ ?
+    - trường cho em hỏi là  em đã nộp và khóa hồ sơ trực tuyến  phương thức xét tuyển kết hợp  nhưng chưa chuyển qua đường bưu điện mà em không muốn nộp vào trường mình nữa thì có cần làm gì không ạ ?
+    - em vẫn chưa nhận được email thông báo kêt quả xét tuyển kết hợp sớm ạ
+    - cho em hỏi bao giờ thì trường mở cổng đăng ký xét tuyển kết hợp trực tuyến thế ạ
+    - alo alo ad, cho em hỏi 1 số thông tin về hồ sơ đăng kí xét tuyển kết hợp với ạ
+    - nộp hồ sơ đăng kí xét tuyển kết hợp trên hệ thống xét tuyển trực tuyến của trường rồi thì có cần nộp bản giấy nữa không ạ ? ? ?
+    - nếu em đỗ ngành kỹ thuật điện tử viễn thông bằng xét tuyển kết hợp thì khi nhập học em có quyền học ngành công nghệ thông tin chất lượng cao không ạ
+    - tôi muốn hoi ngày nào học viện nhận hso để xét tuyển kết hợp ạ ?
+    - mình muốn hỏi làm xong hồ sơ xét tuyển kết hợp thì nộp hồ sơ về địa chỉ nào ?
+    - về xét khu vực ưu tiên của phương thức xét tuyển kết hợp thì sẽ là khu vực nhà hay là khu vực trường à ?
+    - con tôi đã trúng tuyển bằng phương thức xét tuyển kết hợp điểm thi đánh giá năng lực
+    - admin ơi cho em hỏi em là thành viên đội tuyển quốc gia 2020 - 2021 thì năm đạt giải trong hồ sơ xét tuyển kết hợp em sẽ ghi là 2020 hay là 2021 ạ
+    - admin cho em xin link mẫu đơn đăng kí xét tuyển kết hợp được không ạ
+    - có cần phải đính kèm thêm giấy tờ gì không ạ . em xét tuyển kết hợp chứng chỉ ielts
+    - cho em hỏi là cái phần phiếu đăng kí xét tuyển kết hợp mà p xin dấu của nhà trường, em lỡ ghi nhầm vào phần ngày tháng của cán bộ nhận hồ sơ thì có sao không ạ
+    - dạ em đã thấy trường mình mở cổng thông tin xét tuyển rồi ạ . tuy nhiên em muốn dùng hình thức xét tuyển kết hợp nhưng truy cập link để đăng kí thì không được ạ
+    - em có con muốn xét tuyển kết hợp vào trường mình năm nay
+    - em trúng xét tuyển kết hợp ngành đa phương tiện
+    - em xin hỏi em muốn nộp lệ phí xét tuyển kết hợp thì nộp bằng chuyển khoản qua tài khoản nào ạ ? em đã đăng kí xong, chỉ còn nộp lệ phí nữa thôi ạ . em xin cảm ơn !
+    - cho em hỏi phương thức xét tuyển kết hợp năm nay như thế nào ạ
+    - em chào anh chị ạ . em có giải nhất tỉnh và tham gia đội tuyển hsgqg môn tin nhg không có giải . em đăng ký xét tuyển kết hợp thì lấy cái nào để mức ưu tiên cao hơn ạ
+    - em muốn biết khi nào nạp hồ sơ xét tuyển kết hợp ạ
+    - cho em hỏi là nộp bản scan học bạ với chứng chỉ ielts để xét tuyển kết hợp là chỉ cần nộp trực tuyến thôi đăng ký ạ
+    - bao giờ trường tổ chức xét tuyển kết hợp ạ
+    - nhưng băn khoăn khi đăng ký nguyện vọng trên cổng thông tin của bộ giáo dục đào tạo khi chọn phương thức xét tuyển của trường ta 410 thì ra xét tuyển kết hợp như vậy có đúng không ạ
+    - thầy cô cho em hỏi nếu em xét tuyển kết hợp khối a1  toán, lý, anh  bằng chứng chỉ ielts thì điểm trung bình chỉ xét 2 môn còn lại  toán, lý  hay là xét cả 3 môn ạ ?
+    - điền nguyện vọng mà em đã đăng kí ở trường theo phương thức xét tuyển kết hợp ấy ạ
+    - cho mình hỏi đã có kết quả của phương thức xét tuyển kết hợp chưa ạ .
+    - em muốn hỏi là ngày mai em muốn đến nộp hồ sơ xét tuyển kết hợp thì nhà trường có mở cho hs vào nộp và tham quan không ạ
+    - cho em hỏi là nếu em xin con dấu của nhà trường vào mỗi phần cuối của tờ đơn xét tuyển kết hợp thôi có được không ạ hay bắt buộc phải đóng dấu giáp lai trên ảnh ạ ?
+    - cho em hỏi nếu mình đỗ vào phương thức xét tuyển kết hợp với ielts ý ạ
+    - là em nộp hồ sơ đăng kí xét tuyển kết hợp
+    - cho em hỏi với ạ, em xét tuyển kết hợp đỗ công nghệ kỹ thuật điện, điện tử rồi thì làm sao để đăng ký lên công nghệ thông tin chất lượng cao vậy ạ ?
+    - em không xét tuyển kết hợp ạ
+    - và xét tuyển kết hợp phức tạp hơn thì có khacd gì với đăng kí xét bình thường ạ ?
+    - còn xét tuyển kết hợp phải đợi thi xong rồi mới nộp hồ sơ đúng không ạ ?
+    - hạn nộp hồ sơ xét tuyển đại học chính quy 2022 theo phương thức xét tuyển kết hợp khi nào thì hết hạn ạ
+    - sao em nhấn lưu hồ sơ ở phần xét tuyển kết hợp . tại bước 2 em nhấn lưu hồ sơ nó ghi lỗi trong quá trình thực hiện là sao ạ
+    - theo phương thức xét tuyển kết hợp kết quả học tập phương án 3 đối tượng 3 ý ạ
+    - em muốn xét tuyển kết hợp thì cần làm những gì ạ
+    - đến khi biết kết quả xét tuyển kết hợp
+    - trường bao giờ mở cổng xét tuyển kết hợp ạ
+    - thì có được phép lấy kết quả học bạ để xét tuyển kết hợp năm 2022 không ạ
+    - phiếu đăng ký xét tuyển kết hợp có xác nhận của trường trung học phổ thông nơi thí sinh đang học hoặc công an xã, phường nơi thí sinh tự do đang cư trú tại địa phương  mẫu phiếu kèm theo  ;
+    - em sinh năm 2002 năm nay muốn xét tuyển kết hợp chứng chỉ tiếng anh quốc tế vào trường mình thì có được không ạ
+    - admin cho em hỏi ạ em muốn xét vào trường theo phương thức xét tuyển kết hợp vì em có giải nhì văn cấp tỉnh
+    - thì em phải đợi đến khi có học bạ mới được đăng ký xét tuyển kết hợp ạ ?
+    - hôm nào nộp hồ sơ xét tuyển kết hợp được ạ
+    - thầy ơi em có gửi hồ sơ xét tuyển kết hợp về trường mấy hôm trước nên bây giờ em muốn biết xem hồ sơ của mình có đến được chưa thì làm như thế nào ạ
+    - em chào admin ạ . admin cho em hỏi, trong đăng kí xét tuyển kết hợp, bước 2 có yêu cầu điền môn chuyên . cho em hỏi môn chuyên ở đây là gì ạ ? em được giải tỉnh môn vật lý thì ghi môn chuyên là vật lý ạ hay đây chỉ dành cho học sinh trường chuyên ạ ? mong nhận được câu trả lời sớm từ trang ạ . em cảm ơn
+    - admin cho em hỏi, em đăng kì hồ sơ xét tuyển kết hợp trực tuyến rồi phải tới trường nộp nữa ạ ?
+    - xin chào thầy cô anh chị ạ, admin cho em hỏi là phương thức xét tuyển kết hợp là khi đáp ứng điều kiện ví dụ em được giải tỉnh thì điểm xét chỉ là học bạ 3 môn xét thôi đúng không ạ  tức là có cộng điểm tốt nghiệp không ạ
+    - xét tuyển kết hợp theo đề án là gì à
+    - dạ cho em hỏi là hồ sơ đăng ký xét tuyển kết hợp chứng chỉ ielts xem ở đâu để điền ạ ?
+    - em hỏi ạ, phiếu đăng kí xét tuyển kết hợp yêu cầu dán ảnh 4x6 nhưng ô dán không đủ to để dán ảnh 4x6 thì sao ạ
+    - dạ cho em hỏi bên trường mình khi nào mở đăng ký theo phương thức xét tuyển kết hợp vậy ạ ?
+    - hiện tại em đã đăng kí xét tuyển theo phương thức xét tuyển kết hợp nhưng em phát hiện hồ sơ của em có sai sót nhỏ thì em cần xử lí như thế nào ạ
+    - xin cho tôi hỏi có được đằng ký xét tuyển bằng cả 2 phương thức kết quả thi đanh giá nămg lực và pt xét tuyển kết hợp không ?
+    - thưa admin, em muốn hỏi là bao giờ xét tuyển kết hợp ạ
+    - nhưng mà em chỉ không hiểu tại sao lại chưa đạt ngưỡng điểm để xét tuyển kết hợp thôi ạ
+    - cho mình hỏi khi nào thì trường mở xét tuyển kết hợp ạ ?
+    - lúc đăng ký nguyện vọng em dùng kết quả xét tuyển kết hợp được không ạ
+    - em đã đăng ký xét tuyển kết hợp trực tuyến
+    - em chào thầy cô ạ . em tên là tùng anh . thầy cô cho em hỏi là em xét tuyển kết hợp thì phải nộp hồ sơ bản giấy gồm những gì về cho trường ạ ? em xin cảm ơn
+    - xin hỏi khi nào có kết quả xét tuyển kết hợp ạ
+    - dạ cho em hỏi nếu mình xét tuyển kết hợp thì kết quả sẽ biết trước hay sau khi thi trung học phổ thông quốc gia ạ . em cảm ơn
+    - admin ơi, em muốn tìm hiểu về cách thức nộp hồ sơ xét tuyển kết hợp học bạ và chứng chỉ ielts, và điểm đánh giá năng lực của đhqg hn thì phải qua phương pháp nào ạ
+    - cho em hỏi là với phương thức xét tuyển kết hợp là học sinh chuyên và điểm các kỳ trên 8 phẩy thì có yêu cầu điều kiện gì khác không ạ ? như là điểm sàn của ngành công nghệ thông tin ạ
+    - em đang làm hồ sơ xét tuyển kết hợp vào trường mình ạ
+    - chào admin ạ, em là học sinh lớp 12 đăng kí xét tuyển kết hợp tại trường . em muốn hỏi là địa chỉ gửi hồ sơ qua bưu điện của trường thì điền như thế nào cho chắc chắn đến được tay nhà trường ạ
+    - dạ cho em hỏi nếu em muốn xét tuyển kết hợp với chứng chỉ ielts thì có cần dịch thuật công chứng bằng ielts không ạ ?
+    - trường có thể giải đáp cho em hiểu rõ hơn về cách tính điểm xét tuyển theo phương thức xét tuyển kết hợp không ạ ?
+    - anh  chị ơi cho em xin file phiếu đăng kí xét tuyển kết hợp với ạ
+    - cho mình hỏi là khi nào trường mình mới mở cổng đăng kí xét tuyển kết hợp ạ ?
+    - cho em hỏi về xét tuyển kết hợp ạ ?
+    - em tưởng xét tuyển kết hợp là kết hợp nhiều phương thức với nhau ạ
+    - em đỗ theo phương thức xét tuyển kết hợp ạ
+    - vì em theo dõi trang tuyển sinh mà vẫn chưa thấy xét tuyển kết hợp của năm 2022 mà chỉ thấy 2021 thôi ạ
+    - em chào thầy cô ạ, cho em hỏi năm nay phương thức xét tuyển kết hợp khi nào mới mở đơn đăng kí ạ ?
+    - vậy thì khi giấy tờ đó đến được trường thì nó còn được chấp nhận không ạ  vì nhà trường ghi kết thúc xét tuyển kết hợp vào 5h chiều nay rồi
+    - xét tuyển kết hợp áp dụng với tất cả các ngành ạ
+    - cho em hỏi bên trường còn xét phương thức xét tuyển kết hợp cho ngành công nghệ đa phương tiện không à ?
+    - trang ơi cho em hỏi thứ tự ưu tiên khi xét tuyển kết hợp là gì ạ  giải tỉnh ưu tiên hơn ielts đúng không ạ
+    - em muốn xét tuyển kết hợp bằng giải cấp tỉnh vậy không biết trường có xét giải năm lớp 10 không ạ tại em thấy không ghi rõ ạ
+    - em xét tuyển vào trường mình bằng phương thức xét tuyển kết hợp
+    - anh  chị cho em hỏi trường mình đã có lịch thu hồ sơ theo hình thức xét tuyển kết hợp chưa ạ !
+    - cho em hỏi khung ảnh 4x6 cho phiếu xét tuyển kết hợp bé, không dán vừa cho ảnh 4x6 thì sao ạ ?
+    - em thi d01 nhưng xét tuyển kết hợp em xét bằng tổ hợp khác được không ạ ?
+    - admin ơi cho em hỏi bao giờ có thể nộp hồ sơ theo phương thức xét tuyển kết hợp giữa học bạ và chứng chỉ quốc tế ạ . em cảm ơn admin
+    - xét tuyển kết hợp  năm 2020, học viện triển khai phương thức xét tuyển kết hợp giữa kết quả học tập trung học phổ thông với chứng chỉ quốc tế hoặc thành tích cá nhân trong kỳ thi tuyển chọn học sinh giỏi . cụ thể  đối tượng 1  thí sinh có chứng chỉ quốc tế sat từ 1130  1600 trở lên hoặcact từ 25  36trở lên và có kết quả điểm trung bình chung học tập lớp 10, 11 và học kỳ 1 lớp 12 đạt từ 8,0 trở lên . đối tượng 2  thí sinh có chứng chỉ tiếng anh quốc tếtrong thời hạn  tính đến ngày xét tuyển  đạt ielts 5 . 5 trở lênhoặc toefl ibt 65trở lên hoặc toefl itp 513trở lên và có kết quả điểm trung bình chung học tập lớp 10, 11 và học kỳ 1 lớp 12 đạt từ 8,0 trở lên .
+    - em có thắc mắc liên quan đến điểm xét tuyển kết hợp của trường mình ạ
+    - thầy cô cho em hỏi, hệ thống nộp hồ sơ xét tuyển kết hợp đã mở chưa ạ ?
+    - cho em hỏi là từ giờ đến 10  7 là khoảng thời gian để các bạn thuộc diện xét tuyển kết hợp như có giải học sinh giỏi tỉnh, nộp hồ sơ bản cứng về trường ạ ?
+    - cho em hỏi là em có xét tuyển kết hợp phương thức xét giải tỉnh, em thi tốt nghiệp trung học phổ thông bằng tiếng trung không thi tiếng anh thì có xét được học bạ khối a01 không ạ
+    - chào ad, admin cho mình hỏi phương thức xét tuyển kết hợp  thí sinh có kết quả điểm trung bình chung học tập các năm học lớp 10, lớp 11, lớp 12  hoặc học kỳ 1 lớp 12  đạt từ 7,5 đến 8,0 trở lên và có hạnh kiểm khá trở lên tùy theo từng loại đối tượng có nghĩa là tính điểm trung bình tất cả các môn học hay chỉ các môn tổ hợp xét tuyển . thank ad,
+    - học viện cho em hỏi là nếu em đã lỡ đăng kí tài khoản xét tuyển bằng kết quả thi đánh giá năng lực rồi  em chưa nộp phí xét tuyển  nhưng giờ muốn xóa tài khoản đó đi và đăng kí bằng phương thức xét tuyển kết hợp kết quả học tập trung học phổ thông có được không ạ ?
+    - em muốn xét tuyển kết hợp ý ạ
+    - mà nếu phải nộp thì in phiếu đăng kí xét tuyển kết hợp ở đâu vậy ạ
+    - trường cho em hỏi hạn nộp hồ sơ nhập học cho xét tuyển kết hợp
+    - dạ em xét phương thức xét tuyển kết hợp theo đề án tuyển sinh của học viện ạ
+    - em muốn được tư vấn thêm về phương thức xét tuyển kết hợp ạ
+    - dạ trường cho em hỏi là hồ sơ bản cứng xét tuyển kết hợp dựa trên kết quả học tập trung học phổ thông của học sinh chuyên gồm những gì ạ ?
+    - học viện cho mình hỏi về hình thức xét tuyển kết hợp bằng chứng chỉ ielts là vẫn cần kết quả thi tn trung học phổ thông đúng k, mình tìm hiểu thì thấy học viện không có tuyển thẳng bằng chứng chỉ ielts
+    - mặc dù em dự định thi tổ hợp toán văn anh trong kì thi trung học phổ thông quốc gia nhưng khi đăng kí xét tuyển tổ hopwjh em thấy tính điểm học bạ thì tổ hợp toán lý hóa của em nhỉnh hơn đôi chút, vậy em đăng kí xét tuyển kết hợp theo tổ hợp ban a0 có được không ạ ?
+    - học viện cho em hỏi là nếu em xét tuyển kết hợp theo ielts và điểm học bạ của 3 môn khối a00 thì ngưỡng điểm đảm bảo đầu vào của em có cần đúng là 3 môn của khối a00 không ạ
+    - nhưng khi em vào phần đăng kí xét tuyển kết hợp của trường thì đến lúc đăng kí nguyện vọng em không thấy ngành công nghệ thông tin chất lượng cao ạ
+    - thời gian đăng kí xét tuyển kết hợp
+    - cho em hỏi là xét tuyển kết hợp 20  6 là có kết quả vậy không lấy điểm thi trung học phổ thông ạ
+    - cho em hỏi là em đã trúng tuyển vào học viện theo phương thúc xét tuyển kết hợp 3 và đã xác nhận nhập học trên hệ thống của bộ
+    - anh chị ơi cho em hỏi là  em đang chuẩn bị nộp hồ sơ xét tuyển kết hợp cho trường mk,mà bây giờ em đang ở bắc ninh - tỉnh em đang thực hiện dãn cách xã hội , trường em và khu vực em đang ở lại cách xa nhau,em đã nhờ trường em kí xác nhận vào phiếu đăng ký rồi nhưng bao giờ lại không thể đi lấy đc, có khả năng cao là đến hết tháng này vẫn chưa thể lấy được hồ sơ nên không thể gửi đến cho trường mình đc, anh chị xem xét xem có cách nào có thể giải quyết giúp em được không ạ, tình hình là hồ sơ và các giấy tờ liên quan em đã chuẩn bị xong hết rồi nhưng không thể đi lấy được  do tỉnh đã lập các chốt chặn nên không thể di chuyển được  ,em có thể đề xuất như thế này  em sẽ chụp ảnh tất cả các giấy tờ liên quan và gửi file ảnh cho bên trường mk, còn hồ sơ bản cứng sẽ được chuyển đến sau trong thời gian sớm nhất có thể được không ạ . tình hình thật sự rất cấp bách, mong quý trường mình có giải pháp giúp đỡ em với ạ
+    - admin ơi, cho em hỏi điểm chuẩn xét tuyển kết hợp của nguyện vọng 1 so với nguyện vọng 2 có khác gì nhau không ạ ? em cảm ơn ạ .
+    - cho mình hỏi đt học sinh giỏi tỉnh xét tuyển kết hợp có được công điểm hay ưu tiên gì không ạ ?
+    - chị vào trang đăng ký xét tuyển kết hợp mà không vào được
+    - chào ad, admin cho mình hỏi baoh trường bắt đầu mở cổng xét tuyển kết hợp vậy ạ, mình cảm ơn
+    - em lỡ ghi đối tượng là xét tuyển kết hợp roiif thì có sao không ạ
+    - cho em hỏi là hệ chính quy em xét theo phương thức xét tuyển kết hợp ấy ạ
+    - cho em hỏi là thường thường mấy năm trước , phương thức xét tuyển kết hợp trường sẽ cho mình bao nhiêu ngày để xác nhận vào trường ạ
+    - thầy cô cho em hỏi, em đã được t  bạn trúng tuyển học viện theo phương thức xét tuyển kết hợp . nếu em xác nhận nhập học thì em có bị loại khỏi các nguyện vọng khi trúng tuyển các trường khác theo phương thức thi tuyển của bộ hoặc phương thức khác của trường khác không  ví dụ em trúng tuyển kinh tế quốc dân
+    - cho em hỏi là hồ sơ xét tuyển kết hợp có cần photo căn cước công dân không ạ
+    - xét tuyển kết hợp ý ạ đã phải khóa hồ sơ xong in phiếu gửi về trường chưa ạ
+    - em đã đăng kí xong theo phương thức xét tuyển kết hợp và nhận được bản in hồ sơ rồi ấy ạ
+    - em đăng ký xét tuyển kết hợp thì cột điểm tb lớp 13 là em có thể chọn điểm hk1 hoặc cả năm hay bắt buộc là cả năm ạ ?
+    - cho em hỏi là em được giải khuyến khích hsgqg năm 2022 thì em có thể đăng ký xét tuyển bằng phương thức xét tuyển kết hợp hoặc là phương thức ưu tiên xét tuyển đúng không ạ ?
+    - admin cho em hỏi em thuộc 3 loại đối tượng xét tuyển kết hợp thì em được đăng kí 6 nguyện vọng tất cả hay chỉ 2 nguyện vọng thôi ạ ?
+    - em muốn đăng ký xét tuyển kết hợp thì cần những gì ạ giờ làm có được không ạ
+    - em đỗ xét tuyển kết hợp r, sau khi em nộp giấy chứng nhận kết quả thi về trường thì có nhận được thông báo lại
+    - cho em hỏi danh sách xét tuyển theo mục c  xét tuyển kết hợp giữa kết quả học tập đã có danh sách chưa à
+    - xét tuyển kết hợp giữa kết quả học tập ở bậc trung học phổ thông với một trong các loại chứng chỉ quốc tế hoặc thành tích cá nhân trong các kỳ thi tuyển chọn học sinh giỏi .
+    - các xét tuyển kết hợp gì ý ạ
+    - thầy  cô cho em hỏi khi nào có thể đăng ký xét tuyển trực tuyến theo phương thức xét tuyển kết hợp ạ
+    - sao điểm xét tuyển kết hợp của em là 29,48 mà lại không đủ điều kiện xét tuyển ạ
+    - hồ sơ đăng ký xét tuyển trực tuyến có cần in ra không ? xét tuyển kết hợp có phải dùng form nào ?
+    - nhà trường ơi cho em hỏi nếu em đăng kí xét tuyển kết hợp trực tuyến ở trên web thì em có cần in phiếu ra rồi nộp trực tiếp cho trường không ạ ? em cảm ơn ạ !
+    - em muốn xét tuyển kết hợp
+    - hiện tại em đang học lớp chuyên sinh, liệu em có đủ điều kiện để xét tuyển kết hợp không ạ
+    - về file xét tuyển kết hợp trực tuyến ạ
+    - cho em hỏi ở phần xét tuyển kết hợp
+    - ngày thứ 7 trường có nhận hồ sơ xét tuyển kết hợp không ạ ?
+    - em đang chuẩn bị hồ sơ tuyển sinh để xét tuyển kết hợp ạ
+    - xin chào ! mình muốn hỏi là mình đã đăng kí xét tuyển kết hợp và khóa hồ sơ, nhưng xin mở lại để điều chỉnh khối xét tuyển thì làm như nào ạ ?
+    - xét tuyển kết hợp bao giờ nhận hồ sơ và hồ sơ cần những gì
+    - thầy cô cho em hỏi . khi đã đăng ký xét tuyển kết hợp và thanh toán xong có phải in phiếu và gửi hồ sơ về trường ngay không ạ .
+    - admin ui cho em hỏi là em đăng kí xét tuyển kết hợp 2 nguyện vọng vào trường mình thì khi em làm hồ sơ tốt nghiệp trung học phổ thông của bộ em có phải điền nguyện vọng nưa không ạ
+    - ở phiếu đăng ký xét tuyển kết hợp yêu cầu ảnh 4×6
+    - em đăng kí xét tuyển kết hợp, nếu trúng tuyển có bắt buộc em phải vào học không ạ
+    - xét tuyển kết hợp
+    - xét tuyển kết hợp với đăng ký xét tuyển khác nhau như thế nào ạ
+    - anh chị có thể cho em hỏi là giải nhất học sinh giỏi tỉnh Nghệ An thì có thể tham gia phương thức xét tuyển kết hợp không ạ
+    - em muốn hỏi là ở phương thức xét tuyển kết hợp thì lấy mẫu đơn điền ở đâu ạ
+    - trường ơi khi nào có kết quả xét tuyển kết hợp ạ
+    - admin cho em hỏi phí đăng kí xét tuyển kết hợp
+    - vâng em cảm ơn ạ,cho em hỏi thêm là điểm xét tuyển kết hợp năm nay là bao nhiêu ạ .
+    - cho em hỏi sau khi nộp đơn xét tuyển kết hợp trực tuyến có phải in hồ sơ giấy ra để nộp không ạ . em cảm ơn
+    - cho em hỏi thời gian xét tuyển theo phương thức xét tuyển kết hợp với ạ
+    - phiếu đăng ký xét tuyển kết hợp hoặc xét tuyển theo đánh giá năng lực bắt buộc phải có xác nhận của trường hoặc địa phương ạ ?
+    - cháu mình là hoàng sơn lâm nộp hồ sơ theo phương thức 3  xét tuyển kết hợp và phương thức 4  đánh giá năng lực
+    - với cả em xét tuyển kết hợp bằng sat thì em gửi bản cứng như thế nào ạ vì họ chỉ gửi cho em bản pdf ạ
+    - chào admin ạ, admin có thể cho em hỏi thời hạn đăng ký xét tuyển kết hợp bằng phương thức xét điểm đánh giá năng lực của trường mình được không ạ
+    - giả sử em được 3 năm học sinh giỏi tại trường cấp 3 trung học phổ thông lê quý đôn hà đông liệu em có được xét tuyển kết hợp không ạ
+    - nếu em là xét tuyển kết hợp thì cái phần khối, ngành, điểm thì ghi theo cái xét kết hợp của em đúng không ạ
+    - cho em hỏi khi em nộp hồ sơ xét tuyển kết hợp thì cơ thể thay học bạ thành giấy chứng nhận điểm của lớp 10,11 và học kì 1 của lớp 12 được không ạ
+    - còn đâu hồ sơ nhập học xét tuyển kết hợp này gửi qua bưu điện cũng được đúng không ạ ?
+    - em xét tuyển kết hợp theo đề án của hc viện
+    - em muốn nộp tiền lệ phí xét tuyển kết hợp qua hình thức ck thì mấy nx trường có mở hình thức đó không ạ ?
+    - em muốn biết th về hình thức xét tuyển kết hợp của trường
+    - trường cho em hỏi là phương pháp xét tuyển kết hợp ielts thì học bạ phải đủ ngưỡng điểm chuẩn đầu vào nữa đúng không ạ
+    - học viện giúp tôi câu hỏi ạ  hiện nay học viện đã có phương án tuyển sinh năm 2022, con tôi muốn đăng kí xét tuyển vào học viện theo hình thức xét tuyển kết hợp, khi bấm vào đường link thì thấy hiện là tuyển sinh đại học 2021 là sao ạ ?
+    - cho em hỏi bây giờ có thể nộp hồ sơ đăng ký xét tuyển kết hợp không ạ
+    - cho em hỏi cái 02 phiếu trong xét tuyển kết hợp là mình nộp 2 phiếu giống nhau ạ
+    - cho em hỏi phương thức xét tuyển kết hợp có gần giống với việc xét học bạ không ạ
+    - cho mình hỏi là bao giờ trường mở cổng đăng ký xét tuyển kết hợp thế ạ
+    - để đăng ký xét tuyển kết hợp
+    - xin chào, em đang đã nộp hồ sơ đăng kí xét tuyển kết hợp trực tuyến của trường, nhưng chưa đóng lệ phí . em muốn xin thông tin tài khoản của trường để có thể đóng lệ phí bằng cách chuyển khoản ạ .
+    - tôi muốn kiểm tra thông tin về nộp lệ phí xét tuyển kết hợp  25 . 000 điểm  1 nguyện vọng  của thí sinh nguyễn minh quân số hồ sơ trường - 2021 - 3 - 00001254 , sinh ngày 18  08  2003, căn cước công dân 022203004660, đã nộp hồ sơ và lệ phí qua bưu điện từ ngày 19  5 . vì 31  5 hết hạn hoàn thiện hồ sơ nhưng đến nay trên hệ thống vẫn thông báo chưa nộp lệ phí .
+    - cho em hỏi về phần xét tuyển kết hợp mục thứ 3 là xét tuyển dựa vào thành tích trong cuộc thi học sinh giỏi tỉnh . thì có yêu cầu kèm theo là điểm trung bình chung của năm lớp 10 11 hki 12 đạt từ 8 trở lên ý, như thế là bắt buộc điểm trung bình của cả5 học kì đều phải trên 8 hay là cộng cả 5 học kì vào trên 8 là được à
+    - admin cho em hỏi làm thế nào để biết mình đỗ nguyện vọng nào trong xét tuyển kết hợp ạ ?
+    - trường mình xét tuyển kết hợp bằng cc sat ngưỡng điểm là bao nhiêu ạ
+    - em muốn nộp hồ sơ phường thức xét tuyển kết hợp thì không bạn ' bao giờ bên mình bắt đầu nhận hồ sơ ạ ?
+    - khi nào trường nhận hồ sơ xét tuyển kết hợp chứng chỉ ielts và kết quả học tập trung học phổ thông ạ
+    - thì cái xét tuyển kết hợp kia để nv2 được không
+    - trường cho em hỏi là em có thể đổi thông tin trên hồ sơ đăng kí xét tuyển kết hợp trực tuyến đã khóa được không ạ ?
+    - bạn ơi, quy điểm quy đổi của phương thức xét tuyển kết hợp như thế nào ấy nhỉ
+    - bạn nhà em đã có điểm sat  1450  và ielts  7 . 0  . phiền anh chị cho gia đình hỏi rõ hơn về hình thức xét tuyển kết hợp  điều kiện cần để được đăng ký theo hình thức xét tuyển này là học sinh có điểm sat lớn hơn 1130 hoặc ielts lớn hơn 5 . 5, còn điểm trúng tuyển là điểm bình quân kết quả học tập ở năm học lớp 10, 11, 12  hoặc học kỳ 1 lớp 12  của ba  03  môn học toán, lý anh  bạn nhà em chọn tổ hợp toán, lý, anh  và điểm trúng tuyển sẽ lấy từ cao xuống thấp cho đến khi đủ chỉ tiêu .
+    - nếu dùng phương thức xét tuyển kết hợp mà điểm thi tổ hợp 27 điểm vẫn được học bổng của năm nhất phải không ạ
+    - còn phương thức xét tuyển kết hợp dành cho đối tượng rồi thì sao
+    - em dùng phương thức xét tuyển kết hợp ạ
+    - admin cho em xin địa chỉ nhận hồ sơ xét tuyển kết hợp của trường được không ạ
+    - em chào admin ạ . không biết bên học viện đã đóng cổng tiếp nhận hồ sơ đăng kí xét tuyển kết hợp và đánh giá năng lực chưa ạ ?
+    - cho em hỏi là phiếu xét tuyển kết hợp có cần dấu của nhà trường không ạ
+    - quý trường có thể cho em hỏi là nếu vừa là học sinh trường chuyên, vừa có chứng chỉ ielts thì em nên dùng các nào để xét tuyển kết hợp ạ
+    - em có đi thi cấp tỉnh môn văn và đạt giải nhì ,em có được xét tuyển theo phương thức xét tuyển kết hợp không ạ
+    - trong lúc đăng kí theo pt xét tuyển kết hợp em lỡ chọn nhầm cơ sở phía nam
+    - em có xét tuyển kết hợp vào trường ạ
+    - dạ cho em hỏi phần xét tuyển kết hợp là mình sẽ xét học bạ với bằng chứng chỉ ạ ?
+    - bao giờ thì em có thể nộp phiếu đăng kí xét tuyển kết hợp được ạ ?
+    - trường đã nhận hồ sơ đăng ký xét tuyển kết hợp chưa ạ và mẫu hồ sơ ?
+    - cho tôi hỏi phương thức xét tuyển kết hợp bao giờ thì hết hạn nộp hồ sơ ạ
+    - mình đã đăng ký hồ sơ xét tuyển kết hợp trực tuyến và nộp phí đầy đủ
+    - trang cho em hỏi đăng kí xét tuyển kết hợp trực tuyến có phải nộp hồ sơ về nhà trường không ạ
+    - cho em hoi hình thức xét tuyển kết hợp của trng đã mở cổng đăng ký chưa ạ
+    - admin có thể tư vấn giúp em về phương thức xét tuyển kết hợp được không ạ .
+    - em muốn hỏi là nếu đăng ký xét tuyển kết hợp trực tuyến
+    - bạn ơi cho mình hỏi, giả sử mình đã đỗ ngành công nghệ thông tin trường trường bằng phương thức xét tuyển kết hợp, thì đến lúc điền nguyện vọng có bắt buộc phải đặt lên làm nguyện vọng 1 không ạ ? hay mình có thể đặt làm nguyện vọng 2 - 3 gì đó ?
+    - em muốn đăng ký xét tuyển kết hợp không biết bao giời trường mới mở ạ
+    - xin nhà trường cho biết thời gian nộp hồ sơ xét tuyển kết hợp ạ
+    - admin ơi cho em hỏi là không có bản sao ielts trong hồ sơ xét tuyển kết hợp có sao không ạ vì cô ở phòng tuyển sinh lúc kiểm tra hồ sơ của em không có bản sao thì không thấy nói gì ạ mà cô bảo là khi nào xác định nhập học thì mới nộp bản gốc cho trường ạ
+    - em xin hỏi hôm em đăng ký xét tuyển kết hợp vào học viện khu vực phía bắc . tuần trước em đã khóa hồ sơ và in phiếu dự thi ra nạp thì phần mã hồ sơ không có kí hiệu đuôi - bvh nhưng giờ em vào xem lại và in ra thì lại có đuôi này . vậy em xin hỏi nếu em muốn xét cơ sở học tại hà nội thì em có phải in lại hồ sơ và nạp không
+    - em thấy trên web tuyển sinh của trường có ghi xét tuyển kết hợp học bạ sẽ lấy điểm bình quân 3 môn theo khối thi của lớp 10 - 11 - 12 hoặc kì 1 lớp 12 . vậy phần cả năm 12 hoặc kì 1 lớp 12 thì em có thể chọn 1 trong 2 để xét nếu học bạ của em đã có đủ điểm cả năm không ạ, hay phần hoặc kì 1 lớp 12 chỉ dành cho những bạn chưa hoàn thành điểm học bạ cả năm 12 thế ạ . em cảm ơn ạ
+    - em đăng kí xét tuyển kết hợp trên web rồi thì có được đăng kí thi tuyển bình thường không ạ ?
+    - cháu nhà tôi 2004 có chứng chỉ ielts 6 . 5 có thể đăng ký xét tuyển kết hợp ngành qtkd hoặc marketing của trường không ạ
+    - admin cho em hỏi với ạ, nếu đáp ứng đủ điều kiện để đăng kí xét tuyển kết hợp thì có phải là được tuyển thẳng không ạ ?
+    - thông báo của học viện là 20  8  2020 sẽ thông báo kết quả xét tuyển kết hợp nhưng tìm trên trang thông tin điện tử của trường thì không có . xin cho hỏi bao giờ có ? tìm danh sách ở đâu ?
+    - dạ cho em hỏi với phương thức xét tuyển kết hợp
+    - cho em hỏi phương thức xét bằng học bạ và xét tuyển kết hợp là chung hay riêng ạ
+    - thấy admin đăng bài về xét tuyển kết hợp là như nào ạ
+    - em đạt giải 3 học sinh giỏi cấp tỉnh môn vật lý thì có được xét tuyển kết hợp năm nay không ạ
+    - admin cho em hỏi học viện mình bao giờ có kết quả xét tuyển kết hợp ạ . em là vũ minh hiếu - ân thi - hưng yên
+    - admin ơi cho em hỏi một chút ạ . thời gian chính xác trường mình mở cổng xét tuyển kết hợp cho các bạn 2004 là khi nào vậy ạ . em cảm ơn ?
+    - em chào thầy, cô . em có đăng ký xét tuyển kết hợp của trường và đã nộp lệ phí theo đúng quy trình . tuy nhiên vì lí do nào đó mà hôm đi nộp em đã không nhận được hóa đơn nộp lệ phí nguyện vọng . và sau khi kiểm tra lại trên hệ thống tuyển sinh lại ghi là chưa nộp lệ phí đăng ký xét tuyển ạ . kinh mong thầy, cô kiểm tra và xác nhận ạ .
+    - xét tuyển kết hợp mà em đạt giải 3 khkt tỉnh không được không ạ
+    - admin ơi cho em là hồ sơ xét tuyển kết hợp để nộp cho nhà trường thì cần những gì ạ và cách thức nộp qua đường bưu điện ra sao ạ
+    - em đăng ký xét tuyển kết hợp và vừa được thông tin là trường hêu cầu bắt buộc phải gửi hồ sơ giấy đến trường
+    - trường có xét tuyển kết hợp không ạ
+    - cho em hỏi 1 chút, em có thể đăng kí xét tuyển kết hợp qua 2 phương thức dùng đánh giá năng lực và ielts được không ạ ? hay chỉ được dùng 1 phương thức xét tuyển thôi ạ ?
+    - chào ad, em muốn biết khi nào trường mở xét hồ sơ theo phương thức xét tuyển kết hợp ạ
+    - tôi là phụ huynh . tôi muốn hỏi  cháu nhà tôi đã đỗ theo phương thức xét tuyển kết hợp vào 1 ngành của trường . tôi để nv1 là điểm thi trung học phổ thông là ngành cháu thích nhất, nv2 là ngành đã đỗ theo phương thức xét tuyển kết hợp . vậy khi không đỗ nv1 thì nv2 là ngành đã đỗ theo phương thức xét tuyển kết hợp có bị mất cơ hội không ạ . khi đó con tôi có được công nhận trúng tuyển nv2 là ngành đã đỗ theo phương thức xét tuyển kết hợp không ? tôi xin cảm ơn .
+    - em đăng kí xét tuyển kết hợp năm 2021
+    - anh  chị ơi cho em hỏi có phải kết quả xét tuyển kết hợp chứng chỉ và học bạ sẽ thông báo qua tin nhắn gửi vào điện thoại không ạ ?
+    - cho tôi hỏi cách tính điểm xét tuyển kết hợp được tính theo công thức nào ? xin cảm ơn .
+    - cho em hỏi là xét tuyển theo phương thức xét tuyển kết hợp thì có thời hạn nộp lý lịch sinh viên và các giấy tờ khác về trường không ạ ?
+    - em chào các anh chị ạ ! em xin hướng dẫn kiểm tra hồ sơ bản giấy đăng ký xét tuyển kết hợp của em đã gửi về trường từ ngày 28 - 5  chuyển phát nhanh qua bưu điện  . , đã được nhận chưa ạ ? và có gì sai sót cần chỉnh sửa ạ ? em cảm ơn nhiều !
+    - em đăng ký cái xét tuyển kết hợp nhưng bị sai thông tin
+    - trung tâm tuyển sinh cho em hỏi là  em muốn nộp hồ sơ xét tuyển kết hợp chứng chỉ ielts và học bạ thì nhà trường bắt đầu thu hồ sơ xét tuyển kết hợp vào thời gian nào ạ . em xin cảm ơn .
+    - em đăng kí xét tuyển kết hợp và đã được thông báo là đủ điểm để đỗ nv2
+    - admin cho hỏi thí sinh tự do xét tuyển theo phương thức xét tuyển kết hợp  học bạ trường chuyên  nhưng do không năm được quy định mới của bộ nên không đăng kí trên hệ thống quản lý thi tốt nghiệp năm 2022 của bộ, thời gian đăng kí đã hết hạn thì làm thế nào ạ
+    - xét tuyển kết hợp nghĩa là sao ạ
+    - cho em hỏi nếu xét tuyển kết hợp thì có thể nộp phiếu này được không hay phải in phiếu viết tay ạ
+    - với lại em trúng tuyển bằng phương thức xét tuyển kết hợp cơ ạ
+    - admin cho mình hỏi gửi hồ sơ xét tuyển kết hợp về trường theo địa chỉ như thế nào
+    - trường cho em hỏi khi nào mới mở phương thức xét tuyển kết hợp ạ
+    - bao giờ thì xét tuyển kết hợp ạ
+    - cho em hỏi là phải in 2 phiếu xét tuyển kết hợp và nộp cả 2 phiếu cho 1 phương thức luôn ạ ?
+    - admin cho em xin địa chỉ để em gửi cái phiếu đăng kí xét tuyển kết hợp với ạ
+    - cho em hỏi em đăng kí xét tuyển kết hợp là kết hợp kết quả thi 2 môn với ielts hay học bạ với ielts ạ
+    - admin ơi cho em hỏi . em có thấy trang up post thời gian xét tuyển là trước 20  6, tức là trước đấy sẽ có kết quả xét học bạ  xét tuyển kết hợp phải không ạ ?
+    - em có giải 3 tỉnh môn vật lý, trong 3 năm em chỉ có năm lớp 10 được 7 . 3 còn 2 năm còn lại đều trên 7 . 5 thì có được xét tuyển kết hợp không ạ
+    - trường có xét tuyển kết hợp nữa không nhỉ
+    - dự kiến trường sẽ công bố kết quả xét tuyển kết hợp trước kì thi trung học phổ thông
+    - admin ơi    em muốn hỏi cái xét tuyển kết hợp    nó có nghĩa là lấy kết quả trung bình của 3 năm học đúng không ạ
+    - alo admin ơi cho em hỏi mình xem lệ phí nộp đăng ký xét tuyển kết hợp cả thông tin chuyển tiền ở đâu ạ
+    - mình đã đăng ký xét tuyển kết hợp trực tuyến và nộp bản giấy về cho học viện
+    - em muốn hỏi là lệ phí đăng ký xét tuyển kết hợp là 30000đ phải không ạ ?
+    - cho em hỏi là trường mình mở cổng đăng ký xét tuyển kết hợp chưa ạ
+    - cho em hỏi bao giờ trường nhận hồ sơ xét tuyển kết hợp vậy ạ
+    - cho em hỏi là xét tuyển kết hợp thì bao giờ bắt đầu nộp hồ sơ bản cứng ạ
+    - cho mình hỏi bao giờ thì có thể đăng ký xét tuyển kết hợp vậy
+    - trường còn mở phương thức xét tuyển kết hợp không ạ
+    - 1 . em nhập nhầm phần nguyện vọng trong khi đăng ký xét tuyển kết hợp thì có thể sửa lại được không ạ ? 2 . khi nộp hồ sơ thì bắt buộc người ký phải là hiệu trưởng ạ ? hiệu phó thay mặt có được không ạ ? 3 . phần người nhận khi gửi hồ sơ đi ghi địa chỉ là gì ạ ? 4 . nộp tiền đăng ký xét tuyển kết hợp kiểu gì ạ ?
+    - cho em hỏi là trường chưa mở đăng kí xét tuyển kết hợp ạ ?
+    - em là hs trường chuyên có kết quả hc tập 3 năm trên 8 . là đủ đăng ký để xét tuyển kết hợp phải không ạ
+    - theo hình thức xét tuyển kết hợp, nhưng cháu có chứng chỉ ielts 7 . 0, vậy có thể xét tiếp nguyện vọng vòa khoa chất lơ  ngj cao không ạ
+    - cho em hỏi là kết quả xét tuyển kết hợp phải khi nào có điểm thi trung học phổ thông thì mới công bố ạ ?
+    - em chào admin trang ạ em là thí sinh 2k4, đã đủ điều kiện trúng tuyển vào ngành công nghệ thông tin theo phương thức xét tuyển kết hợp của học viện . nhưng giả sử em còn nguyện vọng a, b, . . . ưu tiên hơn . em muốn hỏi là trong danh sách nguyện vọng tới trên hệ thống của bộ, em có thể đặt nguyện vọng trúng tuyển kết hợp ngành công nghệ thông tin ở sau các nguyện vọng a, b, . . . không ạ ? và nếu đặt như vậy, khi em trượt nguyện vọng a, b, . . . em vẫn được xét tới nguyện vọng trúng tuyển kết hợp ngành công nghệ thông tin như bình thường ạ ?
+    - thầy cô cho em hỏi , kết quả xét tuyển kết hợp học viện gửi về nhà cho từng bạn à hay chỉ các bạn đỗ mới nhận được kết quả à .
+    - phương thức xét tuyển kết hợp hồ sơ cần những gì ? cách thức ? thời hạn nộp ?
+    - cho mình hỏi bao giờ thì nộp hồ sơ đăng ký theo xét tuyển kết hợp .
+    - cho em hỏi là thời gian xét tuyển kết hợp vào tháng mấy ạ
+    - em muốn đăng kí xét tuyển kết hợp chứng chỉ, em đã làm xin các bước nộp hồ sợ trực tuyến và khóa hồ sơ rồi ạ
+    - dạ, em đăng kí xét tuyển kết hợp và nộp lệ phí trên web rồi thì hồ sơ bản cứng nôp về nhà trường cần những gì vậy ạ ?
+    - thầy cô cho em hỏi em nộp hồ sơ đăng kí xét tuyển kết hợp qua đường bưu điện chuyển phát nhanh thì em phải ghi địa chỉ cụ thể như thế nào ạ
+    - em nộp theo phương thức xét tuyển kết hợp thì em được quyền chọn nộp học bạ là 2 năm và 1 kì hoặc là 3 năm đúng không ạ ?
+    - và xét tuyển kết hợp thêm gì nữa là sẽ được chọn ạ
+    - em muốn hỏi thời gian xét tuyển kết hợp theo hình thức trực tuyến đấy ạ
+    - admin ơi còn thời hạn xét tuyển kết hợp không ạ
+    - cho tôi hỏi thời gian nhận hồ sơ xét tuyển kết hợp
+    - em mới đăng ký xét tuyển kết hợp trực tuyến và đã nộp phí thì hồ sơ gửi qua bưu điện có cần phải có phiếu đăng ký xét tuyển không ạ ?
+    - dạ em xét tuyển theo phương thức xét tuyển kết hợp ạ
+    - cho tôi hỏi nếu có chứng chỉ ielts muón xét tuyển kết hợp vào ngành công nghệ thông tin thì cần phải chuẩn bị thêm những gì ạ
+    - em xét tuyển kết hợp với mã trường - 2021 - 3 - 00004019 ạ
+    - về phương thức xét tuyển kết hợp
+    - em hỏi chút ạ, em có trúng tuyển vào khoa công nghệ thông tin của trường theo 2 phương thức là xét tuyển kết hợp và theo kết quả đánh giá năng lực . cùng đỗ rồi nên em đăng kí nguyện vọng theo kết quả đánh giá năng lực lên nv1 theo hồ sơ kết hợp nv2 . giờ em mới biết là nếu xét theo phương thức xét tuyển kết hợp thì được học bổng 50 %
+    - thầy cô cho em hỏi là lúc em làm hồ sơ xét tuyển kết hợp em lỡ để năm đạt giải là 2021 thì có bị sao không ạ
+    - thưa nhà trường em muốn tư vấn thêm về phương thức xét tuyển kết hợp ạ
+    - chuyện là em đăng ký xét tuyển kết hợp
+    - cho em hỏi là sau khi đã xác nhận nhập học phương thức xét tuyển kết hợp rồi thì cần làm gì nữa ạ
+    - anh  chị có thể giải đáp cho em chút thắc mắc được không ạ ? em xét tuyển vào trường theo phương thức xét tuyển kết hợp và em đã nhập điểm 5 kì vào, thì file học bạ em cần load lên là file học bạ 5 kì hay 6 kì ạ
+    - cho em hỏi bao giờ trương xét tuyển kết hợp với bằng ielts ạ
+    - em đỗ xét tuyển bằng cả xét tuyển kết hợp với đánh giá năng lực nhưng sao mail chỉ gửi đỗ theo phương thức đánh giá năng lực vậy ạ
+    - cho em hỏi khi nộp hồ sơ xét tuyển kết hợp thì lệ phí là bao nhiêu ạ
+    - cho em hỏi là sắp tới trường mình có nhận xét tuyển kết hợp bổ sung nữa không ạ
+    - admin cho em hỏi em muốn đăng ký xét tuyển kết hợp thì hồ sơ gồm những gì ạ
+    - kính nhờ quý trường cho phụ huynh biết khi nào thì học sinh nhận được giấy nhập học theo phương thức xét tuyển kết hợp ạ . con mình ở địa chỉ 164 khuất duy tiến, phường nhân chính, quận thanh xuân, hn
+    - xét tuyển kết hợp có chưa ạ
+    - em sử dụng phương thức xét tuyển kết hợp học bạ cộng điểm ielts
+    - trường đã nhận nộp hồ sơ xét tuyển kết hợp chứng chỉ ielts chưa ạ ?
+    - nhưng nếu hồ sơ xét tuyển kết hợp của em được trường chấp nhận và tuyển thẳng
+    - hi ad, cho em hỏi thời gian đăng ký xét tuyển kết hợp đã mở chưa ạ, em thấy thông báo tháng 6 có kết quả mà giờ còn chưa làm được hồ sơ trực tuyến ạ
+    - em đăng kí xét tuyển kết hợp thì hộ khẩu thường trú và giấy khai sinh bản sao thì có cần công chứng không ạ
+    - năm ngoái hs giỏi cấp tỉnh năm nay thi lại thì có được xét tuyển kết hợp không ạ ?
+    - em có đăng ký xét tuyển kết hợp và đã xác nhận nhập học trước ngày 27  6 rồi nhưng chưa nộp đầy đủ hồ sơ thì em có được xét tuyển ở các trường đại học khác không ạ ?
+    - em đỗ xét tuyển kết hợp theo phương thức 3 từ hồi cuối tháng 6 rồi ạ
+    - trang cho em hỏi là bao giờ bắt đầu đăng kí xét tuyển kết hợp với ạ ?
+    - cho em hỏi về cái xét tuyển với, em không đủ điểm xét tuyển kết hợp thì bây giờ cái bằng ielts của em có giá trị gì khi thi xong kì thi trung học phổ thông không ạ
+    - em vừa nộp hồ sơ xét tuyển kết hợp nhưng lại bị từ chối do còn sai sót
+    - cho em hỏi là trường mình đã có lịch xét tuyển kết hợp chứng chỉ ngoại ngữ với học bạ chưa ạ
+    - em có nguyện vọng xét tuyển kết hợp ielts vào ngành công nghệ thông tin của trường kèm với điểm trung bình học kì 1 lớp 12 của môn toán lí anh . nếu em đậu xét tuyển thì khi thi tốt nghiệp em có cần thi bài thi khoa học tự nhiên không ạ hay em thi khoa học xã hội vẫn được ạ ?
+    - trường cho em hỏi, tại sao trên hệ thống xét tuyển kết hợp lại không có trường cap3 lê quý đôn ạ ?
+    - admin ơi cho em hỏi hồ sơ xét tuyển kết hợp thì cần bao gồm những gì ạ
+    - cách tính điểm theo phương thức xét tuyển kết hợp là như thế nào ạ
+    - chào admin ạ, cho em hỏi em đã hoàn thành đăng kí hồ sơ xét tuyển kết hợp trực tuyến rồi ạ . không biết là em có phải nộp thêm tài liệu gì trực tiếp trên trường không ạ ? và phần phí xét tuyển là 50k, em xem phần chuyển khoản thì lại chưa có, vậy em phải lên trực tiếp trên trường nộp đúng không ạ ?
+    - cho em hỏi là thanh toán hồ sơ xét tuyển kết hợp qua tài khoản nào ạ
+    - hi, bây giờ đã hết hạn nhận hs xét tuyển kết hợp rồi đúng không bạn ?
+    - thế phương thức xét tuyển kết hợp ielts cộng hba tính như thế nào ạ
+    - chào anh  c . tôi là ph có con năm nay lên lớp 12 . cho tôi hỏi khi xét tuyển kết hợp thì tính điểm như thế nào ? hay chỉ tính điểm tb cả 3 môn từ cao xuống hết chỉ tiêu ạ ? vì cháu có ielts 7 . 0 và đã có 2 năm học sinh giỏi trường chuyên, nhưng điểm phẩy thì chỉ vừa phải .
+    - em có xét tuyển vào trường theo hình thức xét tuyển kết hợp và đã nhận được thông báo trúng tuyển
+    - dạ phương thức xét tuyển kết hợp ạ
+    - cho mình hỏi bao giờ trường thu hồ sơ xét tuyển kết hợp
+    - đăng kí xét tuyển kết hợp trên web xong có phiếu thì có phải in phiếu ra để nộp không ạ
+    - cho em hỏi là thời gian trường bắt đầu nhận hô sơ xét tuyển kết hợp ạ
+    - cháu nộp hồ sơ xét tuyển trực tuyến theo hình thức xét tuyển kết hợp nhưng hệ thống nhà trường chưa mở . . . vậy không biết thời gian nào thì nộp được . . . vì theo thông báo là tháng 6  2022 là có kết quả xét tuyển rồi ạ . . . cảm ơn cô  thầy đã quan tâm . . .
+    - đăng ký xét tuyển kết hợp thì nộp hồ sơ theo địa chỉ nào ạ
+    - cho em hỏi là cái xét tuyển kết hợp là lấy 5 kì đầu hay là lấy cả 3 năm ạ
+    - vậy thời gian thông báo kết quả xét tuyển kết hợp là khi nào ? anh  chị  có thể cho tôi xin số đt di động để tôi nhờ tư vấn trực tiếp được không ?
+    - em xét tuyển kết hợp nhưng mà giờ trường em không cho mượn học bạ để công chứng nữa thì phải làm sao ạ
+    - em đăng ký xét tuyển kết hợp khoa công nghệ thông tin tổ hợp a00 tổng điểm 27,88 cộng giải ba toán cấp tỉnh . khả năng trúng tuyển như thế nào ạ !
+    - tôi xin hỏi, bao giờ bắt đầu nộp hồ sơ xét tuyển kết hợp ạt uyển sớm bằng phương thức xét
+    - và cái đối tượng 3 này trong xét tuyển kết hợp là phải thành phố trực thuộc tw hay sao ạ
+    - admin cho em hỏi bao giờ trường nhận hồ sơ đăng ký xét tuyển kết hợp ạ ?
+    - cho em hỏi bao giờ trường mình mở đợt xét tuyển kết hợp ạ
+    - admin ơi, em xét tuyển theo xét tuyển kết hợp  giải học sinh giỏi tỉnh  mà lúc em đăng ký thì chưa có học bạ cả năm 12 nên lấy hk1 , bây giờ có cả năm rồi thì em thấy nếu lấy điểm cả năm thì tổng điểm xét tuyển của em cao hơn  0 . 1  điểm trước, em muốn đỗi lại điểm cả kì thay vì điểm hk1 lớp 12 thôi được không ạ
+    - em có đăng kí xét tuyển kết hợp ở trường mình ạ, cho em hỏi là trường có nhận phí đăng kí bằng hình thức chuyển khoản không ạ ? em cảm ơn
+    - em đã đăng kí 2 nguyện vọng xét tuyển kết hợp rồi thì bây giờ cần làm gì để nạp được phí xét tuyển vậy ạ ?
+    - tại em thấy số bạn nhập học theo xét tuyển kết hợp khá sát với thông báo tuyển ạ
+    - cho em hỏi là năm ngoái trường mình bắt đầu mở xét tuyển kết hợp từ tháng mấy thế ạ
+    - cho em hỏi là đăng ký xét tuyển kết hợp ở trường mình có mục chi phí, vậy chi phí này sẽ chuyển qua ngân hàng của trường hay gửi kèm hồ sơ qua bưu điện ạ, em cảm ơn !
+    - có thể cho em hỏi thời gian trường mở xét tuyển kết hợp được không ạ ?
+    - trưởng mở đăng ký xét tuyển kết hợp chưa ạ
+    - ăng kí xét tuyển kết hợp kiểu gì ạ
+    - cho em hỏi là in 2 giấy xét tuyển kết hợp phải lấy dấu đỏ cả hai bản ạ ? hay là một bản mẫu kèm theo bản xin dấu . em cảm ơn ạ
+    - cho em hỏi một chút ạ, trường mình có group trao đổi thông tin tuyển sinh không ạ, em dự định xét tuyển kết hợp nhưng sợ không đỗ muốn tìm hiểu thêm về các bạn cũng xét tuyển kết hợp như mình ý ạ  lớn hơn lớn hơn
+    - trường ơi, em đang học đại học nhưng em muốn đổi trường có được không ạ, em có bằng ielts còn hạn và có bằng tốt nghiệp cũng như học bạ thì có được xét tuyển kết hợp đối tượng 2 không ạ
+    - trường có lịch mở cổng xét tuyển kết hợp chưa ạ
+    - em đã đăng kí xét tuyển kết hợp trực tuyến của trường và chuẩn bị nộp hồ sơ
+    - cho em hỏi cơ chế xét tuyển kết hợp với đối tượng có ielts và hướng dẫn điền tờ khai với ạ
+    - với cả khi xét bằng xét tuyển kết hợp cần chuẩn bị những gì ạ
+    - cho em hỏi là trường mình bao giờ mở cổng đăng kí xét tuyển kết hợp ạ ? ?
+    - em muốn tham gia vào chương trình xét tuyển kết hợp mục mà có giải tỉnh ấy ạ nhưng là thí sinh tự do nên không biết em có được tham gia không ạ
+    - em đã nộp hồ sơ xét tuyển kết hợp trực tiếp tại trường rồi
+    - em đỗ pthuc xét tuyển kết hợp
+    - giấy tờ xác nhận khi đỗ xét tuyển kết hợp em đã gửi ems vào 2 ngày trước
+    - phương án xét tuyển kết hợp năm 2022 như thế nào vậy ạ
+    - admin ơi cho em hỏi khi nào là hạn nhập học cho thí sinh đỗ xét tuyển kết hợp ạ ?
+    - dạ cho em hỏi em đã đỗ vào trường theo phương thức xét tuyển kết hợp
+    - trường có thêr tư vấn cho em về phương thức xét tuyển kết hợp, hình thức nộp hồ sơ, lệ phí và hồ sơ nộp cần có những gì không ạ ?
+    - cô ơi, cho em hỏi chút là em đã đăng ký trực tuyến diên xét tuyển kết hợp vào trường nhưng do sơ xuất nên em điền sai ngày sinh . em có được phép đăng ký lại để sửa ngày sinh của em không ạ . em cảm ơn cô .
+    - ngoài ra khi đăng ký nguyện vọng xét tuyển mà không phải ngành chất lượng cao bằng phương thức xét tuyển kết hợp, con tôi có chứng chỉ ielts 6 . 5 thì được quy đổi điểm hay cộng điểm ưu tiên ạ ?
+    - bao giờ thì có kết quả xét tuyển kết hợp ạ ?
+    - em chào quý nhà trường ạ . em hiện đang ở hà nội nhưng có đăng ký xét tuyển kết hợp theo đề án tuyển sinh của học viện ở cơ sở đào tạo miền nam thì liệu hồ sơ em phải gửi vào trong học viện tại tp hồ chí minh hay có thể nộp ở ngoài hà nội được ạ ? em cảm ơn nhà trường đã giải đáp ạ .
+    - về cách xét tuyển kết hợp
+    - admin ơi em có đăng kí xét tuyển kết hợp trên trang của nhà trường mà khi khóa và nộp hồ sơ rồi mà em lại phát hiện ra lỗi sai thì làm thế nào ạ, em cảm ơn ạ
+    - trong phương thức xét tuyển kết hợp thì điểm ielts cao hay không có là một tiêu chí để xét hs không ạ ?
+    - thầy cô cho em hỏi cách tính điểm xét tuyển kết hợp với giải học sinh giỏi ấy ạ
+    - cô ơi, nếu đỗ xét tuyển kết hợp rồi thì có cần yêu cầu điểm thi trung học phổ thông . qg trên bao nhiêu điểm không ạ
+    - dạ trường mình có xét tuyển kết hợp á là nếu mình đậu xét tuyển kết hợp thì mình phải học chất lượng cao hả
+    - cho em hỏi thêm là bản photo căn cước công dân đi kèm trong hồ sơ xét tuyển kết hợp bản cứng có cần phải công chứng không ạ
+    - cho em hỏi phương thức xét tuyển kết hợp với chứng chỉ tiếng anh quốc tế thì toeic có được không ạ ?
+    - admin ơi học quốc phòng thì xét tuyển kết hợp với xét tuyển theo kết quả thi trung học phổ thông học chung với nhau đúng không ạ
+    - khi nào thì nhận hồ sơ phương thức xét tuyển kết hợp ạ ?
+    - neeua xét tuyển kết hợp không được thì mình còn phương án nào khác không ạ
+    - trường ơi cho em hỏi, nộp hồ sơ xét tuyển kết hợp thì cần 1 hay 2 phiếu đăng ký xét tuyển ạ ?
+    - sao em không thấy mốc thời gian đăng ký xét tuyển kết hợp ạ
+    - cho em hỏi em là học sinh trường trung học phổ thông chuyên tuyên quang thì có được xét theo phương thức xét tuyển kết hợp không ?
+    - em đã hoàn thành xong hồ sơ xét tuyển kết hợp đã gửi cho nhà trường nhưng chưa có phản hồi của nhà trường và chưa có số tài khoản để chuyển lệ phí thi ạ
+    - bao giờ thì nhà trường nhận hồ sơ xét tuyển kết hợp ạ ?
+    - nhà trường cho em hỏi là nộp hồ sơ xét tuyển kết hợp qua đường bưu điện thì phí 30k  hồ sơ nộp như thế nào ạ ?
+    - điểm trung bình lớp 10, 11 với kì 1 lớp 12 của em môn toán tầm 9 . 36 môn lý tầm 9 . 5 môn anh tầm 9 . 26 thì có khả năng đỗ vào ngành truyền thông đpt theo phương thức xét tuyển kết hợp năm nay không ạ ?
+    - cho mình hỏi lịch xét tuyển vào hoạc viên năm2022 - 2023, phương án xét tuyển kết hợp
+    - em muốn hỏi thêm về phương thức xét tuyển kết hợp của nhà trường ạ
+    - tôi muốn hỏi, con tôi đã nộp hồ sơ trực tuyến xét tuyển kết hợp theo phương thức 3 và đóng hồ sơ ngày 4 . 6 khi đó chưa đọc kỹ lưu ý của nhà trường là chưa thực hiện đặng ký nguyện vọng xét tuyển và chưa khóa hồ sơ xét tuyển trên hệ thống . vậy con tôi có phải mở lại khóa và nộp lại không . rất mong sớm nhận được câu trả lời của nhà trường . trân trọng !
+    - cho em hỏi, em đã đăng kí nguyện vọng theo phương thức xét tuyển kết hợp của trường . cho em hỏi như vậy em có cần điền nguyện vọng trên phiếu đăng kí dự thi của bộ gd và đt không ạ ?
+    - cho em hỏi xét tuyển kết hợp thì cần những giấy tờ gì không ạ
+    - em đăng ký xét tuyển kết hợp nhưng quên nộp bản cứng về trường có bị loại không ạ ?
+    - xin hỏi hs chuyên lý được giải nhì tỉnh lớp 10, điểm trung bình chung các năm đều trên 8, hạnh kiểm tốt nhưng không có chứng chỉ ielts muốn đăng kí xét tuyển kết hợp ngành công nghệ thông tin chất lượng cao có được không ? nếu được thì cơ hội có cao không ạ ?
+    - cho em hỏi công nghệ thông tin chất lượng cao nộp ielts 7 . 5 có được miễn tiêng anh như này không ạ . và hồ sơ xét tuyển kết hợp có dời lịch do covid không ạ, trường em vẫn chưa cho đến lấy giấy chứng nhận tốt nghiệp
+    - và cho em hỏi là điểm xét tuyển kết hợp là điểm học bạ luôn ạ
+    - admin cho em hỏi lúc nào có thể nộp hồ sơ xét tuyển kết hợp ạ
+    - em thấy trong mục xét tuyển kết hợp có ghi là . . . .
+    - em muốn hỏi về phương án xét tuyển kết hợp năm nay ạ . em là học sinh tỉnh Thái Nguyên, không phải học sinh thành phố trực thuộc tw đã có giải 3 môn toán cấp tỉnh thì có đươc nộp hồ sơ không ạ ?
+    - admin cho em hỏi là em được báo là đã trúng tuyển theo phương thức xét tuyển kết hợp nhưng làm sao để em biết là em trúng tuyển nguyện vọng nào ạ
+    - trường ơi cho em hỏi là nộp hồ sơ xét tuyển kết hợp là phải nộp những gì ạ ?
+    - em đăng kí xét tuyển kết hợp trực tuyến thì nộp lệ phí kiểu gì ạ
+    - em muốn xét tuyển kết hợp theo đề án tuyển sinh của học viện thì đăng ký xét tuyển như nào ạ ?
+    - khi nào có kết quả của xét tuyển kết hợp thì nếu mình đỗ rồi thì mình đăng ký nhập học luôn hay vẫn phải thi trung học phổ thông quốc gia ạ
+    - bạn nhà  mình thuộc đối tượng 2,3,4 trong mục xét tuyển kết hợp nghĩa là như thế nào ? xin ban tuyển sinh giải đáp thắc mắc giúp !
+    - các anh chị cho em hỏi là  - em là thí sinh tham gia xét tuyển kết hợp của trường năm 2021 thì hôm qua bên tuyển sinh có gửi thông báo cho em là vừa upload lại file cho rõ thì em vào upload và kiểm tra lại thì hôm nay em vào thì không thấy file ạ . các anh chị có thể cho em xin ý kiến là như thế này là em đã đăng kí được chưa ạ . em xin chân thành cảm ơn !
+    - mà hôm nay công bố mức xét tuyển kết hợp rồi
+- synonym: điểm
+  examples: |
+    - điểm chuẩn
+    - điểm sàn
+    - điểm trúng tuyển
+- synonym: thích
+  examples: |
+    - thích
+    - yêu thích

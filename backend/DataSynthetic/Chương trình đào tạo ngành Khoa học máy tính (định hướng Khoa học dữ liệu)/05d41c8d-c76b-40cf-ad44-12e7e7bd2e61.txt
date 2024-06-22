@@ -1,0 +1,9 @@
+2.2. Kiến thức  
+
+Chương trình trang bị cho sinh viên những kiến thức sau:  
+
+Có hiểu biết về Lý luận của Chủ nghĩa Mác Lênin và Tư tưởng Hồ Chí Minh; nắm vững kiến thức về Khoa học tự nhiên, đặt biệt là Toán học.   
+
+Nắm vững kiến thức cơ sở ngành  Khoa học máy tính, bao gồm Hệ thống máy tính, Lập trình máy tính, Mạng máy tính và an toàn thông tin, Lưu trữ và truy vấn dữ liệu, Phát triển phần mềm, và Các ứng dụng quan trọng của Khoa học máy tính.  
+
+Có kiến thức chuyên sâu về Khoa học máy tính, tập tru ng vào Khoa học dữ liệu, Trí tuệ nhân tạo, Học máy, và Các phương pháp phân tích dữ liệu.

@@ -1,0 +1,23 @@
+4.1 Cấu trúc chương trình đào tạo  
+
+Khối kiến thức 
+
+1 Khối kiến thức giáo dục đại cương  41 (tín chỉ)
+
+-1.1 Khối kiến thức chung  25 (tín chỉ)
+
+Lý luận chính trị  11 (tín chỉ)
+
+Tiếng Anh  14 (tín chỉ)
+
+-1.2 Khối kiến thức khoa học tự nhiên và xã hội  16 (tín chỉ)
+
+2 Khối kiến thức giáo dục chuyên nghiệp  68 (tín chỉ)
+
+-2.1 Khối kiến thức cơ sở (nhóm ngành và ngành)  44 (tín chỉ)
+
+-2.2 Khối kiến thức chuyên ngành  24 (tín chỉ)
+
+3 Thực tập và Tốt nghiệp  12 (tín chỉ)
+
+ Tổng cộng  121  (tín chỉ)

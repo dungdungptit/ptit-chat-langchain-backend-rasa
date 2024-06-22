@@ -1,0 +1,73 @@
+Chương trình đào tạo  trình độ  thạc sĩ  chuyên ngành Hệ thống thông tin  
+
+(Quyết định số 982/QĐ-HV ngày 29/10/2021 của Giám đốc Học viện về việc hiệu chỉnh chương trình khung đào tạo trình độ tiến sĩ các chuyên ngành )  
+
+1. MỤC TIÊU, KIẾN THỨC, KỸ NĂNG, TRÌNH ĐỘ NGOẠI NGỮ ĐẠT ĐƯỢC  
+
+1.1 Mục tiêu  
+
+Mục tiêu chung 
+
+Đào tạo nhân lực trình độ thạc sĩ chuyên ngành Hệ thống Thông tin . Nâng cao và bổ sung kiến thức đã được học ở đại học bao gồm kiến thức về triết học, ngoại ngữ, kiến thức cơ sở ngành và chuyên ngành Hệ thống Thông tin . 
+
+Mục tiêu cụ thể  
+
+Trang bị cho h ọc viên kiến thức rộng về công nghệ thông tin, đồng thời cung cấp kiến thức chuyên sâu và cập nhật trong chuyên ngành Hệ thống Thông tin, bao gồm:  
+
+ + Cơ sở toán học của xử lý thông tin dựa trên máy tính và thuật toán ; 
+
+ + Kiến thức mang tính hệ thống và hạ tầng tính toán bao gồm cả phần cứng và phần mềm ; 
+
+ + Kiến thức chuyên sâu về thu thập, lưu trữ, truyền thông, xử lý, phân tích dữ liệu, đảm bảo an toàn cho hệ thống thông tin; 
+
++ Kiến thức về thiết kế, xây dựng các hệ thống thông tin.  
+
+1.2 Kiến thức  
+
+Kiến thức chung gồm  
+
+- Hiểu và vận dụng được hệ thống tri thức khoa học những nguyên lý cơ bản của chủ nghĩa Mác-Lê Nin, những kiến thức cơ bản, có tính hệ thống về tư tưởng, đạo đức, giá trị văn hóa Hồ Chí Minh, những nội dung cơ bản của Đường lối cách mạng của Đảng Cộng sản Việt Nam, chủ yếu là đường lối trong thời kỳ đổi mới trên một số lĩnh vực cơ bản của đời sống xã hội; 
+
+- Tiếng Anh đạt trình độ tương đương Bậc 4 theo Khung năng lực ngoại ngữ dùng cho Việt Nam.  
+
+- Hiểu và sử dụng thành thạo một số phương pháp nghiên cứu khoa h ọc, mô hình toán học, công cụ mô phỏng phục vụ cho việc học tập các môn h ọc khác và nghiên cứu khoa học. 
+
+Kiến thức ngành và chuyên ngành 
+
+Sau khi hoàn thành chương trình thạc sĩ ngành Hệ thống Thông tin, học viên có những khả năng sau:    
+
+-Vận dụng tốt các nguyên lý, lý thuyết  hệ thống thông tin trong việc đáp ứng nhu cầu xử lý thông tin cho các tổ chức;  
+
+- Có khả năng vận dụng các công cụ trong việc đặc tả, phân tích, xây dựng, triển khai, bảo trì các hệ thống dựa trên máy tính;  
+
+-  Đánh giá và thử nghiệm các giải pháp và hệ thống thông tin cho tổ chức và doanh nghiệp;  
+
+- Đối với chương trình đào tạo theo định hướng nghiên cứu: tiến hành nghiên cứu khoa học trong lĩnh vực Hệ thống Thông tin.  
+
+Yêu cầu đối với luận văn tốt nghiệp 
+
+Luận văn là một báo cáo khoa học, tổng hợp các kết quả nghiên cứu chính của học viên, đáp ứng các yêu cầu sau:  
+
+- Có đóng góp về lý luận, học thuật hoặc phát triển công nghệ, đổi mới sáng tạo; thể hiện năng lực nghiên cứu của học viên;  
+
+- Phù hợp với các chuẩn mực về văn hóa, đạo đức và thuần phong mỹ tục của người Việt Nam;  
+
+- Tuân thủ quy định của Học viện  về liêm chính học thuật và các quy định hiện hành của pháp luật về sở hữu trí tuệ.  
+
+Yêu cầu đối với đề án tốt nghiệp  
+
+Báo cáo đề án là một bản thuyết minh quá trình xây dựng, triển khai và kết quả triển khai đề án, đáp ứng các yêu cầu sau:  
+
+- Đề xuất và kiểm nghiệm được mô hình, giải pháp mới để giải quyết hiệu quả những thách thức trong thực tiễn; thể hiện năng lực ứng dụng khoa học, công nghệ và giải quyết vấn đề của học viên;  
+
+- Phù hợp với các chuẩn mực về văn hóa, đạo đức và thuần phong mỹ tục của người Việt Nam;  
+
+- Tuân thủ quy định của  Học viện  về liêm chính  học thuật và các quy định hiện hành của pháp luật về sở hữu trí tuệ . 
+
+1.3. Kỹ năng  
+
+Kỹ năng nghề nghiệp 
+
+- Biết sử dụng các công cụ tin học hỗ trợ trong công việc; biết tìm kiếm, cập nhật, tổng hợp, khai thác thông tin; biết tối ưu hóa phương pháp triển khai công việc; 
+
+- Biết sử dụng các kiến thức chuyên môn một cách linh ho ạt, có kỹ năng nghiên cứu và  triển khai áp dụng kiến thức vào thực tế.

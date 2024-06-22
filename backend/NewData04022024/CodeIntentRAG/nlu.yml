@@ -1,0 +1,957 @@
+version: "3.1"
+
+nlu:
+  - intent: thong_tin_truong
+    examples: |
+      - Ai là Giám đốc Học viện Công nghệ Bưu chính Viễn thông?
+      - Ai là Phó Giám đốc Học viện có chức vụ PGS.TS.?
+      - Ai là Phó Giám đốc Học viện có chức vụ TS.?
+      - Tên đầy đủ của Giám đốc Học viện là gì?
+      - Có bao nhiêu Phó Giám đốc tại Học viện Công nghệ Bưu chính Viễn thông?
+      - Chức vụ của PGS.TS. Đặng Hoài Bắc là gì?
+      - Chức vụ của PGS.TS. Trần Quang Anh là gì?
+      - Chức vụ của TS. Tân Hạnh là gì?
+      - Học viện Công nghệ Bưu chính Viễn thông thuộc lĩnh vực nào?
+      - Vai trò của Học viện Công nghệ Bưu chính Viễn thông trong ngành công nghiệp viễn thông là gì?
+      - Viện Khoa học Kỹ thuật Bưu điện thuộc tổ chức nào?
+      - Viện KHKT BĐ được thành lập vào ngày nào?
+      - Tên giao dịch tiếng Anh của Viện KHKT BĐ là gì?
+      - Địa chỉ trụ sở chính của Viện KHKT BĐ là ở đâu?
+      - Viện trưởng hiện tại của Viện KHKT BĐ là ai?
+      - Phó Viện trưởng, Phụ trách của Viện KHKT BĐ là ai?
+      - Chức năng chính của Viện KHKT BĐ là gì?
+      - Nhiệm vụ chính của Viện KHKT BĐ là gì?
+      - Viện KHKT BĐ nghiên cứu xây dựng chiến lược phát triển công nghệ trong lĩnh vực nào?
+      - Viện KHKT BĐ tư vấn giải pháp kỹ thuật trong lĩnh vực nào?
+      - Viện KHKT BĐ xây dựng các tiêu chuẩn, quy chuẩn kỹ thuật trong lĩnh vực nào?
+      - Viện KHKT BĐ đo lường, kiểm định chất lượng các thiết bị, hệ thống trong lĩnh vực nào?
+      - Viện KHKT BĐ đào tạo kiến thức khoa học kỹ thuật ở đâu?
+      - Viện KHKT BĐ có bao nhiêu cơ sở?
+      - Số điện thoại liên hệ của Viện KHKT BĐ là gì?
+      - Số Fax của Viện KHKT BĐ là gì?
+      - Địa chỉ cơ sở II của Viện KHKT BĐ là ở đâu?
+      - Ai là Phó Viện trưởng của Viện KHKT BĐ?
+      - Email của Ông Ngô Quốc Dũng là gì?
+      - Email của Ông Trần Thiện Chính là gì?
+      - PTIT là viết tắt của trường đào tạo nào?
+      - Học viện Công nghệ Bưu chính Viễn thông được viết tắt như thế nào?
+      - Ptit là viết tắt của trường đào tạo nào?
+      - Học viện Công nghệ Bưu chính Viễn thông được viết tắt như thế nào?
+      - PtIt là viết tắt của trường đào tạo nào?
+      - Học viện Công nghệ Bưu chính Viễn thông được viết tắt như thế nào?
+      - PTIT là viết tắt của trường đào tạo nào?
+      - Học viện Công nghệ Bưu chính Viễn thông được viết tắt như thế nào?
+      - Ptit là viết tắt của trường đào tạo nào?
+      - Học viện Công nghệ Bưu chính Viễn thông được viết tắt như thế nào?
+      - PtIt là viết tắt của trường đào tạo nào?
+      - Học viện Công nghệ Bưu chính Viễn thông được viết tắt như thế nào?
+      - PTIT là viết tắt của trường đào tạo nào?
+      - Học viện Công nghệ Bưu chính Viễn thông được viết tắt như thế nào?
+      - Ptit là viết tắt của trường đào tạo nào?
+      - Học viện Công nghệ Bưu chính Viễn thông được viết tắt như thế nào?
+      - PtIt là viết tắt của trường đào tạo nào?
+      - Học viện Công nghệ Bưu chính Viễn thông được viết tắt như thế nào?
+      - PTIT là viết tắt của trường đào tạo nào?
+      - Học viện Công nghệ Bưu chính Viễn thông được viết tắt như thế nào?
+      - Học viện Công nghệ Bưu chính Viễn thông được thành lập vào năm nào?
+      - Học viện Công nghệ Bưu chính Viễn thông trực thuộc cơ quan nào?
+      - Học viện Công nghệ Bưu chính Viễn thông có bao nhiêu cơ sở đào tạo Đại học?
+      - Trường Đại học Bưu điện – Vô tuyến điện được thành lập vào năm nào?
+      - Học viện Công nghệ Bưu chính Viễn thông có bao nhiêu sinh viên?
+      - Viện Khoa học Kỹ thuật Bưu điện được thành lập vào năm nào?
+      - Viện Kinh tế Bưu điện được thành lập vào năm nào?
+      - Trung tâm Đào tạo Bưu chính Viễn thông 2 được thành lập vào năm nào?
+      - Học viện Công nghệ Bưu chính Viễn thông được chuyển từ VNPT về Bộ Thông tin và Truyền thông vào năm nào?
+      - Học viện Công nghệ Bưu chính Viễn thông trở thành trường Đại học tự chủ tài chính vào năm nào?
+      - Học viện Công nghệ Bưu chính Viễn thông có bao nhiêu Viện nghiên cứu chuyên ngành?
+      - Trung tâm Đào tạo Bưu chính Viễn thông 1 được thành lập vào năm nào?
+      - Địa chỉ của Trung tâm Đào tạo Bưu chính Viễn thông 1 là gì?
+      - Cơ sở đào tạo tại Hà Nội của Học viện Công nghệ Bưu chính Viễn thông nằm ở đâu?
+      - Trung tâm Đào tạo Bưu chính Viễn thông 2 được thành lập vào năm nào?
+      - Địa chỉ của Trung tâm Đào tạo Bưu chính Viễn thông 2 tại Hồ Chí Minh là gì?
+      - Ai là Giám đốc của Học viện Công nghệ Bưu chính Viễn thông?
+      - Ai là Phó giám đốc của Học viện Công nghệ Bưu chính Viễn thông?
+      - Học viện Công nghệ Bưu chính Viễn thông có bao nhiêu Phó giám đốc?
+      - Địa chỉ của cơ sở đào tạo tại Thành phố Hồ Chí Minh của Học viện Công nghệ Bưu chính Viễn thông là gì?
+
+  - intent: nganh_chuyen_nganh
+    examples: |
+      - Ngành chương trình mới nào sẽ được tuyển sinh từ năm 2024 theo thông báo của học viện?
+      - Ngành Thiết kế và Phát triển Game sẽ được tuyển sinh từ năm nào?
+      - Ngành chương trình nào dự kiến sẽ có thông báo bổ sung vào tháng 5/2024?
+      - Ngành chương trình nào sẽ được đào tạo tại Học viện?
+      - Ngành chương trình nào sẽ được đào tạo theo hợp tác giữa Việt Nam và Nhật Bản?
+      - Ngành chương trình nào sẽ tập trung vào lĩnh vực Công nghệ thông tin?
+      - Ngành chương trình nào sẽ tập trung vào lĩnh vực Quan hệ công chúng?
+      - Khi nào các ngành mới dự kiến sẽ bắt đầu tuyển sinh?
+      - Có bao nhiêu ngành/chương trình mới sẽ được tuyển sinh từ năm 2024?
+      - Ngành chương trình nào sẽ cung cấp kiến thức về Thiết kế và Phát triển Game?
+      - Ngành chương trình nào sẽ cung cấp kiến thức về Công nghệ thông tin?
+      - Ngành chương trình nào sẽ cung cấp kiến thức về Quan hệ công chúng?
+      - Ngành chương trình nào sẽ hợp tác giữa Việt Nam và Nhật Bản?
+      - Ngành chương trình nào sẽ tập trung vào lĩnh vực truyền thông và quảng cáo?
+      - Ngành chương trình nào sẽ tập trung vào lĩnh vực phát triển phần mềm và ứng dụng?
+      - Ngành nào trong danh sách trên liên quan đến việc phân tích dữ liệu và số liệu kinh doanh?
+      - Ngành nào trong danh sách trên tập trung vào việc xây dựng chiến lược quảng cáo và tiếp thị sản phẩm?
+      - Ngành nào trong danh sách trên liên quan đến việc quản lý và vận hành các dịch vụ trực tuyến?
+      - Ngành nào trong danh sách trên tập trung vào việc nghiên cứu và phát triển các công nghệ mới trong lĩnh vực tài chính?
+      - Ngành nào trong danh sách trên liên quan đến việc thiết kế và sản xuất các sản phẩm truyền thông đa phương tiện?
+      - Ngành nào trong danh sách trên tập trung vào việc phân tích và quản lý thông tin tài chính của doanh nghiệp?
+      - Ngành nào trong danh sách trên liên quan đến việc phân tích và đánh giá hiệu quả của các chiến lược tiếp thị?
+      - Ngành nào trong danh sách trên tập trung vào việc phát triển và quản lý các ứng dụng công nghệ thông tin?
+      - Ngành nào trong danh sách trên liên quan đến việc xây dựng và quản lý các hệ thống truyền thông đa phương tiện?
+      - Ngành nào trong danh sách trên tập trung vào việc phân tích và dự báo xu hướng thị trường kinh doanh?
+      - Ngành nào trong danh sách trên đào tạo về Công nghệ thông tin?
+      - Sinh viên học ngành nào sẽ được định hướng ứng dụng Công nghệ thông tin?
+      - CT Kỹ thuật dữ liệu là chuyên ngành nào trong danh sách?
+      - Khoa học máy tính định hướng vào lĩnh vực nào?
+      - Ngành nào đào tạo về Kỹ thuật Điện tử viễn thông?
+      - Công nghệ kỹ thuật Điện, điện tử học về lĩnh vực gì?
+      - Kỹ thuật Điều khiển và tự động hóa học về lĩnh vực nào?
+      - IoT là viết tắt của khái niệm gì?
+      - An toàn thông tin là ngành đào tạo về lĩnh vực gì?
+      - Công nghệ đa phương tiện học về lĩnh vực nào?
+      - Truyền thông đa phương tiện liên quan đến ngành nghề nào?
+      - Báo chí là ngành đào tạo về lĩnh vực gì?
+      - Quản trị kinh doanh học về lĩnh vực nào?
+      - Thương mại điện tử liên quan đến ngành nghề nào?
+      - Marketing là ngành đào tạo về lĩnh vực gì?
+      - Kế toán học về lĩnh vực nào?
+      - Fintech là viết tắt của khái niệm gì?
+      - Công nghệ thông tin_CLC học về lĩnh vực gì?
+      - Marketing_CLC liên quan đến ngành nghề nào?
+      - Kế toán_CLC (chuẩn quốc tế ACCA) học về lĩnh vực gì?
+      - Có bao nhiêu ngành tổ hợp xét tuyển A00?
+      - Ngành nào trong danh sách có định hướng ứng dụng?
+      - Ngành nào trong danh sách liên quan đến Kỹ thuật Điện tử viễn thông?
+      - Ngành nào trong danh sách liên quan đến Khoa học dữ liệu?
+      - Ngành nào trong danh sách chuyên về Công nghệ Inernet vạn vật (IoT)?
+      - Ngành nào trong danh sách chuyên về An toàn thông tin?
+      - Ngành nào trong danh sách liên quan đến Truyền thông đa phương tiện?
+      - Ngành nào trong danh sách chuyên về Thương mại điện tử?
+      - Ngành nào trong danh sách chuyên về Marketing?
+      - Ngành nào trong danh sách chuyên về Kế toán?
+      - Ngành nào trong danh sách chuyên về Công nghệ tài chính (Fintech)?
+      - Ngành nào trong danh sách có chuẩn quốc tế ACCA?
+      - Ngành nào trong danh sách liên quan đến Công nghệ thông tin_CLC?
+      - Ngành nào trong danh sách chuyên về Marketing_CLC?
+      - Ngành nào trong danh sách chuyên về Kế toán_CLC?
+      - Ngành nào trong danh sách trên đào tạo về Công nghệ thông tin?
+      - Cử nhân Công nghệ thông tin định hướng ứng dụng thuộc ngành nào?
+      - CT Kỹ thuật dữ liệu là chuyên ngành của ngành nào?
+      - Khoa học máy tính định hướng Khoa học dữ liệu thuộc ngành nào?
+      - Ngành nào đào tạo về Kỹ thuật Điện tử viễn thông?
+      - Công nghệ kỹ thuật Điện, điện tử thuộc ngành nào?
+      - Kỹ thuật Điều khiển và tự động hóa là chuyên ngành của ngành nào?
+      - IoT là viết tắt của khái niệm gì trong danh sách trên?
+      - An toàn thông tin là chuyên ngành của ngành nào?
+      - Ngành nào đào tạo về Công nghệ đa phương tiện?
+      - Truyền thông đa phương tiện thuộc ngành nào?
+      - Báo chí là chuyên ngành của ngành nào?
+      - Quản trị kinh doanh là chuyên ngành của ngành nào?
+      - Thương mại điện tử thuộc ngành nào?
+      - Marketing là chuyên ngành của ngành nào?
+      - Kế toán là chuyên ngành của ngành nào?
+      - Fintech là viết tắt của khái niệm gì trong danh sách trên?
+      - Công nghệ thông tin_CLC thuộc ngành nào?
+      - Marketing_CLC là chuyên ngành của ngành nào?
+      - Kế toán_CLC (chuẩn quốc tế ACCA) thuộc ngành nào?
+      - Ngành nào trong danh sách sau đây không thuộc vào ngành tổ hợp xét tuyển D01?
+      - Ngành nào trong danh sách sau đây không liên quan đến truyền thông?
+      - Ngành nào trong danh sách sau đây không liên quan đến kinh doanh?
+      - Ngành nào trong danh sách sau đây không liên quan đến công nghệ?
+      - Ngành nào trong danh sách sau đây không có chương trình CLC?
+      - Ngành nào trong danh sách sau đây không liên quan đến tài chính?
+      - Ngành nào trong danh sách sau đây không liên quan đến marketing?
+      - Ngành nào trong danh sách sau đây không liên quan đến truyền thông đa phương tiện?
+      - Ngành nào trong danh sách sau đây không liên quan đến quản trị kinh doanh?
+      - Ngành nào trong danh sách sau đây không liên quan đến thương mại điện tử?
+      - Ngành nào đào tạo tại phía Bắc trong danh sách ngành của học viện?
+      - Mã ngành của ngành Công nghệ thông tin là gì?
+      - Ngành nào có mã ngành 7340115_CLC?
+      - Tổ hợp xét tuyển A00, A01, D01 áp dụng cho ngành nào?
+      - Ngành nào đào tạo về Kỹ thuật Điện tử viễn thông?
+      - Ngành nào có định hướng Khoa học dữ liệu?
+      - Ngành nào đào tạo về An toàn thông tin?
+      - Ngành nào có mã ngành 7520208 và đào tạo tại phía Nam?
+      - Tổ hợp xét tuyển A00, A01 áp dụng cho ngành nào?
+      - Ngành nào đào tạo về Công nghệ đa phương tiện?
+      - Ngành nào có mã ngành 7340301_CLC?
+      - Ngành nào đào tạo về Quản trị kinh doanh?
+      - Ngành nào có định hướng ứng dụng trong Công nghệ thông tin?
+      - Ngành nào đào tạo về Thương mại điện tử?
+      - Tổ hợp xét tuyển A00, A01, D01 áp dụng cho ngành nào?
+      - Ngành nào đào tạo về Kỹ thuật Điều khiển và tự động hóa?
+      - Ngành nào có mã ngành 7340205 và đào tạo tại phía Bắc?
+      - Ngành nào đào tạo về Công nghệ tài chính (Fintech)?
+      - Ngành nào có mã ngành 7480201_CLC?
+      - Tổ hợp xét tuyển A00, A01 áp dụng cho ngành nào?
+
+  - intent: ban_tuyen_sinh
+    examples: |
+      - Trường PTIT có bao nhiêu cơ sở đào tạo?
+      - Địa chỉ trụ sở chính của trường PTIT là ở đâu?
+      - Cơ sở đào tạo phía bắc của trường PTIT có địa chỉ ở đâu?
+      - Cơ sở đào tạo phía nam của trường PTIT có địa chỉ ở đâu?
+      - Mã trường của trường PTIT là gì?
+      - Website chính thức của trường PTIT là gì?
+      - Email liên hệ tuyển sinh của trường PTIT là gì?
+      - Số điện thoại hỗ trợ tuyển sinh của trường PTIT là gì?
+      - Trang fanpage tuyển sinh của trường PTIT là gì?
+      - Trang Zalo của trường PTIT có ID là gì?
+      - Có bao nhiêu trang thông tin điện tử của trường PTIT?
+      - Địa chỉ trang thông tin điện tử của trường PTIT là gì?
+      - Có bao nhiêu trang mạng xã hội của trường PTIT có thông tin tuyển sinh?
+      - Trang fanpage Học viện của trường PTIT là gì?
+      - Số điện thoại liên hệ tuyển sinh của cơ sở đào tạo phía bắc là gì?
+      - Số điện thoại liên hệ tuyển sinh của cơ sở đào tạo phía nam là gì?
+      - Fax của cơ sở đào tạo phía nam là gì?
+      - Địa điểm tiếp nhận hồ sơ đăng ký xét tuyển của cơ sở đào tạo phía bắc là ở đâu?
+      - Địa điểm tiếp nhận hồ sơ đăng ký xét tuyển của cơ sở đào tạo phía nam là ở đâu?
+      - Email liên hệ tuyển sinh của trường PTIT là gì?
+      - Hồ sơ xét tuyển vào trường Học viện Công nghệ Bưu chính Viễn thông được nộp ở đâu?
+      - Địa chỉ nộp hồ sơ xét tuyển về Học viện Công nghệ Bưu chính Viễn thông ở Hà Nội là ở đâu?
+      - Cơ sở đào tạo phía Bắc của Học viện Công nghệ Bưu chính Viễn thông có địa chỉ ở đâu?
+      - Phòng đào tạo của trường Học viện Công nghệ Bưu chính Viễn thông ở Hà Nội nằm ở đâu?
+      - Địa chỉ nộp hồ sơ xét tuyển về Học viện Công nghệ Bưu chính Viễn thông ở Tp. Hồ Chí Minh là ở đâu?
+      - Cơ sở đào tạo phía Nam của Học viện Công nghệ Bưu chính Viễn thông có địa chỉ ở đâu?
+      - Phòng đào tạo của trường Học viện Công nghệ Bưu chính Viễn thông ở Tp. Hồ Chí Minh nằm ở đâu?
+      - Học viện Công nghệ Bưu chính Viễn thông có bao nhiêu cơ sở đào tạo?
+      - Địa chỉ chính thức của trường Học viện Công nghệ Bưu chính Viễn thông là gì?
+      - Học viện Công nghệ Bưu chính Viễn thông có trụ sở chính ở đâu?
+
+  - intent: quy_doi_chung_chi
+    examples: |
+      - Chứng chỉ tiếng Anh nào được quy đổi điểm thành 10 điểm?
+      - Điểm quy đổi của Chứng chỉ tiếng Anh IELTS 6.0 là bao nhiêu?
+      - Chứng chỉ tiếng Anh nào có điểm quy đổi cao nhất?
+      - Điểm quy đổi của Chứng chỉ tiếng Anh TOEFL iBT 79 là bao nhiêu?
+      - Thí sinh đạt giải Nhất cấp tỉnh/thành phố trung ương sẽ được cộng bao nhiêu điểm?
+      - Điểm cộng cho thí sinh đạt giải Khuyến khích cấp quốc gia là bao nhiêu?
+      - Điểm ưu tiên được tính như thế nào?
+      - Thí sinh có Chứng chỉ tiếng Anh TOEFL ITP 590 điểm sẽ được quy đổi thành điểm bao nhiêu?
+      - Thí sinh đạt giải Ba cấp tỉnh/thành phố trung ương sẽ được cộng bao nhiêu điểm?
+      - Điểm quy đổi của Chứng chỉ tiếng Anh TOEFL iBT 61 là bao nhiêu?
+
+  - intent: xet_tuyen_thang
+    examples: |
+      - Thí sinh nào được ưu tiên xét tuyển theo phương thức 1 - Xét tuyển tài năng?
+      - Thí sinh cần đạt điều kiện gì để được xét tuyển thẳng vào Học viện?
+      - Thời gian tối đa thí sinh được tham gia kỳ thi chọn đội tuyển quốc gia để được xét tuyển thẳng là bao lâu?
+      - Thí sinh cần đạt giải gì trong kỳ thi chọn học sinh giỏi quốc gia để được xét tuyển thẳng?
+      - Thí sinh cần đạt giải gì trong Cuộc thi khoa học, kỹ thuật cấp quốc gia để được xét tuyển thẳng?
+      - Thí sinh cần đạt giải gì trong các kỳ thi tay nghề khu vực ASEAN để được xét tuyển thẳng?
+      - Thí sinh cần có kết quả thi THPT năm 2024 như thế nào để được xét tuyển thẳng?
+      - Học viện xem xét xét tuyển thẳng thí sinh vào ngành đào tạo phù hợp dựa trên tiêu chí gì?
+      - Thí sinh cần tham gia kỳ thi nào để được ưu tiên xét tuyển thẳng vào Học viện?
+      - Thí sinh cần có thành tích gì trong các môn Toán học, Vật lý, Hóa học hoặc Tin học để được xét tuyển thẳng?
+
+  - intent: phuong_thuc_1
+    examples: |
+      - Điều kiện nào thí sinh cần đáp ứng để được xét tuyển tài năng theo phương thức 1?
+      - Thí sinh cần có điều kiện gì để được xét tuyển thẳng và ưu tiên xét tuyển theo phương thức 1?
+      - Hồ sơ đăng ký xét tuyển tài năng cần bao gồm những giấy tờ nào?
+      - Thời gian cuối cùng để thí sinh nộp hồ sơ đăng ký xét tuyển theo phương thức 1 là khi nào?
+      - Lệ phí xét tuyển phương thức 1 là bao nhiêu tiền một nguyện vọng?
+      - Thí sinh được đăng ký bao nhiêu nguyện vọng xét tuyển theo phương thức 1?
+      - Công thức tính điểm HSNL xét tuyển tài năng là gì?
+      - Điểm HSNL được quy đổi theo thang điểm bao nhiêu?
+      - Thí sinh chỉ trúng tuyển vào một nguyện vọng ưu tiên cao nhất trong danh sách nguyện vọng đã đăng ký, đúng hay sai?
+      - Thí sinh cần phải xác nhận nhập học trước thời hạn nào sau khi trúng tuyển?
+      - Học sinh nào được ưu tiên xét tuyển phương thức 1 - Xét tuyển tài năng?
+      - Điều kiện cần thiết để đăng ký xét tuyển phương thức 1 là gì?
+      - Học sinh cần đạt điểm trung bình chung học tập từ lớp nào đến lớp nào để được xét tuyển?
+      - Học sinh cần có hạnh kiểm như thế nào để được xét tuyển?
+      - Trường học nào được xem xét ưu tiên trong quá trình xét tuyển?
+      - Hồ sơ năng lực (HSNL) được sử dụng trong quá trình xét tuyển như thế nào?
+      - Học sinh cần đạt điểm trung bình chung học tập từ lớp nào đến lớp nào để được xét tuyển?
+      - Học sinh cần có hạnh kiểm như thế nào để được xét tuyển?
+      - Trường học nào được xem xét ưu tiên trong quá trình xét tuyển?
+      - Hồ sơ năng lực (HSNL) được sử dụng trong quá trình xét tuyển như thế nào?
+      - Điều kiện nào cần phải đạt để được xét tuyển theo phương thức 1 - Xét tuyển tài năng?
+      - Ai có thể đăng ký xét tuyển theo phương thức hồ sơ năng lực?
+      - Điểm trung bình chung học tập cần đạt từ bao nhiêu trở lên để được xét tuyển theo phương thức 1?
+      - Hạnh kiểm cần đạt để được xét tuyển theo phương thức 1 là gì?
+      - Ai có thể đăng ký xét tuyển theo phương thức 1 nếu đã có giải từ khuyến khích quốc gia trở lên?
+      - Điểm trung bình chung học tập cần đạt từ bao nhiêu trở lên để được xét tuyển theo phương thức hồ sơ năng lực?
+      - Có bao nhiêu môn được xét tuyển theo phương thức 1?
+      - Học sinh đã tham gia kỳ thi chọn học sinh giỏi quốc gia có thể đăng ký xét tuyển theo phương thức nào?
+      - Điều kiện nào cần phải đạt để được xét tuyển theo phương thức hồ sơ năng lực?
+      - Học sinh đã có giải nhất cấp tỉnh môn nào có thể đăng ký xét tuyển theo phương thức 1?
+      - Thí sinh nào có giải học sinh giỏi cấp tỉnh/thành phố trung ương sẽ được cộng điểm thành tích khi xét tuyển theo phương thức nào?
+      - Điều kiện để thí sinh được cộng điểm thành tích khi xét tuyển theo phương thức 1 là gì?
+      - Thí sinh có giải khuyến khích học sinh giỏi quốc gia sẽ được cộng bao nhiêu điểm thành tích khi xét tuyển theo phương thức 3?
+      - Học sinh chuyên không có giải sẽ được cộng bao nhiêu điểm thành tích khi xét tuyển?
+      - Thí sinh cần thực hiện bước nào đầu tiên khi đăng ký xét tuyển bằng giải học sinh giỏi?
+      - Thí sinh cần chuẩn bị những gì khi nộp hồ sơ đăng ký xét tuyển bằng giải học sinh giỏi?
+      - Thí sinh có giải nhất học sinh giỏi cấp tỉnh/thành phố trung ương sẽ được cộng điểm thành tích khi xét tuyển theo phương thức nào?
+      - Thí sinh có giải ba học sinh giỏi cấp tỉnh/thành phố trung ương sẽ được cộng bao nhiêu điểm thành tích khi xét tuyển theo phương thức 4?
+      - Thí sinh cần làm gì sau khi in Phiếu ĐKXT dựa vào HSNL?
+      - Thí sinh có giải khuyến khích học sinh giỏi cấp tỉnh/thành phố trung ương sẽ được cộng bao nhiêu điểm thành tích khi xét tuyển theo phương thức 1?
+
+  - intent: phuong_thuc_2
+    examples: |
+      - Thí sinh cần tham dự kỳ thi nào để được xét tuyển phương thức 2?
+      - Hồ sơ đăng ký xét tuyển phương thức 2 được nhận theo hình thức nào?
+      - Thời gian công bố kết quả xét tuyển phương thức 2 là khi nào?
+      - Điểm trúng tuyển của các tổ hợp bài thi/môn thi trong cùng một ngành có được bằng nhau không?
+      - Thí sinh chỉ trúng tuyển vào một nguyện vọng ưu tiên cao nhất trong danh sách các nguyện vọng đã đăng ký, đúng hay sai?
+      - Thí sinh không xác nhận nhập học trong thời gian quy định sẽ bị xem là từ chối nhập học, đúng hay sai?
+      - Học viện sử dụng kết quả miễn thi bài thi môn ngoại ngữ để xét tuyển cho thí sinh dự tuyển phương thức 2, đúng hay sai?
+      - Thí sinh cần nộp kinh phí xét tuyển trước ngày nào?
+      - Thí sinh có thể điều chỉnh nguyện vọng xét tuyển trong khoảng thời gian nào?
+      - Điểm trúng tuyển được tính theo thang điểm bao nhiêu trên tổng điểm tối đa của 3 môn thi trong tổ hợp xét tuyển?
+
+  - intent: phuong_thuc_3
+    examples: |
+      - Thí sinh cần đạt điểm bao nhiêu trở lên trong Chứng chỉ quốc tế SAT để đáp ứng điều kiện xét tuyển phương thức 3?
+      - Thí sinh cần có điểm ACT từ bao nhiêu trở lên để kết hợp với Chứng chỉ tiếng Anh quốc tế và đáp ứng điều kiện xét tuyển phương thức 3?
+      - Hồ sơ xét tuyển kết hợp cần bao nhiêu bản sao hợp pháp của Chứng chỉ quốc tế SAT hoặc ACT?
+      - Thí sinh cần có điểm trung bình chung học tập từ bao nhiêu trở lên để kết hợp với Chứng chỉ quốc tế và đáp ứng điều kiện xét tuyển phương thức 3?
+      - Thời gian nộp hồ sơ đăng ký xét tuyển kết hợp bắt đầu từ ngày nào?
+      - Thí sinh có thể điều chỉnh nguyện vọng xét tuyển trên hệ thống trực tuyến đến ngày nào?
+      - Thí sinh cần nộp kinh phí xét tuyển trực tuyến bằng cách nào?
+      - Thí sinh cần rà xoát và khóa hồ sơ đăng ký xét tuyển trên hệ thống trực tuyến trước thời gian nào?
+      - Thí sinh cần nộp hồ sơ đăng ký xét tuyển theo quy định của Học viện qua đường bưu điện chuyển phát nhanh hoặc chuyển phát đảm bảo trước thời gian nào?
+      - Thí sinh được thông báo kết quả trúng tuyển dự kiến vào thời gian nào?
+      - Thí sinh cần đăng ký nguyện vọng xét tuyển trên hệ thống của Bộ GD&ĐT đến ngày nào?
+      - Thí sinh cần xác nhận nhập học trực tuyến trước thời gian nào?
+      - Hồ sơ đăng ký xét tuyển được xác lập là hồ sơ hợp lệ khi nào?
+      - Bước nào thí sinh cần thực hiện sau khi lựa chọn Phương thức xét tuyển và khai hồ sơ đăng ký trực tuyến?
+      - Thí sinh cần xin xác nhận của ai cho Phiếu ĐKXT theo phương thức xét tuyển kết hợp?
+      - Thí sinh cần chuẩn bị đầy đủ hồ sơ ĐKXT-KH theo yêu cầu như thế nào?
+      - Thí sinh cần nộp hồ sơ ĐKXT-KH bằng cách nào?
+      - Lệ phí xét tuyển phương thức 3 là bao nhiêu đồng/nguyện vọng?
+      - Lệ phí xét tuyển kết hợp là bao nhiêu đồng/nguyện vọng?
+      - Điểm tối thiểu cần đạt trên bài kiểm tra quốc tế SAT để đăng ký xét tuyển phương thức 3 là bao nhiêu?
+      - Điểm tối thiểu cần đạt trên bài kiểm tra quốc tế ACT để đăng ký xét tuyển phương thức 3 là bao nhiêu?
+      - Điểm trung bình chung học tập từ lớp 10 đến lớp 12 cần đạt ít nhất là bao nhiêu để được xét tuyển phương thức 3?
+      - Điểm trung bình học kỳ 1 lớp 12 cần đạt ít nhất là bao nhiêu để được xét tuyển phương thức 3?
+      - Chứng chỉ tiếng Anh quốc tế nào được chấp nhận để đăng ký xét tuyển phương thức 3?
+      - Điểm tối thiểu cần đạt trên bài kiểm tra IELTS để được xét tuyển phương thức 3 là bao nhiêu?
+      - Điểm tối thiểu cần đạt trên bài kiểm tra TOEFL iBT để được xét tuyển phương thức 3 là bao nhiêu?
+      - Điểm tối thiểu cần đạt trên bài kiểm tra TOEFL ITP để được xét tuyển phương thức 3 là bao nhiêu?
+      - Thời hạn hiệu lực của chứng chỉ quốc tế SAT là bao lâu?
+      - Thời hạn hiệu lực của chứng chỉ quốc tế ACT là bao lâu?
+
+  - intent: phuong_thuc_4
+    examples: |
+      - Điều kiện nào thí sinh cần đáp ứng để được xét tuyển theo phương thức 4?
+      - Điểm thi đánh giá năng lực của HSA cần đạt ít nhất bao nhiêu để được xét tuyển theo phương thức 4?
+      - Điểm thi đánh giá năng lực của APT cần đạt ít nhất bao nhiêu để được xét tuyển theo phương thức 4?
+      - Điểm thi đánh giá tư duy của TSA cần đạt ít nhất bao nhiêu để được xét tuyển theo phương thức 4?
+      - Hồ sơ đăng ký xét tuyển theo phương thức 4 dựa vào kết quả nào?
+      - Hồ sơ đăng ký xét tuyển cần có những giấy tờ gì?
+      - Thời gian nào thí sinh cần đăng ký tài khoản xét tuyển trên hệ thống trực tuyến của Học viện?
+      - Thời gian nào thí sinh cần nộp kinh phí xét tuyển trực tuyến?
+      - Thời gian nào thí sinh cần nộp hồ sơ đăng ký xét tuyển theo quy định về Học viện?
+      - Thời gian dự kiến Học viện thông báo thí sinh đủ điều kiện trúng tuyển là khi nào?
+      - Thí sinh cần xác nhận nhập học trực tuyến trên hệ thống trước thời gian nào?
+      - Bước nào thí sinh cần lựa chọn phương thức xét tuyển và khai hồ sơ đăng ký trực tuyến?
+      - Bước nào thí sinh cần xin xác nhận của trường THPT hoặc Công an xã, phường?
+      - Bước nào thí sinh cần chuẩn bị đầy đủ hồ sơ đăng ký xét tuyển?
+      - Bước nào thí sinh cần nộp hồ sơ ĐKXT-KH bằng đường bưu điện?
+      - Lệ phí xét tuyển phương thức 4 là bao nhiêu tiền/nguyện vọng?
+      - Lệ phí xét tuyển tài năng là bao nhiêu tiền/nguyện vọng?
+      - Kết quả bài thi đánh giá năng lực của Đại học quốc gia Hà Nội (HSA) năm 2024 cần đạt ít nhất bao nhiêu điểm để được xét tuyển?
+      - Kết quả bài thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh (APT) năm 2024 cần đạt ít nhất bao nhiêu điểm để được xét tuyển?
+      - Kết quả bài thi đánh giá tư duy của Đại học Bách khoa Hà Nội (TSA) năm 2024 cần đạt ít nhất bao nhiêu điểm để được xét tuyển?
+      - Làm thế nào để đạt điểm cao trong bài thi đánh giá năng lực của Đại học quốc gia Hà Nội?
+      - Bài thi đánh giá tư duy của Đại học Bách khoa Hà Nội (TSA) năm 2024 có những phần nào cần chú ý?
+      - Điểm số cần thiết để đậu bài thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh là bao nhiêu?
+      - Có những phần nào trong bài thi đánh giá năng lực của Đại học quốc gia Hà Nội mà thí sinh cần chuẩn bị kỹ càng?
+      - Làm thế nào để chuẩn bị cho bài thi đánh giá tư duy của Đại học Bách khoa Hà Nội để đạt điểm cao?
+      - Bài thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh (APT) năm 2024 có những phần kiến thức nào cần ôn tập?
+      - Có cần phải học thêm kiến thức ngoài bài thi đánh giá tư duy của Đại học Bách khoa Hà Nội không?
+
+  - intent: phuong_thuc_xet_tuyen
+    examples: |
+      - Đối tượng nào được xác định là đủ điều kiện tham gia xét tuyển theo quy định chung?
+      - Thí sinh cần đáp ứng những điều kiện gì để tham gia xét tuyển theo phương thức xét tuyển tài năng?
+      - Làm thế nào để thí sinh được ưu tiên xét tuyển theo phương thức xét tuyển tài năng?
+      - Thí sinh cần đáp ứng điều kiện gì để xét tuyển dựa vào hồ sơ năng lực?
+      - Thí sinh cần có điều kiện gì để được xét tuyển theo phương thức kết hợp?
+      - Đối với phương thức xét tuyển dựa vào kết quả bài thi đánh giá năng lực, thí sinh cần có điểm thi nào từ Đại học quốc gia Hà Nội?
+      - Thí sinh cần có điểm thi đánh giá tư duy từ Đại học Bách khoa Hà Nội là bao nhiêu để được xét tuyển?
+      - Thời gian nhận hồ sơ đăng ký xét tuyển cho phương thức xét tuyển tài năng kéo dài đến ngày nào?
+      - Làm thế nào để thí sinh đăng ký xét tuyển trực tuyến theo phương thức xét tuyển tài năng?
+      - Thí sinh cần nộp hồ sơ trực tuyến cho phương thức xét tuyển kết hợp trước ngày nào?
+      - Hồ sơ đăng ký xét tuyển bao gồm những giấy tờ cần thiết?
+      - Thí sinh cần nộp bản sao hợp pháp của giấy tờ nào để đăng ký xét tuyển?
+      - Làm thế nào để thí sinh tạo tài khoản sử dụng cho việc đăng ký xét tuyển trực tuyến?
+      - Thí sinh cần nhập thông tin gì vào hồ sơ xét tuyển sau khi đã tạo tài khoản thành công?
+      - Thí sinh cần thực hiện bước nào để khai báo thông tin hồ sơ đăng ký xét tuyển sau khi đã đăng nhập vào hệ thống?
+      - Làm thế nào để thí sinh thêm nguyện vọng xét tuyển trong hồ sơ đăng ký?
+      - Thí sinh có thể thay đổi thứ tự nguyện vọng như thế nào?
+      - Thí sinh cần thực hiện bước nào để rà soát và nộp hồ sơ sau khi đã khai báo thông tin đầy đủ?
+      - Sau khi khóa hồ sơ, thí sinh có thể thực hiện thao tác gì tiếp theo?
+      - Làm thế nào để thí sinh in phiếu đăng ký sau khi đã khóa hồ sơ và rà soát thông tin?
+      - Thí sinh cần thực hiện bước nào để thanh toán lệ phí đăng ký xét tuyển?
+      - Thí sinh có thể thanh toán lệ phí đăng ký xét tuyển bằng cách nào?
+      - Làm thế nào để thí sinh quét mã QR để thanh toán lệ phí xét tuyển?
+      - Thí sinh sử dụng ứng dụng ngân hàng nào để thanh toán lệ phí xét tuyển?
+      - Thí sinh cần nhập mã thanh toán vào đâu nếu sử dụng ngân hàng BIDV để thanh toán?
+      - Thí sinh cần nhập mã thanh toán vào đâu nếu sử dụng ngân hàng khác BIDV để thanh toán?
+      - Làm thế nào để thí sinh kiểm tra thông tin thanh toán lệ phí xét tuyển?
+      - Thí sinh cần thực hiện bước nào để xác nhận thanh toán lệ phí xét tuyển?
+      - Thí sinh cần thực hiện bước nào để thay đổi mật khẩu sau khi đã đăng ký tài khoản thành công?
+      - Làm thế nào để thí sinh chỉnh sửa thông tin cá nhân sau khi đã đăng ký tài khoản?
+      - Thí sinh cần nhập thông tin gì vào hồ sơ xét tuyển sau khi đã đăng ký tài khoản thành công?
+      - Thí sinh cần nhập thông tin gì về trường THPT đang theo học vào hồ sơ xét tuyển?
+      - Làm thế nào để thí sinh thêm nguyện vọng xét tuyển trong hồ sơ đăng ký?
+      - Thí sinh có thể thay đổi thứ tự nguyện vọng như thế nào trong hồ sơ đăng ký?
+      - Thí sinh cần thực hiện bước nào để rà soát thông tin và nộp hồ sơ sau khi đã khai báo đầy đủ thông tin?
+      - Làm thế nào để thí sinh khóa hồ sơ sau khi đã rà soát thông tin?
+      - Thí sinh cần thực hiện bước nào để in phiếu đăng ký sau khi đã khóa hồ sơ?
+      - Thí sinh cần thực hiện bước nào để thanh toán lệ phí xét tuyển sau khi đã khóa hồ sơ?
+      - Làm thế nào để thí sinh quét mã QR trên ứng dụng ngân hàng để thanh toán lệ phí xét tuyển?
+      - Thí sinh cần nhập mã thanh toán vào đâu nếu sử dụng ngân hàng BIDV để thanh toán lệ phí xét tuyển?
+      - Thí sinh cần nhập mã thanh toán vào đâu nếu sử dụng ngân hàng khác BIDV để thanh toán lệ phí xét tuyển?
+      - Làm thế nào để thí sinh kiểm tra thông tin thanh toán lệ phí xét tuyển?
+      - Thí sinh cần thực hiện bước nào để xác nhận thanh toán lệ phí xét tuyển?
+      - Thí sinh cần thực hiện bước nào để thay đổi mật khẩu sau khi đã đăng ký tài khoản thành công?
+      - Làm thế nào để thí sinh chỉnh sửa thông tin cá nhân sau khi đã đăng ký tài khoản?
+      - Thí sinh cần nhập thông tin gì vào hồ sơ xét tuyển sau khi đã đăng ký tài khoản thành công?
+      - Thí sinh cần nhập thông tin gì về trường THPT đang theo học vào hồ sơ xét tuyển?
+      - Làm thế nào để thí sinh thêm nguyện vọng xét tuyển trong hồ sơ đăng ký?
+      - Thí sinh có thể thay đổi thứ tự nguyện vọng như thế nào trong hồ sơ đăng ký?
+      - Thí sinh cần thực hiện bước nào để rà soát và nộp hồ sơ sau khi đã khai báo thông tin đầy đủ?
+      - Công thức tính điểm ưu tiên được áp dụng cho đối tượng nào?
+      - Điểm ưu tiên được tính như thế nào đối với thí sinh đạt tổng điểm từ 22,5 trở lên?
+      - Điểm thưởng được tính như thế nào trong công thức tính điểm ưu tiên?
+      - Tổng điểm đạt được là gì trong công thức tính điểm ưu tiên?
+      - Điểm xét tuyển tài năng được quy đổi theo thang điểm nào?
+      - Thí sinh đạt tổng điểm từ bao nhiêu điểm trở lên được xác định điểm ưu tiên theo công thức xét tuyển tài năng?
+      - Cách tính điểm xét tuyển kết hợp bao gồm những bước nào?
+      - Điểm xét tuyển xét tuyển kết hợp được tính như thế nào?
+      - Điểm bình quân môn được tính như thế nào trong công thức tính điểm xét tuyển xét tuyển kết hợp?
+      - Cách tính điểm xét tuyển đánh giá năng lực, đánh giá tư duy được quy đổi về thang điểm bao nhiêu?
+      - Phương thức xét tuyển nào dựa vào hồ sơ năng lực (HSNL)?
+      - Điểm trung bình chung học tập từ lớp 10 đến lớp 12 cần đạt ít nhất bao nhiêu để được xét tuyển phương thức 3?
+      - Điểm thi đánh giá năng lực của Đại học quốc gia Hà Nội (HSA) năm 2024 cần đạt ít nhất bao nhiêu để được xét tuyển phương thức 1?
+      - Phương thức xét tuyển nào đánh giá năng lực và tư duy của thí sinh?
+      - Điểm thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh (APT) năm 2024 cần đạt ít nhất bao nhiêu để được xét tuyển phương thức 4?
+      - Điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội (TSA) năm 2024 cần đạt ít nhất bao nhiêu để được xét tuyển phương thức 4?
+      - Chứng chỉ quốc tế nào sẽ được cộng điểm ưu tiên vào điểm xét tuyển?
+      - Điểm thi đánh giá năng lực, đánh giá tư duy của HSA, APT, TSA cần đạt ít nhất bao nhiêu để được cộng điểm ưu tiên vào điểm xét tuyển?
+      - Đối tượng nào được xác định là đối tượng dự tuyển theo quy định?
+      - Thí sinh cần đáp ứng điều kiện gì về sức khỏe để được tuyển sinh?
+      - Đối tượng tuyển sinh phương thức 1 áp dụng cho ai?
+      - Thí sinh cần có điều kiện gì để được xét tuyển theo phương thức 1?
+      - Thí sinh phải tham dự kỳ thi nào để được tuyển sinh theo phương thức 2?
+      - Đối tượng tuyển sinh phương thức 3 cần có chứng chỉ quốc tế nào?
+      - Thí sinh cần đạt điểm bao nhiêu trong chứng chỉ tiếng Anh để được tuyển sinh theo phương thức 3?
+      - Đối tượng tuyển sinh phương thức 4 cần đạt điểm thi đánh giá năng lực của Đại học quốc gia Hà Nội từ bao nhiêu điểm trở lên?
+      - Thí sinh cần đạt điểm bao nhiêu trong thi đánh giá tư duy của Đại học Bách khoa Hà Nội để được tuyển sinh theo phương thức 4?
+      - Thí sinh cần có bằng tốt nghiệp trung cấp ngành nghề thuộc nhóm ngành nào để được xác định là đối tượng dự tuyển?
+      - Ngành nào đào tạo tại phía Bắc và yêu cầu tổ hợp xét tuyển A00, A01?
+      - Ngành nào yêu cầu tổ hợp xét tuyển A00, A01 và A01?
+      - Ngành nào yêu cầu tổ hợp xét tuyển A00, A01 và D01?
+      - Ngành nào đào tạo tại phía Nam và yêu cầu tổ hợp xét tuyển A00, A01?
+      - Ngành nào yêu cầu tổ hợp xét tuyển A00, A01 và D01, và đào tạo tại phía Bắc?
+      - Ngành nào yêu cầu tổ hợp xét tuyển A00, A01 và D01, và đào tạo tại phía Nam?
+      - Ngành nào yêu cầu tổ hợp xét tuyển A00, A01 và D01, và là chuẩn quốc tế ACCA?
+      - Ngành nào yêu cầu tổ hợp xét tuyển A00, A01 và D01, và là ngành Công nghệ thông tin_CLC?
+      - Ngành nào yêu cầu tổ hợp xét tuyển A00, A01 và D01, và là ngành Marketing_CLC?
+      - Ngành nào yêu cầu tổ hợp xét tuyển A00, A01 và D01, và là ngành Kế toán_CLC?
+      - Bước nào thí sinh cần thực hiện đầu tiên khi đăng ký xét tuyển bằng chứng chỉ IELTS, TOEFL, SAT, ACT?
+      - Thí sinh cần làm gì sau khi in 02 Phiếu ĐKXT theo phương thức xét tuyển kết hợp?
+      - Hồ sơ ĐKXT-KH cần chuẩn bị đầy đủ theo yêu cầu như thế nào?
+      - Phương thức nào thí sinh cần chọn khi đăng ký xét tuyển bằng giải học sinh giỏi?
+      - Bước nào thí sinh cần thực hiện sau khi in 02 Phiếu ĐKXT dựa vào HSNL?
+      - Hồ sơ ĐKXT dựa vào HSNL cần chuẩn bị đầy đủ theo yêu cầu như thế nào?
+      - Phương thức nào thí sinh cần chọn khi đăng ký xét tuyển bằng đánh giá năng lực, tư duy?
+      - Thí sinh cần làm gì sau khi in 02 Phiếu ĐKXT theo phương thức xét tuyển kết hợp?
+      - Hồ sơ đăng ký xét tuyển đánh giá năng lực, đánh giá tư duy cần chuẩn bị đầy đủ theo yêu cầu như thế nào?
+      - Làm thế nào để nộp hồ sơ ĐKXT-KH bằng đường bưu điện chuyển phát nhanh?
+      - Học sinh nào được ưu tiên xét tuyển theo phương thức 1 - Xét tuyển tài năng dựa vào hồ sơ năng lực?
+      - Điều kiện cần thiết để học sinh có giải nhất cấp tỉnh môn Toán, Lý, Hóa, Tin học được xét tuyển theo phương thức 1 là gì?
+      - Học sinh nào có thể đăng ký xét tuyển phương thức 3 - Xét tuyển kết hợp với chứng chỉ quốc tế SAT từ 1130/1600 trở lên?
+      - Điều kiện cần thiết để học sinh có chứng chỉ IELTS 5.5 được xét tuyển theo phương thức 3 là gì?
+      - Học sinh nào có thể đăng ký xét tuyển phương thức 4 - Xét tuyển đánh giá năng lực, đánh giá tư duy với điểm thi đánh giá tư duy từ 50 điểm trở lên?
+      - Học sinh nào có thể được cộng điểm ưu tiên vào điểm xét tuyển khi có giải và chứng chỉ quốc tế SAT?
+      - Điều kiện cần thiết để học sinh có giải nhất thành phố môn Tin học được xét tuyển theo phương thức 1 là gì?
+      - Học sinh nào có thể đăng ký xét tuyển phương thức 1 - Xét tuyển tài năng dựa vào hồ sơ năng lực và có điểm trung bình chung học tập từ lớp 10 đến lớp 12 đạt từ 7,5 trở lên?
+      - Điều kiện cần thiết để học sinh có giải ba cấp tỉnh môn Lý được xét tuyển theo phương thức 1 là gì?
+      - Học sinh nào có thể đăng ký xét tuyển phương thức 3 - Xét tuyển kết hợp với chứng chỉ TOEFL iBT 65 trở lên?
+      - Bước nào thí sinh cần thực hiện đầu tiên khi đăng ký xét tuyển bằng chứng chỉ IELTS, TOEFL, SAT, ACT?
+      - Thí sinh cần làm gì sau khi in 02 Phiếu ĐKXT theo phương thức xét tuyển kết hợp?
+      - Hồ sơ ĐKXT-KH cần chuẩn bị đầy đủ theo yêu cầu như thế nào?
+      - Phương thức nào thí sinh cần chọn khi đăng ký xét tuyển bằng giải học sinh giỏi?
+      - Bước nào thí sinh cần thực hiện sau khi in 02 Phiếu ĐKXT dựa vào HSNL?
+      - Hồ sơ ĐKXT dựa vào HSNL cần chuẩn bị đầy đủ theo yêu cầu như thế nào?
+      - Phương thức nào thí sinh cần chọn khi đăng ký xét tuyển bằng đánh giá năng lực, tư duy?
+      - Thí sinh cần làm gì sau khi in 02 Phiếu ĐKXT theo phương thức xét tuyển kết hợp?
+      - Hồ sơ đăng ký xét tuyển đánh giá năng lực, đánh giá tư duy cần chuẩn bị đầy đủ theo yêu cầu như thế nào?
+      - Làm thế nào để nộp hồ sơ ĐKXT-KH bằng đường bưu điện chuyển phát nhanh?
+
+  - intent: thoi_gian
+    examples: |
+      - Hệ thống đăng ký xét tuyển trực tuyến của Học viện Công nghệ Bưu chính Viễn thông dành cho đối tượng nào?
+      - Có bao nhiêu phương thức xét tuyển được cung cấp trong hệ thống đăng ký?
+      - Thí sinh cần thực hiện những bước nào khi đăng ký tài khoản trên hệ thống?
+      - Địa chỉ đăng nhập vào hệ thống đăng ký xét tuyển là gì?
+      - Hệ thống đăng ký xét tuyển sẽ mở vào thời gian nào?
+      - Hướng dẫn sử dụng hệ thống đăng ký xét tuyển được cung cấp dưới dạng gì?
+      - Hướng dẫn sử dụng hệ thống đăng ký xét tuyển có bao nhiêu phần?
+      - Thí sinh nào được hướng dẫn đăng ký xét tuyển theo Phương thức Xét tuyển dựa vào hồ sơ năng lực?
+      - Thí sinh cần thực hiện những bước nào khi đăng ký nguyện vọng xét tuyển trên hệ thống?
+      - Hướng dẫn chi tiết về đăng ký xét tuyển được cung cấp dưới dạng file nào?
+      - Thí sinh cần nộp hồ sơ xét tuyển trên hệ thống vào thời gian nào?
+      - Hệ thống đăng ký xét tuyển trực tuyến của Học viện Công nghệ Bưu chính Viễn thông dành cho năm bao nhiêu?
+      - Thí sinh cần khai báo những thông tin nào khi đăng ký tài khoản trên hệ thống?
+      - Hướng dẫn sử dụng hệ thống đăng ký xét tuyển được cung cấp dưới dạng video trên đường link nào?
+      - Thí sinh cần thực hiện những bước nào khi đăng ký khóa trên hệ thống?
+      - Thời gian đăng ký và nhận hồ sơ ĐKXT là bao lâu?
+      - Hình thức đăng ký xét tuyển và nộp hồ sơ là gì?
+      - Cách thức đăng ký xét tuyển trực tuyến là gì?
+      - Thời gian đóng cổng đăng ký xét tuyển là khi nào?
+      - Cách thức công bố kết quả xét tuyển là gì?
+      - Thời gian công bố kết quả xét tuyển dự kiến là khi nào?
+      - Phương thức 1 xét tuyển dựa vào điều gì?
+      - Phương thức 1 ưu tiên xét tuyển theo quy định của ai?
+      - Phương thức 2 xét tuyển dựa vào điều gì?
+      - Phương thức 2 không tổ chức điều gì?
+      - Thời gian xét tuyển phương thức 2 là khi nào?
+      - Cách thức đăng ký xét tuyển phương thức 3, 4 là gì?
+      - Thời gian đóng cổng đăng ký xét tuyển phương thức 3, 4 là khi nào?
+      - Cách thức nộp hồ sơ phương thức 3, 4 là gì?
+      - Thời gian công bố kết quả xét tuyển phương thức 3, 4 là khi nào?
+      - Thời gian nào thí sinh có thể đăng ký tài khoản xét tuyển trên hệ thống trực tuyến của Học viện?
+      - Thí sinh có thể điều chỉnh nguyện vọng xét tuyển trong khoảng thời gian nào?
+      - Làm thế nào để thí sinh nộp kinh phí xét tuyển?
+      - Thí sinh cần thực hiện những bước nào để rà xoát và khóa hồ sơ đăng ký xét tuyển?
+      - Thời gian cuối cùng để thí sinh nộp hồ sơ đăng ký xét tuyển qua đường bưu điện là khi nào?
+      - Học viện dự kiến thông báo thí sinh đủ điều kiện trúng tuyển vào thời gian nào?
+      - Thí sinh đủ điều kiện trúng tuyển cần đăng ký nguyện vọng xét tuyển trên hệ thống của Bộ BD&ĐT vào thời gian nào?
+      - Thí sinh cần xác nhận nhập học trực tuyến trước thời gian nào?
+      - Hồ sơ đăng ký xét tuyển được xác lập là hồ sơ hợp lệ khi nào?
+      - Thí sinh cần thực hiện bao nhiêu lần đăng ký, điều chỉnh nguyện vọng xét tuyển trên hệ thống trực tuyến của Học viện?
+      - Thời gian nào thí sinh có thể bắt đầu đăng ký tài khoản xét tuyển trực tuyến?
+      - Thí sinh có thể điều chỉnh nguyện vọng xét tuyển trong khoảng thời gian nào?
+      - Làm thế nào để thí sinh nộp kinh phí xét tuyển?
+      - Thí sinh có thể rà soát và khóa hồ sơ đăng ký xét tuyển trên hệ thống xét tuyển của Học viện trong khoảng thời gian nào?
+      - Thí sinh cần nộp hồ sơ đăng ký xét tuyển theo quy định về Học viện qua phương tiện nào?
+      - Học viện dự kiến thông báo thí sinh đủ điều kiện trúng tuyển vào thời gian nào?
+      - Thí sinh đủ điều kiện trúng tuyển cần đăng ký nguyện vọng xét tuyển trên hệ thống của Bộ GD&ĐT trong khoảng thời gian nào?
+      - Thí sinh cần xác nhận nhập học trực tuyến trên hệ thống trước thời gian nào?
+      - Để hồ sơ đăng ký xét tuyển được xác lập là hồ sơ hợp lệ, thí sinh cần thực hiện những bước nào?
+      - Thí sinh có thể điều chỉnh nguyện vọng xét tuyển bao nhiêu lần trong thời gian đăng ký?
+      - Thời gian kết thúc đăng ký xét tuyển vào đại học chính quy năm 2024 là khi nào?
+      - Phương thức xét tuyển sớm nào kết thúc đăng ký vào ngày 25/05/2024?
+      - Phương thức xét tuyển sớm nào kết thúc đăng ký vào ngày 30/05/2024?
+      - Thí sinh cần hoàn thành những bước nào sau khi khai báo tài khoản?
+      - Lệ phí xét tuyển có thể thanh toán qua cổng thanh toán trực tuyến của Học viện tại đâu?
+      - Hồ sơ đăng ký xét tuyển được xác lập là hồ sơ hợp lệ khi nào?
+      - Thời gian nộp hồ sơ được tính theo phương tiện nào?
+      - Hồ sơ đăng ký xét tuyển cần được nộp tới đâu?
+      - Để hồ sơ đăng ký xét tuyển được chấp nhận, thí sinh cần thực hiện những điều gì?
+      - File đính kèm trong thông báo chứa thông tin gì?
+      - Thời gian đăng kí và điều chỉnh nguyện vọng cho phương thức xét tuyển tài năng là từ khi đến khi?
+      - Thời gian đăng kí và điều chỉnh nguyện vọng cho phương thức xét tuyển thi THPT là từ khi đến khi?
+      - Phương thức nào cho phép thí sinh đăng ký, điều chỉnh nguyện vọng trên Hệ thống tuyển sinh từ ngày 15/4 đến 26/5/2024?
+      - Phương thức nào yêu cầu thí sinh đánh giá năng lực và tư duy?
+      - Thí sinh có thể điều chỉnh nguyện vọng bao nhiêu lần trên Hệ thống xét tuyển trực tuyến của Học viện?
+      - Phương thức nào cho phép thí sinh đăng ký xét tuyển từ ngày 10/07 đến 25/07/2024?
+      - Thí sinh có thể đăng ký xét tuyển kết hợp từ ngày nào đến ngày nào?
+      - Phương thức nào yêu cầu thí sinh đánh giá tài năng?
+      - Thí sinh có thể đăng ký xét tuyển từ ngày 15/04/2024 đến khi?
+      - Phương thức nào cho phép thí sinh đăng ký xét tuyển không giới hạn số lần?
+      - Thời gian nộp kinh phí xét tuyển phương thức 1 là từ ngày nào đến ngày nào?
+      - Thí sinh nộp kinh phí xét tuyển phương thức 1 có thể làm qua hình thức nào?
+      - Phương thức 2 của việc xét tuyển là gì?
+      - Thời gian nộp kinh phí xét tuyển phương thức 2 là từ ngày nào đến ngày nào?
+      - Phương thức 3 của việc xét tuyển là gì?
+      - Thời gian nộp kinh phí xét tuyển phương thức 3 là từ ngày nào đến ngày nào?
+      - Phương thức 4 của việc xét tuyển là gì?
+      - Thời gian nộp kinh phí xét tuyển phương thức 4 là từ ngày nào đến ngày nào?
+      - Thí sinh có thể nộp kinh phí xét tuyển trực tuyến bằng cách nào?
+      - Có bao nhiêu phương thức xét tuyển được nêu trong thông tin ngữ cảnh?
+      - Thời gian đăng kí và điều chỉnh nguyện vọng cho phương thức xét tuyển tài năng là từ khi đến khi?
+      - Thời gian đăng kí và điều chỉnh nguyện vọng cho phương thức xét tuyển thi THPT là từ khi đến khi?
+      - Phương thức nào cho phép thí sinh đăng ký, điều chỉnh nguyện vọng trên Hệ thống tuyển sinh từ ngày 15/4 đến 26/5/2024?
+      - Phương thức nào yêu cầu thí sinh đánh giá năng lực và tư duy?
+      - Thí sinh có thể điều chỉnh nguyện vọng bao nhiêu lần trên Hệ thống xét tuyển trực tuyến của Học viện?
+      - Phương thức nào cho phép thí sinh đăng ký xét tuyển từ ngày 10/07 đến 25/07/2024?
+      - Thí sinh có thể đăng ký xét tuyển kết hợp từ ngày nào đến ngày nào?
+      - Phương thức nào yêu cầu thí sinh đánh giá tài năng?
+      - Thí sinh có thể đăng ký xét tuyển từ ngày 15/04/2024 đến khi?
+      - Phương thức nào cho phép thí sinh đăng ký xét tuyển không giới hạn số lần?
+      - Thời gian kết thúc đăng ký xét tuyển vào đại học chính quy năm 2024 là khi nào?
+      - Phương thức xét tuyển sớm nào kết thúc đăng ký vào ngày 25/05/2024?
+      - Phương thức xét tuyển sớm nào kết thúc đăng ký vào ngày 30/05/2024?
+      - Thí sinh cần hoàn thành những bước nào sau khi khai báo tài khoản?
+      - Lệ phí xét tuyển có thể thanh toán qua cổng thanh toán trực tuyến của Học viện tại đâu?
+      - Hồ sơ đăng ký xét tuyển được xác lập là hồ sơ hợp lệ khi nào?
+      - Thời gian nộp hồ sơ được tính theo phương tiện nào?
+      - Hồ sơ đăng ký xét tuyển cần được nộp tới đâu?
+      - Để hồ sơ đăng ký xét tuyển được chấp nhận, thí sinh cần thực hiện những điều gì?
+      - File đính kèm trong thông báo chứa thông tin gì?
+
+  - intent: ho_so
+    examples: |
+      - Hồ sơ phương thức 1 dành cho đối tượng nào?
+      - Để xác nhận hồ sơ xét tuyển, thí sinh cần có giấy tờ gì?
+      - Thí sinh cần có xác nhận từ đâu trước khi nộp hồ sơ xét tuyển?
+      - Giấy tờ nào được coi là bắt buộc khi nộp hồ sơ xét tuyển?
+      - Thí sinh cần có bản sao hợp pháp của giấy tờ nào để đăng ký xét tuyển?
+      - Hồ sơ xét tuyển dựa vào hồ sơ năng lực (HSNL) là riêng, độc lập với hồ sơ nào?
+      - Thí sinh cần có giấy tờ gì để chứng minh đã tham gia kỳ thi chọn học sinh giỏi quốc gia?
+      - Thí sinh cần có giấy tờ gì để chứng minh đã đạt giải kỳ thi chọn học sinh giỏi cấp Tỉnh, Thành phố trực thuộc Trung ương?
+      - Thí sinh cần có giấy tờ gì để chứng minh là học sinh chuyên các môn Toán, Lý, Hóa, Tin học của trường THPT chuyên trên phạm vi toàn quốc?
+      - Thí sinh cần có bản sao hợp lệ của học bạ THPT để nộp hồ sơ xét tuyển không?
+      - Thí sinh có thể thay thế học bạ THPT bằng giấy tờ nào trong trường hợp chưa xin được học bạ?
+      - Thí sinh cần có bản sao hợp lệ của giấy tờ gì để nộp hồ sơ xét tuyển?
+      - Hồ sơ xét tuyển dựa vào hồ sơ năng lực (HSNL) có phải là hồ sơ bắt buộc không?
+      - Thí sinh cần có xác nhận từ đâu để chứng minh đã tham gia kỳ thi chọn học sinh giỏi quốc gia?
+      - Thí sinh cần có giấy tờ gì để chứng minh đã đạt giải kỳ thi chọn học sinh giỏi quốc gia?
+      - Hồ sơ phương thức 3 xét tuyển bao gồm những gì?
+      - Phiếu đăng ký xét tuyển cần có xác nhận từ đơn vị nào?
+      - Giấy tờ nào được chấp nhận làm bằng chứng cho chứng chỉ quốc tế SAT hoặc ACT?
+      - Thí sinh cần nộp bản sao hợp pháp của học bạ THPT hay bản xác nhận kết quả học tập các môn học năm lớp 10, lớp 11, lớp 12?
+      - Hồ sơ đăng ký xét tuyển kết hợp có độc lập với hồ sơ đăng ký xét tuyển theo kết quả thi tốt nghiệp THPT không?
+      - Bạn có thể thay thế học bạ THPT bằng giấy tờ nào trong trường hợp chưa xin được học bạ THPT?
+      - Cần bao nhiêu bản sao hợp lệ của CMND/CCCD khi nộp hồ sơ xét tuyển phương thức 3?
+      - Hồ sơ đăng ký xét tuyển kết hợp cần bao nhiêu bản sao các giấy tờ ưu tiên khác (nếu có)?
+      - Thí sinh cần nộp bản sao hợp pháp của chứng chỉ tiếng Anh quốc tế còn trong thời hạn tính đến ngày xét tuyển hay không?
+      - Bản sao hợp lệ của giấy tờ nào cần được nộp khi đăng ký xét tuyển phương thức 3?
+      - Hồ sơ phương thức 4 đánh giá năng lực và tư duy dựa vào điều gì?
+      - Để đăng ký xét tuyển, thí sinh cần có xác nhận từ đâu?
+      - Thí sinh cần nộp bản sao hợp lệ của giấy báo điểm/kết quả thi nào?
+      - Bản sao hợp lệ của CMND/CCCD được yêu cầu trong hồ sơ đăng ký xét tuyển hay không?
+      - Thí sinh cần nộp bản sao của giấy tờ ưu tiên nào (nếu có)?
+      - Hồ sơ đăng ký xét tuyển dựa vào kết quả bài thi nào?
+      - Hồ sơ đăng ký xét tuyển theo kết quả thi tốt nghiệp THPT có phải là độc lập với hồ sơ đánh giá năng lực và tư duy không?
+      - Thí sinh cần có xác nhận từ trường THPT nơi đang học hay từ Công an xã, phường nơi cư trú?
+      - Hồ sơ phương thức 4 đánh giá năng lực và tư duy được áp dụng ở đâu?
+      - Hồ sơ đăng ký xét tuyển dựa vào kết quả bài thi nào là riêng, độc lập?
+      - Thí sinh cần thực hiện những bước nào để hồ sơ xét tuyển được coi là hợp lệ?
+      - Hồ sơ đăng ký xét tuyển được coi là hợp lệ khi nào?
+      - Điều kiện cần thiết để hồ sơ xét tuyển được tính là hợp lệ là gì?
+      - Thí sinh cần làm gì sau khi đã khoá hồ sơ trên hệ thống xét tuyển trực tuyến?
+      - Học viện chấp nhận hồ sơ ĐKXT khi nào?
+      - Thí sinh cần đóng lệ phí xét tuyển như thế nào?
+      - Hồ sơ xét tuyển kết hợp được tính là hợp lệ khi nào?
+      - Thí sinh cần gửi hồ sơ ĐKXT tới đâu?
+      - Học viện sẽ chấp nhận hồ sơ ĐKXT qua phương tiện nào?
+      - Thí sinh cần thực hiện bước nào đầu tiên khi muốn đăng ký xét tuyển?
+      - Hồ sơ xét tuyển vào trường Học viện Công nghệ Bưu chính Viễn thông được nộp ở đâu?
+      - Địa chỉ nộp hồ sơ xét tuyển về Học viện Công nghệ Bưu chính Viễn thông ở Hà Nội là ở đâu?
+      - Cơ sở đào tạo phía Bắc của Học viện Công nghệ Bưu chính Viễn thông có địa chỉ ở đâu?
+      - Phòng đào tạo của trường Học viện Công nghệ Bưu chính Viễn thông ở Hà Nội nằm ở đâu?
+      - Địa chỉ nộp hồ sơ xét tuyển về Học viện Công nghệ Bưu chính Viễn thông ở Tp. Hồ Chí Minh là ở đâu?
+      - Cơ sở đào tạo phía Nam của Học viện Công nghệ Bưu chính Viễn thông có địa chỉ ở đâu?
+      - Phòng đào tạo của trường Học viện Công nghệ Bưu chính Viễn thông ở Tp. Hồ Chí Minh nằm ở đâu?
+      - Học viện Công nghệ Bưu chính Viễn thông có bao nhiêu cơ sở đào tạo?
+      - Địa chỉ chính thức của trường Học viện Công nghệ Bưu chính Viễn thông là gì?
+      - Học viện Công nghệ Bưu chính Viễn thông có trụ sở chính ở đâu?
+
+  - intent: chi_tieu_tuyen_sinh
+    examples: |
+      - Tổng số chỉ tiêu tuyển sinh của Học viện Bưu chính Viễn thông năm 2024 là bao nhiêu?
+      - Có bao nhiêu chỉ tiêu tuyển sinh tại cơ sở phía Bắc của Học viện Bưu chính Viễn thông?
+      - Chỉ tiêu tuyển sinh ngành Kỹ thuật Điện tử viễn thông tại cơ sở phía Nam là bao nhiêu?
+      - Số chỉ tiêu tuyển sinh ngành Kỹ thuật Điều khiển và tự động hóa tại cơ sở phía Bắc là bao nhiêu?
+      - Có bao nhiêu chỉ tiêu tuyển sinh ngành Công nghệ Kỹ thuật Điện-điện tử tại cơ sở phía Nam?
+      - Chỉ tiêu tuyển sinh ngành Công nghệ thông tin tại cơ sở phía Bắc là bao nhiêu?
+      - Số chỉ tiêu tuyển sinh ngành An toàn thông tin tại cơ sở phía Nam là bao nhiêu?
+      - Chỉ tiêu tuyển sinh ngành Khoa học máy tính định hướng Khoa học dữ liệu tại cơ sở phía Bắc là bao nhiêu?
+      - Có bao nhiêu chỉ tiêu tuyển sinh ngành Công nghệ đa phương tiện tại cơ sở phía Nam?
+      - Số chỉ tiêu tuyển sinh ngành Báo chí tại cơ sở phía Bắc là bao nhiêu?
+      - Chỉ tiêu tuyển sinh ngành Quản trị kinh doanh tại cơ sở phía Nam là bao nhiêu?
+      - Có bao nhiêu chỉ tiêu tuyển sinh ngành Thương mại điện tử tại cơ sở phía Bắc?
+      - Số chỉ tiêu tuyển sinh ngành Marketing tại cơ sở phía Nam là bao nhiêu?
+      - Chỉ tiêu tuyển sinh ngành Kế toán tại cơ sở phía Bắc là bao nhiêu?
+      - Số chỉ tiêu tuyển sinh ngành Công nghệ tài chính Fintech tại cơ sở phía Bắc là bao nhiêu?
+      - Chỉ tiêu tuyển sinh ngành Công nghệ Inernet vạn vật tại cơ sở phía Nam là bao nhiêu?
+      - Có bao nhiêu chỉ tiêu tuyển sinh cho Chương trình Liên kết quốc tế ngành Công nghệ thông tin?
+      - Số chỉ tiêu tuyển sinh cho Chương trình Liên kết quốc tế ngành Công nghệ tài chính là bao nhiêu?
+      - Chỉ tiêu tuyển sinh cho Chương trình Liên kết quốc tế ngành Công nghệ đa phương tiện là bao nhiêu?
+
+  - intent: diem_trung_tuyen
+    examples: |
+      - Điểm trúng tuyển vào ngành Công nghệ thông tin tại Cơ sở Phía Nam là bao nhiêu?
+      - Điểm trúng tuyển vào ngành An toàn thông tin tại Cơ sở Phía Bắc là bao nhiêu?
+      - Điểm trúng tuyển vào ngành Khoa học máy tính tại Cơ sở Phía Bắc là bao nhiêu?
+      - Điểm trúng tuyển vào ngành Kỹ thuật Điện tử viễn thông tại Cơ sở Phía Nam là bao nhiêu?
+      - Điểm trúng tuyển vào ngành Kỹ thuật điều khiển và tự động hóa tại Cơ sở Phía Bắc là bao nhiêu?
+      - Điểm trúng tuyển vào ngành Công nghệ kỹ thuật Điện, điện tử tại Cơ sở Phía Nam là bao nhiêu?
+      - Điểm trúng tuyển vào ngành Công nghệ Internet vạn vật tại Cơ sở Phía Nam là bao nhiêu?
+      - Điểm trúng tuyển vào ngành Công nghệ đa phương tiện tại Cơ sở Phía Bắc là bao nhiêu?
+      - Điểm trúng tuyển vào ngành Truyền thông đa phương tiện tại Cơ sở Phía Bắc là bao nhiêu?
+      - Điểm trúng tuyển vào ngành Quản trị kinh doanh tại Cơ sở Phía Nam là bao nhiêu?
+
+  - intent: doi_tuong_uu_tien,_khu_vuc_uu_tien
+    examples: |
+      - Đối tượng nào được ưu tiên theo nhóm 04?
+      - Đối tượng nào được ưu tiên theo nhóm 05?
+      - Đối tượng nào được ưu tiên theo nhóm 06?
+      - Đối tượng nào không thuộc vào danh sách ưu tiên?
+      - Đối tượng nào được ưu tiên theo nhóm 03?
+      - Đối tượng nào được ưu tiên theo nhóm 07?
+      - Đối tượng nào được ưu tiên theo nhóm 01?
+      - Đối tượng nào cần có bằng khen để được ưu tiên?
+      - Đối tượng nào cần có giấy chứng nhận để được ưu tiên?
+      - Đối tượng nào cần có tỷ lệ suy giảm khả năng lao động từ 81% trở lên để được ưu tiên?
+      - Đối tượng nào được cộng 02 điểm theo quy định?
+      - Có bao nhiêu nhóm đối tượng được quy định để cộng điểm ưu tiên?
+      - Đối tượng nào thuộc nhóm 01 được cộng 02 điểm?
+      - Đối tượng nào thuộc nhóm 02 được cộng 01 điểm?
+      - Tại sao các đối tượng thuộc nhóm 01 được cộng điểm nhiều hơn so với nhóm 02?
+      - Nêu cách tính điểm cộng ưu tiên cho đối tượng thuộc nhóm 01?
+      - Nêu cách tính điểm cộng ưu tiên cho đối tượng thuộc nhóm 02?
+      - Tại sao quy định cộng điểm ưu tiên cho các đối tượng khác nhau?
+      - Đối tượng nào không được cộng điểm ưu tiên theo quy định?
+      - Tại sao quy định cộng điểm ưu tiên lại quan trọng trong quá trình tuyển sinh?
+
+  - intent: hoc_phi
+    examples: |
+      - Học phí trung bình của chương trình đại học chất lượng cao là bao nhiêu?
+      - Học phí của chương trình Cử nhân Công nghệ thông tin định hướng ứng dụng là bao nhiêu?
+      - Học phí trung bình của chương trình liên kết quốc tế là bao nhiêu?
+      - Theo Nghị định 81/NĐ-CP của Chính phủ, tỷ lệ tăng học phí tối đa mỗi năm không vượt quá bao nhiêu phần trăm?
+      - Học phí của ngành Công nghệ thông tin định hướng ứng dụng tính theo tín chỉ là bao nhiêu?
+      - Học phí của ngành Khoa học máy tính tính theo tín chỉ là bao nhiêu?
+      - Học phí của ngành An toàn thông tin tính theo tín chỉ là bao nhiêu?
+      - Học phí của ngành Truyền thông đa phương tiện tính theo tín chỉ là bao nhiêu?
+      - Học phí của ngành Marketing tính theo tín chỉ là bao nhiêu?
+      - Học phí của ngành Quản trị kinh doanh tính theo tín chỉ là bao nhiêu?
+      - Học phí của ngành Kế toán tính theo tín chỉ là bao nhiêu?
+      - Học phí của ngành Công nghệ thông tin hệ chất lượng cao tính theo tín chỉ là bao nhiêu?
+      - Học phí của ngành Kỹ thuật Điều khiển và Tự động hóa tính theo tín chỉ là bao nhiêu?
+      - Học phí của ngành Công nghệ tài chính- Fintech tính theo tín chỉ là bao nhiêu?
+      - Học phí của ngành Báo chí tính theo tín chỉ là bao nhiêu?
+
+  - intent: chinh_sach_ho_tro,_uu_tien
+    examples: |
+
+  - intent: hoc_bong
+    examples: |
+      - Học viện Công nghệ Bưu chính Viễn thông cấp bao nhiêu suất học bổng đặc biệt vào năm 2024?
+      - Giá trị mỗi suất học bổng đặc biệt là bao nhiêu tiền?
+      - Đối tượng xét cấp học bổng đặc biệt là ai?
+      - Điểm trung bình chung tích lũy năm học liên tục phải đạt từ loại nào để được nhận học bổng đặc biệt?
+      - Học viện Công nghệ Bưu chính Viễn thông cấp bao nhiêu suất học bổng toàn phần vào năm 2024?
+      - Giá trị học bổng toàn phần là bao nhiêu tiền?
+      - Đối tượng nhận học bổng toàn phần là ai?
+      - Điểm trung bình chung tích lũy năm học liên tục phải đạt từ loại nào để được nhận học bổng toàn phần?
+      - Học viện Công nghệ Bưu chính Viễn thông cấp bao nhiêu suất học bổng miễn 100% học phí trong năm học thứ nhất?
+      - Đối tượng nhận học bổng miễn 100% học phí là ai?
+      - Học viện Công nghệ Bưu chính Viễn thông cấp bao nhiêu suất học bổng miễn 50% học phí trong năm học thứ nhất?
+      - Đối tượng nhận học bổng miễn 50% học phí là ai?
+      - Các doanh nghiệp nào cung cấp xuất học bổng cho sinh viên của Học viện Công nghệ Bưu chính Viễn thông?
+      - Thí sinh chỉ được nhận một loại học bổng nào trong chính sách học bổng?
+      - Quy trình xét cấp học bổng được thực hiện như thế nào?
+
+  - intent: co_hoi_viec_lam
+    examples: |
+      - Tỉ lệ sinh viên tốt nghiệp có việc làm cao nhất ở cơ sở đào tạo phía Bắc là ngành nghề gì?
+      - Tỉ lệ sinh viên tốt nghiệp có việc làm thấp nhất ở cơ sở đào tạo phía Nam là ngành nghề gì?
+      - Ngành nghề nào có tỉ lệ sinh viên tốt nghiệp có việc làm cao nhất ở cả hai cơ sở đào tạo?
+      - Ngành nghề nào có tỉ lệ sinh viên tốt nghiệp có việc làm thấp nhất ở cả hai cơ sở đào tạo?
+      - Tại cơ sở đào tạo phía Bắc, ngành nghề nào có tỉ lệ sinh viên tốt nghiệp có việc làm thấp nhất?
+      - Tại cơ sở đào tạo phía Nam, ngành nghề nào có tỉ lệ sinh viên tốt nghiệp có việc làm cao nhất?
+      - Tỉ lệ sinh viên tốt nghiệp có việc làm ở cả hai cơ sở đào tạo là bao nhiêu phần trăm?
+      - Ngành nghề nào có sự chênh lệch lớn nhất về tỉ lệ sinh viên tốt nghiệp có việc làm giữa cơ sở đào tạo phía Bắc và phía Nam?
+      - Tại cơ sở đào tạo phía Bắc, ngành nghề nào có tỉ lệ sinh viên tốt nghiệp có việc làm gần bằng 90%?
+      - Tại cơ sở đào tạo phía Nam, ngành nghề nào có tỉ lệ sinh viên tốt nghiệp có việc làm dưới 85%?
+
+  - intent: hop_tac_doi_ngoai
+    examples: |
+      - Doanh nghiệp nào hợp tác với Học viện Công nghệ Shibaura (Nhật Bản) từ năm 2017 đến năm 2028?
+      - Thời gian hợp tác giữa doanh nghiệp và Viện JAIST Nhật Bản là bao lâu?
+      - Đại học nào hợp tác với doanh nghiệp từ năm 2020 đến năm 2025?
+      - Doanh nghiệp hợp tác với Đại học Busan (Hàn Quốc) trong khoảng thời gian nào?
+      - Hiệp hội nào hợp tác với doanh nghiệp từ năm 2018 đến năm 2026?
+      - Doanh nghiệp hợp tác với Đại học La Trobe (Úc) từ năm nào đến năm nào?
+      - Đại học nào hợp tác với doanh nghiệp từ năm 2020 đến năm 2025?
+      - Doanh nghiệp hợp tác với Trung tâm Phát triển Tin học Nâng cao (CDAC- Ấn Độ) trong khoảng thời gian nào?
+      - Viện nào hợp tác với doanh nghiệp từ năm 2021 đến năm 2026?
+      - Tập đoàn nào hợp tác với doanh nghiệp từ năm 2021 đến năm 2024?
+
+  - intent: cach_thuc_xet_tuyen_cac_phuong_thuc
+    examples: |
+      - Thí sinh cần đạt điểm trung bình chung học tập từ bao nhiêu điểm trở lên để được xét tuyển theo phương thức xét tuyển tài năng?
+      - Thí sinh cần có hạnh kiểm như thế nào để được xét tuyển theo phương thức xét tuyển tài năng?
+      - Điểm thi đánh giá năng lực của Đại học quốc gia Hà Nội năm 2024 cần đạt ít nhất bao nhiêu điểm để đảm bảo chất lượng đầu vào?
+      - Thí sinh cần đạt điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội năm 2024 từ bao nhiêu điểm trở lên để được xét tuyển?
+      - Phương thức xét tuyển dựa vào kết quả thi tốt nghiệp THPT sẽ thông báo kết quả sau bao lâu?
+      - Thí sinh cần đạt điểm thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh năm 2024 từ bao nhiêu điểm trở lên để đảm bảo chất lượng đầu vào?
+      - Có bao nhiêu phương thức xét tuyển được nêu trong thông tin ngữ cảnh?
+      - Thí sinh cần đạt điểm trung bình chung học tập từ lớp nào đến lớp nào để được xét tuyển theo phương thức xét tuyển kết hợp?
+      - Ngưỡng đảm bảo chất lượng đầu vào đối với phương thức xét tuyển dựa vào kết quả bài thi đánh giá năng lực là bao nhiêu điểm?
+      - Thí sinh cần có điểm trung bình chung học tập từ bao nhiêu điểm trở lên để được xét tuyển theo phương thức xét tuyển kết hợp?
+      - Phương thức tuyển sinh nào được Học viện Công nghệ Bưu chính Viễn thông sử dụng trong năm 2024?
+      - Thí sinh nào được ưu tiên xét tuyển theo phương thức 1?
+      - Điều kiện để thí sinh được xét tuyển dựa vào hồ sơ năng lực là gì?
+      - Phương thức 2 của Học viện Công nghệ Bưu chính Viễn thông dựa vào tiêu chí gì để xét tuyển?
+      - Thí sinh cần đáp ứng điều kiện gì để được xét tuyển theo phương thức 3?
+      - Phương thức 4 của Học viện Công nghệ Bưu chính Viễn thông dựa vào kết quả của những kỳ thi nào?
+      - Thí sinh nào được ưu tiên xét tuyển theo phương thức 4?
+      - Điều kiện cụ thể để thí sinh được xét tuyển kết hợp là gì?
+      - Thời gian đoạt giải trong kỳ thi chọn học sinh giỏi THPT cấp quốc gia không được vượt quá bao nhiêu năm để được xét tuyển dựa vào hồ sơ năng lực?
+      - Có bao nhiêu phương thức tuyển sinh được sử dụng bởi Học viện Công nghệ Bưu chính Viễn thông trong năm 2024?
+
+  - intent: giai_hoc_sinh_gioi
+    examples: |
+      - Điều kiện nào cần phải đạt để được xét tuyển theo phương thức 1 - Xét tuyển tài năng?
+      - Ai có thể đăng ký xét tuyển theo phương thức hồ sơ năng lực?
+      - Điểm trung bình chung học tập cần đạt từ bao nhiêu trở lên để được xét tuyển theo phương thức 1?
+      - Hạnh kiểm cần đạt để được xét tuyển theo phương thức 1 là gì?
+      - Ai có thể đăng ký xét tuyển theo phương thức 1 nếu đã có giải từ khuyến khích quốc gia trở lên?
+      - Điểm trung bình chung học tập cần đạt từ bao nhiêu trở lên để được xét tuyển theo phương thức hồ sơ năng lực?
+      - Có bao nhiêu môn được xét tuyển theo phương thức 1?
+      - Học sinh đã tham gia kỳ thi chọn học sinh giỏi quốc gia có thể đăng ký xét tuyển theo phương thức nào?
+      - Điều kiện nào cần phải đạt để được xét tuyển theo phương thức hồ sơ năng lực?
+      - Học sinh đã có giải nhất cấp tỉnh môn nào có thể đăng ký xét tuyển theo phương thức 1?
+      - Thí sinh nào có giải học sinh giỏi cấp tỉnh/thành phố trung ương sẽ được cộng điểm thành tích khi xét tuyển theo phương thức nào?
+      - Điều kiện để thí sinh được cộng điểm thành tích khi xét tuyển theo phương thức 1 là gì?
+      - Thí sinh có giải khuyến khích học sinh giỏi quốc gia sẽ được cộng bao nhiêu điểm thành tích khi xét tuyển theo phương thức 3?
+      - Học sinh chuyên không có giải sẽ được cộng bao nhiêu điểm thành tích khi xét tuyển?
+      - Thí sinh cần thực hiện bước nào đầu tiên khi đăng ký xét tuyển bằng giải học sinh giỏi?
+      - Thí sinh cần chuẩn bị những gì khi nộp hồ sơ đăng ký xét tuyển bằng giải học sinh giỏi?
+      - Thí sinh có giải nhất học sinh giỏi cấp tỉnh/thành phố trung ương sẽ được cộng điểm thành tích khi xét tuyển theo phương thức nào?
+      - Thí sinh có giải ba học sinh giỏi cấp tỉnh/thành phố trung ương sẽ được cộng bao nhiêu điểm thành tích khi xét tuyển theo phương thức 4?
+      - Thí sinh cần làm gì sau khi in Phiếu ĐKXT dựa vào HSNL?
+      - Thí sinh có giải khuyến khích học sinh giỏi cấp tỉnh/thành phố trung ương sẽ được cộng bao nhiêu điểm thành tích khi xét tuyển theo phương thức 1?
+
+  - intent: xet_hoc_ba
+    examples: |
+      - Thí sinh cần đáp ứng những điều kiện nào để được xét tuyển theo phương thức 1?
+      - Thí sinh cần đạt giải Khuyến khích trong kỳ thi nào để được xét tuyển theo phương thức 1?
+      - Thí sinh cần có kết quả điểm trung bình chung học tập đạt bao nhiêu để được xét tuyển theo phương thức 1?
+      - Thí sinh cần là học sinh chuyên các môn nào để được xét tuyển theo phương thức 1?
+      - Thí sinh cần có hạnh kiểm nào để được xét tuyển theo phương thức 1?
+      - Thí sinh cần đáp ứng những điều kiện nào để được xét tuyển theo phương thức 3?
+      - Thí sinh cần có Chứng chỉ quốc tế nào để được xét tuyển theo phương thức 3?
+      - Thí sinh cần đạt điểm SAT bao nhiêu để được xét tuyển theo phương thức 3?
+      - Thí sinh cần có Chứng chỉ tiếng Anh quốc tế nào để được xét tuyển theo phương thức 3?
+      - Thí sinh cần có điểm IELTS bao nhiêu để được xét tuyển theo phương thức 3?
+
+  - intent: khac
+    examples: |
+      - FTU là viết tắt của Trường Đại học Ngoại thương ở đâu?
+      - FTU có nghĩa là gì trong tiếng Việt?
+      - FTU là viết tắt của Foreign Trade University bằng tiếng nước nào?
+      - FTU là trường đại học chuyên ngành gì?
+      - FTU có chương trình đào tạo nào nổi tiếng?
+      - FTU được thành lập vào năm nào?
+      - FTU có bao nhiêu cơ sở đào tạo?
+      - FTU có hệ đào tạo nào dành cho sinh viên quốc tế?
+      - FTU có mấy ngành đào tạo chính?
+      - FTU có mối quan hệ hợp tác với các trường đại học nước ngoài không?
+      - FTU có chương trình học bổng nào dành cho sinh viên?
+      - FTU có cơ sở vật chất hiện đại không?
+      - FTU có mối quan hệ hợp tác với doanh nghiệp nào?
+      - FTU có chương trình học phí ưu đãi cho sinh viên nghèo không?
+      - FTU có chương trình học tập đổi ngôi trường không?
+      - FTU có chương trình học tập thực tế không?
+      - FTU có chương trình học tập trực tuyến không?
+      - FTU có chương trình học tập ngoại khóa không?
+      - FTU có chương trình học tập nước ngoài không?
+      - FTU có chương trình học tập tiếng Anh không?
+      - FTU có chương trình học tập tiếng Trung không?
+      - FTU có chương trình học tập tiếng Nhật không?
+      - FTU có chương trình học tập tiếng Pháp không?
+      - FTU có chương trình học tập tiếng Đức không?
+      - FTU có chương trình học tập tiếng Hàn không?
+      - FTU có chương trình học tập tiếng Tây Ban Nha không?
+      - FTU có chương trình học tập tiếng Bồ Đào Nha không?
+      - FTU có chương trình học tập tiếng Ý không?
+      - FTU có chương trình học tập tiếng Nga không?
+      - FTU có chương trình học tập tiếng Ả Rập không?
+      - FTU có chương trình học tập tiếng Thái Lan không?
+      - FTU có chương trình học tập tiếng Indonesia không?
+      - FTU có chương trình học tập tiếng Malaysia không?
+      - FTU có chương trình học tập tiếng Singapore không?
+      - FTU có chương trình học tập tiếng Philippines không?
+      - FTU có chương trình học tập tiếng Úc không?
+      - FTU có chương trình học tập tiếng New Zealand không?
+      - FTU có chương trình học tập tiếng Canada không?
+      - FTU có chương trình học tập tiếng Mỹ không?
+      - FTU có chương trình học tập tiếng Anh không?
+      - FTU có chương trình học tập tiếng Pháp không?
+      - FTU có chương trình học tập tiếng Tây Ban Nha không?
+      - FTU có chương trình học tập tiếng Đức không?
+      - FTU có chương trình học tập tiếng Nga không?
+      - FTU có chương trình học tập tiếng Trung không?
+      - FTU có chương trình học tập tiếng Nhật không?
+      - FTU có chương trình học tập tiếng Hàn không?
+      - FTU có chương trình học tập tiếng Ý không?
+      - FTU có chương trình học tập tiếng Bồ Đào Nha không?
+      - FTU có chương trình học tập tiếng Ả Rập không?
+      - HaUI là viết tắt của Trường Đại học Công nghiệp nào tại Hà Nội?
+      - Hanoi University of Industry được viết tắt như thế nào?
+      - Trường Đại học Công nghiệp Hà Nội còn được gọi là gì?
+      - HaUI là viết tắt của trường đại học nào tại Hà Nội?
+      - Hanoi University of Industry có viết tắt là gì?
+      - Trường Đại học Công nghiệp Hà Nội được viết tắt như thế nào?
+      - HaUI là viết tắt của trường đại học nào tại thủ đô Hà Nội?
+      - Hanoi University of Industry được viết tắt như thế nào trong tiếng Anh?
+      - Trường Đại học Công nghiệp Hà Nội còn được gọi là gì trong tiếng Anh?
+      - HaUI là viết tắt của trường đại học nào tại Hà Nội trong tiếng Anh?
+      - HCMUS là viết tắt của Trường Đại học Khoa học Tự nhiên ở đâu?
+      - HCMUS viết tắt của Ho Chi Minh City University of Science có nghĩa là gì?
+      - HCMUS là trường đại học nào tại Việt Nam?
+      - HCMUS chuyên đào tạo ngành học gì?
+      - HCMUS có trụ sở chính tại thành phố nào?
+      - HCMUS được thành lập vào năm nào?
+      - HCMUS có bao nhiêu khoa học?
+      - HCMUS có bao nhiêu sinh viên hiện nay?
+      - HCMUS có chương trình học bằng tiếng Anh không?
+      - HCMUS có cung cấp học bổng cho sinh viên không?
+      - HCMUS có hợp tác với các trường đại học nước ngoài không?
+      - HCMUS có chương trình học liên kết với các doanh nghiệp không?
+      - HCMUS có cung cấp chương trình học online không?
+      - HCMUS có trang web chính thức là gì?
+      - HCMUS có cung cấp chương trình học sau đại học không?
+      - HCMUS có cung cấp chương trình học đào tạo sau đại học không?
+      - HCMUS có cung cấp chương trình học thạc sĩ không?
+      - HCMUS có cung cấp chương trình học tiến sĩ không?
+      - HCMUS có cung cấp chương trình học ngắn hạn không?
+      - HCMUS có cung cấp chương trình học dài hạn không?
+      - HCMUS có cung cấp chương trình học chất lượng cao không?
+      - HCMUS có cung cấp chương trình học chuyên sâu không?
+      - HCMUS có cung cấp chương trình học đa ngành không?
+      - HCMUS có cung cấp chương trình học đa cấp không?
+      - HCMUS có cung cấp chương trình học đa dạng không?
+      - Đại học Bách khoa Hà Nội viết tắt là gì?
+      - HUST là viết tắt của trường đại học nào tại Hà Nội?
+      - Hanoi University of Science and Technology viết tắt là gì?
+      - hust là viết tắt của trường đại học nào tại Hà Nội?
+      - Đại học Bách khoa Hà Nội có tên viết tắt gì?
+      - HUST là viết tắt của trường đại học nào ở Hà Nội?
+      - hust là viết tắt của trường đại học nào tại Việt Nam?
+      - Đại học Bách khoa Hà Nội có tên gọi viết tắt là gì?
+      - Hanoi University of Science and Technology được viết tắt như thế nào?
+      - hust là viết tắt của trường đại học nào tại thủ đô Hà Nội?
+      - Neu là viết tắt của Trường Đại học Kinh tế Quốc dân ở đâu?
+      - NEU là viết tắt của Trường Đại học Kinh tế Quốc dân ở đâu?
+      - Neu là viết tắt của Trường Đại học Kinh tế Quốc dân có nghĩa là gì?
+      - NEU là viết tắt của Trường Đại học Kinh tế Quốc dân có nghĩa là gì?
+      - Trường Đại học Kinh tế Quốc dân được viết tắt như thế nào?
+      - NEU là viết tắt của trường đại học nào?
+      - Neu là viết tắt của trường đại học nào?
+      - National Economics University viết tắt là gì?
+      - NEU là viết tắt của trường đại học nào?
+      - Neu là viết tắt của trường đại học nào?
+      - UDU là viết tắt của ngành Cử nhân Công nghệ thông tin (định hướng ứng dụng) có nghĩa là gì?
+      - Udu là viết tắt của ngành Cử nhân Công nghệ thông tin (định hướng ứng dụng) đào tạo những kiến thức nào?
+      - Udu là viết tắt của ngành Cử nhân Công nghệ thông tin (định hướng ứng dụng) có liên quan đến lĩnh vực nào?
+      - Udu là viết tắt của ngành Cử nhân Công nghệ thông tin (định hướng ứng dụng) phù hợp với những sinh viên nào?
+      - Udu là viết tắt của ngành Cử nhân Công nghệ thông tin (định hướng ứng dụng) có cơ hội nghề nghiệp tốt không?
+      - Udu là viết tắt của ngành Cử nhân Công nghệ thông tin (định hướng ứng dụng) có những môn học chính nào?
+      - Udu là viết tắt của ngành Cử nhân Công nghệ thông tin (định hướng ứng dụng) cần những kỹ năng gì để thành công?
+      - Udu là viết tắt của ngành Cử nhân Công nghệ thông tin (định hướng ứng dụng) có thể làm việc ở đâu sau khi tốt nghiệp?
+      - Udu là viết tắt của ngành Cử nhân Công nghệ thông tin (định hướng ứng dụng) có những ưu điểm gì so với các ngành khác?
+      - Udu là viết tắt của ngành Cử nhân Công nghệ thông tin (định hướng ứng dụng) cần những kiến thức cơ bản nào?
+      - UET là viết tắt của Trường Đại học Công nghệ nào?
+      - Trường Đại học Công nghệ có tên đầy đủ là gì?
+      - VNU-UET là viết tắt của gì?
+      - UET là viết tắt của Trường Đại học nào?
+      - Trường Đại học Công nghệ thuộc hệ thống giáo dục nào?
+      - UET là viết tắt của trường đại học nào thuộc VNU?
+      - Trường Đại học Công nghệ có trụ sở ở đâu?
+      - VNU-UET là viết tắt của trường đại học nào?
+      - UET là viết tắt của trường đại học nào thuộc VNU?
+      - Trường Đại học Công nghệ có chuyên ngành đào tạo gì?

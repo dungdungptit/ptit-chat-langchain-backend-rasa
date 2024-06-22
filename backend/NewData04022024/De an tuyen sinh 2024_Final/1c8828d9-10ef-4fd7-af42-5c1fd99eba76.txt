@@ -1,0 +1,7 @@
+Cách tính điểm ưu tiên
+
+Điểm ưu tiên, Điểm thưởng (ưu tiên đối tượng và khu vực, điểm thưởng) gọi chung là Điểm ưu tiên đối với thí sinh đạt tổng điểm từ 22,5 trở lên (khi quy đổi về điểm theo thang 10 và tổng điểm 3 môn tối đa là 30) được xác định theo công thức tính điểm ưu tiên sau:
+
+Điểm ưu tiên = [(30 – Tổng điểm đạt được(*))/7,5] x [Mức điểm ưu tiên theo quy định + Điểm thưởng]
+
+(*) Tổng điểm đạt được là điểm xét tuyển (không gồm điểm ưu tiên) tương ứng với từng phương thức xét tuyển (là kết quả thi tốt nghiệp THPT đối với PTXT dựa vào kết quả thi tốt nghiệp THPT hoặc kết quả học tập THPT đối với PTXT kết hợp hoặc kết quả đánh giá năng lực, đánh giá tư duy sau quy đổi về thang điểm 30 đối với PTXT dựa vào kết quả bài thi đánh giá năng lực, đánh giá tư duy).

@@ -1,0 +1,77 @@
+Chương trình đào tạo trình độ thạc sĩ chuyên ngành Kỹ thuật viễn thông  
+
+(Quyết định số 982/QĐ-HV ngày 29/10/2021 của Giám đốc Học viện về việc hiệu chỉnh chương trình khung đào tạo trình độ tiến sĩ các chuyên ngành ) 
+
+1. MỤC TIÊU, KIẾN THỨC, KỸ NĂNG, TRÌNH ĐỘ NGOẠI NGỮ ĐẠT ĐƯỢC  
+
+1.1 Mục tiêu  
+
+Mục tiêu chung
+
+Chương trình đào tạo thạc sĩ chuyên ngành Kỹ thuật Viễn thông nhằm phát triển nguồn nhân lực có trình độ cao, có nền tảng mạnh về khoa học và công nghệ liên quan, có khả năng tự nghiên cứu trong tương lai, đóng góp cho sự phát triển quốc gia và kinh tế toàn cầu. 
+
+Mục tiêu cụ thể  
+
+  + Học viên được phát triển kiến thức chuyên sâu và kỹ năng cần có trong lĩnh vực Kỹ thuật Điện tử Truyền thông nói chung và chuyên ngành Kỹ thuật Viễn thông nói riêng.  
+
+  + Học viên được phát triển sự hiểu biết và khả năng áp dụng công nghệ mới vào thực tiễn của Kỹ thuật Viễn thông.  
+
+  + Học viên được cung cấp những hiểu biết về vai trò và các tương tác giữa Kỹ thuật Viễn thông với xã hội, kinh doanh, công nghệ và môi trường.  
+
+  + Học viên được hướng dẫn cách tiếp cận, thực hiện và hoàn thiện báo cáo nghiên cứu khoa học.  
+
+1.2 Kiến thức  
+
+Kiến thức chung gồm  
+
+- Hiểu và vận dụng được hệ thống tri thức khoa h ọc, những nguyên lý cơ bản của chủ nghĩa Mác-Lê Nin, những kiến thức cơ bản, có tính hệ thống về tư tưởng, đạo đức, giá trị văn hóa Hồ Chí Minh, những nội dung cơ bản của Đường lối cách mạng của Đảng Cộng sản Việt Nam, chủ yếu là đường lối trong thời kỳ đổi mới trên một số lĩnh vực cơ bản của đời sống xã hội. 
+
+- Tiếng Anh đạt trình độ tương đương Bậc 4 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.  
+
+- Hiểu và sử dụng thành thạo một số phương pháp nghiên cứu khoa học, mô hình toán học, công cụ mô phỏng phục vụ cho việc học tập các môn học khác và nghiên cứu khoa học. 
+
+Kiến thức ngành và chuyên ngành
+
+- Có các khả năng phát hiện, đánh gi á phân t ích và giải quyết vấn đề.  
+
+- Hiểu, vận dụng và có khả năng trình bày các kiến thức nâng cao v à chuyên sâu về các lĩnh vực cụ thể của ngành Điện tử - Truyền thông.  
+
+- Hiểu và vận dụng thành thạo một số kiến thức chuyên ngành nâng cao về Kỹ thuật Viễn thông nhằm phục vụ cho các nghiên cứu trong luận văn tốt nghiệp và làm chủ các công nghệ mới trong lĩnh vực chuyên ngành, cụ thể là:  
+
++ Công nghệ mạng viễn thông thế hệ mới;  
+
++ Thông tin vô tuyến và di động;  
+
++ Truyền thông quang ; 
+
++ Truyền thông  đa phương tiện;  
+
++ Thiết kế và quy hoạch mạng;  
+
++ Vấn đề an toàn và bảo mật thông tin.  
+
+Yêu cầu đối với luận văn tốt nghiệp
+
+Luận văn là một báo cáo khoa học, tổng hợp các kết quả nghiên cứu chính của học viên, đáp ứng các yêu cầu sau:  
+
+- Có đóng góp về  lý luận, học thuật hoặc phát triển công nghệ, đổi mới sáng tạo; thể hiện năng lực nghiên cứu của học viên;  
+
+- Phù hợp với các chuẩn mực về văn hóa, đạo đức và thuần phong mỹ tục của người Việt Nam;  
+
+- Tuân thủ quy định của Học viện  về liêm chính học thuật và các quy định hiện hành của pháp luật về sở hữu trí tuệ.  
+
+Yêu cầu đối với đề án tốt nghiệp 
+
+Báo cáo đề án là một bản thuyết minh quá trình xây dựng, triển khai và kết quả triển khai đề án, đáp ứng các yêu cầu sau:  
+
+- Đề xuất và kiểm nghiệm được mô hình, giải pháp mới để giải quyết hiệu quả những thách thức trong thực tiễn; thể hiện năng lực ứng dụng khoa học, công nghệ và giải quyết vấn đề của học viên;  
+
+- Phù hợp với các chuẩn mực về văn hóa, đạo đức và thuần phong mỹ tục của người Việt Nam;  
+
+- Tuân thủ quy định của  Học viện  về liêm chính học thuật và các quy định hiện hành của pháp luật về sở hữu trí tuệ . 
+
+1.3. Kỹ năng  
+
+Kỹ năng nghề nghiệp 
+
+- Biết sử dụng các công cụ tin học hỗ trợ trong công việc; biết tìm kiếm, cập nhật, tổng hợp, khai thác thông tin; biết tối ưu hóa phương pháp triển khai công việc.
