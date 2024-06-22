@@ -1,7 +1,0 @@
-b. Chuyên ngành Xử lý tín hiệu truyền thông  
-
-Nắm vững kiến thức tổng thể về một hệ thống điện tử hiện đại; các quá trình biến đổi và xử lý tín hiệu trong hệ thống thông tin số; các kỹ thuật sử dụng trong truyền thông số hiện đại;  
-
-Thu thập và  xử lý dữ liệu, sử dụng thành thạo các thuật toán và công cụ xử lý tín hiệu tương tự và số. Nắm được các thuật toán về nén dữ liệu và các thuật toán bảo mật;  
-
-Nắm vững các kiến thức về xử lý tín hiệu số, ứng dụng các thuật toán và các chip xử lý tín hiệu số  chuyên dụng vào các bài toán thực tế như: Xử lý ảnh, Xử lý âm thanh, Xử lý tín hiệu trong các hệ thống truyền thông và các ứng dụng liên quan đến xử lý tín hiệu khác …

@@ -1,5 +1,0 @@
-Thời gian nộp kinh phí xét tuyển
-- Phương thức 1 - xét tuyển tài năng từ ngày 15/04/2024 đến 0h00 ngày 21/05/2024 thí sinh nộp kinh phí xét tuyển (trực tuyến bằng mã định danh hoặc QR)
-- Phương thức 2 - xét tuyển thi THPT từ ngày 28/07/2024 đến 17h00 ngày 03/08/2024 thí sinh nộp kinh phí xét tuyển trực tuyến
-- Phương thức 3 - xét tuyển kết hợp từ ngày 15/4 đến 0h00 ngày 26/5/2024, thí sinh nộp kinh phí xét tuyển (trực tuyến bằng mã định danh hoặc mã QR).
-- Phương thức 4 - xét tuyển đánh giá năng lực, đánh giá tư duy từ ngày 15/4 đến 0h00 ngày 26/5/2024, thí sinh nộp kinh phí xét tuyển (trực tuyến bằng mã định danh hoặc mã QR).

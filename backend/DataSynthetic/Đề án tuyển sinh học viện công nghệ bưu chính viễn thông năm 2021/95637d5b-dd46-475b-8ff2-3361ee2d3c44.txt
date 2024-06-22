@@ -1,3 +1,0 @@
-4. Phân loại và xếp lớp học tiếng Anh
-
-Sau khi nhập học, Học viện sẽ tổ chức kỳ kiểm tra phân loại đầu vào tiếng Anh để tiến hành xếp lớp theo trình độ tiếng Anh cho sinh viên nhằm đảm bảo sinh viên sau khi hoàn thành chương trình đào tạo tiếng Anh sẽ đạt được chuẩn đầu ra tiếng Anh là TOEIC 450 điểm quốc tế.

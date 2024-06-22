@@ -1,5 +1,0 @@
-2.1 Mục tiêu chung (Goals)  
-
-Chương trình đào tạo chất lượng cao ngành Công nghệ thông tin của Học viện Công nghệ Bưu chính Viễn thông có mục tiêu trang bị cho sinh viên các kỹ năng nghề nghiệp về công nghệ thông tin bao gồm cả chuyên môn,  đạo đức, và kỹ năng mềm; sinh viên sau khi tốt nghiệp có khả năng thích nghi với môi trường làm việc quốc tế, năng động, và sáng tạo; phù hợp với Tầm nhìn và Sứ mạng, đảm bảo triết lý giáo dục “Tri thức – Sáng tạo – Đạo đức - Trách nhiệm ” của Học viện và hướng tới đào tạo những con người “ vừa có tài vừa có đức ” để đóng góp cho sự phát triển chung của đất nước, của nhân loại.
-
-(The objectives of the Information Technology honors program at PTIT are to prepare students for future work and careers in computing with proficiency and integrity. Graduates can work in international, dynamic, and creative corporations . The program is part of the development strategy of PTIT with the content "Knowledge - Creativity - Ethics -Responsibility" ).

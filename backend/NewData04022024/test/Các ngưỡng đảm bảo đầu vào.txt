@@ -1,9 +1,0 @@
-Các ngưỡng đảm bảo đầu vào
-Điều kiện tối thiểu đầu vào các phương thức
-Ngưỡng đảm bảo chất lượng đầu vào cho các phương thức:
-Ngưỡng đảm bảo chất lượng đầu vào đối với Phương thức xét tuyển dựa vào kết quả thi tốt nghiệp THPT: Học viện sẽ thông báo sau khi có kết quả thi tốt nghiệp THPT năm 2024;
-Ngưỡng đảm bảo chất lượng đầu vào đối với Phương thức xét tuyển tài năng (Xét tuyển dựa vào hồ sơ năng lực) và Phương thức xét tuyển kết hợp: thí sinh có kết quả điểm trung bình chung học tập các năm học lớp 10, lớp 11, lớp 12 hoặc học kỳ 1 lớp 12 (nếu chưa có kết quả năm học lớp 12) đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên tùy theo từng loại đối tượng;
-Ngưỡng đảm bảo chất lượng đầu vào đối với Phương thức xét tuyển dựa vào kết quả bài thi đánh giá năng lực hoặc đánh giá tư duy:
-Thí sinh có điểm thi đánh giá năng lực của Đại học quốc gia Hà Nội năm 2024 từ 75 điểm trở lên.
-Thí sinh có điểm thi đánh giá năng lực của Đại học quốc gia Tp. Hồ Chí Minh năm 2024 từ 600 điểm trở lên.
-Thí sinh có điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội năm 2024 từ 50 điểm trở lên.

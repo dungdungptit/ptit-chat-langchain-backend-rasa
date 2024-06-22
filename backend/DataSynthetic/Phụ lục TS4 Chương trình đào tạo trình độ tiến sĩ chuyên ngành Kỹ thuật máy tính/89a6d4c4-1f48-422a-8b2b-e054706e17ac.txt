@@ -1,7 +1,0 @@
-Kiến thức ngành và chuyên ngành 
-
- - Có trình độ hiểu biết sâu s ắc về các kiến thức nền tảng  và chuyên sâu của ít nhất một trong các chuyên ngành hẹp sau (nhưng không giới hạn trong các chuyên ngành hẹp này): kiến trúc máy tính, hệ thống nhúng, hệ thống thông minh, mô phỏng và ảo hóa, mã hóa và bảo mật thông tin, trí tuệ nhân tạo , học máy, tương tác người - máy, biểu diễn và khai phá tri thức, xử lý ngôn ngữ tự nhiên … 
-
- - Có các khả năng phân t ích đánh gi á các kiến thức chuyên ngành Kỹ thuật Máy tính và từ đó phát hiện những kết quả mới trong lý thuyết cũng như thực tiễn góp phần làm giàu kho trí thức của chuyên ngành. 
-
- - Có khả năng ch ứng minh tính đúng đắn và bảo vệ được các kết quả đề xuất

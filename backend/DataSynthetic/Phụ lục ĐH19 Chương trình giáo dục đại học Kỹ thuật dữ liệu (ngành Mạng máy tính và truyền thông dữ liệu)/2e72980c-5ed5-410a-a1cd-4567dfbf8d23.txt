@@ -1,7 +1,0 @@
-2.2.1 Về kiến thức
-
- PO01:   Nắm vững các kiến thức đại cương về khoa học tự nhiên, khoa học xã hội, và vận dụng các kiến thức trong học tập, nghiên cứu và thực hiện các hoạt động nghề nghiệp.   
-
-PO02:  Nắm vững kiến thức khoa học công nghệ cơ bản và có khả năng vận dụng vào chuyên ngành Kĩ thuật Dữ liệu.  
-
- PO03:  Vận dụng các kiến thức chuyên môn Kĩ thuật dữ liệu để xây dựng các giải pháp triển khai, vận hành và phát triển các hệ thống và dự án dữ liệu.

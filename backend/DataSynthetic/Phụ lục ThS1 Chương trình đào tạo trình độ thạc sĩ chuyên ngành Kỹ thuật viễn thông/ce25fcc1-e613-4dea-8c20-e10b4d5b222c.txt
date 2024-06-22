@@ -1,9 +1,0 @@
-Yêu cầu đối với đề án tốt nghiệp 
-
-Báo cáo đề án là một bản thuyết minh quá trình xây dựng, triển khai và kết quả triển khai đề án, đáp ứng các yêu cầu sau:  
-
-- Đề xuất và kiểm nghiệm được mô hình, giải pháp mới để giải quyết hiệu quả những thách thức trong thực tiễn; thể hiện năng lực ứng dụng khoa học, công nghệ và giải quyết vấn đề của học viên;  
-
-- Phù hợp với các chuẩn mực về văn hóa, đạo đức và thuần phong mỹ tục của người Việt Nam;  
-
-- Tuân thủ quy định của  Học viện  về liêm chính học thuật và các quy định hiện hành của pháp luật về sở hữu trí tuệ .

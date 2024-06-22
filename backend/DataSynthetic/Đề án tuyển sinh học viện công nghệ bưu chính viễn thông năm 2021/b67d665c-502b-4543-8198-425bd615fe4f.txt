@@ -1,5 +1,0 @@
-8.1. Phương thức tuyển sinh của 2 năm gần nhất 
-
-Năm 2021, Học viện Công nghệ Bưu chính Viễn thông sử dụng 03 phương thức tuyển sinh để thực hiện xét tuyển vào đại học hệ chính quy. Gồm có: (1) Tuyển thẳng và ưu tiên xét tuyển, (2) Xét tuyển dựa vào kết quả điểm thi tốt nghiệp THPT năm 2021 và (3) Xét tuyển kết hợp giữa kết quả học tập ở bậc THPT với một trong các loại Chứng chỉ quốc tế hoặc Thành tích cá nhân trong các kỳ thi tuyển chọn học sinh giỏi hoặc Thành tích học tập tại các trường THPT chuyên.
-
-Năm 2022, Học viện Công nghệ Bưu chính Viễn thông sử dụng 04 phương thức tuyển sinh để thực hiện xét tuyển vào đại học hệ chính quy. Gồm có: (1) Tuyển thẳng và ưu tiên xét tuyển, (2) Xét tuyển dựa vào kết quả điểm thi tốt nghiệp THPT năm 2022, (3) Xét tuyển kết hợp giữa kết quả học tập ở bậc THPT với một trong các loại Chứng chỉ quốc tế hoặc Thành tích cá nhân trong các kỳ thi tuyển chọn học sinh giỏi hoặc Thành tích học tập tại các trường THPT chuyên và (4) Xét tuyển dựa vào kết quả các kỳ thi đánh giá năng lực, đánh giá tư duy.

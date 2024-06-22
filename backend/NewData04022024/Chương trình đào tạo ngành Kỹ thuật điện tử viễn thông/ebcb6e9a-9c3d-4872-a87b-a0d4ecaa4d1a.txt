@@ -1,5 +1,0 @@
-Chuyên ngành Hệ thống IoT   
-
-Vận dụng tốt kiến thức để triển khai và phát triển sản phẩm, giải pháp cho các ứng dụng truyền thông trên các nền tảng mạng Internet, hệ thống IoT.  
-
-Vận dụng tốt kiến thức về lập trình, có khả năng phát triển các phần mềm ứng dụng IoT.

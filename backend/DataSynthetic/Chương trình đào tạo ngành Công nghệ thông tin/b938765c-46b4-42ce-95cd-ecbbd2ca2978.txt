@@ -1,9 +1,0 @@
-2.1. Kiến thức  
-
- Chương trình trang bị cho sinh viên những kiến thức sau:  
-
-Kiến thức giáo dục đại cương:  trang bị cho sinh viên các kiến thức giáo dục đại cương về Lý luận của Chủ nghĩa Mác Lênin và Tư tưởng Hồ Chí Minh, Khoa học tự nhiên; chú trọng vào Toán học là nền tảng tiền đề cho ngành đào tạo; 
-
-Kiến thức cơ sở ngành:  trang bị cho sinh viên những kiến thức về Toán chuyên ngành công nghệ thông tin, Lập trình máy tính, Hệ thống máy tính, Các ứng dụng quan trọng của công nghệ thông tin ; 
-
-Kiến thức chuyên ngành:  Trong năm học cuối, sinh viên sẽ lựa c họn chuyên sâu hướng học tập và nghiên cứu về Hệ thống thông tin, Khoa học máy tính, Công nghệ phần mềm, Kỹ thuật máy tính, Mạng máy tính và truyền thông, An toàn thông tin mạng. Phần kiến thức chuyên ngành sẽ trang bị cho sinh viên: kiến thức liên quan đế n nghiên cứu phát triển, gia công hay ứng dụng hệ thống phần mềm; kiến thức về thiết kế, xây dựng, cài đặt, vận hành và bảo trì các thành phần phần cứng, phần mềm của hệ thống máy tính và các hệ thống thiết bị dựa trên máy tính; kiến thức về mạng máy tính và truyền thông.

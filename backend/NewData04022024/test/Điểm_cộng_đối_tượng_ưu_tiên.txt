@@ -1,6 +1,0 @@
-Điểm cộng đối tượng ưu tiên
-Mức điểm cộng ưu tiên áp dụng được quy định theo 2 nhóm:
-1. Nhóm 01: gồm các đối tượng thuộc nhóm đối tượng 01, 02, 03 và 04
-Các đối tượng này được cộng 02 điểm.
-2. Nhóm 02: gồm các đối tượng thuộc nhóm đối tượng 05, 06 và 07
-Các đối tượng này được cộng 01 điểm.

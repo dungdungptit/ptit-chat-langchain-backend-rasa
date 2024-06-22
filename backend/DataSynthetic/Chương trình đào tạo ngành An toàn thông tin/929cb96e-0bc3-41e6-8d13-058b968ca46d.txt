@@ -1,9 +1,0 @@
-2.1. Kiến thức
-
-Chương trình trang bị cho sinh viên những kiến thức sau:
-
-Kiến thức giáo dục đại cương:  trang bị cho sinh viên các kiến thức giáo dục đại cương về Lý luận chính trị, Khoa học tự nhiên, Khoa học xã hội và nhân văn; chú trọng các môn Toán học, Vật lý và Tin học để làm nền tảng cho sin h viên khi học kiến thức ngành.
-
-Kiến thức cơ sở ngành : trang bị cho sinh viên những kiến thức về toán chuyên ngành, các kiến thức cơ bản về công nghệ thông tin như kỹ thuật và ngôn ngữ lập trình, kiến trúc máy tính, hệ điều hành, cơ sở dữ liệu, mạng máy tính, công nghệ phần mềm, cơ sở an toàn thông tin, mật mã học cơ sở.
-
-Kiến thức ngành: trang bị cho sinh viên kiến thức chuyên sâu về An toàn thông tin như: các kỹ thuật mật mã nâng cao, an toàn mạng máy tính, an toàn hệ điều hành, an toàn các ứng dụng web, an toàn cơ sở dữ liệu, các kỹ thuật tấn công và xâm nhập mạng, mô hình bảo vệ và các kỹ thuật phòng thủ chống tấn công xâm nhập, quản trị mạng an toàn, lập trình web, lập trình mạng và ứng dụng di động, thiết kế các phần mềm và công cụ đảm bảo an toàn, quả n lý và đánh giá điểm yếu, lỗ hổng, các kỹ thuật kiểm tra đánh giá an toàn, các vấn đề về chính sách, pháp luật và chuẩn hóa an toàn thông tin.
